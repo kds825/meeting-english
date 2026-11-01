@@ -83,6 +83,8 @@ export interface WordExample {
 
 export interface Word {
   id: string;
+  /** 본문에서 통째로 저장한 문장. 없으면 단어·표현이다 */
+  kind?: 'sentence';
   term: string;
   meaningKo: string;
   pos?: string;

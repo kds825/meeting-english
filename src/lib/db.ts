@@ -152,11 +152,17 @@ export async function toggleCandidate(
 export async function saveBodyWord(
   episode: Episode,
   level: Level,
-  word: { term: string; meaningKo: string; sentence: { en: string; ko: string } },
+  word: {
+    term: string;
+    meaningKo: string;
+    sentence: { en: string; ko: string };
+    kind?: 'sentence';
+  },
 ): Promise<void> {
   const now = new Date();
   await (await dbPromise).put('words', {
     id: slug(word.term),
+    ...(word.kind ? { kind: word.kind } : {}),
     term: word.term,
     meaningKo: word.meaningKo,
     examples: [

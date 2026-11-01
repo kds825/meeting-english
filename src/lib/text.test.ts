@@ -3,16 +3,37 @@ import { cleanSelection, countWords, segmentParagraph, sentenceContaining, slug 
 
 describe('cleanSelection', () => {
   it('앞뒤 문장 부호와 공백을 뗀다', () => {
-    expect(cleanSelection(' "morning," ')).toBe('morning');
+    expect(cleanSelection(' "morning," ')).toEqual({ term: 'morning', kind: 'word' });
   });
   it('중간의 줄바꿈과 아포스트로피는 다듬어 유지한다', () => {
-    expect(cleanSelection('pull\n out of')).toBe('pull out of');
-    expect(cleanSelection("Jae-won's")).toBe("Jae-won's");
+    expect(cleanSelection('pull\n out of')?.term).toBe('pull out of');
+    expect(cleanSelection("Jae-won's")?.term).toBe("Jae-won's");
   });
-  it('글자가 없거나 너무 길면 null', () => {
+  it('글자가 없으면 null', () => {
     expect(cleanSelection('7:40')).toBeNull();
     expect(cleanSelection('...')).toBeNull();
-    expect(cleanSelection('one two three four five six seven')).toBeNull();
+  });
+  it('6단어를 넘으면 문장으로 본다', () => {
+    expect(cleanSelection('one two three four five six')?.kind).toBe('word');
+    expect(cleanSelection('one two three four five six seven')?.kind).toBe('sentence');
+  });
+  it('60자를 넘으면 단어 수가 적어도 문장으로 본다', () => {
+    expect(cleanSelection('a'.repeat(61))?.kind).toBe('sentence');
+  });
+  it('짧아도 완전한 문장 모양이면 문장이고 마침표와 물음표를 남긴다', () => {
+    expect(cleanSelection('She closed the door.')).toEqual({ term: 'She closed the door.', kind: 'sentence' });
+    expect(cleanSelection('"Can you stop by my office?"')).toEqual({
+      term: 'Can you stop by my office?',
+      kind: 'sentence',
+    });
+  });
+  it('두 단어짜리나 소문자로 시작하면 문장으로 보지 않는다', () => {
+    expect(cleanSelection('Thank you.')?.kind).toBe('word');
+    expect(cleanSelection('the team meeting.')?.kind).toBe('word');
+  });
+  it('60단어를 넘으면 null', () => {
+    expect(cleanSelection(Array(61).fill('word').join(' '))).toBeNull();
+    expect(cleanSelection(Array(60).fill('word').join(' '))?.kind).toBe('sentence');
   });
 });
 

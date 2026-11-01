@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { NoEpisode, Page, TopBar, useToday } from '../components';
 import { allWords, patchTodaySession, saveBodyWord, toggleCandidate, updateSettings } from '../lib/db';
 import { knownMeaning, levelContent, resolveLevel } from '../lib/episodes';
-import { cleanSelection, segmentParagraph, sentenceContaining, slug } from '../lib/text';
+import { cleanSelection, segmentParagraph, sentenceContaining, slug, type SelectedText } from '../lib/text';
 import { LEVELS, type Episode, type Level, type WordCandidate } from '../lib/types';
 
 const LEVEL_LABEL: Record<Level, string> = { lv1: 'Lv.1', lv2: 'Lv.2', lv3: 'Lv.3' };
@@ -85,21 +85,18 @@ function Paragraph({
   );
 }
 
-interface PickedText {
-  term: string;
+interface PickedText extends SelectedText {
   paragraph: number;
 }
 
-/** 지금 본문에서 선택된 글자. 한 문단 안의 단어·짧은 표현일 때만 돌려준다 */
-function readPickedText(): PickedText | null {
-  const selection = window.getSelection();
-  if (!selection || selection.isCollapsed) return null;
+/** 지금 본문에서 선택된 글자. 한 문단 안의 단어·표현·문장일 때만 돌려준다 */
+function readPickedText(selection: Selection): PickedText | null {
   const bodyOf = (node: Node | null) =>
     (node instanceof Element ? node : node?.parentElement)?.closest<HTMLElement>('.paragraph-text');
   const body = bodyOf(selection.anchorNode);
   if (!body || body !== bodyOf(selection.focusNode)) return null;
-  const term = cleanSelection(selection.toString());
-  return term ? { term, paragraph: Number(body.dataset.index) } : null;
+  const selected = cleanSelection(selection.toString());
+  return selected && { ...selected, paragraph: Number(body.dataset.index) };
 }
 
 /**
@@ -108,12 +105,14 @@ function readPickedText(): PickedText | null {
  */
 function PickedWordBar({
   term,
+  kind,
   meaning,
   alreadySaved,
   onSave,
   onClose,
 }: {
   term: string;
+  kind: SelectedText['kind'];
   meaning: string;
   alreadySaved: boolean;
   onSave: () => void;
@@ -122,9 +121,15 @@ function PickedWordBar({
   return (
     <section className="picked-word" aria-label="고른 단어 저장">
       <div className="picked-text">
-        <b lang="en">{term}</b>
-        <span className={meaning ? 'small' : 'small muted'}>
-          {alreadySaved ? '이미 단어장에 있어요' : meaning || '뜻 없이 그대로 저장돼요'}
+        <b lang="en" className={kind === 'sentence' ? 'picked-sentence' : undefined}>
+          {term}
+        </b>
+        <span className={meaning && kind === 'word' ? 'small' : 'small muted'}>
+          {alreadySaved
+            ? '이미 단어장에 있어요'
+            : kind === 'sentence'
+              ? '문장으로 저장돼요 · 해석 포함'
+              : meaning || '뜻 없이 그대로 저장돼요'}
         </span>
       </div>
       <button className="text-button" onClick={onClose}>
@@ -219,8 +224,10 @@ export function Reading() {
     const onChange = () => {
       window.clearTimeout(timer);
       timer = window.setTimeout(() => {
-        const next = readPickedText();
-        if (next) setPicked(next);
+        const selection = window.getSelection();
+        // 저장 버튼을 누르면 선택이 풀릴 수 있으므로 빈 선택은 창을 닫지 않는다.
+        // 저장할 수 없는 범위를 새로 고르면 이전 단어가 저장되지 않도록 닫는다.
+        if (selection && !selection.isCollapsed) setPicked(readPickedText(selection));
       }, SELECTION_SETTLE_MS);
     };
     document.addEventListener('selectionchange', onChange);
@@ -251,10 +258,16 @@ export function Reading() {
   const content = levelContent(episode, level);
 
   const pickedCandidate =
-    picked &&
-    content.wordCandidates.find(
-      (c) => slug(c.term) === slug(picked.term) || slug(c.surface) === slug(picked.term),
-    );
+    picked?.kind === 'word'
+      ? content.wordCandidates.find(
+          (c) => slug(c.term) === slug(picked.term) || slug(c.surface) === slug(picked.term),
+        )
+      : undefined;
+
+  /** 문장 해석은 단어 후보에 그 문장 그대로의 해석이 있으면 쓰고, 없으면 문단 해석을 쓴다 */
+  const sentenceKo = (en: string, paragraph: number) =>
+    content.wordCandidates.find((c) => slug(c.sentence.en) === slug(en))?.sentence.ko ??
+    content.paragraphs[paragraph].ko;
 
   const closePicked = () => {
     setPicked(null);
@@ -265,6 +278,19 @@ export function Reading() {
 
   const savePicked = async () => {
     if (!picked) return;
+    if (picked.kind === 'sentence') {
+      const ko = sentenceKo(picked.term, picked.paragraph);
+      await saveBodyWord(episode, level, {
+        term: picked.term,
+        meaningKo: ko,
+        sentence: { en: picked.term, ko },
+        kind: 'sentence',
+      });
+      setSavedIds((current) => new Set(current).add(slug(picked.term)));
+      setToast('문장을 단어장에 저장했어요');
+      closePicked();
+      return;
+    }
     const meaningKo = pickedMeaning;
     const term = pickedCandidate?.term ?? picked.term;
     const sentence = pickedCandidate?.sentence ?? {
@@ -331,7 +357,7 @@ export function Reading() {
             ))}
           </div>
 
-          <p className="small muted">점선 단어는 탭하면 바로 저장돼요. 다른 단어는 길게 눌러 고른 뒤 저장을 누르세요.</p>
+          <p className="small muted">점선 단어는 탭하면 바로 저장돼요. 다른 단어나 문장은 길게 눌러 고른 뒤 저장을 누르세요.</p>
 
           <article className="card">
             {content.paragraphs.map((p, i) => (
@@ -352,6 +378,7 @@ export function Reading() {
             <PickedWordBar
               key={`${picked.paragraph}-${picked.term}`}
               term={pickedCandidate?.term ?? picked.term}
+              kind={picked.kind}
               meaning={pickedMeaning}
               alreadySaved={savedIds.has(slug(pickedCandidate?.term ?? picked.term))}
               onSave={() => void savePicked()}

@@ -60,13 +60,32 @@ export function splitSentences(text: string): string[] {
   return parts.map((s) => s.trim()).filter(Boolean);
 }
 
-/** 본문에서 선택한 글자를 단어장 표제어로 다듬는다. 단어·짧은 표현이 아니면 null */
-export function cleanSelection(text: string): string | null {
-  const term = text
-    .replace(/\s+/g, ' ')
-    .replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9]+$/g, '');
-  if (!/[A-Za-z]/.test(term) || term.length > 60 || countWords(term) > 6) return null;
-  return term;
+export interface SelectedText {
+  term: string;
+  kind: 'word' | 'sentence';
+}
+
+const MAX_PHRASE_WORDS = 6;
+const MAX_PHRASE_CHARS = 60;
+const MAX_SENTENCE_WORDS = 60;
+
+/**
+ * 본문에서 선택한 글자를 단어장 항목으로 다듬는다. 짧으면 단어·표현이고,
+ * 길거나 완전한 문장 모양이면 문장이다. 글자가 없거나 너무 길면 null.
+ */
+export function cleanSelection(text: string): SelectedText | null {
+  const collapsed = text.replace(/\s+/g, ' ').trim();
+  const term = collapsed.replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9]+$/g, '');
+  if (!/[A-Za-z]/.test(term)) return null;
+
+  const words = countWords(term);
+  if (words > MAX_SENTENCE_WORDS) return null;
+  const ending = /[.!?]+(?=["'”’]*$)/.exec(collapsed)?.[0] ?? '';
+  const looksLikeSentence = words >= 3 && Boolean(ending) && /^["'“‘]?[A-Z]/.test(collapsed);
+  if (!looksLikeSentence && words <= MAX_PHRASE_WORDS && term.length <= MAX_PHRASE_CHARS) {
+    return { term, kind: 'word' };
+  }
+  return { term: term + ending, kind: 'sentence' };
 }
 
 /** 표제어가 처음 나오는 문장. 문장 경계를 넘어 선택했으면 문단 전체 */

@@ -47,7 +47,7 @@ export function Review() {
             aria-label={flipped ? '카드 앞면 보기' : '카드 뒤집기'}
             onClick={() => setFlipped((v) => !v)}
           >
-            <span className="word-term" lang="en">
+            <span className={word.kind === 'sentence' ? 'word-term sentence-term' : 'word-term'} lang="en">
               {word.term}
             </span>
             {flipped ? (
@@ -55,7 +55,7 @@ export function Review() {
                 <span className={word.meaningKo ? undefined : 'meaning-empty'}>
                   {word.meaningKo || '뜻을 적지 않은 단어예요'}
                 </span>
-                {word.examples[0] && (
+                {word.kind !== 'sentence' && word.examples[0] && (
                   <span className="example-en" lang="en">
                     {word.examples[0].en}
                   </span>

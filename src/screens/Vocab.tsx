@@ -77,6 +77,7 @@ function WordCard({
   /** 편집 중인 예문 위치. examples.length면 새 예문 */
   const [editing, setEditing] = useState<number | null>(null);
   const clip = termClipUrl(word.sourceEpisodeId, word.term);
+  const isSentence = word.kind === 'sentence';
 
   const toggleTag = (tag: WordTag) =>
     onChange({
@@ -95,11 +96,17 @@ function WordCard({
     <article className="card" id={`word-${word.id}`}>
       <button className="word-card-head" aria-expanded={open} onClick={onToggle}>
         <span>
-          <span className="word-term" lang="en">
+          {isSentence && (
+            <>
+              <span className="tag">문장</span>
+              <br />
+            </>
+          )}
+          <span className={isSentence ? 'word-term sentence-term' : 'word-term'} lang="en">
             {word.term}
           </span>
           <br />
-          <span>
+          <span className={isSentence ? 'sentence-meaning small muted' : undefined}>
             {word.pos && <span className="muted">{word.pos} · </span>}
             {word.meaningKo || <span className="meaning-empty">뜻을 아직 적지 않았어요</span>}
           </span>
@@ -121,8 +128,9 @@ function WordCard({
 
       {open && (
         <div className="stack" style={{ marginTop: 10 }}>
-          <input
+          <textarea
             className="field meaning-field"
+            rows={isSentence ? 4 : 1}
             placeholder="뜻 적기"
             aria-label="한국어 뜻"
             defaultValue={word.meaningKo}
@@ -346,7 +354,7 @@ export function Vocab() {
                 aria-pressed={openId === word.id}
                 onClick={() => openChip(word.id)}
               >
-                {word.term}
+                {word.kind === 'sentence' ? `${word.term.split(' ').slice(0, 3).join(' ')}…` : word.term}
               </button>
             ))}
           </div>
