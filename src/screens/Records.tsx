@@ -217,6 +217,8 @@ export function Records() {
             })}
         </ol>
       </section>
+
+      <p className="app-version">앱 버전 {__APP_VERSION__}</p>
     </Page>
   );
 }

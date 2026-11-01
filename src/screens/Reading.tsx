@@ -103,52 +103,37 @@ function readPickedText(): PickedText | null {
 }
 
 /**
- * 길게 눌러 고른 단어를 저장하는 창. 키보드에 가리지 않도록 화면 위쪽에 둔다.
- * 입력칸을 누르면 선택이 풀리므로 선택 상태와 상관없이 닫을 때까지 남는다.
+ * 길게 눌러 고른 단어를 버튼 하나로 저장하는 창. 입력할 것은 없다.
+ * 버튼을 누르면 선택이 풀릴 수 있으므로 선택 상태와 상관없이 닫을 때까지 남는다.
  */
 function PickedWordBar({
   term,
-  initialMeaning,
-  paragraphKo,
+  meaning,
   alreadySaved,
   onSave,
   onClose,
 }: {
   term: string;
-  initialMeaning: string;
-  /** 사전에 없는 표현도 뜻을 짐작할 수 있도록 문단 해석을 함께 보여 준다 */
-  paragraphKo: string;
+  meaning: string;
   alreadySaved: boolean;
-  onSave: (meaningKo: string) => void;
+  onSave: () => void;
   onClose: () => void;
 }) {
-  const [meaning, setMeaning] = useState(initialMeaning);
   return (
     <section className="picked-word" aria-label="고른 단어 저장">
-      <div className="row between">
+      <div className="picked-text">
         <b lang="en">{term}</b>
-        <button className="text-button" onClick={onClose}>
-          닫기
-        </button>
+        <span className={meaning ? 'small' : 'small muted'}>
+          {alreadySaved ? '이미 단어장에 있어요' : meaning || '뜻 없이 그대로 저장돼요'}
+        </span>
       </div>
-      {alreadySaved ? (
-        <p className="small muted">이미 단어장에 있어요.</p>
-      ) : (
-        <>
-          <div className="row">
-            <input
-              className="field"
-              placeholder="뜻 (비워 둬도 돼요)"
-              aria-label="한국어 뜻"
-              value={meaning}
-              onChange={(e) => setMeaning(e.target.value)}
-            />
-            <button className="button primary picked-save" onClick={() => onSave(meaning.trim())}>
-              저장
-            </button>
-          </div>
-          {!initialMeaning && <p className="small muted picked-hint">문단 해석: {paragraphKo}</p>}
-        </>
+      <button className="text-button" onClick={onClose}>
+        닫기
+      </button>
+      {!alreadySaved && (
+        <button className="button primary picked-save" onClick={onSave}>
+          저장
+        </button>
       )}
     </section>
   );
@@ -276,8 +261,11 @@ export function Reading() {
     window.getSelection()?.removeAllRanges();
   };
 
-  const savePicked = async (meaningKo: string) => {
+  const pickedMeaning = picked ? (pickedCandidate?.meaningKo ?? knownMeaning(picked.term) ?? '') : '';
+
+  const savePicked = async () => {
     if (!picked) return;
+    const meaningKo = pickedMeaning;
     const term = pickedCandidate?.term ?? picked.term;
     const sentence = pickedCandidate?.sentence ?? {
       en: sentenceContaining(content.paragraphs[picked.paragraph].en, picked.term),
@@ -343,7 +331,7 @@ export function Reading() {
             ))}
           </div>
 
-          <p className="small muted">점선 단어는 탭하면 바로 저장돼요. 다른 단어는 길게 눌러 고르면 저장 창이 떠요.</p>
+          <p className="small muted">점선 단어는 탭하면 바로 저장돼요. 다른 단어는 길게 눌러 고른 뒤 저장을 누르세요.</p>
 
           <article className="card">
             {content.paragraphs.map((p, i) => (
@@ -364,10 +352,9 @@ export function Reading() {
             <PickedWordBar
               key={`${picked.paragraph}-${picked.term}`}
               term={pickedCandidate?.term ?? picked.term}
-              initialMeaning={pickedCandidate?.meaningKo ?? knownMeaning(picked.term) ?? ''}
-              paragraphKo={content.paragraphs[picked.paragraph].ko}
+              meaning={pickedMeaning}
               alreadySaved={savedIds.has(slug(pickedCandidate?.term ?? picked.term))}
-              onSave={(meaningKo) => void savePicked(meaningKo)}
+              onSave={() => void savePicked()}
               onClose={closePicked}
             />
           )}

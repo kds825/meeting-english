@@ -5,6 +5,9 @@ import { VitePWA } from 'vite-plugin-pwa';
 export default defineConfig({
   // 상대 경로: GitHub Pages 저장소 이름이 바뀌어도 그대로 동작한다
   base: './',
+  define: {
+    __APP_VERSION__: JSON.stringify((process.env.GITHUB_SHA ?? 'dev').slice(0, 7)),
+  },
   build: {
     assetsInlineLimit: 0,
   },
