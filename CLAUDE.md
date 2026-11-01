@@ -26,7 +26,7 @@
 ```
 CLAUDE.md
 content/
-  series/the-keynote/bible.md      스토리 설정집 (인물·줄거리·규칙)
+  series/the-keynote/bible.md      스토리 설정집 (인물·줄거리·규칙). 시즌 2·3은 bible-s2.md, bible-s3.md
   episodes/keynote-s1-eNN.json      화별 데이터
   audio-manifests/keynote-s1-eNN.json 화별 음성 파일 목록
 public/audio/keynote-s1-eNN/        화별 MP3. 수천 개를 모듈로 불러오면 개발 서버가 멈추므로 정적 파일로 둔다
@@ -129,7 +129,7 @@ interface Settings {
 - 학습을 마친 날은 홈과 운전 모드가 다음 날까지 방금 공부한 화를 계속 가리킨다 (출근길에 그 화를 듣기 위해)
 - `nextEpisodeNumber`는 시즌을 이어 붙인 순번이다 (시즌 2의 1화 = 41). 화를 둘로 나누기 전의 진도는 `migrateSettings`가 옮긴다 (옛 N화 → 새 2N-1화)
 - 한 화를 마치면 홈에서 다음 화를 바로 이어서 공부할 수 있다 (`Settings.activeEpisode`)
-- 빠진 날은 다음 날 같은 화부터. 시즌당 40화. 시즌 2의 40화를 마치면 시리즈 선택 화면으로 안내
+- 빠진 날은 다음 날 같은 화부터. 시즌당 40화. 시즌 3의 40화를 마치면 시리즈 선택 화면으로 안내
 
 ## 화면 (디자인 캔버스와 동일하게)
 
