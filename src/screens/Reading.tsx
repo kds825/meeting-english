@@ -7,6 +7,7 @@ import { segmentParagraph, slug } from '../lib/text';
 import { LEVELS, type Episode, type Level, type WordCandidate } from '../lib/types';
 
 const LEVEL_LABEL: Record<Level, string> = { lv1: 'Lv.1', lv2: 'Lv.2', lv3: 'Lv.3' };
+const TOAST_MS = 3000;
 
 function Paragraph({
   en,
@@ -146,6 +147,12 @@ export function Reading() {
     void allWords().then((words) => setSavedIds(new Set(words.map((w) => w.id))));
   }, []);
 
+  useEffect(() => {
+    if (!toast) return;
+    const timer = window.setTimeout(() => setToast(null), TOAST_MS);
+    return () => window.clearTimeout(timer);
+  }, [toast]);
+
   if (!today) return null;
   const { episode, settings, number } = today;
   if (!episode) {
@@ -174,7 +181,9 @@ export function Reading() {
       else next.delete(id);
       return next;
     });
-    setToast(`${candidate.term} — ${candidate.meaningKo}${saved ? '' : ' (저장 취소)'}`);
+    setToast(
+      `${saved ? '단어장에 저장했어요' : '저장을 취소했어요'} · ${candidate.term} — ${candidate.meaningKo}`,
+    );
   };
 
   const finishQuiz = async (quizCorrect: number) => {
@@ -225,8 +234,9 @@ export function Reading() {
             ))}
           </article>
 
+          {/* 본문이 길어 흐름 속에 두면 화면 밖에 뜬다. 화면에 고정한다 */}
           {toast && (
-            <p className="notice" role="status">
+            <p className="toast" role="status">
               {toast}
             </p>
           )}

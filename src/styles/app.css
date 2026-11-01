@@ -192,6 +192,14 @@ a { color: inherit; text-decoration: none; }
 .timer { font-size: 56px; font-weight: 700; text-align: center; font-variant-numeric: tabular-nums; line-height: 1.1; }
 .speaker { font-weight: 600; color: var(--accent-strong); }
 .notice { padding: 10px 12px; background: var(--ground); border-radius: 10px; font-size: 13px; color: var(--muted); }
+.toast {
+  position: fixed; z-index: 20; left: 50%; transform: translateX(-50%);
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  width: min(calc(100vw - 32px), 420px);
+  padding: 12px 14px; border-radius: 12px;
+  background: var(--ink); color: #fff; font-size: 14px; line-height: 1.45;
+  pointer-events: none;
+}
 audio.recording { width: 100%; height: 44px; }
 
 /* 듣기 */
