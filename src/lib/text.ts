@@ -60,6 +60,20 @@ export function splitSentences(text: string): string[] {
   return parts.map((s) => s.trim()).filter(Boolean);
 }
 
+/** 본문에서 선택한 글자를 단어장 표제어로 다듬는다. 단어·짧은 표현이 아니면 null */
+export function cleanSelection(text: string): string | null {
+  const term = text
+    .replace(/\s+/g, ' ')
+    .replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9]+$/g, '');
+  if (!/[A-Za-z]/.test(term) || term.length > 60 || countWords(term) > 6) return null;
+  return term;
+}
+
+/** 표제어가 처음 나오는 문장. 문장 경계를 넘어 선택했으면 문단 전체 */
+export function sentenceContaining(paragraph: string, term: string): string {
+  return splitSentences(paragraph).find((s) => s.includes(term)) ?? paragraph;
+}
+
 export function countWords(text: string): number {
   return text.trim().split(/\s+/).filter(Boolean).length;
 }

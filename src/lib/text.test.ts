@@ -1,5 +1,30 @@
 import { describe, expect, it } from 'vitest';
-import { countWords, segmentParagraph, slug } from './text';
+import { cleanSelection, countWords, segmentParagraph, sentenceContaining, slug } from './text';
+
+describe('cleanSelection', () => {
+  it('앞뒤 문장 부호와 공백을 뗀다', () => {
+    expect(cleanSelection(' "morning," ')).toBe('morning');
+  });
+  it('중간의 줄바꿈과 아포스트로피는 다듬어 유지한다', () => {
+    expect(cleanSelection('pull\n out of')).toBe('pull out of');
+    expect(cleanSelection("Jae-won's")).toBe("Jae-won's");
+  });
+  it('글자가 없거나 너무 길면 null', () => {
+    expect(cleanSelection('7:40')).toBeNull();
+    expect(cleanSelection('...')).toBeNull();
+    expect(cleanSelection('one two three four five six seven')).toBeNull();
+  });
+});
+
+describe('sentenceContaining', () => {
+  const paragraph = 'It was early. She closed the door. Nobody spoke.';
+  it('단어가 든 문장만 돌려준다', () => {
+    expect(sentenceContaining(paragraph, 'closed')).toBe('She closed the door.');
+  });
+  it('문장을 넘어 고르면 문단 전체', () => {
+    expect(sentenceContaining(paragraph, 'door. Nobody')).toBe(paragraph);
+  });
+});
 
 describe('segmentParagraph', () => {
   it('핵심 표현과 단어 후보를 나누고 원문을 그대로 보존한다', () => {

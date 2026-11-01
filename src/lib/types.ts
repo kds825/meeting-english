@@ -121,6 +121,8 @@ export interface Settings {
   playbackRate: 0.8 | 1.0 | 1.2;
   /** 그날 한 화를 마치고 다음 화를 이어서 공부할 때의 현재 화 */
   activeEpisode?: { date: string; number: number };
+  /** 직접 고른 화. 날이 바뀌어도 그 화를 마칠 때까지 현재 화로 둔다 */
+  pinnedEpisode?: number;
   /** 2부터 화 하나를 둘로 나눈 번호 체계 (시즌당 40화) */
   contentVersion?: number;
 }

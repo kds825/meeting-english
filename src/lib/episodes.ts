@@ -32,6 +32,10 @@ export function episodeOrder(episode: Pick<Episode, 'season' | 'number'>): numbe
 
 const episodes = Object.values(episodeModules).sort((a, b) => episodeOrder(a) - episodeOrder(b));
 
+export function allEpisodes(): Episode[] {
+  return episodes;
+}
+
 /** 순번으로 화를 찾는다 (Settings.nextEpisodeNumber와 같은 기준) */
 export function episodeByNumber(order: number): Episode | undefined {
   return episodes.find((e) => episodeOrder(e) === order);

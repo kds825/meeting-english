@@ -4,6 +4,7 @@ import { Icon, NoEpisode, Page, useToday } from '../components';
 import { allSessions, allWords, updateSettings } from '../lib/db';
 import { episodeAudioUrls, episodeByNumber, episodeOrder } from '../lib/episodes';
 import { prefetchAudio } from '../lib/player';
+import { recordSummary } from '../lib/records';
 import { dailyQueue, localDate } from '../lib/review';
 import { isComplete, stepsDone, streak } from '../lib/session';
 
@@ -16,7 +17,7 @@ const STEPS = [
 export function Home() {
   const navigate = useNavigate();
   const { today, reload } = useToday();
-  const [stats, setStats] = useState({ streak: 0, due: 0, total: 0 });
+  const [stats, setStats] = useState({ streak: 0, due: 0, total: 0, completed: 0 });
 
   useEffect(() => {
     void (async () => {
@@ -26,6 +27,7 @@ export function Home() {
         streak: streak(sessions, date),
         due: dailyQueue(words, date).length,
         total: words.length,
+        completed: recordSummary(sessions).completedEpisodes,
       });
     })();
   }, []);
@@ -71,6 +73,10 @@ export function Home() {
               The Keynote · 시즌 {episode.season} · {episode.number}화
             </p>
             <h2 className="episode-title">{episode.title}</h2>
+            <Link to="/records" className="episode-pick">
+              다른 화 고르기
+              <Icon name="chevron" size={14} />
+            </Link>
           </div>
           <div
             className="progress"
@@ -149,6 +155,10 @@ export function Home() {
         <Link to="/vocab" className="card stat">
           <b>{stats.total}</b>
           <span className="small muted">누적 단어</span>
+        </Link>
+        <Link to="/records" className="card stat">
+          <b>{stats.completed}</b>
+          <span className="small muted">마친 화</span>
         </Link>
       </div>
     </Page>

@@ -5,8 +5,10 @@ import {
   isComplete,
   migrateSettings,
   newSession,
+  selectionPatch,
   stepsDone,
   streak,
+  todayEpisodeNumber,
 } from './session';
 import type { Session, Settings } from './types';
 
@@ -59,6 +61,33 @@ describe('진행', () => {
     expect(advancedNumber(settings, done('d'), 3)).toBe(4);
     expect(advancedNumber(settings, done('d'), 2)).toBe(3);
     expect(advancedNumber(settings, { ...done('d'), roleplayDone: false }, 3)).toBe(3);
+  });
+});
+
+describe('화 고르기', () => {
+  const today = '2026-11-02';
+
+  it('앞선 화를 마치면 진도가 그 다음 화로 옮겨 간다', () => {
+    expect(advancedNumber(settings, done('d'), 30)).toBe(31);
+    expect(advancedNumber(settings, { ...done('d'), roleplayDone: false }, 30)).toBe(3);
+  });
+
+  it('고른 화는 다음 날에도 현재 화로 남는다', () => {
+    const picked = { ...settings, ...selectionPatch(20, false, today) };
+    expect(todayEpisodeNumber(picked, undefined, today)).toBe(20);
+    expect(todayEpisodeNumber(picked, undefined, '2026-11-03')).toBe(20);
+    expect(todayEpisodeNumber(picked, 5, '2026-11-03')).toBe(20);
+  });
+
+  it('오늘 이미 마친 화를 고르면 오늘만 가리키고 내일은 진도로 돌아온다', () => {
+    const picked = { ...settings, ...selectionPatch(2, true, today) };
+    expect(todayEpisodeNumber(picked, undefined, today)).toBe(2);
+    expect(todayEpisodeNumber(picked, undefined, '2026-11-03')).toBe(3);
+  });
+
+  it('고른 화가 없으면 오늘 공부한 화, 그다음 진도 순이다', () => {
+    expect(todayEpisodeNumber(settings, 2, today)).toBe(2);
+    expect(todayEpisodeNumber(settings, undefined, today)).toBe(3);
   });
 });
 

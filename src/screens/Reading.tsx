@@ -1,15 +1,18 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { NoEpisode, Page, TopBar, useToday } from '../components';
-import { allWords, patchTodaySession, toggleCandidate, updateSettings } from '../lib/db';
+import { allWords, patchTodaySession, saveBodyWord, toggleCandidate, updateSettings } from '../lib/db';
 import { levelContent, resolveLevel } from '../lib/episodes';
-import { segmentParagraph, slug } from '../lib/text';
+import { cleanSelection, segmentParagraph, sentenceContaining, slug } from '../lib/text';
 import { LEVELS, type Episode, type Level, type WordCandidate } from '../lib/types';
 
 const LEVEL_LABEL: Record<Level, string> = { lv1: 'Lv.1', lv2: 'Lv.2', lv3: 'Lv.3' };
 const TOAST_MS = 3000;
+/** 선택 손잡이를 끄는 동안 창이 깜빡이지 않도록 선택이 멈춘 뒤에 읽는다 */
+const SELECTION_SETTLE_MS = 200;
 
 function Paragraph({
+  index,
   en,
   ko,
   marks,
@@ -17,6 +20,7 @@ function Paragraph({
   savedIds,
   onTapWord,
 }: {
+  index: number;
   en: string;
   ko: string;
   marks: string[];
@@ -31,8 +35,15 @@ function Paragraph({
   );
 
   return (
-    <div className="paragraph" onClick={() => setOpen((v) => !v)}>
-      <p className="paragraph-text" lang="en">
+    <div
+      className="paragraph"
+      onClick={() => {
+        // 글자를 고르는 동작이 해석을 여닫지 않도록 한다
+        if (!window.getSelection()?.isCollapsed) return;
+        setOpen((v) => !v);
+      }}
+    >
+      <p className="paragraph-text" lang="en" data-index={index}>
         {segments.map((segment, i) => {
           const candidate = candidates.find((c) => c.surface === segment.candidate);
           const inner = candidate ? (
@@ -71,6 +82,73 @@ function Paragraph({
       </button>
       {open && <p className="translation">{ko}</p>}
     </div>
+  );
+}
+
+interface PickedText {
+  term: string;
+  paragraph: number;
+}
+
+/** 지금 본문에서 선택된 글자. 한 문단 안의 단어·짧은 표현일 때만 돌려준다 */
+function readPickedText(): PickedText | null {
+  const selection = window.getSelection();
+  if (!selection || selection.isCollapsed) return null;
+  const bodyOf = (node: Node | null) =>
+    (node instanceof Element ? node : node?.parentElement)?.closest<HTMLElement>('.paragraph-text');
+  const body = bodyOf(selection.anchorNode);
+  if (!body || body !== bodyOf(selection.focusNode)) return null;
+  const term = cleanSelection(selection.toString());
+  return term ? { term, paragraph: Number(body.dataset.index) } : null;
+}
+
+/**
+ * 길게 눌러 고른 단어를 저장하는 창. 키보드에 가리지 않도록 화면 위쪽에 둔다.
+ * 입력칸을 누르면 선택이 풀리므로 선택 상태와 상관없이 닫을 때까지 남는다.
+ */
+function PickedWordBar({
+  term,
+  initialMeaning,
+  alreadySaved,
+  onSave,
+  onClose,
+}: {
+  term: string;
+  initialMeaning: string;
+  alreadySaved: boolean;
+  onSave: (meaningKo: string) => void;
+  onClose: () => void;
+}) {
+  const [meaning, setMeaning] = useState(initialMeaning);
+  return (
+    <section className="picked-word" aria-label="고른 단어 저장">
+      <div className="row between">
+        <b lang="en">{term}</b>
+        <button className="text-button" onClick={onClose}>
+          닫기
+        </button>
+      </div>
+      {alreadySaved ? (
+        <p className="small muted">이미 단어장에 있어요.</p>
+      ) : (
+        <div className="row">
+          <input
+            className="field"
+            placeholder="한국어 뜻"
+            aria-label="한국어 뜻"
+            value={meaning}
+            onChange={(e) => setMeaning(e.target.value)}
+          />
+          <button
+            className="button primary picked-save"
+            disabled={!meaning.trim()}
+            onClick={() => onSave(meaning.trim())}
+          >
+            저장
+          </button>
+        </div>
+      )}
+    </section>
   );
 }
 
@@ -142,9 +220,27 @@ export function Reading() {
   const [savedIds, setSavedIds] = useState<Set<string>>(new Set());
   const [quizOpen, setQuizOpen] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
+  const [picked, setPicked] = useState<PickedText | null>(null);
 
   useEffect(() => {
     void allWords().then((words) => setSavedIds(new Set(words.map((w) => w.id))));
+  }, []);
+
+  // 길게 누르면 브라우저가 단어를 선택한다. 그 메뉴는 바꿀 수 없으므로 선택을 감지해 저장 창을 따로 띄운다
+  useEffect(() => {
+    let timer: number | undefined;
+    const onChange = () => {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(() => {
+        const next = readPickedText();
+        if (next) setPicked(next);
+      }, SELECTION_SETTLE_MS);
+    };
+    document.addEventListener('selectionchange', onChange);
+    return () => {
+      window.clearTimeout(timer);
+      document.removeEventListener('selectionchange', onChange);
+    };
   }, []);
 
   useEffect(() => {
@@ -167,7 +263,32 @@ export function Reading() {
   const level = resolveLevel(episode, settings.level);
   const content = levelContent(episode, level);
 
+  const pickedCandidate =
+    picked &&
+    content.wordCandidates.find(
+      (c) => slug(c.term) === slug(picked.term) || slug(c.surface) === slug(picked.term),
+    );
+
+  const closePicked = () => {
+    setPicked(null);
+    window.getSelection()?.removeAllRanges();
+  };
+
+  const savePicked = async (meaningKo: string) => {
+    if (!picked) return;
+    const term = pickedCandidate?.term ?? picked.term;
+    const sentence = pickedCandidate?.sentence ?? {
+      en: sentenceContaining(content.paragraphs[picked.paragraph].en, picked.term),
+      ko: '',
+    };
+    await saveBodyWord(episode, level, { term, meaningKo, sentence });
+    setSavedIds((current) => new Set(current).add(slug(term)));
+    setToast(`단어장에 저장했어요 · ${term} — ${meaningKo}`);
+    closePicked();
+  };
+
   const changeLevel = async (next: Level) => {
+    closePicked();
     await updateSettings({ level: next });
     await reload();
   };
@@ -220,10 +341,13 @@ export function Reading() {
             ))}
           </div>
 
+          <p className="small muted">점선 단어는 탭하면 바로 저장돼요. 다른 단어는 길게 눌러 고르면 저장 창이 떠요.</p>
+
           <article className="card">
             {content.paragraphs.map((p, i) => (
               <Paragraph
                 key={`${level}-${i}`}
+                index={i}
                 en={p.en}
                 ko={p.ko}
                 marks={content.keyExpressionMarks}
@@ -233,6 +357,17 @@ export function Reading() {
               />
             ))}
           </article>
+
+          {picked && (
+            <PickedWordBar
+              key={`${picked.paragraph}-${picked.term}`}
+              term={pickedCandidate?.term ?? picked.term}
+              initialMeaning={pickedCandidate?.meaningKo ?? ''}
+              alreadySaved={savedIds.has(slug(pickedCandidate?.term ?? picked.term))}
+              onSave={(meaningKo) => void savePicked(meaningKo)}
+              onClose={closePicked}
+            />
+          )}
 
           {/* 본문이 길어 흐름 속에 두면 화면 밖에 뜬다. 화면에 고정한다 */}
           {toast && (

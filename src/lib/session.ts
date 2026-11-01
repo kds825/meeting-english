@@ -62,19 +62,33 @@ export function stepsDone(session: Session | undefined): number {
 export function todayEpisodeNumber(
   settings: Settings,
   todaySessionEpisodeNumber: number | undefined,
+  today: string,
 ): number {
-  return todaySessionEpisodeNumber ?? settings.nextEpisodeNumber;
+  if (settings.activeEpisode?.date === today) return settings.activeEpisode.number;
+  return settings.pinnedEpisode ?? todaySessionEpisodeNumber ?? settings.nextEpisodeNumber;
 }
 
-/** 3단계를 마친 시점에 연재를 한 화 넘긴다. 지난 화 다시 보기로는 넘어가지 않는다. */
+/** 3단계를 마친 시점에 진도를 그 화 다음으로 옮긴다. 앞선 화로 건너뛰면 함께 옮기고, 지난 화 다시 보기로는 옮기지 않는다 */
 export function advancedNumber(
   settings: Settings,
   session: Session,
   episodeNumber: number,
 ): number {
-  return isComplete(session) && episodeNumber === settings.nextEpisodeNumber
-    ? settings.nextEpisodeNumber + 1
+  return isComplete(session) && episodeNumber >= settings.nextEpisodeNumber
+    ? episodeNumber + 1
     : settings.nextEpisodeNumber;
+}
+
+/** 목록에서 화를 고른 뒤의 설정. 오늘 이미 마친 화면 오늘만 가리키고, 아니면 마칠 때까지 유지한다 */
+export function selectionPatch(
+  order: number,
+  completedToday: boolean,
+  today: string,
+): Pick<Settings, 'activeEpisode' | 'pinnedEpisode'> {
+  return {
+    activeEpisode: { date: today, number: order },
+    pinnedEpisode: completedToday ? undefined : order,
+  };
 }
 
 /** 연속 학습일. 오늘 아직 안 했어도 어제까지 이어졌으면 끊기지 않는다. */

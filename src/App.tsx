@@ -4,6 +4,7 @@ import { Drive } from './screens/Drive';
 import { Home } from './screens/Home';
 import { Listening } from './screens/Listening';
 import { Reading } from './screens/Reading';
+import { Records } from './screens/Records';
 import { Review } from './screens/Review';
 import { RoleplayScreen } from './screens/Roleplay';
 import { Speaking } from './screens/Speaking';
@@ -11,6 +12,7 @@ import { Vocab } from './screens/Vocab';
 
 const TABS: { to: string; label: string; icon: IconName }[] = [
   { to: '/', label: '홈', icon: 'home' },
+  { to: '/records', label: '기록', icon: 'chart' },
   { to: '/vocab', label: '단어장', icon: 'book' },
   { to: '/review', label: '복습', icon: 'cards' },
   { to: '/drive', label: '운전', icon: 'car' },
@@ -42,6 +44,7 @@ export function App() {
         <Route path="/listening" element={<Listening />} />
         <Route path="/roleplay" element={<RoleplayScreen />} />
         <Route path="/reading" element={<Reading />} />
+        <Route path="/records" element={<Records />} />
         <Route path="/vocab" element={<Vocab />} />
         <Route path="/speaking" element={<Speaking />} />
         <Route path="/review" element={<Review />} />

@@ -16,6 +16,7 @@ const PATHS = {
   chevron: 'M9 5l7 7-7 7',
   volume: 'M4 9.5v5h4l5 4.5V5L8 9.5H4zM16.5 9a4 4 0 0 1 0 6',
   mic: 'M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3zM6 11.5a6 6 0 0 0 12 0M12 17.5V21',
+  chart: 'M4 20h16M7 20v-7M12 20V5M17 20v-10',
 } as const;
 
 export type IconName = keyof typeof PATHS | 'play' | 'pause' | 'next' | 'previous';
@@ -75,13 +76,9 @@ export function useToday(): { today: Today | null; reload: () => Promise<void> }
   const [today, setToday] = useState<Today | null>(null);
   const reload = useCallback(async () => {
     const [settings, sessions] = await Promise.all([getSettings(), sessionsOn(localDate())]);
-    const active = settings.activeEpisode;
     const sessionEpisode = sessions[0] ? episodeById(sessions[0].episodeId) : undefined;
-    const sessionNumber =
-      active?.date === localDate()
-        ? active.number
-        : sessionEpisode && episodeOrder(sessionEpisode);
-    const number = todayEpisodeNumber(settings, sessionNumber);
+    const sessionNumber = sessionEpisode && episodeOrder(sessionEpisode);
+    const number = todayEpisodeNumber(settings, sessionNumber, localDate());
     const episode = episodeByNumber(number);
     const session = sessions.find((s) => s.episodeId === episode?.id);
     setToday({ settings, number, episode, session });

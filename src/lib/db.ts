@@ -1,8 +1,15 @@
 import { openDB, type DBSchema } from 'idb';
 import { makeBackup, type Backup } from './backup';
-import { episodeOrder } from './episodes';
+import { episodeByNumber, episodeOrder } from './episodes';
 import { applyReview, localDate, newReview } from './review';
-import { advancedNumber, CONTENT_VERSION, migrateSettings, newSession } from './session';
+import {
+  advancedNumber,
+  CONTENT_VERSION,
+  isComplete,
+  migrateSettings,
+  newSession,
+  selectionPatch,
+} from './session';
 import { slug } from './text';
 import type {
   Episode,
@@ -77,11 +84,24 @@ export async function patchTodaySession(
   await db.put('sessions', next);
 
   const settings = await getSettings();
-  const nextEpisodeNumber = advancedNumber(settings, next, episodeOrder(episode));
-  if (nextEpisodeNumber !== settings.nextEpisodeNumber) {
-    await updateSettings({ nextEpisodeNumber });
+  const order = episodeOrder(episode);
+  const nextEpisodeNumber = advancedNumber(settings, next, order);
+  // 고른 화를 마치면 고정을 풀되, 오늘은 출근길 오디오를 위해 그 화를 계속 가리킨다
+  const finishedPinned = isComplete(next) && settings.pinnedEpisode === order;
+  if (nextEpisodeNumber !== settings.nextEpisodeNumber || finishedPinned) {
+    await updateSettings({
+      nextEpisodeNumber,
+      ...(finishedPinned ? selectionPatch(order, true, date) : {}),
+    });
   }
   return next;
+}
+
+export async function selectEpisode(order: number): Promise<void> {
+  const date = localDate();
+  const id = episodeByNumber(order)?.id;
+  const completedToday = (await sessionsOn(date)).some((s) => s.episodeId === id && isComplete(s));
+  await updateSettings(selectionPatch(order, completedToday, date));
 }
 
 export async function allWords(): Promise<Word[]> {
@@ -124,15 +144,25 @@ export async function toggleCandidate(
     return false;
   }
 
+  await saveBodyWord(episode, level, candidate);
+  return true;
+}
+
+/** 본문에서 고른 단어를 저장한다. 해석이 없는 문장은 ko를 비워 둔다 */
+export async function saveBodyWord(
+  episode: Episode,
+  level: Level,
+  word: { term: string; meaningKo: string; sentence: { en: string; ko: string } },
+): Promise<void> {
   const now = new Date();
-  await db.put('words', {
-    id,
-    term: candidate.term,
-    meaningKo: candidate.meaningKo,
+  await (await dbPromise).put('words', {
+    id: slug(word.term),
+    term: word.term,
+    meaningKo: word.meaningKo,
     examples: [
       {
-        en: candidate.sentence.en,
-        ko: candidate.sentence.ko,
+        en: word.sentence.en,
+        ko: word.sentence.ko,
         source: 'episode',
         episodeId: episode.id,
       },
@@ -143,7 +173,6 @@ export async function toggleCandidate(
     review: newReview(localDate(now)),
   });
   await syncWordsSaved(episode, level);
-  return true;
 }
 
 export async function recordReview(word: Word, result: ReviewResult): Promise<void> {
