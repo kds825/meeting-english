@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { NoEpisode, Page, TopBar, useToday } from '../components';
 import { allWords, patchTodaySession, saveBodyWord, toggleCandidate, updateSettings } from '../lib/db';
-import { levelContent, resolveLevel } from '../lib/episodes';
+import { knownMeaning, levelContent, resolveLevel } from '../lib/episodes';
 import { cleanSelection, segmentParagraph, sentenceContaining, slug } from '../lib/text';
 import { LEVELS, type Episode, type Level, type WordCandidate } from '../lib/types';
 
@@ -109,12 +109,15 @@ function readPickedText(): PickedText | null {
 function PickedWordBar({
   term,
   initialMeaning,
+  paragraphKo,
   alreadySaved,
   onSave,
   onClose,
 }: {
   term: string;
   initialMeaning: string;
+  /** 사전에 없는 표현도 뜻을 짐작할 수 있도록 문단 해석을 함께 보여 준다 */
+  paragraphKo: string;
   alreadySaved: boolean;
   onSave: (meaningKo: string) => void;
   onClose: () => void;
@@ -131,22 +134,21 @@ function PickedWordBar({
       {alreadySaved ? (
         <p className="small muted">이미 단어장에 있어요.</p>
       ) : (
-        <div className="row">
-          <input
-            className="field"
-            placeholder="한국어 뜻"
-            aria-label="한국어 뜻"
-            value={meaning}
-            onChange={(e) => setMeaning(e.target.value)}
-          />
-          <button
-            className="button primary picked-save"
-            disabled={!meaning.trim()}
-            onClick={() => onSave(meaning.trim())}
-          >
-            저장
-          </button>
-        </div>
+        <>
+          <div className="row">
+            <input
+              className="field"
+              placeholder="뜻 (비워 둬도 돼요)"
+              aria-label="한국어 뜻"
+              value={meaning}
+              onChange={(e) => setMeaning(e.target.value)}
+            />
+            <button className="button primary picked-save" onClick={() => onSave(meaning.trim())}>
+              저장
+            </button>
+          </div>
+          {!initialMeaning && <p className="small muted picked-hint">문단 해석: {paragraphKo}</p>}
+        </>
       )}
     </section>
   );
@@ -283,7 +285,7 @@ export function Reading() {
     };
     await saveBodyWord(episode, level, { term, meaningKo, sentence });
     setSavedIds((current) => new Set(current).add(slug(term)));
-    setToast(`단어장에 저장했어요 · ${term} — ${meaningKo}`);
+    setToast(`단어장에 저장했어요 · ${term}${meaningKo ? ` — ${meaningKo}` : ''}`);
     closePicked();
   };
 
@@ -362,7 +364,8 @@ export function Reading() {
             <PickedWordBar
               key={`${picked.paragraph}-${picked.term}`}
               term={pickedCandidate?.term ?? picked.term}
-              initialMeaning={pickedCandidate?.meaningKo ?? ''}
+              initialMeaning={pickedCandidate?.meaningKo ?? knownMeaning(picked.term) ?? ''}
+              paragraphKo={content.paragraphs[picked.paragraph].ko}
               alreadySaved={savedIds.has(slug(pickedCandidate?.term ?? picked.term))}
               onSave={(meaningKo) => void savePicked(meaningKo)}
               onClose={closePicked}

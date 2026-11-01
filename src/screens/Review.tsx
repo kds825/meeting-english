@@ -52,7 +52,9 @@ export function Review() {
             </span>
             {flipped ? (
               <>
-                <span>{word.meaningKo}</span>
+                <span className={word.meaningKo ? undefined : 'meaning-empty'}>
+                  {word.meaningKo || '뜻을 적지 않은 단어예요'}
+                </span>
                 {word.examples[0] && (
                   <span className="example-en" lang="en">
                     {word.examples[0].en}

@@ -1,3 +1,5 @@
+import glossary from '../../content/glossary.json';
+import { slug } from './text';
 import { LEVELS, type Episode, type EpisodeLevel, type Level } from './types';
 
 const episodeModules = import.meta.glob<Episode>('/content/episodes/*.json', {
@@ -34,6 +36,30 @@ const episodes = Object.values(episodeModules).sort((a, b) => episodeOrder(a) - 
 
 export function allEpisodes(): Episode[] {
   return episodes;
+}
+
+let meaningIndex: Map<string, string> | undefined;
+
+/**
+ * 본문에서 고른 단어의 뜻. 화마다 공들여 쓴 핵심 표현과 단어 후보를 먼저 쓰고,
+ * 없으면 본문 단어로 미리 만든 사전(content/glossary.json)을 쓴다. 모르면 undefined.
+ */
+export function knownMeaning(term: string): string | undefined {
+  if (!meaningIndex) {
+    meaningIndex = new Map(Object.entries(glossary));
+    for (const episode of episodes) {
+      for (const level of Object.values(episode.levels)) {
+        for (const candidate of level.wordCandidates) {
+          meaningIndex.set(slug(candidate.surface), candidate.meaningKo);
+          meaningIndex.set(slug(candidate.term), candidate.meaningKo);
+        }
+      }
+      for (const expression of episode.keyExpressions) {
+        meaningIndex.set(slug(expression.phrase), expression.meaningKo);
+      }
+    }
+  }
+  return meaningIndex.get(slug(term));
 }
 
 /** 순번으로 화를 찾는다 (Settings.nextEpisodeNumber와 같은 기준) */

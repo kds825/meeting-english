@@ -101,7 +101,7 @@ function WordCard({
           <br />
           <span>
             {word.pos && <span className="muted">{word.pos} · </span>}
-            {word.meaningKo}
+            {word.meaningKo || <span className="meaning-empty">뜻을 아직 적지 않았어요</span>}
           </span>
         </span>
         <span className="small muted" style={{ flex: 'none' }}>
@@ -121,6 +121,16 @@ function WordCard({
 
       {open && (
         <div className="stack" style={{ marginTop: 10 }}>
+          <input
+            className="field meaning-field"
+            placeholder="뜻 적기"
+            aria-label="한국어 뜻"
+            defaultValue={word.meaningKo}
+            onBlur={(e) => {
+              const meaningKo = e.target.value.trim();
+              if (meaningKo !== word.meaningKo) onChange({ ...word, meaningKo });
+            }}
+          />
           {clip && (
             <button className="chip" style={{ alignSelf: 'flex-start', gap: 6 }} onClick={() => playOnce(clip)}>
               <Icon name="volume" size={18} /> 발음 듣기
