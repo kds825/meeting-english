@@ -1,0 +1,367 @@
+{
+  "id": "keynote-s1-e18",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 18,
+  "title": "Thirty Places to Hide",
+  "recapKo": "금요일 14층 내부 리뷰에서 동료들이 CFO, 공급업체, 언론 역할을 맡아 재원을 공격했다. 재원은 4초 안에 답을 시작하며 버텼고, 한국 밖 실패율만은 나중에 다시 말하겠다고 넘겼다. 숫자의 출처를 묻기로 한 유나는 아직 입을 열지 않았다.",
+  "keyExpressions": [
+    {
+      "phrase": "Where I'd agree with you is ~",
+      "meaningKo": "그 점은 저도 동의합니다 ~",
+      "usage": "Where I'd agree with you is the timeline, but not the budget."
+    },
+    {
+      "phrase": "The way I'd frame it is ~",
+      "meaningKo": "저라면 이렇게 정리하겠습니다 ~",
+      "usage": "The way I'd frame it is a trade-off between speed and control."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 222,
+      "paragraphs": [
+        {
+          "en": "Yuna had waited until the end. \"Where does the thirty-one come from?\" she asked. \"The way I'd frame it is this: nine rows came from an old tracker, and we are checking them. Twenty-nine are confirmed and two are open, and I'll know by Tuesday.\"",
+          "ko": "유나는 끝까지 기다렸다. \"그 31은 어디서 나온 숫자죠?\" 그녀가 물었다. \"저라면 이렇게 정리하겠습니다. 아홉 개 행은 예전 추적 파일에서 왔고, 지금 확인하고 있어요. 29건은 확인됐고 2건은 미확인이며, 화요일까지 결론이 납니다.\""
+        },
+        {
+          "en": "Kwon stopped playing his role. \"Are you telling me the number in your title might be wrong?\" he asked. \"Where I'd agree with you is that it's a risk, but I'd rather tell you today than hear it from the audience,\" Jae-won said. Yuna wrote down \"Tuesday\" and said, \"Fine, that answer I believe.\"",
+          "ko": "권 파트너가 역할 연기를 멈췄다. \"제목에 있는 숫자가 틀릴 수도 있다는 말인가요?\" 그가 물었다. \"위험하다는 점은 저도 동의하지만, 청중에게 듣느니 오늘 말씀드리는 게 낫습니다.\" 재원이 말했다. 유나는 \"화요일\"이라고 적고 말했다. \"좋아요, 그 답은 믿을게요.\""
+        },
+        {
+          "en": "He turned back to Helen. \"You asked about the rate outside Korea,\" he said. \"Only six of the forty-two are outside Korea, so there is no real rate, and I'll say that on stage.\" Helen almost smiled.",
+          "ko": "그는 헬렌을 돌아봤다. \"한국 밖의 실패율을 물으셨죠.\" 그가 말했다. \"42곳 중 한국 밖은 여섯 곳뿐이라 제대로 된 비율이 없고, 무대에서 그렇게 말하겠습니다.\" 헬렌이 미소를 지을 뻔했다."
+        },
+        {
+          "en": "Daniel checked his timer, and the longest pause all morning was five seconds. Then Priya finally spoke from the back. \"Fourteen times,\" she said. \"That's how often you turned around to look at the screen when someone attacked you.\"",
+          "ko": "대니얼이 타이머를 확인했는데, 오전 내내 가장 긴 침묵이 5초였다. 그때 프리야가 마침내 뒤쪽에서 입을 열었다. \"열네 번이요.\" 그녀가 말했다. \"누가 공격할 때 화면을 보려고 돌아선 횟수예요.\""
+        },
+        {
+          "en": "Kwon admitted that he had stopped reading the slides at about number eighteen. \"Thirty slides are thirty places to hide,\" Priya said. Helen walked to the whiteboard, wrote \"12\" in large numbers, and said, \"Monday at six.\" It had taken him a whole weekend to reach thirty.",
+          "ko": "권 파트너는 18번쯤에서 슬라이드 읽기를 그만뒀다고 인정했다. \"슬라이드 30장은 숨을 곳 30개예요.\" 프리야가 말했다. 헬렌은 화이트보드로 가서 \"12\"라고 크게 쓰고 말했다. \"월요일 6시요.\" 30장까지 줄이는 데도 그는 주말을 꼬박 썼다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I'd agree with you is",
+        "The way I'd frame it is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "tracker",
+          "surface": "tracker",
+          "meaningKo": "추적 파일, 관리 대장",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The way I'd frame it is this: nine rows came from an old tracker, and we are checking them.",
+            "ko": "저라면 이렇게 정리하겠습니다. 아홉 개 행은 예전 추적 파일에서 왔고, 지금 확인하고 있어요."
+          }
+        },
+        {
+          "term": "admit",
+          "surface": "admitted",
+          "meaningKo": "인정하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Kwon admitted that he had stopped reading the slides at about number eighteen.",
+            "ko": "권 파트너는 18번쯤에서 슬라이드 읽기를 그만뒀다고 인정했다."
+          }
+        },
+        {
+          "term": "pause",
+          "surface": "pause",
+          "meaningKo": "멈춤, 침묵",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel checked his timer, and the longest pause all morning was five seconds.",
+            "ko": "대니얼이 타이머를 확인했는데, 오전 내내 가장 긴 침묵이 5초였다."
+          }
+        },
+        {
+          "term": "almost",
+          "surface": "almost smiled",
+          "meaningKo": "거의 ~할 뻔하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Helen almost smiled.",
+            "ko": "헬렌이 미소를 지을 뻔했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 349,
+      "paragraphs": [
+        {
+          "en": "Yuna had waited until almost the end, and she asked it pleasantly. \"Where does the thirty-one come from?\" He had decided at about two that morning, and he didn't look at Daniel. \"The way I'd frame it is this: thirty-three rows tie back to signed reports, and nine came from an old tracker that we're now checking line by line. Of the thirty-one failures, twenty-nine are confirmed and two are open, and I'll have those by Tuesday night or I'll change the title.\"",
+          "ko": "유나는 거의 끝까지 기다렸다가 상냥하게 물었다. \"그 31은 어디서 나온 숫자죠?\" 그는 그날 새벽 2시쯤 결심을 해 두었고, 대니얼을 쳐다보지 않았다. \"저라면 이렇게 정리하겠습니다. 33개 행은 서명된 보고서로 거슬러 올라가고, 아홉 개는 예전 추적 파일에서 왔는데 지금 한 줄씩 확인하고 있습니다. 실패 31건 중 29건은 확인됐고 2건은 미확인이며, 화요일 밤까지 결론을 내거나 제목을 바꾸겠습니다.\""
+        },
+        {
+          "en": "Kwon dropped the CFO act completely. \"Hold on, are you telling me the number in the title of our keynote might be wrong, with two prospects in that hall?\" \"I take your point. Where I'd agree with you is that it's a risk, but I'd rather you heard it from me today than from someone in row twenty,\" Jae-won said. Yuna looked at him for a moment, wrote down \"Tuesday,\" and said, \"That's the first thing all morning I'd actually buy.\"",
+          "ko": "권 파트너가 CFO 연기를 완전히 내려놓았다. \"잠깐만요, 잠재 고객 두 곳이 와 있는 그 홀에서 우리 기조연설 제목의 숫자가 틀릴 수도 있다는 말인가요?\" \"말씀은 알겠습니다. 위험하다는 점은 저도 동의하지만, 20번째 줄에 앉은 누군가에게 듣느니 오늘 저에게 들으시는 게 낫습니다.\" 재원이 말했다. 유나는 잠시 그를 바라보더니 \"화요일\"이라고 적고 말했다. \"오늘 아침 들은 말 중 처음으로 제가 살 만한 말이네요.\""
+        },
+        {
+          "en": "With a few minutes left, he turned back to Helen, because he had said he would. \"You asked about the rate outside Korea, and I said I'd come back to it,\" he said. \"Only six of the forty-two operate outside Korea, which is too few to give you a rate, and I'll say exactly that on stage.\" Helen wrote something down and came close to smiling.",
+          "ko": "몇 분 남았을 때 그는 헬렌을 돌아봤다. 그러겠다고 말했기 때문이다. \"한국 밖의 실패율을 물으셨고, 다시 말씀드리겠다고 했죠.\" 그가 말했다. \"42곳 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 비율을 드리기엔 너무 적고, 무대에서 그대로 말하겠습니다.\" 헬렌은 뭔가를 적으며 미소에 가까운 표정을 지었다."
+        },
+        {
+          "en": "Daniel checked his phone and reported that the longest pause all morning had been five seconds. Jae-won had just started to feel good about that when Priya spoke up from the back for the first time. \"Fourteen,\" she said. \"That's how many times you turned around to look at the screen when someone came at you.\"",
+          "ko": "대니얼이 휴대폰을 확인하고 오전 내내 가장 긴 침묵이 5초였다고 알렸다. 재원이 막 기분이 좋아지려는 참에 프리야가 뒤쪽에서 처음으로 입을 열었다. \"열네 번이요.\" 그녀가 말했다. \"누가 달려들 때 화면을 보려고 돌아선 횟수예요.\""
+        },
+        {
+          "en": "Kwon admitted, a little sheepishly, that he had stopped taking in the slides at around number eighteen. \"Thirty slides are thirty places to hide,\" Priya said. Helen walked over to the whiteboard, wrote \"12\" in large numbers, and capped the marker. \"Monday at six, and they lock next Thursday,\" she said. It had taken him an entire weekend to get down to thirty.",
+          "ko": "권 파트너는 조금 멋쩍게 18번쯤부터 슬라이드가 눈에 들어오지 않았다고 인정했다. \"슬라이드 30장은 숨을 곳 30개예요.\" 프리야가 말했다. 헬렌은 화이트보드로 걸어가 \"12\"라고 크게 쓰고 마커 뚜껑을 닫았다. \"월요일 6시요. 확정은 다음 주 목요일이고요.\" 그녀가 말했다. 30장까지 줄이는 데도 그는 주말을 통째로 썼다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I'd agree with you is",
+        "The way I'd frame it is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "line by line",
+          "surface": "line by line",
+          "meaningKo": "한 줄씩",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The way I'd frame it is this: thirty-three rows tie back to signed reports, and nine came from an old tracker that we're now checking line by line.",
+            "ko": "저라면 이렇게 정리하겠습니다. 33개 행은 서명된 보고서로 거슬러 올라가고, 아홉 개는 예전 추적 파일에서 왔는데 지금 한 줄씩 확인하고 있습니다."
+          }
+        },
+        {
+          "term": "buy",
+          "surface": "actually buy",
+          "meaningKo": "(주장을) 받아들이다, 믿다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Yuna looked at him for a moment, wrote down \"Tuesday,\" and said, \"That's the first thing all morning I'd actually buy.\"",
+            "ko": "유나는 잠시 그를 바라보더니 \"화요일\"이라고 적고 말했다. \"오늘 아침 들은 말 중 처음으로 제가 살 만한 말이네요.\""
+          }
+        },
+        {
+          "term": "come at",
+          "surface": "came at you",
+          "meaningKo": "(말로) 달려들다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"That's how many times you turned around to look at the screen when someone came at you.\"",
+            "ko": "\"누가 달려들 때 화면을 보려고 돌아선 횟수예요.\""
+          }
+        },
+        {
+          "term": "sheepishly",
+          "surface": "sheepishly",
+          "meaningKo": "멋쩍게, 쑥스럽게",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Kwon admitted, a little sheepishly, that he had stopped taking in the slides at around number eighteen.",
+            "ko": "권 파트너는 조금 멋쩍게 18번쯤부터 슬라이드가 눈에 들어오지 않았다고 인정했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 470,
+      "paragraphs": [
+        {
+          "en": "Yuna had sat through all of it with her pen capped, and she waited until almost the end before asking, very pleasantly, \"Where does the thirty-one come from?\" He had made his decision at about two that morning, and he didn't look at Daniel. \"The way I'd frame it is this: thirty-three rows tie back to signed closing reports, and nine came from an old tracker with no documentation behind it, which we're now going through line by line. Of the thirty-one failures, twenty-nine are confirmed and two are open, and I'll have those closed by Tuesday night or I'll change the title.\"",
+          "ko": "유나는 펜 뚜껑을 닫은 채 그 모든 걸 지켜보다가 거의 끝에 이르러 아주 상냥하게 물었다. \"그 31은 어디서 나온 숫자죠?\" 그는 그날 새벽 2시쯤 결심을 해 두었고, 대니얼을 쳐다보지 않았다. \"저라면 이렇게 정리하겠습니다. 33개 행은 서명된 종료 보고서로 거슬러 올라가고, 아홉 개는 뒷받침 문서가 없는 예전 추적 파일에서 왔는데 지금 한 줄씩 확인하고 있습니다. 실패 31건 중 29건은 확인됐고 2건은 미확인이며, 화요일 밤까지 마무리하거나 제목을 바꾸겠습니다.\""
+        },
+        {
+          "en": "Nobody moved, and Kwon dropped the CFO routine altogether. \"Hang on, are you telling me the number in the title of our keynote may not hold up, with two prospects in that hall and my name on the budget?\" \"I take your point. Where I'd agree with you is that it's a risk, but I'd rather you heard it from me on a Friday morning than from someone in row twenty with a microphone,\" Jae-won said. Yuna studied him for a moment, uncapped her pen, wrote down \"Tuesday,\" and said, \"Well, that's the first thing all morning I'd actually buy.\"",
+          "ko": "아무도 움직이지 않았고, 권 파트너는 CFO 연기를 아예 내려놓았다. \"잠깐만요, 잠재 고객 두 곳이 와 있는 그 홀에서, 예산에 내 이름까지 걸린 우리 기조연설 제목의 숫자가 버티지 못할 수도 있다는 말인가요?\" \"말씀은 알겠습니다. 위험하다는 점은 저도 동의하지만, 20번째 줄에서 마이크를 든 누군가에게 듣느니 금요일 아침에 저에게 들으시는 게 낫습니다.\" 재원이 말했다. 유나는 잠시 그를 살펴보더니 펜 뚜껑을 열어 \"화요일\"이라고 적고 말했다. \"자, 오늘 아침 들은 말 중 처음으로 제가 살 만한 말이네요.\""
+        },
+        {
+          "en": "With a few minutes left on the clock, he turned back to Helen, because he had said he would and he'd been told eight hundred people would notice if he didn't. \"You asked about the rate outside Korea, and I said I'd come back to it,\" he said. \"Only six of the forty-two operate outside Korea, which is too thin to give you a rate, so I won't, and I'll say exactly that on stage.\" Helen wrote something down and came dangerously close to smiling.",
+          "ko": "시계에 몇 분 남았을 때 그는 헬렌을 돌아봤다. 그러겠다고 말했고, 안 하면 800명이 알아차린다는 말을 들었기 때문이다. \"한국 밖의 실패율을 물으셨고, 다시 말씀드리겠다고 했죠.\" 그가 말했다. \"42곳 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 비율을 드리기엔 표본이 너무 얇으니 드리지 않겠습니다. 무대에서도 그대로 말하겠습니다.\" 헬렌은 뭔가를 적으며 위험할 만큼 미소에 가까운 표정을 지었다."
+        },
+        {
+          "en": "Daniel checked his phone and reported, with some ceremony, that the longest pause all morning had been five seconds. Jae-won had just begun to feel good about that when Priya spoke up from the back for the first time in sixty minutes. \"Fourteen,\" she said, turning her phone over. \"That's how many times you swung around to look at the screen when someone came at you, and it was every single time the question got hard, so I'd like to know what you think is up there.\"",
+          "ko": "대니얼이 휴대폰을 확인하고 제법 격식을 갖춰 오전 내내 가장 긴 침묵이 5초였다고 알렸다. 재원이 막 기분이 좋아지려는 참에 프리야가 60분 만에 처음으로 뒤쪽에서 입을 열었다. \"열네 번이요.\" 그녀가 휴대폰을 뒤집으며 말했다. \"누가 달려들 때 화면을 보려고 돌아선 횟수예요. 질문이 어려워질 때마다 빠짐없이요. 그러니 저기 뭐가 있다고 생각하는지 알고 싶네요.\""
+        },
+        {
+          "en": "Kwon admitted, a little sheepishly, that he had stopped taking in the slides at around number eighteen and had been reading his email since. \"Thirty slides are thirty places to hide,\" Priya said. Helen got up, walked over to the whiteboard, wrote \"12\" in large numbers, and capped the marker with a click. \"Monday at six, in the ninth-floor room, and they lock next Thursday whether you're ready or not,\" she said. It had taken him an entire weekend to get down to thirty, and nobody in the room seemed to think that was relevant.",
+          "ko": "권 파트너는 조금 멋쩍게 18번쯤부터 슬라이드가 눈에 들어오지 않아 그 뒤로 메일을 읽고 있었다고 인정했다. \"슬라이드 30장은 숨을 곳 30개예요.\" 프리야가 말했다. 헬렌이 일어나 화이트보드로 걸어가 \"12\"라고 크게 쓰고 딸깍 마커 뚜껑을 닫았다. \"월요일 6시, 9층 회의실이요. 준비가 됐든 안 됐든 확정은 다음 주 목요일이에요.\" 그녀가 말했다. 30장까지 줄이는 데도 그는 주말을 통째로 썼지만, 방 안의 누구도 그게 상관있다고 생각하지 않는 듯했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I'd agree with you is",
+        "The way I'd frame it is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "documentation",
+          "surface": "documentation",
+          "meaningKo": "뒷받침 문서",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The way I'd frame it is this: thirty-three rows tie back to signed closing reports, and nine came from an old tracker with no documentation behind it, which we're now going through line by line.",
+            "ko": "저라면 이렇게 정리하겠습니다. 33개 행은 서명된 종료 보고서로 거슬러 올라가고, 아홉 개는 뒷받침 문서가 없는 예전 추적 파일에서 왔는데 지금 한 줄씩 확인하고 있습니다."
+          }
+        },
+        {
+          "term": "hold up",
+          "surface": "hold up",
+          "meaningKo": "(주장이) 버티다, 유효하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Hang on, are you telling me the number in the title of our keynote may not hold up, with two prospects in that hall and my name on the budget?\"",
+            "ko": "\"잠깐만요, 잠재 고객 두 곳이 와 있는 그 홀에서, 예산에 내 이름까지 걸린 우리 기조연설 제목의 숫자가 버티지 못할 수도 있다는 말인가요?\""
+          }
+        },
+        {
+          "term": "thin",
+          "surface": "too thin",
+          "meaningKo": "(표본·근거가) 빈약한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Only six of the forty-two operate outside Korea, which is too thin to give you a rate, so I won't, and I'll say exactly that on stage.\"",
+            "ko": "\"42곳 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 비율을 드리기엔 표본이 너무 얇으니 드리지 않겠습니다. 무대에서도 그대로 말하겠습니다.\""
+          }
+        },
+        {
+          "term": "with ceremony",
+          "surface": "with some ceremony",
+          "meaningKo": "제법 격식을 갖춰",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel checked his phone and reported, with some ceremony, that the longest pause all morning had been five seconds.",
+            "ko": "대니얼이 휴대폰을 확인하고 제법 격식을 갖춰 오전 내내 가장 긴 침묵이 5초였다고 알렸다."
+          }
+        },
+        {
+          "term": "take in",
+          "surface": "taking in",
+          "meaningKo": "(내용을) 받아들이다, 이해하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Kwon admitted, a little sheepishly, that he had stopped taking in the slides at around number eighteen and had been reading his email since.",
+            "ko": "권 파트너는 조금 멋쩍게 18번쯤부터 슬라이드가 눈에 들어오지 않아 그 뒤로 메일을 읽고 있었다고 인정했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was the longest pause in Jae-won's answers during the review?",
+      "options": [
+        "Nineteen seconds",
+        "Fourteen seconds",
+        "Eight seconds",
+        "Five seconds"
+      ],
+      "answerIndex": 3,
+      "evidence": "Daniel checked his phone and reported that the longest pause all morning had been five seconds."
+    },
+    {
+      "question": "Why does Yuna say it's \"the first thing all morning I'd actually buy\"?",
+      "options": [
+        "She has decided to end the keynote project.",
+        "Jae-won admitted an awkward weakness in the number and set a deadline, which made him more credible.",
+        "She liked the new slide design.",
+        "Kwon had told her to praise him."
+      ],
+      "answerIndex": 1,
+      "evidence": "Yuna looked at him for a moment, wrote down \"Tuesday,\" and said, \"That's the first thing all morning I'd actually buy.\""
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Where I'd agree with you is that it's a risk.",
+      "The way I'd frame it is this: thirty-three rows tie back to signed reports.",
+      "Thirty slides are thirty places to hide."
+    ],
+    "summaryPromptKo": "유나의 질문에 재원이 어떻게 답했는지, 헬렌의 질문에 어떻게 돌아갔는지, 끝에 프리야와 헬렌이 무엇을 지적하고 요구했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Yuna Seo",
+      "en": "Where does the thirty-one come from, and what happens if it doesn't hold up by Tuesday?",
+      "ko": "그 31은 어디서 나온 숫자고, 화요일까지 확인되지 않으면 어떻게 되나요?"
+    },
+    "modelAnswer": "The way I'd frame it is this: thirty-three rows tie back to signed reports, and nine came from an old tracker that we're checking line by line. Of the thirty-one failures, twenty-nine are confirmed and two are open. Where I'd agree with you is that it's a risk. I'll have those two by Tuesday night, or I'll change the title. I'd rather you heard it from me today."
+  },
+  "nextTeaserKo": "월요일 저녁 6시, 벽에는 슬라이드가 붙어 있고 헬렌은 이틀 뒤 시애틀로 떠난다. 재원이 아끼는 방법론, 유나의 노림 숫자, 대니얼의 차트. 12장이 되려면 누구의 슬라이드가 바닥으로 내려와야 할까.",
+  "roleplay": {
+    "title": "유나가 끝까지 기다린 질문",
+    "situationKo": "내부 리뷰가 끝나 갈 무렵, 유나가 숫자의 출처를 묻습니다. 내가 재원이 되어 있는 그대로 답해 보세요. 천천히 해도 되고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Where does the thirty-one come from?",
+        "ko": "그 31이라는 숫자는 어디서 나온 거예요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The way I'd frame it is this. Thirty-three rows tie back to signed reports, nine came from an old tracker.",
+        "ko": "저라면 이렇게 정리하겠습니다. 33행은 서명된 보고서로 확인되고, 9행은 예전 트래커에서 왔습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "And the failures?",
+        "ko": "실패 건은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Twenty-nine confirmed, two still open. I'll have those by Tuesday night, or I'll change the title.",
+        "ko": "29건은 확인됐고 2건은 아직 미확인입니다. 화요일 밤까지 확인하거나, 아니면 제목을 바꾸겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Kwon",
+        "voice": "male",
+        "en": "Hold on. The number in our title might be wrong, with two prospects in that hall?",
+        "ko": "잠깐만요. 잠재 고객 두 곳이 와 있는데 제목의 숫자가 틀릴 수도 있다는 겁니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Where I'd agree with you is that it's a risk. But I'd rather you heard it from me today.",
+        "ko": "위험하다는 점은 저도 동의합니다. 하지만 오늘 저한테서 들으시는 게 낫습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "That's the first thing all morning I'd actually buy.",
+        "ko": "오늘 아침 들은 말 중에 처음으로 살 만한 말이네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Helen, back to your question. Only six of the forty-two operate outside Korea. That's too few for a rate.",
+        "ko": "헬렌, 아까 질문으로 돌아가죠. 42곳 중 한국 밖에서 운영하는 곳은 여섯 곳뿐입니다. 비율을 내기엔 너무 적어요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And what will you say on stage?",
+        "ko": "그럼 무대에서는 뭐라고 할 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Exactly that. I'll say there's no real rate outside Korea.",
+        "ko": "바로 그대로요. 한국 밖에는 제대로 된 비율이 없다고 말하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Longest pause all morning: five seconds.",
+        "ko": "오늘 아침 가장 긴 침묵은 5초였습니다."
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Fourteen. That's how many times you turned around to look at the screen.",
+        "ko": "열네 번. 재원 씨가 화면을 돌아본 횟수예요."
+      }
+    ]
+  }
+}

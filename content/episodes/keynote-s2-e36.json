@@ -1,0 +1,423 @@
+{
+  "id": "keynote-s2-e36",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 36,
+  "title": "One in Ten",
+  "recapKo": "재원은 이사회 전날 밤 그레이스에게 슬라이드 2번을 짚었다. \"10건 중 1건\"은 그룹 전체가 아니라 투아스의 서류 3종 목표이고, 아직 도달하지도 못했다. 그레이스는 자료가 이미 나갔다고 했다. 다음 날 감사위원회의 돌런이 바로 그 줄을 물었고, 그레이스가 벽 쪽을 보며 말했다. \"그가 답할 겁니다.\"",
+  "keyExpressions": [
+    {
+      "phrase": "The short answer is ~",
+      "meaningKo": "짧게 답하면 ~",
+      "usage": "The short answer is no, but we can get there by June."
+    },
+    {
+      "phrase": "I'd rather correct that now: ~",
+      "meaningKo": "그건 지금 바로잡는 게 좋겠습니다. ~",
+      "usage": "I'd rather correct that now: the savings are yearly, not monthly."
+    },
+    {
+      "phrase": "I don't have that figure with me, but ~",
+      "meaningKo": "그 수치는 지금 없지만 ~",
+      "usage": "I don't have that figure with me, but you'll have it by noon."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 198,
+      "paragraphs": [
+        {
+          "en": "Jae-won stood up with nothing but the papers, and he started within three seconds. \"The short answer is no,\" he said. \"I'd rather correct that now: one in ten is the Tuas target on three documents.\" \"Across the group, the best we can reach this year is about one in five.\"",
+          "ko": "재원은 서류만 들고 일어섰고, 3초 안에 말을 시작했다. \"짧게 답하면, 아닙니다.\" 그가 말했다. \"그건 지금 바로잡는 게 좋겠습니다. 10건 중 1건은 투아스의 서류 3종 목표입니다.\" \"그룹 전체로 올해 도달할 수 있는 최선은 약 5건 중 1건입니다.\""
+        },
+        {
+          "en": "\"Why is the slide wrong?\" Dolan asked. \"That's mine,\" Grace said, without looking up, \"and I should have changed it in week four.\" Another director asked what the failure had cost. \"Six hundred and ten thousand dollars, and three companies paid it,\" he said. \"How many jobs will this cost in the end?\" \"I don't have that figure with me, but nobody leaves because of it before the end of next year.\"",
+          "ko": "\"슬라이드가 왜 틀렸습니까?\" 돌런이 물었다. \"그건 제 몫입니다.\" 그레이스가 고개를 들지 않고 말했다. \"4주 차에 바꿨어야 했어요.\" 다른 이사가 사고로 얼마가 들었는지 물었다. \"61만 달러이고, 세 회사가 냈습니다.\" 그가 말했다. \"결국 일자리가 몇 개나 줄어듭니까?\" \"그 수치는 지금 없지만, 내년 말까지는 이것 때문에 떠나는 사람이 없습니다.\""
+        },
+        {
+          "en": "The chair, Elspeth Quah, took off her glasses and asked what would happen at month-end. \"It starts on Friday, and it's three times the normal volume,\" he said. \"You'll know by Monday, and Grace and Wei Ling will know before you do.\" \"Send me a better slide,\" the chair said.",
+          "ko": "의장 엘스페스 콰가 안경을 벗고 월말에는 어떻게 되느냐고 물었다. \"금요일에 시작되고, 물량은 평소의 3배입니다.\" 그가 말했다. \"월요일까지는 아시게 됩니다. 그레이스와 웨이링은 그보다 먼저 알게 되고요.\" \"더 나은 슬라이드를 보내 주세요.\" 의장이 말했다."
+        },
+        {
+          "en": "On Friday night, the queue held. On Monday a message came from Helen: \"Partner panel, next Tuesday, in Seoul, and I'll be there in person.\"",
+          "ko": "금요일 밤, 대기열은 버텼다. 월요일에 헬렌의 메시지가 왔다. \"파트너 심사, 다음 주 화요일, 서울. 제가 직접 갑니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The short answer is",
+        "I'd rather correct that now",
+        "I don't have that figure with me, but"
+      ],
+      "wordCandidates": [
+        {
+          "term": "target",
+          "surface": "target",
+          "meaningKo": "목표",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I'd rather correct that now: one in ten is the Tuas target on three documents.\"",
+            "ko": "\"그건 지금 바로잡는 게 좋겠습니다. 10건 중 1건은 투아스의 서류 3종 목표입니다.\""
+          }
+        },
+        {
+          "term": "glasses",
+          "surface": "glasses",
+          "meaningKo": "안경",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The chair, Elspeth Quah, took off her glasses and asked what would happen at month-end.",
+            "ko": "의장 엘스페스 콰가 안경을 벗고 월말에는 어떻게 되느냐고 물었다."
+          }
+        },
+        {
+          "term": "volume",
+          "surface": "volume",
+          "meaningKo": "물량",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It starts on Friday, and it's three times the normal volume,\" he said.",
+            "ko": "\"금요일에 시작되고, 물량은 평소의 3배입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "queue",
+          "surface": "queue",
+          "meaningKo": "대기열",
+          "paragraph": 3,
+          "sentence": {
+            "en": "On Friday night, the queue held.",
+            "ko": "금요일 밤, 대기열은 버텼다."
+          }
+        },
+        {
+          "term": "in person",
+          "surface": "in person",
+          "meaningKo": "직접, 대면으로",
+          "paragraph": 3,
+          "sentence": {
+            "en": "On Monday a message came from Helen: \"Partner panel, next Tuesday, in Seoul, and I'll be there in person.\"",
+            "ko": "월요일에 헬렌의 메시지가 왔다. \"파트너 심사, 다음 주 화요일, 서울. 제가 직접 갑니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 328,
+      "paragraphs": [
+        {
+          "en": "Jae-won stood up with nothing but the papers, and he started within three seconds, as he had been trained to. \"The short answer is no,\" he said. \"I'd rather correct that now: one in ten is the Tuas target on three documents, and we're not there yet.\" \"Across the group, with Port Klang and Jakarta untouched, the best we can reach this year is about one in five.\" Nobody at the table moved, and he noticed that the only person writing was Dolan.",
+          "ko": "재원은 서류만 들고 일어섰고, 훈련받은 대로 3초 안에 말을 시작했다. \"짧게 답하면, 아닙니다.\" 그가 말했다. \"그건 지금 바로잡는 게 좋겠습니다. 10건 중 1건은 투아스의 서류 3종 목표이고, 아직 거기 이르지 못했습니다.\" \"포트 클랑과 자카르타가 그대로인 상태에서 그룹 전체로 올해 도달할 수 있는 최선은 약 5건 중 1건입니다.\" 탁자의 아무도 움직이지 않았고, 그는 무언가 적는 사람이 돌런뿐임을 알아챘다."
+        },
+        {
+          "en": "\"So why has the board been looking at this slide for five months?\" Dolan asked. \"That's mine,\" Grace said, without looking up from her pencil, \"and I should have changed it in week four, and he reminded me last night.\" Another director asked what the failure in week eleven had cost, and why they shouldn't have taken the cheaper firm. \"Six hundred and ten thousand dollars, split among three companies with no lawsuit, and the cheaper firm hasn't got a number on your night forms,\" he said. A third wanted to know how many jobs this would cost in the end. \"I don't have that figure with me, but nobody leaves because of it before the end of next year, and Grace told them that herself.\"",
+          "ko": "\"그럼 왜 이사회는 다섯 달 동안 이 슬라이드를 보고 있었습니까?\" 돌런이 물었다. \"그건 제 몫입니다.\" 그레이스가 연필에서 고개를 들지 않고 말했다. \"4주 차에 바꿨어야 했고, 어젯밤 그가 일깨워 줬습니다.\" 다른 이사가 11주 차 사고로 얼마가 들었는지, 왜 더 싼 회사를 택하지 않았는지 물었다. \"61만 달러이고 세 회사가 소송 없이 나눴으며, 더 싼 회사는 야간 양식에 대한 숫자가 없습니다.\" 그가 말했다. 세 번째 이사는 결국 일자리가 몇 개나 줄어드는지 알고 싶어 했다. \"그 수치는 지금 없지만, 내년 말까지는 이것 때문에 떠나는 사람이 없고, 그레이스가 직접 그렇게 말했습니다.\""
+        },
+        {
+          "en": "The chair, Elspeth Quah, took off her glasses. \"Week eighteen is your month-end, isn't it?\" she asked. \"It starts on Friday, at three times the normal volume, and you'll know by Monday,\" he said. \"Grace and Wei Ling will know before you do, in the same minute.\" She looked at him for a moment and told Grace to send her a better slide.",
+          "ko": "의장 엘스페스 콰가 안경을 벗었다. \"18주 차가 월말이죠?\" 그녀가 물었다. \"금요일에 시작되고, 물량은 평소의 3배이며, 월요일까지는 아시게 됩니다.\" 그가 말했다. \"그레이스와 웨이링은 그보다 먼저, 같은 분에 알게 됩니다.\" 그녀는 잠시 그를 바라보더니 그레이스에게 더 나은 슬라이드를 보내라고 했다."
+        },
+        {
+          "en": "On Friday night, the queue held. Siti pressed the red key once, a day lead pressed it twice, and the system was back within the hour each time. On Monday a message came from Helen, and it was shorter than usual. \"Partner panel, next Tuesday, in Seoul, and I'll be in the room asking the questions.\"",
+          "ko": "금요일 밤, 대기열은 버텼다. 시티가 빨간 키를 한 번, 주간 책임자가 두 번 눌렀고, 시스템은 매번 한 시간 안에 돌아왔다. 월요일에 헬렌의 메시지가 왔고, 평소보다 짧았다. \"파트너 심사, 다음 주 화요일, 서울. 제가 그 방에서 질문합니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The short answer is",
+        "I'd rather correct that now",
+        "I don't have that figure with me, but"
+      ],
+      "wordCandidates": [
+        {
+          "term": "untouched",
+          "surface": "untouched",
+          "meaningKo": "손대지 않은",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Across the group, with Port Klang and Jakarta untouched, the best we can reach this year is about one in five.\"",
+            "ko": "\"포트 클랑과 자카르타가 그대로인 상태에서 그룹 전체로 올해 도달할 수 있는 최선은 약 5건 중 1건입니다.\""
+          }
+        },
+        {
+          "term": "remind",
+          "surface": "reminded",
+          "meaningKo": "일깨우다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That's mine,\" Grace said, without looking up from her pencil, \"and I should have changed it in week four, and he reminded me last night.\"",
+            "ko": "\"그건 제 몫입니다.\" 그레이스가 연필에서 고개를 들지 않고 말했다. \"4주 차에 바꿨어야 했고, 어젯밤 그가 일깨워 줬습니다.\""
+          }
+        },
+        {
+          "term": "lawsuit",
+          "surface": "lawsuit",
+          "meaningKo": "소송",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Six hundred and ten thousand dollars, split among three companies with no lawsuit, and the cheaper firm hasn't got a number on your night forms,\" he said.",
+            "ko": "\"61만 달러이고 세 회사가 소송 없이 나눴으며, 더 싼 회사는 야간 양식에 대한 숫자가 없습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "firm",
+          "surface": "firm",
+          "meaningKo": "회사",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Another director asked what the failure in week eleven had cost, and why they shouldn't have taken the cheaper firm.",
+            "ko": "다른 이사가 11주 차 사고로 얼마가 들었는지, 왜 더 싼 회사를 택하지 않았는지 물었다."
+          }
+        },
+        {
+          "term": "glasses",
+          "surface": "glasses",
+          "meaningKo": "안경",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The chair, Elspeth Quah, took off her glasses.",
+            "ko": "의장 엘스페스 콰가 안경을 벗었다."
+          }
+        },
+        {
+          "term": "queue",
+          "surface": "queue",
+          "meaningKo": "대기열",
+          "paragraph": 3,
+          "sentence": {
+            "en": "On Friday night, the queue held.",
+            "ko": "금요일 밤, 대기열은 버텼다."
+          }
+        },
+        {
+          "term": "panel",
+          "surface": "panel",
+          "meaningKo": "심사단",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Partner panel, next Tuesday, in Seoul, and I'll be in the room asking the questions.\"",
+            "ko": "\"파트너 심사, 다음 주 화요일, 서울. 제가 그 방에서 질문합니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 423,
+      "paragraphs": [
+        {
+          "en": "Jae-won stood up with nothing but the papers, and he started within three seconds, as he had been trained to, on the theory that the first sentence was permitted to be ugly. \"The short answer is no,\" he said. \"I'd rather correct that now: one in ten is the Tuas target on three documents, and we're not there yet.\" \"Across the group, with Port Klang and Jakarta untouched, the best we can reach this year is about one in five, and I'd want you to have that from me rather than from next year's audit.\" Nobody at the table moved, and he observed that the only pen in motion belonged to Dolan.",
+          "ko": "재원은 서류만 들고 일어섰고, 첫 문장은 못나도 된다는 이론에 따라 훈련받은 대로 3초 안에 말을 시작했다. \"짧게 답하면, 아닙니다.\" 그가 말했다. \"그건 지금 바로잡는 게 좋겠습니다. 10건 중 1건은 투아스의 서류 3종 목표이고, 아직 거기 이르지 못했습니다.\" \"포트 클랑과 자카르타가 그대로인 상태에서 그룹 전체로 올해 도달할 수 있는 최선은 약 5건 중 1건이고, 내년 감사가 아니라 제게서 들으시기를 바랍니다.\" 탁자의 아무도 움직이지 않았고, 그는 움직이는 펜이 돌런의 것뿐임을 알아챘다."
+        },
+        {
+          "en": "\"So why has this board been admiring that slide for five months?\" Dolan asked, pleasantly. \"That's mine,\" Grace said, without looking up from her pencil. \"I should have changed it in week four, and he reminded me of that last night, at some risk to himself.\" Another director, scenting blood, asked what the failure in week eleven had cost, and why they hadn't simply taken the cheaper firm. \"Six hundred and ten thousand dollars, split among three companies with no lawsuit, and the cheaper firm hasn't got a number on your night forms, whereas we have,\" he said. A third, who had once run a shipping line, wanted to know how many jobs this would cost in the end, and said so with some weariness. \"I don't have that figure with me, but nobody leaves because of it before the end of next year, and Grace told them that herself, standing in their canteen.\"",
+          "ko": "\"그럼 왜 이 이사회는 다섯 달 동안 그 슬라이드를 감상하고 있었습니까?\" 돌런이 상냥하게 물었다. \"그건 제 몫입니다.\" 그레이스가 연필에서 고개를 들지 않고 말했다. \"4주 차에 바꿨어야 했고, 어젯밤 그가 어느 정도 위험을 무릅쓰고 일깨워 줬습니다.\" 다른 이사가 낌새를 채고, 11주 차 사고로 얼마가 들었는지, 왜 그냥 더 싼 회사를 택하지 않았는지 물었다. \"61만 달러이고 세 회사가 소송 없이 나눴습니다. 더 싼 회사는 야간 양식에 대한 숫자가 없고, 저희는 있습니다.\" 그가 말했다. 한때 해운 회사를 운영한 세 번째 이사는 결국 일자리가 몇 개나 줄어드는지 알고 싶다고 약간 지친 투로 말했다. \"그 수치는 지금 없지만, 내년 말까지는 이것 때문에 떠나는 사람이 없고, 그레이스가 그들의 구내식당에 서서 직접 그렇게 말했습니다.\""
+        },
+        {
+          "en": "The chair, Elspeth Quah, who hadn't spoken in twenty minutes, took off her glasses. \"Week eighteen is your month-end, I believe, and that's when this kind of thing tends to fall over,\" she said. \"It starts on Friday, at three times the normal volume, and you'll know by Monday, and Grace and Wei Ling will know before you do, in the same minute,\" he said. She regarded him for a moment, as one might a surprising entry in a ledger, and instructed Grace to send her a better slide.",
+          "ko": "20분 동안 말이 없던 의장 엘스페스 콰가 안경을 벗었다. \"18주 차가 월말일 텐데, 이런 일은 보통 그때 쓰러지죠.\" 그녀가 말했다. \"금요일에 시작되고, 물량은 평소의 3배이며, 월요일까지는 아시게 됩니다. 그레이스와 웨이링은 그보다 먼저, 같은 분에 알게 됩니다.\" 그가 말했다. 그녀는 장부의 뜻밖의 항목을 보듯 잠시 그를 바라보더니 그레이스에게 더 나은 슬라이드를 보내라고 지시했다."
+        },
+        {
+          "en": "On Friday night, the queue held. Siti pressed the red key once, a day lead pressed it twice for reasons he explained at length the next morning, and the system was back within the hour each time. On Monday a message came from Helen, and it was considerably shorter than her usual standard. \"Partner panel, next Tuesday, in Seoul, and I'll be in the room asking the questions.\"",
+          "ko": "금요일 밤, 대기열은 버텼다. 시티가 빨간 키를 한 번, 주간 책임자가 두 번 눌렀고 그 이유는 다음 날 아침 길게 설명했으며, 시스템은 매번 한 시간 안에 돌아왔다. 월요일에 헬렌의 메시지가 왔고, 평소 기준보다 훨씬 짧았다. \"파트너 심사, 다음 주 화요일, 서울. 제가 그 방에서 질문합니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The short answer is",
+        "I'd rather correct that now",
+        "I don't have that figure with me, but"
+      ],
+      "wordCandidates": [
+        {
+          "term": "untouched",
+          "surface": "untouched",
+          "meaningKo": "손대지 않은",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Across the group, with Port Klang and Jakarta untouched, the best we can reach this year is about one in five, and I'd want you to have that from me rather than from next year's audit.\"",
+            "ko": "\"포트 클랑과 자카르타가 그대로인 상태에서 그룹 전체로 올해 도달할 수 있는 최선은 약 5건 중 1건이고, 내년 감사가 아니라 제게서 들으시기를 바랍니다.\""
+          }
+        },
+        {
+          "term": "admire",
+          "surface": "admiring",
+          "meaningKo": "감상하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"So why has this board been admiring that slide for five months?\" Dolan asked, pleasantly.",
+            "ko": "\"그럼 왜 이 이사회는 다섯 달 동안 그 슬라이드를 감상하고 있었습니까?\" 돌런이 상냥하게 물었다."
+          }
+        },
+        {
+          "term": "pleasantly",
+          "surface": "pleasantly",
+          "meaningKo": "상냥하게",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"So why has this board been admiring that slide for five months?\" Dolan asked, pleasantly.",
+            "ko": "\"그럼 왜 이 이사회는 다섯 달 동안 그 슬라이드를 감상하고 있었습니까?\" 돌런이 상냥하게 물었다."
+          }
+        },
+        {
+          "term": "scent blood",
+          "surface": "scenting blood",
+          "meaningKo": "낌새를 채다, 약점을 노리다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Another director, scenting blood, asked what the failure in week eleven had cost, and why they hadn't simply taken the cheaper firm.",
+            "ko": "다른 이사가 낌새를 채고, 11주 차 사고로 얼마가 들었는지, 왜 그냥 더 싼 회사를 택하지 않았는지 물었다."
+          }
+        },
+        {
+          "term": "weariness",
+          "surface": "weariness",
+          "meaningKo": "피로, 지침",
+          "paragraph": 1,
+          "sentence": {
+            "en": "A third, who had once run a shipping line, wanted to know how many jobs this would cost in the end, and said so with some weariness.",
+            "ko": "한때 해운 회사를 운영한 세 번째 이사는 결국 일자리가 몇 개나 줄어드는지 알고 싶다고 약간 지친 투로 말했다."
+          }
+        },
+        {
+          "term": "fall over",
+          "surface": "fall over",
+          "meaningKo": "쓰러지다, 무너지다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Week eighteen is your month-end, I believe, and that's when this kind of thing tends to fall over,\" she said.",
+            "ko": "\"18주 차가 월말일 텐데, 이런 일은 보통 그때 쓰러지죠.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "ledger",
+          "surface": "ledger",
+          "meaningKo": "장부",
+          "paragraph": 2,
+          "sentence": {
+            "en": "She regarded him for a moment, as one might a surprising entry in a ledger, and instructed Grace to send her a better slide.",
+            "ko": "그녀는 장부의 뜻밖의 항목을 보듯 잠시 그를 바라보더니 그레이스에게 더 나은 슬라이드를 보내라고 지시했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the real figure across the group, as Jae-won tells the board?",
+      "options": [
+        "About one in ten",
+        "About one in five",
+        "About one in three",
+        "About one in twenty"
+      ],
+      "answerIndex": 1,
+      "evidence": "one in five"
+    },
+    {
+      "question": "Why does Grace say \"That's mine\" when Dolan pushes on the slide?",
+      "options": [
+        "She wants to fire Jae-won",
+        "She has decided to end the project",
+        "She takes responsibility herself so that the consultant isn't left to carry an error she kept",
+        "She doesn't understand the question"
+      ],
+      "answerIndex": 2,
+      "evidence": "That's mine"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "The short answer is no.",
+      "I'd rather correct that now: one in ten is the Tuas target on three documents.",
+      "I don't have that figure with me, but nobody leaves because of it before the end of next year."
+    ],
+    "summaryPromptKo": "재원이 이사회에서 슬라이드를 어떻게 바로잡았는지, 그레이스가 뭐라고 했는지, 월말이 어떻게 지나갔는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marek Dolan",
+      "en": "You work for Grace. Why would you tell this board that her slide is wrong?",
+      "ko": "그레이스 밑에서 일하시죠. 왜 이사회에 그녀의 슬라이드가 틀렸다고 말합니까?"
+    },
+    "modelAnswer": "Because you asked me, and because she'd want it from me rather than from next year's audit. The short answer is no. I'd rather correct that now: one in ten is the Tuas target on three documents, and we're not there yet. Across the group, the best we can reach this year is about one in five. I told Grace last night, so none of this is news to her."
+  },
+  "nextTeaserKo": "서울, 14층. 키노트를 앞두고 재원이 19초 동안 얼어붙었던 바로 그 방이다. 파트너 다섯 명 앞에서 헬렌이 차례로 묻는다. 그레이스에게 왜 3주 늦게 말했는가, 4주 차 메모로 무엇을 했는가, 왜 15만 달러를 내주었는가. 그리고 커피숍에서 시작된 그 질문이 남아 있다.",
+  "roleplay": {
+    "title": "3초 안에",
+    "situationKo": "18주 차 이사회, 벽에서 일어선 재원에게 질문이 쏟아집니다. 준비한 답이 아니어도 돼요. 짧게 답하고 모르면 모른다고 말하면 충분합니다.",
+    "lines": [
+      {
+        "speaker": "Marek Dolan",
+        "voice": "male",
+        "en": "Slide two says one in ten across the group. Is that where we are?",
+        "ko": "슬라이드 2번에 그룹 전체가 10건 중 1건이라고 되어 있습니다. 지금 거기 와 있습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The short answer is no. I'd rather correct that now: one in ten is the Tuas target on three documents.",
+        "ko": "짧게 답하면, 아닙니다. 그건 지금 바로잡는 게 좋겠습니다. 10건 중 1건은 투아스의 서류 3종 목표입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marek Dolan",
+        "voice": "male",
+        "en": "And across the group?",
+        "ko": "그룹 전체로는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The best we can reach this year is about one in five.",
+        "ko": "올해 도달할 수 있는 최선은 약 5건 중 1건입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "That slide is mine. I should have changed it in week four.",
+        "ko": "그 슬라이드는 제 몫입니다. 4주 차에 바꿨어야 했어요."
+      },
+      {
+        "speaker": "Board Director",
+        "voice": "male",
+        "en": "What did the failure in week eleven cost?",
+        "ko": "11주 차 사고에 얼마가 들었습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Six hundred and ten thousand dollars, split among three companies, with no lawsuit.",
+        "ko": "61만 달러이고, 세 회사가 소송 없이 나눴습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Board Director",
+        "voice": "male",
+        "en": "How many jobs will this cost in the end?",
+        "ko": "결국 일자리가 몇 개나 줄어듭니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I don't have that figure with me, but nobody leaves because of it before the end of next year.",
+        "ko": "그 수치는 지금 없지만, 내년 말까지는 이것 때문에 떠나는 사람이 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Elspeth Quah",
+        "voice": "female",
+        "en": "Week eighteen is your month-end. What happens then?",
+        "ko": "18주 차가 월말이죠. 그때 어떻게 됩니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It starts on Friday, at three times the normal volume. You'll know by Monday.",
+        "ko": "금요일에 시작되고, 물량은 평소의 3배입니다. 월요일까지는 아시게 됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Elspeth Quah",
+        "voice": "female",
+        "en": "Grace, send me a better slide.",
+        "ko": "그레이스, 더 나은 슬라이드를 보내 주세요."
+      }
+    ]
+  }
+}

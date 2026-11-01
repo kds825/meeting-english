@@ -1,0 +1,65 @@
+{
+  "episodeId": "keynote-s2-e07",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "liable": "word-liable.mp3",
+    "penalty": "word-penalty.mp3",
+    "vendor": "word-vendor.mp3",
+    "pour": "word-pour.mp3",
+    "unlimited": "word-unlimited.mp3",
+    "cap": "word-cap.mp3",
+    "go live": "word-go-live.mp3",
+    "admission": "word-admission.mp3",
+    "urgency": "word-urgency.mp3",
+    "insure": "word-insure.mp3",
+    "declarant": "word-declarant.mp3",
+    "admiration": "word-admiration.mp3",
+    "consequential loss": "word-consequential-loss.mp3",
+    "transcript": "word-transcript.mp3",
+    "warrant": "word-warrant.mp3",
+    "withdraw": "word-withdraw.mp3"
+  },
+  "termClips": {
+    "liable": "term-liable.mp3",
+    "penalty": "term-penalty.mp3",
+    "vendor": "term-vendor.mp3",
+    "pour": "term-pour.mp3",
+    "unlimited": "term-unlimited.mp3",
+    "cap": "term-cap.mp3",
+    "go live": "term-go-live.mp3",
+    "admission": "term-admission.mp3",
+    "urgency": "term-urgency.mp3",
+    "insure": "term-insure.mp3",
+    "declarant": "term-declarant.mp3",
+    "admiration": "term-admiration.mp3",
+    "consequential loss": "term-consequential-loss.mp3",
+    "transcript": "term-transcript.mp3",
+    "warrant": "term-warrant.mp3",
+    "withdraw": "term-withdraw.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "episodeId": "keynote-s2-e21",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "procurement": "word-procurement.mp3",
+    "invoice": "word-invoice.mp3",
+    "head office": "word-head-office.mp3",
+    "lean forward": "word-lean-forward.mp3",
+    "authority": "word-authority.mp3",
+    "reduce": "word-reduce.mp3",
+    "unreasonable": "word-unreasonable.mp3",
+    "add up to": "word-add-up-to.mp3",
+    "mock-up": "word-mock-up.mp3",
+    "paperwork": "word-paperwork.mp3",
+    "appetite": "word-appetite.mp3",
+    "fold in": "word-fold-in.mp3",
+    "aggrieved": "word-aggrieved.mp3",
+    "mildly": "word-mildly.mp3",
+    "grievance": "word-grievance.mp3",
+    "arithmetic": "word-arithmetic.mp3",
+    "crest": "word-crest.mp3"
+  },
+  "termClips": {
+    "procurement": "term-procurement.mp3",
+    "invoice": "term-invoice.mp3",
+    "head office": "term-head-office.mp3",
+    "lean forward": "term-lean-forward.mp3",
+    "authority": "term-authority.mp3",
+    "reduce": "term-reduce.mp3",
+    "unreasonable": "term-unreasonable.mp3",
+    "add up to": "term-add-up-to.mp3",
+    "mock-up": "term-mock-up.mp3",
+    "paperwork": "term-paperwork.mp3",
+    "appetite": "term-appetite.mp3",
+    "fold in": "term-fold-in.mp3",
+    "aggrieved": "term-aggrieved.mp3",
+    "mildly": "term-mildly.mp3",
+    "grievance": "term-grievance.mp3",
+    "arithmetic": "term-arithmetic.mp3",
+    "crest": "term-crest.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

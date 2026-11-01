@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s2-e12",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "unfold": "word-unfold.mp3",
+    "data owner": "word-data-owner.mp3",
+    "average": "word-average.mp3",
+    "baseline": "word-baseline.mp3",
+    "finalist": "word-finalist.mp3",
+    "slide": "word-slide.mp3",
+    "scan": "word-scan.mp3",
+    "at risk": "word-at-risk.mp3",
+    "return": "word-return.mp3",
+    "steering committee": "word-steering-committee.mp3",
+    "off the table": "word-off-the-table.mp3",
+    "straight face": "word-straight-face.mp3",
+    "immaculate": "word-immaculate.mp3",
+    "spread": "word-spread.mp3",
+    "delay": "word-delay.mp3",
+    "breezy": "word-breezy.mp3"
+  },
+  "termClips": {
+    "unfold": "term-unfold.mp3",
+    "data owner": "term-data-owner.mp3",
+    "average": "term-average.mp3",
+    "baseline": "term-baseline.mp3",
+    "finalist": "term-finalist.mp3",
+    "slide": "term-slide.mp3",
+    "scan": "term-scan.mp3",
+    "at risk": "term-at-risk.mp3",
+    "return": "term-return.mp3",
+    "steering committee": "term-steering-committee.mp3",
+    "off the table": "term-off-the-table.mp3",
+    "straight face": "term-straight-face.mp3",
+    "immaculate": "term-immaculate.mp3",
+    "spread": "term-spread.mp3",
+    "delay": "term-delay.mp3",
+    "breezy": "term-breezy.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

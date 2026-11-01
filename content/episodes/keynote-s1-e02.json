@@ -1,0 +1,396 @@
+{
+  "id": "keynote-s1-e02",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 2,
+  "title": "The Spreadsheet",
+  "recapKo": "월요일 이른 아침, 헬렌이 재원을 불러 어머니 수술로 못 가게 된 싱가포르 서밋의 기조연설(800명 앞, 20분)과 같은 날 45분 패널을 대신 맡아 달라고 했다. 재원은 걱정되는 건 주제가 아니라 현장 질문이라고 털어놓았다. 지난달에도 한 재무 책임자의 비용 질문에 자기도 모르게 한국어로 답했기 때문이다.",
+  "keyExpressions": [
+    {
+      "phrase": "I can't commit to that yet.",
+      "meaningKo": "아직 확답은 못 드리겠습니다.",
+      "usage": "I can't commit to that yet, because I haven't seen the budget."
+    },
+    {
+      "phrase": "Can I think it over until ~?",
+      "meaningKo": "~까지 생각해 봐도 될까요?",
+      "usage": "Can I think it over until Friday and get back to you?"
+    },
+    {
+      "phrase": "I'd rather A than B",
+      "meaningKo": "B보다는 A가 낫다",
+      "usage": "I'd rather narrow the scope than miss the deadline."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 200,
+      "paragraphs": [
+        {
+          "en": "\"I remember,\" Helen said. \"I also remember the memo you sent him that night, and it saved the project.\" \"I can't commit to that yet,\" he said slowly. \"Can I think it over until tomorrow morning?\" \"Fine, but the organizers need an answer by Wednesday.\"",
+          "ko": "\"기억해요.\" 헬렌이 말했다. \"그날 밤 당신이 그분께 보낸 메모도 기억하고요. 그 메모가 프로젝트를 살렸죠.\" \"아직 확답은 못 드리겠습니다.\" 그가 천천히 말했다. \"내일 아침까지 생각해 봐도 될까요?\" \"좋아요. 다만 주최측이 수요일까지 답을 달라고 해요.\""
+        },
+        {
+          "en": "He sat through the team meeting and heard almost nothing. Daniel Cho, the young analyst beside him, passed him a note that said, \"You look like someone just audited you.\"",
+          "ko": "그는 팀 회의 내내 자리에 앉아 있었지만 거의 아무것도 듣지 못했다. 옆자리의 젊은 애널리스트 대니얼 조가 쪽지를 건넸다. \"누구한테 감사라도 받은 사람 얼굴이에요.\""
+        },
+        {
+          "en": "That night, Jae-won watched a video of last year's keynote. The speaker told jokes, handled hard questions with a smile, and never looked at his notes. Jae-won tried to picture himself on that stage, but all he could see was an empty seat.",
+          "ko": "그날 밤 재원은 작년 기조연설 영상을 봤다. 연사는 농담을 던지고, 어려운 질문도 웃으며 받아넘겼고, 메모는 한 번도 보지 않았다. 재원은 그 무대에 선 자신을 그려 보려 했지만 보이는 것은 빈자리뿐이었다."
+        },
+        {
+          "en": "So he opened a spreadsheet, as accountants do. The risk was easy to write down: twenty bad minutes in front of strangers. The cost of saying no was ten more years as the man who froze in meetings.",
+          "ko": "그래서 그는 회계사답게 스프레드시트를 열었다. 위험은 적기 쉬웠다. 낯선 사람들 앞에서 망치는 20분. 거절의 대가는 앞으로 10년 더 회의에서 얼어붙는 사람으로 사는 것이었다."
+        },
+        {
+          "en": "At 6:30 the next morning, he sent Helen a short email. \"I'll do it. To be honest, I'm nervous, but I'd rather try and fail than never try at all.\" One minute later, his phone rang. The number on the screen started with +65.",
+          "ko": "다음 날 아침 6시 30분, 그는 헬렌에게 짧은 메일을 보냈다. \"하겠습니다. 솔직히 긴장되지만, 시도조차 안 하느니 해 보고 실패하는 편이 낫겠습니다.\" 1분 뒤 전화가 울렸다. 화면에 뜬 번호는 +65로 시작했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I can't commit to that yet",
+        "Can I think it over until",
+        "I'd rather try and fail than never try at all"
+      ],
+      "wordCandidates": [
+        {
+          "term": "organizer",
+          "surface": "organizers",
+          "meaningKo": "주최자, 주최측",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Fine, but the organizers need an answer by Wednesday.\"",
+            "ko": "좋아요. 다만 주최측이 수요일까지 답을 달라고 해요."
+          }
+        },
+        {
+          "term": "commit",
+          "surface": "commit",
+          "meaningKo": "확약하다, 약속하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I can't commit to that yet,\" he said slowly.",
+            "ko": "아직 확답은 못 드리겠습니다."
+          }
+        },
+        {
+          "term": "sit through",
+          "surface": "sat through",
+          "meaningKo": "(지루하거나 힘든 것을) 끝까지 앉아서 견디다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He sat through the team meeting and heard almost nothing.",
+            "ko": "그는 팀 회의 내내 자리에 앉아 있었지만 거의 아무것도 듣지 못했다."
+          }
+        },
+        {
+          "term": "audit",
+          "surface": "audited",
+          "meaningKo": "감사하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel Cho, the young analyst beside him, passed him a note that said, \"You look like someone just audited you.\"",
+            "ko": "누구한테 감사라도 받은 사람 얼굴이에요."
+          }
+        },
+        {
+          "term": "handle",
+          "surface": "handled",
+          "meaningKo": "처리하다, 다루다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The speaker told jokes, handled hard questions with a smile, and never looked at his notes.",
+            "ko": "연사는 농담을 던지고, 어려운 질문도 웃으며 받아넘겼고, 메모는 한 번도 보지 않았다."
+          }
+        },
+        {
+          "term": "picture",
+          "surface": "picture himself",
+          "meaningKo": "머릿속에 그려 보다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won tried to picture himself on that stage, but all he could see was an empty seat.",
+            "ko": "재원은 그 무대에 선 자신을 그려 보려 했지만 보이는 것은 빈자리뿐이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 316,
+      "paragraphs": [
+        {
+          "en": "\"I know, because I was sitting right next to you,\" Helen said, not unkindly. \"I also remember the memo you sent that CFO at midnight, which was the clearest thing anyone wrote on that project. I'm not asking you to be somebody else.\" He looked down at the program and felt his pulse in his throat. \"I can't commit to that yet,\" he said carefully. \"Can I think it over until tomorrow morning?\" She told him that was fine, but the organizers needed an answer by Wednesday.",
+          "ko": "\"알아요, 제가 바로 옆에 앉아 있었으니까요.\" 헬렌이 나무라는 기색 없이 말했다. \"그날 자정에 당신이 그 CFO에게 보낸 메모도 기억해요. 그 프로젝트에서 누가 쓴 글보다 명료했죠. 다른 사람이 되어 달라는 게 아니에요.\" 그는 프로그램을 내려다보며 목까지 뛰는 맥박을 느꼈다. \"아직 확답은 못 드리겠습니다.\" 그가 조심스럽게 말했다. \"내일 아침까지 생각해 봐도 될까요?\" 그녀는 괜찮다고 하면서도 주최측이 수요일까지 답을 원한다고 말했다."
+        },
+        {
+          "en": "He sat through the team meeting without taking in a word of it. Daniel Cho, the second-year analyst who handled his data and slides, slid a sticky note across the table that read, \"You look like someone just audited you.\" Jae-won folded it up and put it in his pocket, because he had no idea how to explain.",
+          "ko": "그는 팀 회의 내내 앉아 있었지만 한마디도 머리에 들어오지 않았다. 그의 데이터와 슬라이드를 맡고 있는 2년 차 애널리스트 대니얼 조가 테이블 너머로 포스트잇을 밀어 보냈다. \"누구한테 감사라도 받은 사람 얼굴이에요.\" 재원은 그것을 접어 주머니에 넣었다. 어떻게 설명해야 할지 전혀 몰랐기 때문이다."
+        },
+        {
+          "en": "That night, he watched a video of last year's keynote on his laptop. The speaker cracked jokes, fielded hostile questions with a smile, and never once glanced at his notes. Jae-won tried to picture himself up there under the lights, but all he could see was an empty seat, and a program with somebody else's name crossed out.",
+          "ko": "그날 밤 그는 노트북으로 작년 기조연설 영상을 봤다. 연사는 농담을 던지고, 적대적인 질문도 웃으며 받아 냈고, 메모는 단 한 번도 보지 않았다. 재원은 조명 아래 그 자리에 선 자신을 그려 보려 했지만 보이는 것은 빈자리, 그리고 다른 사람 이름에 줄이 그어진 프로그램뿐이었다."
+        },
+        {
+          "en": "Around midnight, he did what accountants do and opened a spreadsheet. The downside was easy to quantify: twenty humiliating minutes in front of strangers he would probably never meet again. The cost of saying no was harder to book, but he knew what it was, because turning this down would mean staying the man who froze in meetings for the rest of his career.",
+          "ko": "자정 무렵 그는 회계사다운 일을 했다. 스프레드시트를 연 것이다. 손실 쪽은 수치화하기 쉬웠다. 아마 다시 만날 일 없을 낯선 사람들 앞에서 망신당하는 20분. 거절의 대가는 장부에 올리기 어려웠지만 그는 그게 뭔지 알았다. 이번 제안을 거절한다는 것은 남은 경력 내내 회의에서 얼어붙는 사람으로 남겠다는 뜻이었다."
+        },
+        {
+          "en": "At 6:30 the next morning, he sent Helen a two-line email. \"I'll do it. To be honest, I'm nervous, but I'd rather try and fail than never try at all.\" He had barely put the phone down when it rang, and the number on the screen started with +65.",
+          "ko": "다음 날 아침 6시 30분, 그는 헬렌에게 두 줄짜리 메일을 보냈다. \"하겠습니다. 솔직히 긴장되지만, 시도조차 안 하느니 해 보고 실패하는 편이 낫겠습니다.\" 휴대폰을 내려놓자마자 전화가 울렸고, 화면에 뜬 번호는 +65로 시작했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I can't commit to that yet",
+        "Can I think it over until",
+        "I'd rather try and fail than never try at all"
+      ],
+      "wordCandidates": [
+        {
+          "term": "field a question",
+          "surface": "fielded",
+          "meaningKo": "(질문을) 받아넘기다, 처리하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The speaker cracked jokes, fielded hostile questions with a smile, and never once glanced at his notes.",
+            "ko": "연사는 농담을 던지고, 적대적인 질문도 웃으며 받아 냈고, 메모는 단 한 번도 보지 않았다."
+          }
+        },
+        {
+          "term": "hostile",
+          "surface": "hostile",
+          "meaningKo": "적대적인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The speaker cracked jokes, fielded hostile questions with a smile, and never once glanced at his notes.",
+            "ko": "연사는 농담을 던지고, 적대적인 질문도 웃으며 받아 냈고, 메모는 단 한 번도 보지 않았다."
+          }
+        },
+        {
+          "term": "quantify",
+          "surface": "quantify",
+          "meaningKo": "수치화하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The downside was easy to quantify: twenty humiliating minutes in front of strangers he would probably never meet again.",
+            "ko": "손실 쪽은 수치화하기 쉬웠다. 아마 다시 만날 일 없을 낯선 사람들 앞에서 망신당하는 20분."
+          }
+        },
+        {
+          "term": "sit through",
+          "surface": "sat through",
+          "meaningKo": "(지루하거나 힘든 것을) 끝까지 앉아서 견디다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He sat through the team meeting without taking in a word of it.",
+            "ko": "그는 팀 회의 내내 앉아 있었지만 한마디도 머리에 들어오지 않았다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 435,
+      "paragraphs": [
+        {
+          "en": "\"I know, I was the one kicking you under the table,\" Helen said, \"and I was also the one who read the memo you sent him at midnight, which, incidentally, salvaged the whole account. I'm not asking you to morph into some silver-tongued stage animal. I'm asking you to say out loud what you already write down.\" He studied the program as if it might contain a loophole. \"I can't commit to that yet,\" he said, picking each word as though it might go off in his hand. \"Can I think it over until tomorrow morning?\" \"Sleep on it by all means, but the organizers want an answer by Wednesday, so don't make a career out of it.\"",
+          "ko": "\"알아요, 테이블 밑에서 당신을 걷어찬 게 저니까요.\" 헬렌이 말했다. \"그리고 당신이 자정에 그분께 보낸 메모를 읽은 것도 저예요. 말이 나온 김에, 그 메모가 계약 전체를 건졌죠. 말솜씨 좋은 무대 체질로 변신하라는 게 아니에요. 이미 글로 쓰는 걸 소리 내어 말하라는 거예요.\" 그는 빠져나갈 구멍이라도 있는 듯 프로그램을 들여다봤다. \"아직 확답은 못 드리겠습니다.\" 그는 단어 하나하나가 손에서 터지기라도 할 것처럼 골라 가며 말했다. \"내일 아침까지 생각해 봐도 될까요?\" \"얼마든지 자면서 생각해요. 다만 주최측이 수요일까지 답을 달라니까, 평생의 업으로 삼진 말고요.\""
+        },
+        {
+          "en": "The team meeting that followed might as well have been conducted underwater. Daniel Cho, the second-year analyst who kept his numbers honest and his morale afloat, nudged a sticky note across the table that read, \"You look like you've just been audited by someone who enjoys it,\" and Jae-won pocketed it without managing so much as a smile.",
+          "ko": "이어진 팀 회의는 물속에서 진행되는 것이나 다름없었다. 그의 숫자를 정직하게 지키고 사기도 떠받쳐 주는 2년 차 애널리스트 대니얼 조가 테이블 너머로 포스트잇을 슬쩍 밀었다. \"감사를 즐기는 사람한테 방금 감사받은 얼굴이에요.\" 재원은 미소 한 번 짓지 못한 채 그것을 주머니에 넣었다."
+        },
+        {
+          "en": "That night he did the stupid thing and pulled up last year's keynote on his laptop. The speaker was insufferably good: he tossed off jokes, parried a hostile question from the third row with a grin, and never so much as glanced at his notes. The harder Jae-won tried to superimpose himself on that stage, the more the picture refused to develop, until all he could see was an empty seat under the lights.",
+          "ko": "그날 밤 그는 하지 말았어야 할 일을 했다. 노트북으로 작년 기조연설을 찾아본 것이다. 연사는 짜증 날 만큼 훌륭했다. 농담을 툭툭 던지고, 셋째 줄에서 나온 적대적인 질문을 웃으며 받아치고, 메모는 힐끗 보지도 않았다. 재원이 그 무대에 자신을 겹쳐 보려 할수록 그림은 도무지 떠오르지 않았고, 마침내 조명 아래 빈자리만 보였다."
+        },
+        {
+          "en": "Around midnight he retreated to the only confessional he trusted, which was a spreadsheet with two columns. The downside was almost comically easy to quantify, at twenty minutes of public humiliation before strangers he'd never have to face again. The cost of declining wouldn't show up on any balance sheet, because it was a slow, compounding liability: another decade as the man who wrote beautifully and froze on cue.",
+          "ko": "자정 무렵 그는 자신이 믿는 유일한 고해소로 물러났다. 칸이 두 개인 스프레드시트였다. 손실 쪽은 우스울 만큼 수치화하기 쉬웠다. 다시 볼 일 없을 낯선 사람들 앞에서 공개 망신을 당하는 20분. 반면 거절의 대가는 어떤 대차대조표에도 나타나지 않았다. 그것은 천천히 불어나는 부채였기 때문이다. 글은 아름답게 쓰면서 때가 되면 어김없이 얼어붙는 사람으로 또 10년을 보내는 것."
+        },
+        {
+          "en": "He ran the numbers twice, the way he'd been trained to, and they came out the same both times, which annoyed him considerably. Somewhere after two he stopped looking for an error in the model and admitted that he had been hoping to find one.",
+          "ko": "그는 배운 대로 숫자를 두 번 돌렸고 두 번 다 같은 결과가 나왔다. 그게 꽤 짜증스러웠다. 새벽 두 시가 지났을 무렵 그는 모델에서 오류를 찾는 일을 그만두고, 오류가 나오기를 바라고 있었음을 인정했다."
+        },
+        {
+          "en": "At 6:30 the next morning, before he could talk himself out of it, he sent Helen two lines that had taken him forty minutes to write. \"I'll do it. To be honest, I'm terrified, but I'd rather try and fail than never try at all.\" He'd barely set the phone down on the kitchen counter when it started buzzing against the marble, and the number on the screen began with +65.",
+          "ko": "다음 날 아침 6시 30분, 마음이 바뀌기 전에 그는 쓰는 데 40분이 걸린 두 줄을 헬렌에게 보냈다. \"하겠습니다. 솔직히 무섭지만, 시도조차 안 하느니 해 보고 실패하는 편이 낫겠습니다.\" 휴대폰을 주방 조리대에 내려놓자마자 대리석 위에서 진동이 울리기 시작했고, 화면의 번호는 +65로 시작했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I can't commit to that yet",
+        "Can I think it over until",
+        "I'd rather try and fail than never try at all"
+      ],
+      "wordCandidates": [
+        {
+          "term": "salvage",
+          "surface": "salvaged",
+          "meaningKo": "(위기에서) 건져 내다, 구하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "I know, I was the one kicking you under the table,\" Helen said, \"and I was also the one who read the memo you sent him at midnight, which, incidentally, salvaged the whole account.",
+            "ko": "알아요, 테이블 밑에서 당신을 걷어찬 게 저예요. 그리고 당신이 자정에 그분께 보낸 메모를 읽은 것도 저고요. 말이 나온 김에, 그 메모가 계약 전체를 건졌죠."
+          }
+        },
+        {
+          "term": "silver-tongued",
+          "surface": "silver-tongued",
+          "meaningKo": "말솜씨가 뛰어난",
+          "paragraph": 0,
+          "sentence": {
+            "en": "I'm not asking you to morph into some silver-tongued stage animal.",
+            "ko": "말솜씨 좋은 무대 체질로 변신하라는 게 아니에요."
+          }
+        },
+        {
+          "term": "parry",
+          "surface": "parried",
+          "meaningKo": "(질문·공격을) 받아넘기다, 막아 내다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The speaker was insufferably good: he tossed off jokes, parried a hostile question from the third row with a grin, and never so much as glanced at his notes.",
+            "ko": "연사는 짜증 날 만큼 훌륭했다. 농담을 툭툭 던지고, 셋째 줄에서 나온 적대적인 질문을 웃으며 받아치고, 메모는 힐끗 보지도 않았다."
+          }
+        },
+        {
+          "term": "compounding liability",
+          "surface": "compounding liability",
+          "meaningKo": "눈덩이처럼 불어나는 부채",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The cost of declining wouldn't show up on any balance sheet, because it was a slow, compounding liability: another decade as the man who wrote beautifully and froze on cue.",
+            "ko": "거절의 대가는 어떤 대차대조표에도 나타나지 않았다. 그것은 천천히 불어나는 부채였기 때문이다. 글은 아름답게 쓰면서 때가 되면 어김없이 얼어붙는 사람으로 또 10년을 보내는 것."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "By when do the organizers need an answer?",
+      "options": [
+        "By Wednesday",
+        "By tomorrow morning",
+        "By Friday",
+        "By next month"
+      ],
+      "answerIndex": 0,
+      "evidence": "She told him that was fine, but the organizers needed an answer by Wednesday."
+    },
+    {
+      "question": "Why does Helen bring up the memo Jae-won sent the CFO at midnight?",
+      "options": [
+        "To remind him that he made a serious mistake on that project",
+        "To suggest that he should send the organizers a memo instead of speaking",
+        "To show that the CFO complained about his English",
+        "To show she believes in what he has to say, and that the real gap is only in saying it live"
+      ],
+      "answerIndex": 3,
+      "evidence": "I also remember the memo you sent that CFO at midnight, which was the clearest thing anyone wrote on that project."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I can't commit to that yet.",
+      "Can I think it over until tomorrow morning?",
+      "To be honest, I'm nervous, but I'd rather try and fail than never try at all."
+    ],
+    "summaryPromptKo": "재원이 왜 바로 답하지 않았는지, 그날 밤 무엇을 따져 봤는지, 그가 어떻게 결정했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "You had every reason to say no. Why did you say yes, and what worries you most?",
+      "ko": "거절할 이유는 충분했잖아요. 왜 하겠다고 했어요? 그리고 가장 걱정되는 건 뭐예요?"
+    },
+    "modelAnswer": "To be honest, I almost said no. The content doesn't worry me, because I've run these AI projects and I know where they go wrong. What worries me is the live questions, since that's where I freeze. But when I put it in a spreadsheet, staying silent was the bigger long-term cost. I'd rather try and fail than never try at all, and I'd really value your feedback on my first draft."
+  },
+  "nextTeaserKo": "싱가포르에서 걸려온 전화. 주최측 Marcus Reid가 시간, 형식, 청중을 하나씩 따져 묻기 시작한다. 그리고 재원이 대답하지 못할 질문 하나를 남긴다.",
+  "roleplay": {
+    "title": "하룻밤 뒤의 대답",
+    "situationKo": "Helen의 제안 앞에서 시간을 달라고 말하고, 다음 날 아침의 답도 내 입으로 해 봅니다. 본문에서는 메일로 보낸 답을 여기서는 직접 말해 보는 장면이에요. 틀려도 괜찮고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "I know, because I was sitting right next to you. I also remember the memo you sent at midnight, the clearest thing anyone wrote on that project.",
+        "ko": "알아요, 바로 옆에 앉아 있었으니까요. 그날 자정에 보낸 메모도 기억해요. 그 프로젝트에서 누가 쓴 글보다 명확했죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A memo is one thing. A stage with eight hundred people is another.",
+        "ko": "메모와 800명이 있는 무대는 다른 문제입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "I'm not asking you to be somebody else. So, what do you say?",
+        "ko": "다른 사람이 되라는 게 아니에요. 그래서, 어떻게 할래요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I can't commit to that yet. Can I think it over until tomorrow morning?",
+        "ko": "아직 확답은 못 드리겠습니다. 내일 아침까지 생각해 봐도 될까요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That's fine, but the organizers need an answer by Wednesday.",
+        "ko": "좋아요. 다만 주최측은 수요일까지 답을 받아야 해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. You'll have my answer tomorrow morning.",
+        "ko": "알겠습니다. 내일 아침에 답을 드리겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "It's the next morning, and you've had your night. So, what's the answer?",
+        "ko": "다음 날 아침이고, 하룻밤 생각했죠. 그래서, 답은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll do it. To be honest, I'm nervous.",
+        "ko": "하겠습니다. 솔직히 긴장됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "What made up your mind?",
+        "ko": "무엇 때문에 마음을 정했어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I opened a spreadsheet. The downside is twenty bad minutes. Saying no means staying the man who freezes in meetings.",
+        "ko": "스프레드시트를 열어 봤습니다. 손실은 망치는 20분입니다. 거절하면 회의에서 얼어붙는 사람으로 남는 거고요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And you can live with those twenty minutes?",
+        "ko": "그 20분은 감수할 수 있겠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'd rather try and fail than never try at all.",
+        "ko": "시도조차 안 하느니 해 보고 실패하는 편이 낫겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Good. That's all I needed to hear.",
+        "ko": "좋아요. 그 말이면 충분해요."
+      }
+    ]
+  }
+}

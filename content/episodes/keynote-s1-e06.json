@@ -1,0 +1,441 @@
+{
+  "id": "keynote-s1-e06",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 6,
+  "title": "What Is the Story?",
+  "recapKo": "9층 회의실에서 대니얼은 작년 질문 212개 중 87개가 같은 질문이라고 보여 주었다. 유나는 노림 성공 사례로 시작하자고 했고, 재원은 42곳 중 31곳이 실패했다는 자체 조사로 시작하자고 맞섰다. 겁만 줄 거라는 유나에게 재원이 반박하자, 유나는 증명해 보라고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "I see it a little differently.",
+      "meaningKo": "저는 조금 다르게 봅니다.",
+      "usage": "I see it a little differently, because the delay started before the launch."
+    },
+    {
+      "phrase": "What if we ~?",
+      "meaningKo": "~하면 어떨까요?",
+      "usage": "What if we pilot it in one region first?"
+    },
+    {
+      "phrase": "What we agree on is ~",
+      "meaningKo": "우리가 합의하는 부분은 ~입니다",
+      "usage": "What we agree on is the deadline, so let's talk about scope."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "His mouth was dry, but he kept going. \"I see it a little differently. Most of those pilots looked great in the demo. They stopped at month-end, when finance had to sign the numbers, because nobody signs what they can't check.\"",
+          "ko": "입이 바싹 말랐지만 그는 계속 말했다. \"저는 조금 다르게 봅니다. 그 파일럿들은 대부분 시연에서는 훌륭해 보였어요. 그러다 재무팀이 숫자에 서명해야 하는 월말에 멈췄죠. 확인할 수 없는 것에 서명할 사람은 없으니까요.\""
+        },
+        {
+          "en": "Helen finally looked up from her notes. \"That's a good fact, but it's not a story yet. What is the story?\" The room went quiet, and Jae-won thought about what had really happened at Norim.",
+          "ko": "헬렌이 마침내 메모에서 고개를 들었다. \"좋은 사실이지만 아직 이야기는 아니에요. 이야기가 뭐죠?\" 방이 조용해졌고, 재원은 노림에서 실제로 무슨 일이 있었는지 떠올렸다."
+        },
+        {
+          "en": "\"Norim almost failed too,\" he said slowly. \"Their controller, Han Mi-rae, refused to sign the first month's numbers. We spent six weeks rebuilding the audit trail, and only then did the close get shorter.\"",
+          "ko": "\"노림도 실패할 뻔했어요.\" 그가 천천히 말했다. \"그 회사 재무 담당자 한미래 씨가 첫 달 숫자에 서명을 거부했거든요. 우리가 6주 동안 감사 추적 기록을 다시 만들었고, 그제야 결산 기간이 줄었어요.\""
+        },
+        {
+          "en": "He turned to Yuna. \"What if we start with the 31 and then use Norim as the way out?\" She thought about it. \"What we agree on is that Norim stays in the talk, and their CFO must approve the name.\"",
+          "ko": "그는 유나를 돌아봤다. \"31개로 시작하고, 노림을 해법으로 쓰면 어떨까요?\" 그녀는 잠시 생각했다. \"우리가 합의하는 부분은 노림이 발표에 남는다는 거예요. 그리고 이름은 그 회사 CFO의 승인을 받아야 해요.\""
+        },
+        {
+          "en": "Helen wrote a title on the board: \"Thirty-One Out of Forty-Two: Why AI Pilots Die at Month-End.\" She said, \"Send Marcus the abstract tomorrow, and bring me a full draft on Friday at 7:30.\"",
+          "ko": "헬렌이 보드에 제목을 적었다. \"42개 중 31개: AI 파일럿은 왜 월말에 죽는가.\" 그녀가 말했다. \"내일 마커스에게 초록을 보내고, 금요일 7시 30분에 초안 전체를 가져와요.\""
+        },
+        {
+          "en": "As the others left, Daniel stayed behind with his laptop. \"We should probably check that 42 at some point,\" he said quietly. \"Some of it came from an old tracker.\" Jae-won asked, \"Is there a problem?\" \"Probably not,\" Daniel said, a little too quickly.",
+          "ko": "다른 사람들이 나간 뒤 대니얼이 노트북을 들고 남았다. \"언젠가 그 42개를 확인해 봐야 할 것 같아요.\" 그가 조용히 말했다. \"일부는 예전 추적 파일에서 가져온 거라서요.\" 재원이 물었다. \"문제가 있어요?\" \"아마 없을 거예요.\" 대니얼이 조금 너무 빨리 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I see it a little differently",
+        "What if we",
+        "What we agree on is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "demo",
+          "surface": "demo",
+          "meaningKo": "시연",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Most of those pilots looked great in the demo.",
+            "ko": "그 파일럿들은 대부분 시연에서는 훌륭해 보였어요."
+          }
+        },
+        {
+          "term": "sign",
+          "surface": "sign the numbers",
+          "meaningKo": "(숫자에) 서명하다, 승인하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "They stopped at month-end, when finance had to sign the numbers, because nobody signs what they can't check.",
+            "ko": "그러다 재무팀이 숫자에 서명해야 하는 월말에 멈췄죠. 확인할 수 없는 것에 서명할 사람은 없으니까요."
+          }
+        },
+        {
+          "term": "controller",
+          "surface": "controller",
+          "meaningKo": "(기업의) 재무 담당자, 회계 책임자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Their controller, Han Mi-rae, refused to sign the first month's numbers.",
+            "ko": "그 회사 재무 담당자 한미래 씨가 첫 달 숫자에 서명을 거부했거든요."
+          }
+        },
+        {
+          "term": "refuse",
+          "surface": "refused",
+          "meaningKo": "거부하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Their controller, Han Mi-rae, refused to sign the first month's numbers.",
+            "ko": "그 회사 재무 담당자 한미래 씨가 첫 달 숫자에 서명을 거부했거든요."
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "We spent six weeks rebuilding the audit trail, and only then did the close get shorter.",
+            "ko": "우리가 6주 동안 감사 추적 기록을 다시 만들었고, 그제야 결산 기간이 줄었어요."
+          }
+        },
+        {
+          "term": "tracker",
+          "surface": "tracker",
+          "meaningKo": "추적 파일, 관리 대장",
+          "paragraph": 5,
+          "sentence": {
+            "en": "\"Some of it came from an old tracker.\"",
+            "ko": "일부는 예전 추적 파일에서 가져온 거라서요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 372,
+      "paragraphs": [
+        {
+          "en": "His mouth had gone dry, but this was an argument he had lived through. \"I see it a little differently, because almost all of those pilots looked great in the demo, and the models were rarely the issue. They stalled at month-end, when someone in finance had to put a signature on numbers she couldn't trace back to a source. No controller signs off on a black box, and I wouldn't have either.\"",
+          "ko": "입이 바싹 말랐지만 이건 그가 직접 겪은 논쟁이었다. \"저는 조금 다르게 봅니다. 그 파일럿들은 거의 다 시연에서는 훌륭해 보였고 모델이 문제인 경우는 드물었어요. 멈춘 건 월말이었어요. 재무팀의 누군가가 출처까지 추적할 수 없는 숫자에 서명해야 할 때요. 내부를 알 수 없는 시스템을 승인할 재무 담당자는 없어요. 저라도 안 했을 거고요.\""
+        },
+        {
+          "en": "Helen finally looked up from her notes. \"That's a good insight, but it isn't a story yet,\" she said. \"Right now you have a statistic and Yuna has a brochure. Who's in trouble, what do they do, and what changes? What is the story?\" Nobody answered, and the air conditioner filled the silence.",
+          "ko": "헬렌이 마침내 메모에서 고개를 들었다. \"좋은 통찰이지만 아직 이야기는 아니에요.\" 그녀가 말했다. \"지금 당신에게는 통계가 있고 유나에게는 브로슈어가 있어요. 누가 곤경에 처해 있고, 무엇을 하고, 무엇이 달라지죠? 이야기가 뭐예요?\" 아무도 답하지 못했고, 에어컨 소리가 침묵을 채웠다."
+        },
+        {
+          "en": "Jae-won found himself thinking about Norim, and not the version on the firm's website. \"Norim nearly was number thirty-two,\" he said slowly. \"Their controller, Han Mi-rae, refused to sign the first month's numbers and went back to checking everything by hand. We lost six weeks rebuilding the audit trail, and that's the only reason the close ever got shorter.\"",
+          "ko": "재원은 어느새 노림을 생각하고 있었다. 회사 웹사이트에 실린 버전이 아니라. \"노림도 서른두 번째가 될 뻔했어요.\" 그가 천천히 말했다. \"그 회사 재무 담당자 한미래 씨가 첫 달 숫자에 서명을 거부하고 전부 손으로 다시 확인했거든요. 우리는 감사 추적 기록을 다시 만드느라 6주를 날렸고, 결산이 짧아진 이유는 오직 그것뿐이에요.\""
+        },
+        {
+          "en": "He turned to Yuna. \"What if we open with the thirty-one, and then use Norim as the way out, including the part where it almost failed?\" She tapped her pen against the table while she ran it through in her head. \"What we agree on is that Norim stays in, and I can live with the rest as long as their CFO clears the name.\"",
+          "ko": "그는 유나를 돌아봤다. \"31곳으로 시작하고, 실패할 뻔했던 부분까지 포함해 노림을 해법으로 쓰면 어떨까요?\" 그녀는 펜으로 테이블을 두드리며 머릿속으로 따져 봤다. \"우리가 합의하는 부분은 노림이 들어간다는 거예요. 그 회사 CFO가 이름 사용을 승인해 준다면 나머지는 받아들일 수 있어요.\""
+        },
+        {
+          "en": "Helen got up and wrote on the board: \"Thirty-One Out of Forty-Two: Why AI Pilots Die at Month-End.\" She said, \"The abstract goes to Marcus tomorrow, and I want a full draft on my desk at 7:30 on Friday. Write it to be heard, not read, because you have a bad habit of writing footnotes.\"",
+          "ko": "헬렌이 일어나 보드에 적었다. \"42개 중 31개: AI 파일럿은 왜 월말에 죽는가.\" 그녀가 말했다. \"초록은 내일 마커스에게 보내고, 금요일 7시 30분까지 초안 전체를 제 책상에 올려 줘요. 읽히는 글이 아니라 들리는 글로 쓰세요. 당신은 각주 다는 나쁜 버릇이 있으니까요.\""
+        },
+        {
+          "en": "When the others had filed out, Daniel lingered by the door with his laptop under his arm. \"We should probably take a look at the forty-two at some point,\" he said, not quite meeting Jae-won's eye. \"A lot of it came over from an old tracker, before my time.\" Jae-won capped the marker and asked, \"Is there a problem?\" \"Probably not,\" Daniel said, a little too quickly.",
+          "ko": "다른 사람들이 줄지어 나간 뒤에도 대니얼은 노트북을 옆구리에 끼고 문가에서 서성였다. \"언젠가 그 42곳을 한번 봐야 할 것 같아요.\" 그는 재원과 눈을 제대로 마주치지 못한 채 말했다. \"상당 부분이 제가 오기 전 예전 추적 파일에서 넘어온 거라서요.\" 재원이 마커 뚜껑을 닫으며 물었다. \"문제가 있어요?\" \"아마 없을 거예요.\" 대니얼이 조금 너무 빨리 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I see it a little differently",
+        "What if we",
+        "What we agree on is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "stall",
+          "surface": "stalled",
+          "meaningKo": "멈춰 서다, 진척이 없다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "They stalled at month-end, when someone in finance had to put a signature on numbers she couldn't trace back to a source.",
+            "ko": "멈춘 건 월말이었어요. 재무팀의 누군가가 출처까지 추적할 수 없는 숫자에 서명해야 할 때요."
+          }
+        },
+        {
+          "term": "black box",
+          "surface": "black box",
+          "meaningKo": "내부를 알 수 없는 시스템",
+          "paragraph": 0,
+          "sentence": {
+            "en": "No controller signs off on a black box, and I wouldn't have either.",
+            "ko": "내부를 알 수 없는 시스템을 승인할 재무 담당자는 없어요. 저라도 안 했을 거고요."
+          }
+        },
+        {
+          "term": "run through",
+          "surface": "ran it through",
+          "meaningKo": "머릿속으로 따져 보다, 검토하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She tapped her pen against the table while she ran it through in her head.",
+            "ko": "그녀는 펜으로 테이블을 두드리며 머릿속으로 따져 봤다."
+          }
+        },
+        {
+          "term": "clear",
+          "surface": "clears the name",
+          "meaningKo": "(이름 사용 등을) 승인하다, 허가하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"What we agree on is that Norim stays in, and I can live with the rest as long as their CFO clears the name.\"",
+            "ko": "우리가 합의하는 부분은 노림이 들어간다는 거예요. 그 회사 CFO가 이름 사용을 승인해 준다면 나머지는 받아들일 수 있어요."
+          }
+        },
+        {
+          "term": "file out",
+          "surface": "filed out",
+          "meaningKo": "줄지어 나가다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "When the others had filed out, Daniel lingered by the door with his laptop under his arm.",
+            "ko": "다른 사람들이 줄지어 나간 뒤에도 대니얼은 노트북을 옆구리에 끼고 문가에서 서성였다."
+          }
+        },
+        {
+          "term": "linger",
+          "surface": "lingered",
+          "meaningKo": "서성이다, 떠나지 않고 머물다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "When the others had filed out, Daniel lingered by the door with his laptop under his arm.",
+            "ko": "다른 사람들이 줄지어 나간 뒤에도 대니얼은 노트북을 옆구리에 끼고 문가에서 서성였다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 514,
+      "paragraphs": [
+        {
+          "en": "His mouth had gone dry, but this, at least, was ground he had personally bled on. \"I see it a little differently, because I've been the guy in the room when it happens. Nearly all of those pilots demoed beautifully, and the model was hardly ever the culprit. They died at month-end, when some poor controller was asked to put her signature on a number she couldn't trace to anything, and nobody with a license to lose signs off on a black box.\"",
+          "ko": "입이 바싹 말랐지만 적어도 이건 그가 직접 피 흘린 땅이었다. \"저는 조금 다르게 봅니다. 그 일이 벌어질 때 그 방에 있던 사람이 저니까요. 그 파일럿들은 거의 다 시연은 멋지게 해냈고, 모델이 범인인 경우는 거의 없었어요. 죽은 건 월말이었어요. 어느 불쌍한 재무 담당자가 아무것에도 추적되지 않는 숫자에 서명하라는 요구를 받았을 때요. 잃을 자격증이 있는 사람은 내부를 알 수 없는 시스템을 승인하지 않아요.\""
+        },
+        {
+          "en": "\"Mm,\" said Helen at last, surfacing from her notes, and the whole room turned toward her like plants. \"That's an insight, and a decent one, but let's not kid ourselves that it's a story. At the moment you've got a statistic, Yuna's got a brochure, and neither of you has given me a single human being to worry about. So who's in trouble, what do they do about it, and what's different at the end? What is the story?\"",
+          "ko": "\"음.\" 헬렌이 마침내 메모에서 떠오르듯 고개를 들었고, 방 안 모두가 식물처럼 그녀 쪽으로 몸을 돌렸다. \"통찰이에요, 꽤 괜찮은. 하지만 그걸 이야기라고 착각하진 맙시다. 지금 당신에겐 통계가 있고 유나에겐 브로슈어가 있는데, 두 사람 다 제가 걱정해 줄 인간 한 명을 내놓지 않았어요. 그러니까 누가 곤경에 처했고, 그 사람이 뭘 하고, 끝에 가서 뭐가 달라지죠? 이야기가 뭐예요?\""
+        },
+        {
+          "en": "Jae-won found his mind drifting to Norim, though not the sanitized version on the firm's website. \"Norim very nearly was number thirty-two,\" he said slowly. \"Their controller, Han Mi-rae, flatly refused to sign the first month's numbers, and she went back to checking the whole run by hand, at her kitchen table, while we were telling her boss how much time she was saving. We burned six weeks rebuilding the audit trail to her satisfaction, and that, not the model, is the only reason the close ever got shorter.\"",
+          "ko": "재원의 생각은 어느새 노림으로 흘러갔다. 회사 웹사이트에 실린 깨끗하게 다듬은 버전이 아니라. \"노림도 하마터면 서른두 번째가 될 뻔했어요.\" 그가 천천히 말했다. \"그 회사 재무 담당자 한미래 씨가 첫 달 숫자에 서명을 딱 잘라 거부하고, 우리가 그분 상사에게 시간을 얼마나 아껴 주는지 떠드는 동안 자기 집 식탁에서 전체를 손으로 다시 확인했어요. 우리는 그분 마음에 들 때까지 감사 추적 기록을 다시 만드느라 6주를 태웠고, 결산이 짧아진 이유는 모델이 아니라 오직 그것뿐이에요.\""
+        },
+        {
+          "en": "He turned to Yuna before he could lose his nerve. \"What if we open with the thirty-one, cold, and then bring in Norim as the way out, warts and all, including the part where it almost went under?\" She drummed her pen on the table, visibly repricing the whole thing. \"What we agree on is that Norim stays in, front and center, and I can swallow the undertaker routine as long as their CFO clears the name. If he balks, you're telling it about 'a logistics company,' and I'm going to be unbearable about it for a year.\"",
+          "ko": "그는 용기가 사라지기 전에 유나를 돌아봤다. \"31곳으로 곧장 시작하고, 망할 뻔했던 부분까지 있는 그대로 해서 노림을 해법으로 끌어들이면 어떨까요?\" 그녀는 펜으로 테이블을 두드리며 눈에 띄게 전체 가격을 다시 매겼다. \"우리가 합의하는 부분은 노림이 들어간다는 거예요, 그것도 정중앙에. 그 회사 CFO가 이름 사용을 승인해 준다면 그 장의사 노릇은 삼켜 줄 수 있어요. 그가 난색을 보이면 '어느 물류 회사' 이야기로 해야 하고, 저는 1년 내내 그걸로 못 견디게 굴 거예요.\""
+        },
+        {
+          "en": "Helen got up, took the marker out of his hand, and wrote: \"Thirty-One Out of Forty-Two: Why AI Pilots Die at Month-End.\" She said, \"The abstract goes to Marcus tomorrow, and a full draft lands on my desk at 7:30 on Friday. Write it to be heard, not read, because left to your own devices you will footnote your own wedding vows.\"",
+          "ko": "헬렌이 일어나 그의 손에서 마커를 가져가 적었다. \"42개 중 31개: AI 파일럿은 왜 월말에 죽는가.\" 그녀가 말했다. \"초록은 내일 마커스에게 보내고, 금요일 7시 30분에 초안 전체가 제 책상에 올라와야 해요. 읽히는 글이 아니라 들리는 글로 쓰세요. 그냥 놔두면 당신은 결혼 서약에도 각주를 달 사람이니까요.\""
+        },
+        {
+          "en": "The others filed out, but Daniel hung back in the doorway with his laptop clamped under his arm, looking like a man who had rehearsed a sentence and was now regretting it. \"We should probably kick the tires on that forty-two at some point,\" he said, addressing a spot slightly to the left of Jae-won's ear. \"A fair bit of it came over from the old tracker, before my time, and I've never actually been through it line by line.\" Jae-won stopped with his hand on the light switch and asked, \"Is there a problem?\" \"Probably not,\" said Daniel, a little too quickly.",
+          "ko": "다른 사람들은 줄지어 나갔지만 대니얼은 노트북을 옆구리에 꽉 낀 채 문간에 남았다. 문장 하나를 연습해 놓고 지금 후회하는 사람 같은 표정이었다. \"언젠가 그 42곳을 꼼꼼히 뜯어봐야 할 것 같아요.\" 그는 재원의 귀보다 살짝 왼쪽 어딘가를 보며 말했다. \"상당 부분이 제가 오기 전 예전 추적 파일에서 넘어왔고, 사실 한 줄씩 살펴본 적이 없거든요.\" 재원이 전등 스위치에 손을 얹은 채 멈춰 서서 물었다. \"문제가 있어요?\" \"아마 없을 거예요.\" 대니얼이 조금 너무 빨리 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I see it a little differently",
+        "What if we",
+        "What we agree on is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "culprit",
+          "surface": "culprit",
+          "meaningKo": "범인, 주된 원인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Nearly all of those pilots demoed beautifully, and the model was hardly ever the culprit.",
+            "ko": "그 파일럿들은 거의 다 시연은 멋지게 해냈고, 모델이 범인인 경우는 거의 없었어요."
+          }
+        },
+        {
+          "term": "kid oneself",
+          "surface": "kid ourselves",
+          "meaningKo": "스스로를 속이다, 착각하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "That's an insight, and a decent one, but let's not kid ourselves that it's a story.",
+            "ko": "통찰이에요, 꽤 괜찮은. 하지만 그걸 이야기라고 착각하진 맙시다."
+          }
+        },
+        {
+          "term": "sanitized",
+          "surface": "sanitized",
+          "meaningKo": "(불편한 부분을 뺀) 깨끗하게 다듬은",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won found his mind drifting to Norim, though not the sanitized version on the firm's website.",
+            "ko": "재원의 생각은 어느새 노림으로 흘러갔다. 회사 웹사이트에 실린 깨끗하게 다듬은 버전이 아니라."
+          }
+        },
+        {
+          "term": "warts and all",
+          "surface": "warts and all",
+          "meaningKo": "결점까지 있는 그대로",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"What if we open with the thirty-one, cold, and then bring in Norim as the way out, warts and all, including the part where it almost went under?\"",
+            "ko": "31곳으로 곧장 시작하고, 망할 뻔했던 부분까지 있는 그대로 해서 노림을 해법으로 끌어들이면 어떨까요?"
+          }
+        },
+        {
+          "term": "balk",
+          "surface": "balks",
+          "meaningKo": "난색을 보이다, 주저하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If he balks, you're telling it about 'a logistics company,' and I'm going to be unbearable about it for a year.",
+            "ko": "그가 난색을 보이면 '어느 물류 회사' 이야기로 해야 하고, 저는 1년 내내 그걸로 못 견디게 굴 거예요."
+          }
+        },
+        {
+          "term": "left to one's own devices",
+          "surface": "left to your own devices",
+          "meaningKo": "혼자 내버려 두면",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Write it to be heard, not read, because left to your own devices you will footnote your own wedding vows.",
+            "ko": "읽히는 글이 아니라 들리는 글로 쓰세요. 그냥 놔두면 당신은 결혼 서약에도 각주를 달 사람이니까요."
+          }
+        },
+        {
+          "term": "kick the tires",
+          "surface": "kick the tires",
+          "meaningKo": "(사기 전에) 꼼꼼히 뜯어보다, 점검하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "\"We should probably kick the tires on that forty-two at some point,\" he said, addressing a spot slightly to the left of Jae-won's ear.",
+            "ko": "언젠가 그 42곳을 꼼꼼히 뜯어봐야 할 것 같아요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was Han Mi-rae's reaction to the first month's numbers at Norim?",
+      "options": [
+        "She approved them and praised the pilot.",
+        "She refused to sign and went back to checking everything by hand.",
+        "She asked the CFO to cancel the project.",
+        "She rebuilt the audit trail herself in six weeks."
+      ],
+      "answerIndex": 1,
+      "evidence": "refused to sign the first month's numbers and went back to checking everything by hand"
+    },
+    {
+      "question": "What is Daniel really doing when he says \"We should probably take a look at the forty-two at some point\"?",
+      "options": [
+        "Reminding Jae-won to thank the old team",
+        "Asking for extra time off before Friday",
+        "Telling Jae-won that the number is definitely wrong",
+        "Raising a worry about the data in a soft way, without calling it a problem yet"
+      ],
+      "answerIndex": 3,
+      "evidence": "A lot of it came over from an old tracker, before my time."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I see it a little differently, because almost all of those pilots looked great in the demo.",
+      "What if we open with the thirty-one, and then use Norim as the way out?",
+      "What we agree on is that Norim stays in."
+    ],
+    "summaryPromptKo": "재원의 논거, 헬렌이 무엇을 요구했는지, 어떤 절충안으로 정리됐는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Yuna Seo",
+      "en": "I still think opening with failure is a risk. Why should a buyer trust a firm that talks about failing projects?",
+      "ko": "저는 여전히 실패 이야기로 시작하는 게 위험하다고 봐요. 실패한 프로젝트를 말하는 회사를 구매자가 왜 믿어야 하죠?"
+    },
+    "modelAnswer": "I take your point, but I see it a little differently. Those buyers already know most pilots stall, because eighty-seven of them asked about it last year. If we pretend otherwise, we sound like every other vendor. What if we name the problem first and then show how Norim got through it, including the six weeks we lost? What we agree on is that Norim stays in the talk, and that's the part that earns their trust."
+  },
+  "nextTeaserKo": "금요일 아침 7시 30분, 재원은 밤새 쓴 초안을 들고 헬렌의 사무실로 간다. 스스로는 잘 썼다고 생각한다. 헬렌의 첫마디는 \"아주 좋은 보고서네요\"였다.",
+  "roleplay": {
+    "title": "이야기가 뭔가요?",
+    "situationKo": "Yuna와의 논쟁 한가운데서 Helen이 고개를 듭니다. 내가 재원이 되어 내 생각을 설명하고, 함께 합의점까지 가 봅니다. 틀려도 괜찮고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Nobody hires the consultant who scared them. So prove me wrong.",
+        "ko": "자기를 겁준 컨설턴트를 고용하는 사람은 없어요. 그러니 제가 틀렸다는 걸 증명해 보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I see it a little differently. Those pilots looked great in the demo, and then they stalled at month-end.",
+        "ko": "저는 조금 다르게 봅니다. 그 파일럿들은 데모에서는 훌륭했는데 월말에 멈췄어요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That's an insight, but it isn't a story yet. Right now you have a statistic and Yuna has a brochure. What is the story?",
+        "ko": "좋은 통찰이지만 아직 이야기는 아니에요. 지금 재원 씨에겐 통계가, 유나 씨에겐 브로슈어가 있을 뿐이죠. 이야기가 뭔가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Norim nearly was number thirty-two. Their controller refused to sign the first month's numbers.",
+        "ko": "Norim도 하마터면 32번째가 될 뻔했어요. 재무 담당자가 첫 달 숫자에 서명을 거부했거든요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Go on. What does she do, and what changes?",
+        "ko": "계속해 봐요. 그 사람이 뭘 하고, 뭐가 바뀌죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Han Mi-rae went back to checking by hand. We lost six weeks rebuilding the audit trail, and that's why the close got shorter.",
+        "ko": "한미래 씨는 다시 전부 손으로 확인했어요. 감사 추적을 다시 만드느라 6주를 잃었고, 그래서 결산이 짧아진 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "And where does that leave Norim in your talk?",
+        "ko": "그럼 발표에서 Norim은 어떻게 되는 거예요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What if we open with the thirty-one, and then use Norim as the way out?",
+        "ko": "31곳으로 시작하고, Norim을 빠져나갈 길로 쓰면 어떨까요?",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Including the part where it almost failed? I can live with that, as long as their CFO clears the name.",
+        "ko": "거의 실패할 뻔한 부분까지요? 그건 받아들일 수 있어요. 그쪽 CFO가 이름을 승인해 준다면요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then what we agree on is that Norim stays in, and their CFO clears the name.",
+        "ko": "그럼 우리가 합의하는 부분은, Norim은 넣고 그쪽 CFO에게 이름 승인을 받는다는 거네요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Good. \"Thirty-One Out of Forty-Two: Why AI Pilots Die at Month-End.\" I want a full draft on my desk at 7:30 on Friday.",
+        "ko": "좋아요. \"42곳 중 31곳: AI 파일럿은 왜 월말에 죽는가.\" 금요일 7시 30분까지 전체 초안을 제 책상에 올려 주세요."
+      }
+    ]
+  }
+}

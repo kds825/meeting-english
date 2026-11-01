@@ -1,0 +1,380 @@
+{
+  "id": "keynote-s1-e20",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 20,
+  "title": "Twelve on the Wall",
+  "recapKo": "월요일 저녁 9층 벽에 슬라이드 30장이 붙었고, 헬렌은 메시지 셋 중 하나를 가리키지 않으면 내려온다는 규칙을 세웠다. 재원은 자기 방법론 슬라이드 네 장을 직접 떼어 냈고, 유나의 로고 슬라이드에는 범위 밖이라고 잘라 말했다. 유나는 노림 슬라이드만은 내줄 생각이 없다.",
+  "keyExpressions": [
+    {
+      "phrase": "If we have to choose, ~",
+      "meaningKo": "하나를 골라야 한다면, ~",
+      "usage": "If we have to choose, I'd keep the launch date and cut the features."
+    },
+    {
+      "phrase": "That's a nice-to-have.",
+      "meaningKo": "그건 있으면 좋은 정도예요. (필수는 아님)",
+      "usage": "That's a nice-to-have, so let's add it in the second phase."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "\"And Norim's two million dollars is the proof,\" she said. \"I see it a little differently,\" he said. \"A dollar figure sounds like a sales pitch, but eleven days to six is a story.\" \"What we agree on is one Norim slide, with no dollars,\" she said, \"and you introduce me to both prospects at the coffee break.\"",
+          "ko": "\"그리고 노림의 200만 달러가 증거예요.\" 그녀가 말했다. \"저는 조금 다르게 봅니다.\" 그가 말했다. \"달러 금액은 영업처럼 들리지만, 11일에서 6일은 이야기가 돼요.\" \"우리가 합의하는 부분은 달러 없는 노림 슬라이드 한 장이에요.\" 그녀가 말했다. \"그리고 커피 시간에 잠재 고객 두 곳에 저를 소개해 줘요.\""
+        },
+        {
+          "en": "That left Daniel's six charts, and they had taken him two days. \"If we have to choose, I'd keep the one that shows where pilots stop. The rest? That's a nice-to-have,\" he said, and he took down the other five. Jae-won quietly bought him a coffee.",
+          "ko": "그러자 대니얼의 차트 여섯 개가 남았는데, 만드는 데 이틀이 걸린 것들이었다. \"하나를 골라야 한다면, 파일럿이 어디서 멈추는지 보여 주는 걸 남기겠어요. 나머지요? 그건 있으면 좋은 정도예요.\" 그는 그렇게 말하고 나머지 다섯 개를 떼어 냈다. 재원은 조용히 그에게 커피를 사다 주었다."
+        },
+        {
+          "en": "By nine, there were twelve sheets on the wall and eighteen on the floor. Jae-won stood up and ran the whole talk with a timer, and it took nineteen minutes and twenty seconds. For the first time, he had time left at the end.",
+          "ko": "9시가 되자 벽에는 12장, 바닥에는 18장이 있었다. 재원은 일어나 타이머를 켜고 발표 전체를 돌렸고, 19분 20초가 걸렸다. 처음으로 끝에 시간이 남았다."
+        },
+        {
+          "en": "He noticed that he had not looked at the wall once. Helen picked up her bag. \"Slides lock on Thursday, and I'll be in Seattle,\" she said. \"That's a talk now, so don't add anything back.\"",
+          "ko": "그는 자신이 벽을 한 번도 돌아보지 않았다는 걸 알아차렸다. 헬렌이 가방을 들었다. \"슬라이드 확정은 목요일이고, 저는 시애틀에 있을 거예요.\" 그녀가 말했다. \"이제 발표가 됐으니 아무것도 다시 넣지 마요.\""
+        },
+        {
+          "en": "He got home feeling lighter than he had in weeks. At ten to eleven, his phone lit up with an email from Marcus: \"Panel lineup is locked. One new name, and you should hear it from me. Tomorrow, 6:31 your time. I run at six.\"",
+          "ko": "그는 몇 주 만에 가장 가벼운 마음으로 집에 돌아왔다. 11시 10분 전, 마커스의 메일이 휴대폰에 떴다. \"패널 명단이 확정됐습니다. 새 이름이 하나 있는데, 제게서 직접 듣는 게 좋겠습니다. 내일 그쪽 시간 6시 31분. 저는 6시에 달립니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "If we have to choose",
+        "That's a nice-to-have"
+      ],
+      "wordCandidates": [
+        {
+          "term": "sales pitch",
+          "surface": "sales pitch",
+          "meaningKo": "영업 발표, 판매 권유",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"A dollar figure sounds like a sales pitch, but eleven days to six is a story.\"",
+            "ko": "\"달러 금액은 영업처럼 들리지만, 11일에서 6일은 이야기가 돼요.\""
+          }
+        },
+        {
+          "term": "introduce",
+          "surface": "introduce",
+          "meaningKo": "소개하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"What we agree on is one Norim slide, with no dollars,\" she said, \"and you introduce me to both prospects at the coffee break.\"",
+            "ko": "\"우리가 합의하는 부분은 달러 없는 노림 슬라이드 한 장이에요.\" 그녀가 말했다. \"그리고 커피 시간에 잠재 고객 두 곳에 저를 소개해 줘요.\""
+          }
+        },
+        {
+          "term": "chart",
+          "surface": "charts",
+          "meaningKo": "차트, 도표",
+          "paragraph": 1,
+          "sentence": {
+            "en": "That left Daniel's six charts, and they had taken him two days.",
+            "ko": "그러자 대니얼의 차트 여섯 개가 남았는데, 만드는 데 이틀이 걸린 것들이었다."
+          }
+        },
+        {
+          "term": "notice",
+          "surface": "noticed",
+          "meaningKo": "알아차리다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He noticed that he had not looked at the wall once.",
+            "ko": "그는 자신이 벽을 한 번도 돌아보지 않았다는 걸 알아차렸다."
+          }
+        },
+        {
+          "term": "lock",
+          "surface": "lock",
+          "meaningKo": "확정하다, 잠그다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Slides lock on Thursday, and I'll be in Seattle,\" she said.",
+            "ko": "\"슬라이드 확정은 목요일이고, 저는 시애틀에 있을 거예요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 350,
+      "paragraphs": [
+        {
+          "en": "\"Fine, but Norim's two million dollars is the proof, and you're not cutting the proof,\" she said. He said, \"I see it a little differently, because a dollar figure sounds like a sales pitch, whereas eleven days to six is something a CFO will repeat in a taxi.\" She tapped her pen against her teeth. \"What we agree on is one Norim slide with no dollars on it, and in exchange you personally introduce me to both prospects at the coffee break.\"",
+          "ko": "\"좋아요. 하지만 노림의 200만 달러가 증거이고, 증거를 자르진 못해요.\" 그녀가 말했다. 그가 말했다. \"저는 조금 다르게 봅니다. 달러 금액은 영업처럼 들리지만, 11일에서 6일은 CFO가 택시에서 되풀이할 말이니까요.\" 그녀는 펜으로 이를 톡톡 쳤다. \"우리가 합의하는 부분은 달러 없는 노림 슬라이드 한 장이에요. 대신 커피 시간에 잠재 고객 두 곳에 저를 직접 소개해 줘요.\""
+        },
+        {
+          "en": "That left Daniel's six charts, which had cost him the better part of two days, and everyone found something else to look at. He stood in front of them for a while with his hands in his pockets. \"If we have to choose, I'd keep the one that shows where pilots stop, because the rest just prove it again. That's a nice-to-have,\" he said, and he took the other five down without being asked. Jae-won went out and came back with a coffee for him.",
+          "ko": "그러자 대니얼의 차트 여섯 개가 남았는데, 이틀 가까이 걸린 것들이었고 모두 다른 볼 것을 찾았다. 그는 주머니에 손을 넣고 잠시 그 앞에 서 있었다. \"하나를 골라야 한다면, 파일럿이 어디서 멈추는지 보여 주는 걸 남기겠어요. 나머지는 그걸 또 증명할 뿐이니까요. 그건 있으면 좋은 정도예요.\" 그는 그렇게 말하고 시키지 않았는데도 나머지 다섯 개를 떼어 냈다. 재원은 나갔다가 그에게 줄 커피를 들고 돌아왔다."
+        },
+        {
+          "en": "By nine o'clock there were twelve sheets on the wall and eighteen on the floor, and Helen had stopped walking. Jae-won stood up and ran the whole talk with Daniel's timer going, three messages, one number, one chart, and it came in at nineteen minutes and twenty seconds. For the first time since he had started this, there was time left over at the end.",
+          "ko": "9시가 되자 벽에는 12장, 바닥에는 18장이 있었고 헬렌은 걷기를 멈췄다. 재원은 일어나 대니얼의 타이머를 켠 채 발표 전체를 돌렸다. 메시지 세 개, 숫자 하나, 차트 하나. 19분 20초가 나왔다. 이 일을 시작한 뒤 처음으로 끝에 시간이 남았다."
+        },
+        {
+          "en": "He noticed something else as well, which was that he hadn't turned to look at the wall once. Helen picked up her bag and looked at the eighteen sheets on the floor. \"Slides lock on Thursday, and I'll be in Seattle by then,\" she said. \"That's finally a talk, so whatever you do between now and then, don't add anything back.\"",
+          "ko": "그는 다른 것도 알아차렸다. 벽을 보려고 한 번도 돌아서지 않았다는 것이다. 헬렌이 가방을 들고 바닥의 18장을 내려다봤다. \"슬라이드 확정은 목요일이고, 그때 저는 시애틀에 있을 거예요.\" 그녀가 말했다. \"이제야 발표가 됐으니, 그때까지 뭘 하든 아무것도 다시 넣지 마요.\""
+        },
+        {
+          "en": "He got home feeling lighter than he had in weeks. At ten to eleven, his phone lit up on the kitchen counter with a three-line email from Marcus, who had never once used a greeting: \"Panel lineup is locked. One new name, and you should hear it from me. Tomorrow, 6:31 your time. I run at six.\"",
+          "ko": "그는 몇 주 만에 가장 가벼운 마음으로 집에 돌아왔다. 11시 10분 전, 부엌 조리대 위의 휴대폰에 인사말이라곤 써 본 적 없는 마커스의 세 줄짜리 메일이 떴다. \"패널 명단이 확정됐습니다. 새 이름이 하나 있는데, 제게서 직접 듣는 게 좋겠습니다. 내일 그쪽 시간 6시 31분. 저는 6시에 달립니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "If we have to choose",
+        "That's a nice-to-have"
+      ],
+      "wordCandidates": [
+        {
+          "term": "in exchange",
+          "surface": "in exchange",
+          "meaningKo": "대신, 그 대가로",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"What we agree on is one Norim slide with no dollars on it, and in exchange you personally introduce me to both prospects at the coffee break.\"",
+            "ko": "\"우리가 합의하는 부분은 달러 없는 노림 슬라이드 한 장이에요. 대신 커피 시간에 잠재 고객 두 곳에 저를 직접 소개해 줘요.\""
+          }
+        },
+        {
+          "term": "the better part of",
+          "surface": "the better part of",
+          "meaningKo": "~의 대부분",
+          "paragraph": 1,
+          "sentence": {
+            "en": "That left Daniel's six charts, which had cost him the better part of two days, and everyone found something else to look at.",
+            "ko": "그러자 대니얼의 차트 여섯 개가 남았는데, 이틀 가까이 걸린 것들이었고 모두 다른 볼 것을 찾았다."
+          }
+        },
+        {
+          "term": "come in at",
+          "surface": "came in at",
+          "meaningKo": "(시간·금액이) ~로 나오다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won stood up and ran the whole talk with Daniel's timer going, three messages, one number, one chart, and it came in at nineteen minutes and twenty seconds.",
+            "ko": "재원은 일어나 대니얼의 타이머를 켠 채 발표 전체를 돌렸다. 메시지 세 개, 숫자 하나, 차트 하나. 19분 20초가 나왔다."
+          }
+        },
+        {
+          "term": "lineup",
+          "surface": "lineup",
+          "meaningKo": "출연자 명단",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Panel lineup is locked.",
+            "ko": "패널 명단이 확정됐습니다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 488,
+      "paragraphs": [
+        {
+          "en": "\"Fine, I'll give you that one, but Norim's two million dollars is the proof, and you don't get to cut the proof,\" she said. He said, \"I see it a little differently, because a dollar figure reads as a sales pitch the second it goes up, whereas eleven days to six is something a CFO will actually repeat in a taxi, and she can work out the money herself.\" She tapped her pen against her teeth, repricing it. \"What we agree on is one Norim slide with no dollars on it. In exchange, you personally walk me over to both prospects at the coffee break, no excuses and no disappearing to the green room.\"",
+          "ko": "\"좋아요, 그건 드릴게요. 하지만 노림의 200만 달러가 증거이고, 증거를 자를 권한은 없어요.\" 그녀가 말했다. 그가 말했다. \"저는 조금 다르게 봅니다. 달러 금액은 올라가는 순간 영업으로 읽히지만, 11일에서 6일은 CFO가 택시에서 실제로 되풀이할 말이고, 돈은 그 사람이 직접 계산할 수 있으니까요.\" 그녀는 펜으로 이를 톡톡 치며 값을 다시 매겼다. \"우리가 합의하는 부분은 달러 없는 노림 슬라이드 한 장이에요. 대신 커피 시간에 잠재 고객 두 곳에 저를 직접 데려가 줘요. 핑계도 없고 대기실로 사라지기도 없어요.\""
+        },
+        {
+          "en": "That left Daniel's six charts, which had cost him the better part of two days, and everyone in the room suddenly found something else to look at. He stood in front of them for a while with his hands in his pockets, doing the same arithmetic they had all just done. \"If we have to choose, I'd keep the one that shows where pilots stop, because the other five just prove it again with better colors. That's a nice-to-have,\" he said, and he took them down without being asked. Jae-won went out to the machine and came back with a coffee, which seemed to be the correct amount to say about it.",
+          "ko": "그러자 대니얼의 차트 여섯 개가 남았는데, 이틀 가까이 걸린 것들이었고 방 안 모두가 갑자기 다른 볼 것을 찾았다. 그는 주머니에 손을 넣고 잠시 그 앞에 서서, 다들 방금 한 것과 같은 계산을 했다. \"하나를 골라야 한다면, 파일럿이 어디서 멈추는지 보여 주는 걸 남기겠어요. 나머지 다섯 개는 더 좋은 색으로 그걸 또 증명할 뿐이니까요. 그건 있으면 좋은 정도예요.\" 그는 그렇게 말하고 시키지 않았는데도 떼어 냈다. 재원은 자판기로 나갔다가 커피를 들고 돌아왔고, 그 일에 관해 할 말로는 그게 적당한 듯했다."
+        },
+        {
+          "en": "By nine o'clock there were twelve sheets on the wall and eighteen on the floor, and Helen had finally stopped walking. Jae-won got up and ran the whole thing with Daniel's timer going: the kitchen table, the number, the person who signs, Norim's eleven days, what to do on Monday, and the one line he wanted them to take home. It came in at nineteen minutes and twenty seconds, and for the first time since he'd said yes to this, there was time left over at the end.",
+          "ko": "9시가 되자 벽에는 12장, 바닥에는 18장이 있었고 헬렌은 마침내 걷기를 멈췄다. 재원은 일어나 대니얼의 타이머를 켠 채 전체를 돌렸다. 식탁, 숫자, 서명하는 사람, 노림의 11일, 월요일에 할 일, 그리고 가져가길 바라는 한 문장. 19분 20초가 나왔고, 이 일을 수락한 뒤 처음으로 끝에 시간이 남았다."
+        },
+        {
+          "en": "He noticed something else as well, and it took him a moment to work out what it was: he hadn't turned to look at the wall once. Helen picked up her bag and regarded the eighteen sheets on the floor without sentiment. \"Slides lock on Thursday and I'll be in Seattle by then, so you won't have me to blame,\" she said. \"That's finally a talk, and whatever else you do between now and then, for God's sake don't add anything back.\"",
+          "ko": "그는 다른 것도 알아차렸는데, 그게 뭔지 파악하는 데 잠시 걸렸다. 벽을 보려고 한 번도 돌아서지 않았다는 것이다. 헬렌이 가방을 들고 바닥의 18장을 아무 미련 없이 내려다봤다. \"슬라이드 확정은 목요일이고 그때 저는 시애틀에 있을 테니 저를 탓할 수도 없겠네요.\" 그녀가 말했다. \"이제야 발표가 됐으니, 그때까지 다른 건 뭘 하든 제발 아무것도 다시 넣지 마요.\""
+        },
+        {
+          "en": "He got home feeling lighter than he had in weeks, and for once he left the laptop in its bag. At ten to eleven, his phone lit up on the kitchen counter with a three-line email from Marcus, who had never once wasted a greeting on him: \"Panel lineup is locked. One new name, and you should hear it from me. Tomorrow, 6:31 your time. I run at six.\" Jae-won read it standing up. Then, because he was learning, he set an alarm for six and did not try to draft anything.",
+          "ko": "그는 몇 주 만에 가장 가벼운 마음으로 집에 돌아왔고, 모처럼 노트북을 가방에 그대로 두었다. 11시 10분 전, 부엌 조리대 위의 휴대폰에 그에게 인사말을 낭비한 적 없는 마커스의 세 줄짜리 메일이 떴다. \"패널 명단이 확정됐습니다. 새 이름이 하나 있는데, 제게서 직접 듣는 게 좋겠습니다. 내일 그쪽 시간 6시 31분. 저는 6시에 달립니다.\" 재원은 선 채로 읽었다. 그러고는 배우는 중이었으므로 6시에 알람을 맞추고 아무것도 미리 쓰지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "If we have to choose",
+        "That's a nice-to-have"
+      ],
+      "wordCandidates": [
+        {
+          "term": "reprice",
+          "surface": "repricing",
+          "meaningKo": "값을 다시 매기다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She tapped her pen against her teeth, repricing it.",
+            "ko": "그녀는 펜으로 이를 톡톡 치며 값을 다시 매겼다."
+          }
+        },
+        {
+          "term": "green room",
+          "surface": "green room",
+          "meaningKo": "(무대 뒤) 대기실",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In exchange, you personally walk me over to both prospects at the coffee break, no excuses and no disappearing to the green room.",
+            "ko": "대신 커피 시간에 잠재 고객 두 곳에 저를 직접 데려가 줘요. 핑계도 없고 대기실로 사라지기도 없어요."
+          }
+        },
+        {
+          "term": "without sentiment",
+          "surface": "without sentiment",
+          "meaningKo": "미련 없이, 감상 없이",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen picked up her bag and regarded the eighteen sheets on the floor without sentiment.",
+            "ko": "헬렌이 가방을 들고 바닥의 18장을 아무 미련 없이 내려다봤다."
+          }
+        },
+        {
+          "term": "lineup",
+          "surface": "lineup",
+          "meaningKo": "출연자 명단",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Panel lineup is locked.",
+            "ko": "패널 명단이 확정됐습니다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many slides were left on the wall at nine o'clock, and how long did the talk take?",
+      "options": [
+        "Nineteen slides and twenty-two minutes",
+        "Twelve slides and nineteen minutes twenty seconds",
+        "Eighteen slides and twenty minutes",
+        "Thirty slides and nineteen minutes"
+      ],
+      "answerIndex": 1,
+      "evidence": "Jae-won stood up and ran the whole talk with Daniel's timer going, three messages, one number, one chart, and it came in at nineteen minutes and twenty seconds."
+    },
+    {
+      "question": "What is significant about the fact that Jae-won \"hadn't turned to look at the wall once\"?",
+      "options": [
+        "With fewer slides, he has stopped using them as a place to hide, which was Priya's concern.",
+        "The slides were printed too small to read.",
+        "He had memorized the talk in Korean.",
+        "Helen had told him not to look at the wall."
+      ],
+      "answerIndex": 0,
+      "evidence": "He noticed something else as well, which was that he hadn't turned to look at the wall once."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "If we have to choose, I'd keep the one that shows where pilots stop.",
+      "That's a nice-to-have.",
+      "That's finally a talk, so whatever you do between now and then, don't add anything back."
+    ],
+    "summaryPromptKo": "재원과 유나가 노림 슬라이드를 어떻게 합의했는지, 대니얼이 차트를 어떻게 했는지, 19분 20초 발표 뒤 어떤 메일이 왔는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Yuna Seo",
+      "en": "You've cut most of my material and your own methodology. Tell me how you decided what stays in twelve slides and what goes.",
+      "ko": "제 자료 대부분과 당신 방법론까지 잘랐네요. 슬라이드 12장에 무엇을 남기고 무엇을 뺄지 어떻게 정했는지 말해 줘요."
+    },
+    "modelAnswer": "The priority here is the person in row twenty, so every slide had to support one of the three messages. My methodology was a nice-to-have, so that became a one-page note. Your logo slide was out of scope under Marcus's rule. If we have to choose between proof and a sales pitch, we keep eleven days to six and drop the dollars. That's how thirty slides became twelve."
+  },
+  "nextTeaserKo": "화요일 새벽 6시 31분, 마커스의 전화가 울린다. 패널에 추가된 새 이름은 미국 AI 기업 CTO 이선 울프. 공격적인 질문으로 유명한 사람이다. 슬라이드 마감은 이틀 뒤, 27번 행은 아직 열려 있다.",
+  "roleplay": {
+    "title": "30장을 12장으로",
+    "situationKo": "슬라이드를 줄이는 월요일 저녁이 이어집니다. 내가 재원이 되어 유나와 합의하고 대니얼에게 물어봅니다. 정답은 없으니 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Fine, but Norim's two million dollars is the proof. You're not cutting the proof.",
+        "ko": "좋아요, 하지만 노림의 200만 달러가 증거예요. 증거를 자르진 못해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I see it a little differently. A dollar figure sounds like a sales pitch.",
+        "ko": "저는 조금 다르게 봅니다. 달러 금액은 영업 멘트처럼 들려요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "So what would you put up there instead?",
+        "ko": "그럼 대신 뭘 올리실 건데요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Eleven days to six. A CFO will repeat that in a taxi.",
+        "ko": "11일에서 6일로. CFO라면 택시에서 그 말을 옮길 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "One Norim slide, no dollars. In exchange, you personally introduce me to both prospects at the coffee break.",
+        "ko": "노림 슬라이드 한 장, 달러 없이. 대신 커피 시간에 잠재 고객 두 곳에 저를 직접 소개해 주세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Deal. One Norim slide, and I'll introduce you to both of them myself.",
+        "ko": "좋습니다. 노림 슬라이드 한 장, 그리고 두 곳 모두 제가 직접 소개하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "That leaves my six charts.",
+        "ko": "이제 제 차트 여섯 개가 남았네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Those took you almost two days, Daniel. If we have to choose, which one would you keep?",
+        "ko": "그거 만드느라 이틀 가까이 걸렸잖아요, 대니얼. 하나를 골라야 한다면 어떤 걸 남기겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "The one that shows where pilots stop. The rest just prove it again. That's a nice-to-have.",
+        "ko": "파일럿이 어디서 멈추는지 보여 주는 거요. 나머지는 그걸 또 증명할 뿐이에요. 있으면 좋은 정도죠."
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Twelve on the wall. Run the whole thing.",
+        "ko": "벽에 열두 장이네요. 처음부터 끝까지 해 봐요."
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Nineteen minutes and twenty seconds.",
+        "ko": "19분 20초입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nineteen twenty. That's the first time I've had time left over at the end.",
+        "ko": "19분 20초라. 끝에 시간이 남은 건 이번이 처음이에요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That's finally a talk. Slides lock on Thursday, and I'll be in Seattle by then. Don't add anything back.",
+        "ko": "이제야 발표가 됐네요. 슬라이드는 목요일에 확정되고, 그땐 난 시애틀에 있을 거예요. 아무것도 다시 넣지 마요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. Nothing goes back in.",
+        "ko": "알겠습니다. 아무것도 다시 넣지 않겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

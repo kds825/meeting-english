@@ -1,0 +1,414 @@
+{
+  "id": "keynote-s1-e15",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 15,
+  "title": "Check the Numbers",
+  "recapKo": "프리야의 엘리베이터 테스트에서 재원은 2분 40초 동안 요점 열한 개를 쏟아 냈다. 헬렌, 대니얼과 함께 이를 메시지 세 개로 압축했고, 마커스의 질문에 줄 답도 찾았다. \"서명해야 하는 사람을 위해 만드세요.\" 그러나 회의 뒤 42곳 데이터를 물으니, 대니얼은 \"보여 드리는 게 낫겠어요\"라고 답했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Where does that figure come from?",
+      "meaningKo": "그 수치는 어디서 나온 건가요?",
+      "usage": "Where does that figure come from? It's higher than last quarter's report."
+    },
+    {
+      "phrase": "That figure is based on ~",
+      "meaningKo": "그 수치는 ~을 근거로 합니다",
+      "usage": "That figure is based on twelve months of invoices."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 218,
+      "paragraphs": [
+        {
+          "en": "At eight on Thursday, Daniel put a spreadsheet on the screen, with one row for each of the forty-two companies. Jae-won asked, \"Could you walk me through it?\" His voice was calm, because this was the one kind of meeting he knew how to run.",
+          "ko": "목요일 8시, 대니얼이 화면에 스프레드시트를 띄웠다. 42개 회사마다 한 행씩이었다. 재원이 물었다. \"차근차근 설명해 주시겠어요?\" 그의 목소리는 차분했다. 이것이 그가 진행할 줄 아는 유일한 종류의 회의였기 때문이다."
+        },
+        {
+          "en": "\"Thirty-three rows are fine, because each one has a signed closing report,\" Daniel said. \"The other nine have no document at all.\" He pointed to the source column, where the same three letters appeared nine times: OSW.",
+          "ko": "\"33개 행은 괜찮아요. 전부 서명된 종료 보고서가 있거든요.\" 대니얼이 말했다. \"나머지 아홉 개는 문서가 아예 없어요.\" 그는 출처 칸을 가리켰다. 같은 세 글자가 아홉 번 나와 있었다. OSW."
+        },
+        {
+          "en": "Jae-won asked, \"Where does that figure come from, then?\" Daniel said, \"That figure is based on the old tracker. OSW is Oh Sang-woo, a manager who left three years ago, and he typed in those results himself.\"",
+          "ko": "재원이 물었다. \"그럼 그 수치는 어디서 나온 건가요?\" 대니얼이 말했다. \"그 수치는 예전 추적 파일을 근거로 해요. OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 그 결과를 직접 입력했어요.\""
+        },
+        {
+          "en": "\"Just to confirm, how many of those nine are in our thirty-one failures?\" Jae-won asked. \"Seven,\" Daniel said quietly. \"Let me make sure I have this right,\" Jae-won said. \"If all seven are wrong, it's twenty-four out of forty-two, so three out of four becomes just over half.\"",
+          "ko": "\"확인차 여쭙는데, 그 아홉 개 중 몇 개가 우리 실패 31건에 들어 있죠?\" 재원이 물었다. \"일곱 개요.\" 대니얼이 조용히 말했다. \"제가 제대로 이해했는지 볼게요.\" 재원이 말했다. \"일곱 개가 다 틀리면 42곳 중 24곳이니까, 네 곳 중 세 곳이 절반을 조금 넘는 수준이 되는 거네요.\""
+        },
+        {
+          "en": "\"And thirty-one is already in the title Marcus has,\" Daniel said. \"I should have told you more clearly.\" Jae-won shook his head. \"You told me, and I asked if there was a problem. You said probably not, and I was happy to believe you.\" \"So what do we do?\" Daniel asked.",
+          "ko": "\"그런데 31은 이미 마커스가 가진 제목에 들어가 있어요.\" 대니얼이 말했다. \"더 분명하게 말씀드렸어야 했어요.\" 재원이 고개를 저었다. \"말해 줬어요. 내가 문제가 있냐고 물었고, 아마 없을 거라는 말을 믿고 싶어서 믿은 거죠.\" \"그럼 어떻게 하죠?\" 대니얼이 물었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where does that figure come from",
+        "That figure is based on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "spreadsheet",
+          "surface": "spreadsheet",
+          "meaningKo": "스프레드시트",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At eight on Thursday, Daniel put a spreadsheet on the screen, with one row for each of the forty-two companies.",
+            "ko": "목요일 8시, 대니얼이 화면에 스프레드시트를 띄웠다. 42개 회사마다 한 행씩이었다."
+          }
+        },
+        {
+          "term": "row",
+          "surface": "row",
+          "meaningKo": "(표의) 행",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At eight on Thursday, Daniel put a spreadsheet on the screen, with one row for each of the forty-two companies.",
+            "ko": "목요일 8시, 대니얼이 화면에 스프레드시트를 띄웠다. 42개 회사마다 한 행씩이었다."
+          }
+        },
+        {
+          "term": "closing report",
+          "surface": "closing report",
+          "meaningKo": "(프로젝트) 종료 보고서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Thirty-three rows are fine, because each one has a signed closing report,\" Daniel said.",
+            "ko": "\"33개 행은 괜찮아요. 전부 서명된 종료 보고서가 있거든요.\" 대니얼이 말했다."
+          }
+        },
+        {
+          "term": "type in",
+          "surface": "typed in",
+          "meaningKo": "입력하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "OSW is Oh Sang-woo, a manager who left three years ago, and he typed in those results himself.",
+            "ko": "OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 그 결과를 직접 입력했어요."
+          }
+        },
+        {
+          "term": "just over half",
+          "surface": "just over half",
+          "meaningKo": "절반을 조금 넘는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"If all seven are wrong, it's twenty-four out of forty-two, so three out of four becomes just over half.\"",
+            "ko": "일곱 개가 다 틀리면 42곳 중 24곳이니까, 네 곳 중 세 곳이 절반을 조금 넘는 수준이 되는 거네요."
+          }
+        },
+        {
+          "term": "title",
+          "surface": "title",
+          "meaningKo": "제목",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"And thirty-one is already in the title Marcus has,\" Daniel said.",
+            "ko": "\"그런데 31은 이미 마커스가 가진 제목에 들어가 있어요.\" 대니얼이 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 296,
+      "paragraphs": [
+        {
+          "en": "At eight on Thursday morning, Daniel brought a spreadsheet up on the meeting room screen, with one row for each of the forty-two companies in the study. \"Could you walk me through it, from the top?\" Jae-won asked, and he noticed that his voice was perfectly steady, because this was the one kind of meeting he had always known how to run.",
+          "ko": "목요일 아침 8시, 대니얼이 회의실 화면에 스프레드시트를 띄웠다. 조사 대상 42개 회사마다 한 행씩이었다. \"처음부터 차근차근 설명해 주시겠어요?\" 재원이 물었고, 자기 목소리가 아주 안정적이라는 걸 알아차렸다. 이것이 그가 언제나 진행할 줄 알았던 유일한 종류의 회의였기 때문이다."
+        },
+        {
+          "en": "\"Thirty-three of these are solid, because each one ties back to a signed closing report from the project,\" Daniel said, scrolling down. \"The other nine don't tie back to anything.\" He highlighted the source column, where the same three letters appeared nine times in a row: OSW.",
+          "ko": "\"이 중 33개는 탄탄해요. 전부 프로젝트의 서명된 종료 보고서로 거슬러 올라가거든요.\" 대니얼이 스크롤을 내리며 말했다. \"나머지 아홉 개는 아무것으로도 거슬러 올라가지 않아요.\" 그는 출처 칸을 강조 표시했다. 같은 세 글자가 아홉 번 연달아 나와 있었다. OSW."
+        },
+        {
+          "en": "\"Where does that figure come from, if there's no paper behind it?\" Jae-won asked. Daniel said, \"That figure is based on the old tracker and nothing else. OSW is Oh Sang-woo, a manager who left three years ago, and as far as I can tell he typed those results in from memory and nobody ever checked them.\"",
+          "ko": "\"그럼 뒷받침할 문서가 없다면 그 수치는 어디서 나온 건가요?\" 재원이 물었다. 대니얼이 말했다. \"그 수치는 예전 추적 파일만을 근거로 해요. OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 제가 아는 한 기억으로 그 결과를 입력했고 아무도 확인한 적이 없어요.\""
+        },
+        {
+          "en": "\"Just to confirm, how many of those nine are sitting inside our thirty-one failures?\" \"Seven,\" Daniel said, and he said it quietly. Jae-won did the arithmetic on his notepad. \"Let me make sure I have this right: if all seven turn out to be wrong, we go from thirty-one out of forty-two to twenty-four, which takes us from about seventy-four percent to fifty-seven.\"",
+          "ko": "\"확인차 여쭙는데, 그 아홉 개 중 몇 개가 우리 실패 31건 안에 들어 있죠?\" \"일곱 개요.\" 대니얼이 조용히 말했다. 재원은 메모장에 계산을 했다. \"제가 제대로 이해했는지 볼게요. 일곱 개가 다 틀린 걸로 드러나면 42곳 중 31곳에서 24곳이 되고, 약 74퍼센트에서 57퍼센트로 떨어지는 거네요.\""
+        },
+        {
+          "en": "\"And thirty-one is already in the title Marcus has,\" Daniel said, without looking up. \"I should have pushed harder on this last week.\" Jae-won shook his head. \"You flagged it, and I asked you if there was a problem, and you said probably not, and I was very happy to take that answer because I had a draft to finish.\" \"So what do we do?\" Daniel asked.",
+          "ko": "\"그런데 31은 이미 마커스가 가진 제목에 들어가 있어요.\" 대니얼이 고개를 들지 않은 채 말했다. \"지난주에 더 강하게 말씀드렸어야 했어요.\" 재원이 고개를 저었다. \"알려 줬잖아요. 내가 문제가 있냐고 물었고, 아마 없을 거라고 했고, 나는 끝낼 초안이 있어서 그 답을 아주 기꺼이 받아들인 거예요.\" \"그럼 어떻게 하죠?\" 대니얼이 물었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where does that figure come from",
+        "That figure is based on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "bring up",
+          "surface": "brought a spreadsheet up",
+          "meaningKo": "(화면에) 띄우다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At eight on Thursday morning, Daniel brought a spreadsheet up on the meeting room screen, with one row for each of the forty-two companies in the study.",
+            "ko": "목요일 아침 8시, 대니얼이 회의실 화면에 스프레드시트를 띄웠다. 조사 대상 42개 회사마다 한 행씩이었다."
+          }
+        },
+        {
+          "term": "tie back to",
+          "surface": "ties back to",
+          "meaningKo": "~로 거슬러 올라가 맞아떨어지다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Thirty-three of these are solid, because each one ties back to a signed closing report from the project,\" Daniel said, scrolling down.",
+            "ko": "\"이 중 33개는 탄탄해요. 전부 프로젝트의 서명된 종료 보고서로 거슬러 올라가거든요.\" 대니얼이 스크롤을 내리며 말했다."
+          }
+        },
+        {
+          "term": "from memory",
+          "surface": "from memory",
+          "meaningKo": "기억에 의존해",
+          "paragraph": 2,
+          "sentence": {
+            "en": "OSW is Oh Sang-woo, a manager who left three years ago, and as far as I can tell he typed those results in from memory and nobody ever checked them.",
+            "ko": "OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 제가 아는 한 기억으로 그 결과를 입력했고 아무도 확인한 적이 없어요."
+          }
+        },
+        {
+          "term": "arithmetic",
+          "surface": "arithmetic",
+          "meaningKo": "산수, 계산",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won did the arithmetic on his notepad.",
+            "ko": "재원은 메모장에 계산을 했다."
+          }
+        },
+        {
+          "term": "flag",
+          "surface": "flagged",
+          "meaningKo": "(문제를) 짚어 알리다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"You flagged it, and I asked you if there was a problem, and you said probably not, and I was very happy to take that answer because I had a draft to finish.\"",
+            "ko": "\"알려 줬잖아요. 내가 문제가 있냐고 물었고, 아마 없을 거라고 했고, 나는 끝낼 초안이 있어서 그 답을 아주 기꺼이 받아들인 거예요.\""
+          }
+        },
+        {
+          "term": "push hard",
+          "surface": "pushed harder",
+          "meaningKo": "더 강하게 밀어붙이다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I should have pushed harder on this last week.\"",
+            "ko": "\"지난주에 더 강하게 말씀드렸어야 했어요.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 416,
+      "paragraphs": [
+        {
+          "en": "At eight on Thursday morning, Daniel threw a spreadsheet up on the meeting room screen, one row for each of the forty-two companies, and stood beside it like someone waiting for a verdict. \"Could you walk me through it, from the top, and don't soften anything for my benefit?\" Jae-won asked. He registered, with some surprise, that his voice was perfectly steady, because a data review was the one kind of meeting he had never had any trouble running.",
+          "ko": "목요일 아침 8시, 대니얼은 회의실 화면에 42개 회사를 한 행씩 담은 스프레드시트를 띄우고 판결을 기다리는 사람처럼 그 옆에 섰다. \"처음부터 차근차근 설명해 주시겠어요? 나 때문에 순화하지는 말고요.\" 재원이 물었다. 그는 자기 목소리가 아주 안정적이라는 걸 다소 놀라며 알아차렸다. 데이터 검토는 그가 진행하면서 한 번도 애먹은 적 없는 유일한 종류의 회의였기 때문이다."
+        },
+        {
+          "en": "\"Okay, so thirty-three of these are solid, in the sense that each one ties back to a signed closing report from the project, and I've pulled every one of them myself,\" Daniel said, scrolling. \"The other nine don't tie back to anything at all, and that's the issue.\" He highlighted the source column, where the same three letters ran down the screen nine times in a row: OSW.",
+          "ko": "\"네, 이 중 33개는 탄탄해요. 전부 프로젝트의 서명된 종료 보고서로 거슬러 올라간다는 뜻이고, 제가 하나하나 직접 찾아봤어요.\" 대니얼이 스크롤하며 말했다. \"나머지 아홉 개는 아무것으로도 거슬러 올라가지 않아요. 그게 문제고요.\" 그가 출처 칸을 강조 표시하자, 같은 세 글자가 화면 아래로 아홉 번 연달아 이어졌다. OSW."
+        },
+        {
+          "en": "\"Where does that figure come from, if there's no paper behind it, and don't tell me it's a judgment call?\" Jae-won asked. Daniel said, \"That figure is based on the old tracker and literally nothing else, which is why I went quiet last week. OSW is Oh Sang-woo, a manager who left three years ago, and as far as I can reconstruct it, he keyed those results in from memory at the end of each quarter and nobody ever reconciled them against anything.\"",
+          "ko": "\"그럼 뒷받침할 문서가 없다면 그 수치는 어디서 나온 건가요? 판단의 문제였다고는 하지 말고요.\" 재원이 물었다. 대니얼이 말했다. \"그 수치는 말 그대로 예전 추적 파일만을 근거로 해요. 그래서 지난주에 제가 말을 아낀 거고요. OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 제가 복원해 본 바로는 분기 말마다 기억으로 결과를 입력했고, 아무도 그걸 다른 자료와 대조한 적이 없어요.\""
+        },
+        {
+          "en": "\"Just to confirm, how many of those nine are sitting inside our thirty-one failures, as opposed to the eleven that made it?\" \"Seven,\" Daniel said, in the voice people use for test results. Jae-won ran the arithmetic on his notepad, because it was easier than looking up. \"Let me make sure I have this right. Worst case, all seven flip, and we go from thirty-one out of forty-two to twenty-four, which takes the headline from roughly seventy-four percent down to fifty-seven, and three out of four becomes a bit over half.\"",
+          "ko": "\"확인차 여쭙는데, 그 아홉 개 중 살아남은 11곳 말고 우리 실패 31건 안에 들어 있는 게 몇 개죠?\" \"일곱 개요.\" 대니얼이 검사 결과를 전할 때 쓰는 목소리로 말했다. 재원은 고개를 드는 것보다 쉬워서 메모장에 계산을 돌렸다. \"제가 제대로 이해했는지 볼게요. 최악의 경우 일곱 개가 다 뒤집히면 42곳 중 31곳에서 24곳이 되고, 대표 수치가 약 74퍼센트에서 57퍼센트로 떨어지고, 네 곳 중 세 곳이 절반을 조금 넘는 수준이 되는 거네요.\""
+        },
+        {
+          "en": "\"And thirty-one's already in the title Marcus took to his committee, so that's fun,\" Daniel said, without looking up. \"I should have escalated this last week instead of mumbling at you in a doorway.\" Jae-won shook his head, because he'd been doing this too long to let that stand. \"You did flag it. I asked you if there was a problem, you said probably not, and I was delighted to take that answer because I had a draft to finish, so let's not pretend this one's on you.\" \"So what do we do?\" Daniel asked.",
+          "ko": "\"그런데 31은 이미 마커스가 위원회에 가져간 제목에 들어가 있어요. 참 재밌죠.\" 대니얼이 고개를 들지 않은 채 말했다. \"지난주에 문간에서 웅얼거릴 게 아니라 정식으로 보고했어야 했어요.\" 재원은 고개를 저었다. 그 말을 그냥 두기엔 이 일을 너무 오래 했다. \"알려 줬잖아요. 내가 문제가 있냐고 물었고, 아마 없을 거라고 했고, 나는 끝낼 초안이 있어서 그 답을 아주 반갑게 받아들였어요. 그러니 이걸 대니얼 씨 책임인 척하지 맙시다.\" \"그럼 어떻게 하죠?\" 대니얼이 물었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where does that figure come from",
+        "That figure is based on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "throw up",
+          "surface": "threw a spreadsheet up",
+          "meaningKo": "(화면에) 휙 띄우다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At eight on Thursday morning, Daniel threw a spreadsheet up on the meeting room screen, one row for each of the forty-two companies, and stood beside it like someone waiting for a verdict.",
+            "ko": "목요일 아침 8시, 대니얼은 회의실 화면에 42개 회사를 한 행씩 담은 스프레드시트를 띄우고 판결을 기다리는 사람처럼 그 옆에 섰다."
+          }
+        },
+        {
+          "term": "judgment call",
+          "surface": "judgment call",
+          "meaningKo": "판단의 문제, 재량 판단",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Where does that figure come from, if there's no paper behind it, and don't tell me it's a judgment call?\"",
+            "ko": "\"그럼 뒷받침할 문서가 없다면 그 수치는 어디서 나온 건가요? 판단의 문제였다고는 하지 말고요.\""
+          }
+        },
+        {
+          "term": "reconcile",
+          "surface": "reconciled",
+          "meaningKo": "(다른 자료와) 대조해 맞추다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "OSW is Oh Sang-woo, a manager who left three years ago, and as far as I can reconstruct it, he keyed those results in from memory at the end of each quarter and nobody ever reconciled them against anything.",
+            "ko": "OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 제가 복원해 본 바로는 분기 말마다 기억으로 결과를 입력했고, 아무도 그걸 다른 자료와 대조한 적이 없어요."
+          }
+        },
+        {
+          "term": "worst case",
+          "surface": "Worst case",
+          "meaningKo": "최악의 경우",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Worst case, all seven flip, and we go from thirty-one out of forty-two to twenty-four, which takes the headline from roughly seventy-four percent down to fifty-seven, and three out of four becomes a bit over half.",
+            "ko": "최악의 경우 일곱 개가 다 뒤집히면 42곳 중 31곳에서 24곳이 되고, 대표 수치가 약 74퍼센트에서 57퍼센트로 떨어지고, 네 곳 중 세 곳이 절반을 조금 넘는 수준이 되는 거네요.\""
+          }
+        },
+        {
+          "term": "escalate",
+          "surface": "escalated",
+          "meaningKo": "상부에 정식으로 보고하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I should have escalated this last week instead of mumbling at you in a doorway.\"",
+            "ko": "\"지난주에 문간에서 웅얼거릴 게 아니라 정식으로 보고했어야 했어요.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many of the forty-two rows had no document behind them?",
+      "options": [
+        "Two",
+        "Seven",
+        "Nine",
+        "Thirty-three"
+      ],
+      "answerIndex": 2,
+      "evidence": "The other nine don't tie back to anything."
+    },
+    {
+      "question": "Why won't Jae-won let Daniel take the blame?",
+      "options": [
+        "He knows he wanted to accept \"probably not\" because he had a draft to finish.",
+        "He thinks Oh Sang-woo is the only person at fault.",
+        "He is afraid Daniel will complain to Helen.",
+        "He believes the thirty-one is still correct."
+      ],
+      "answerIndex": 0,
+      "evidence": "I was very happy to take that answer because I had a draft to finish"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Where does that figure come from, if there's no paper behind it?",
+      "That figure is based on the old tracker and nothing else.",
+      "Thirty-three of these are solid, because each one ties back to a signed closing report from the project."
+    ],
+    "summaryPromptKo": "스프레드시트에서 어떤 문제가 드러났는지, 그 숫자가 어디서 왔는지, 다 틀리면 결과가 어떻게 달라지는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Daniel Cho",
+      "en": "Thirty-one is already in the title Marcus has. Tell me honestly, how bad is this, and whose fault is it?",
+      "ko": "31은 이미 Marcus가 가진 제목에 들어가 있어요. 솔직히 말해 주세요. 얼마나 심각하고, 누구 잘못인가요?"
+    },
+    "modelAnswer": "Nine of our forty-two rows have no document behind them, and seven of those are inside our thirty-one failures. That figure is based on an old tracker and one person's memory. In the worst case, we go from thirty-one to twenty-four. As for whose fault it is, you flagged it, and I asked you if there was a problem. You said probably not, and I was very happy to take that answer."
+  },
+  "nextTeaserKo": "재원은 오늘 밤까지 일곱 개 행을 하나씩 확인하기로 한다. 저녁 7시, 숫자는 어디까지 확인됐을까. 그리고 문가에서 헬렌이 내일 일을 꺼낸다.",
+  "roleplay": {
+    "title": "42개 행을 한 줄씩",
+    "situationKo": "Daniel이 42개 회사 스프레드시트를 화면에 띄웁니다. 내가 재원이 되어 숫자의 출처를 차근차근 물어봅니다. 숫자가 많지만 힌트를 봐도 되고, 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Here's the spreadsheet, with one row for each of the forty-two companies.",
+        "ko": "스프레드시트예요. 42개 회사가 한 행씩 들어 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Could you walk me through it, from the top?",
+        "ko": "처음부터 차근차근 설명해 줄래요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Thirty-three of these are solid, because each one ties back to a signed closing report. The other nine don't tie back to anything.",
+        "ko": "이 중 33개는 확실해요. 각각 서명된 종료 보고서로 확인되거든요. 나머지 아홉 개는 아무것도 연결되지 않아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nine? Where does that figure come from, if there's no paper behind it?",
+        "ko": "아홉 개요? 뒷받침할 서류가 없다면 그 수치는 어디서 나온 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "The old tracker and nothing else. OSW is Oh Sang-woo, a manager who left three years ago. As far as I can tell, he typed those results in from memory.",
+        "ko": "예전 트래커뿐이에요. OSW는 3년 전에 퇴사한 매니저 오상우 씨인데, 제가 아는 한 기억으로 결과를 입력했어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So that figure is based on one person's memory, and nobody ever checked it.",
+        "ko": "그러니까 그 수치는 한 사람의 기억을 근거로 하고, 아무도 확인한 적이 없네요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "That's right.",
+        "ko": "맞아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, how many of those nine are inside our thirty-one failures?",
+        "ko": "확인차 묻는데, 그 아홉 개 중 몇 개가 실패 31건 안에 있어요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Seven.",
+        "ko": "일곱 개요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So if all seven are wrong, we go from thirty-one to twenty-four. From about seventy-four percent to fifty-seven.",
+        "ko": "그럼 일곱 개가 다 틀리면 31에서 24가 되네요. 약 74퍼센트에서 57퍼센트로요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "And thirty-one is already in the title Marcus has. I should have pushed harder on this last week.",
+        "ko": "게다가 31은 Marcus가 가진 제목에 이미 들어가 있어요. 지난주에 더 강하게 말했어야 했는데요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You flagged it. I asked if there was a problem, and I was very happy to take your answer.",
+        "ko": "Daniel은 알렸어요. 내가 문제가 있냐고 물었고, 그 답을 아주 기쁘게 받아들인 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "So what do we do?",
+        "ko": "그럼 어떻게 하죠?"
+      }
+    ]
+  }
+}

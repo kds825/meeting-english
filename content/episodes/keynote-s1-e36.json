@@ -1,0 +1,376 @@
+{
+  "id": "keynote-s1-e36",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 36,
+  "title": "The Last Question",
+  "recapKo": "800명 앞의 키노트. 재원은 식탁 이야기로 시작해 프로그램의 42가 틀렸다고 직접 말하고, 멈춘 이유는 모델이 아니었다고 짚었다. 13분쯤 화면이 까맣게 꺼졌지만 돌아보지 않고 농담으로 넘겼고, 40초 뒤 대니얼이 9번 슬라이드를 되살렸다.",
+  "keyExpressions": [
+    {
+      "phrase": "Before I wrap up, ~",
+      "meaningKo": "마치기 전에, ~",
+      "usage": "Before I wrap up, I'd like to thank the team."
+    },
+    {
+      "phrase": "Let me leave you with ~",
+      "meaningKo": "마지막으로 ~를 남기겠습니다",
+      "usage": "Let me leave you with one number."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 228,
+      "paragraphs": [
+        {
+          "en": "\"Now let's turn to Monday morning,\" he said. \"Norim's month-end close went from eleven days to six, and Han Mi-rae asked me to tell you that she was right.\" The hall laughed again.",
+          "ko": "\"이제 월요일 아침 이야기로 넘어가죠.\" 그가 말했다. \"노림의 월말 결산은 11일에서 6일로 줄었고, 한미래 씨는 자기가 옳았다고 전해 달라고 했습니다.\" 홀에 다시 웃음이 터졌다."
+        },
+        {
+          "en": "\"Before I wrap up, ask one question on Monday: who signs this, and can they see where the number came from?\" \"Let me leave you with one sentence.\" \"If you remember one thing, build for the person who has to sign.\" The clock said nineteen seconds, and he stopped.",
+          "ko": "\"마치기 전에, 월요일에 이것 하나만 물어보세요. 누가 서명하고, 그 사람이 숫자의 출처를 볼 수 있는가?\" \"마지막으로 한 문장을 남기겠습니다.\" \"한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드십시오.\" 시계는 19초를 가리켰고, 그는 멈췄다."
+        },
+        {
+          "en": "\"How do we know that it isn't forty?\" Marcus read from the app. \"The short answer is that you don't, until you check,\" Jae-won said. \"Every row is now checked against the business registry.\" Then Marcus read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\" He took three seconds. \"Don't listen because of who was supposed to be here,\" he said. \"Listen because I showed you where my own number was wrong.\"",
+          "ko": "\"40이 아니라는 걸 어떻게 아나요?\" 마커스가 앱에서 읽었다. \"짧게 답하면, 확인하기 전에는 모릅니다.\" 재원이 말했다. \"이제 모든 행을 사업자 등록부와 대조했습니다.\" 이어서 마커스가 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\" 그는 3초를 썼다. \"원래 누가 오기로 했는지를 보고 듣지 마십시오.\" 그가 말했다. \"제가 제 숫자의 어디가 틀렸는지 보여 드렸으니 들어 주십시오.\""
+        },
+        {
+          "en": "Backstage, Helen's message was waiting: \"It's seven here, and nothing went back in. Good.\" At the coffee break, he introduced Yuna to one prospect, but Grace Lim had already left.",
+          "ko": "무대 뒤에 헬렌의 메시지가 와 있었다. \"여기는 7시예요. 아무것도 다시 안 넣었네요. 좋아요.\" 커피 시간에 그는 유나를 잠재 고객 한 곳에 소개했지만, 그레이스 림은 이미 떠나고 없었다."
+        },
+        {
+          "en": "Then his phone lit up, because Marcus had sent the slides to Ethan, as agreed. \"Slide three is the best thing I've heard on that stage,\" Ethan wrote. \"I'm using it against you at three.\"",
+          "ko": "그때 휴대폰이 켜졌다. 합의대로 마커스가 이선에게 슬라이드를 보낸 것이다. \"3번 슬라이드는 그 무대에서 들은 것 중 최고예요.\" 이선이 썼다. \"3시에 그걸로 당신을 공격할 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I wrap up",
+        "Let me leave you with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "month-end close",
+          "surface": "month-end close",
+          "meaningKo": "월말 결산",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Norim's month-end close went from eleven days to six, and Han Mi-rae asked me to tell you that she was right.\"",
+            "ko": "\"노림의 월말 결산은 11일에서 6일로 줄었고, 한미래 씨는 자기가 옳았다고 전해 달라고 했습니다.\""
+          }
+        },
+        {
+          "term": "business registry",
+          "surface": "business registry",
+          "meaningKo": "사업자 등록부",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The short answer is that you don't, until you check,\" Jae-won said. \"Every row is now checked against the business registry.\"",
+            "ko": "\"짧게 답하면, 확인하기 전에는 모릅니다.\" 재원이 말했다. \"이제 모든 행을 사업자 등록부와 대조했습니다.\""
+          }
+        },
+        {
+          "term": "lineup",
+          "surface": "lineup",
+          "meaningKo": "출연자 명단, 라인업",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then Marcus read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\"",
+            "ko": "이어서 마커스가 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\""
+          }
+        },
+        {
+          "term": "substitute",
+          "surface": "substitute",
+          "meaningKo": "대타, 대리인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then Marcus read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\"",
+            "ko": "이어서 마커스가 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\""
+          }
+        },
+        {
+          "term": "backstage",
+          "surface": "Backstage",
+          "meaningKo": "무대 뒤에서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Backstage, Helen's message was waiting: \"It's seven here, and nothing went back in. Good.\"",
+            "ko": "무대 뒤에 헬렌의 메시지가 와 있었다. \"여기는 7시예요. 아무것도 다시 안 넣었네요. 좋아요.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 327,
+      "paragraphs": [
+        {
+          "en": "\"Now let's turn to what you can do on Monday morning,\" he said, and he walked them through it. \"At Norim, once the trail was rebuilt, the month-end close went from eleven days to six, and Han Mi-rae asked me to tell you that she was right.\" The laugh this time came from the buyers, and it was louder.",
+          "ko": "\"이제 월요일 아침에 하실 수 있는 일로 넘어가죠.\" 그는 그렇게 말하고 차근차근 설명했다. \"노림에서는 추적 기록을 다시 만들자 월말 결산이 11일에서 6일로 줄었습니다. 한미래 씨는 자기가 옳았다고 전해 달라고 했습니다.\" 이번 웃음은 구매자들 쪽에서 나왔고, 더 컸다."
+        },
+        {
+          "en": "\"Before I wrap up, here's the only homework: ask who signs this, and whether they can see where the number came from.\" \"Let me leave you with one sentence, and if you remember one thing, build for the person who has to sign.\" The floor clock said nineteen seconds, and for once he left them alone.",
+          "ko": "\"마치기 전에 숙제는 이것 하나입니다. 누가 서명하는지, 그 사람이 숫자의 출처를 볼 수 있는지 물어보세요.\" \"마지막으로 한 문장을 남기겠습니다. 한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드십시오.\" 바닥 시계는 19초를 가리켰고, 이번만큼은 그 시간을 그냥 두었다."
+        },
+        {
+          "en": "Marcus came out with the app open. \"How do we know that it isn't forty?\" he read. \"The short answer is that you don't, until you check, so every row has now been run against the business registry,\" Jae-won said. Marcus scrolled and, with no expression at all, read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\" He took three seconds. \"Don't listen because of who was supposed to be here,\" he said. \"Helen Park earned this stage, and she's why I'm on it, but listen because I showed you where my own number was wrong.\"",
+          "ko": "마커스가 앱을 열고 나왔다. \"40이 아니라는 걸 어떻게 아나요?\" 그가 읽었다. \"짧게 답하면, 확인하기 전에는 모릅니다. 그래서 이제 모든 행을 사업자 등록부와 대조했습니다.\" 재원이 말했다. 마커스는 화면을 내리더니 아무 표정 없이 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\" 그는 3초를 썼다. \"원래 누가 오기로 했는지를 보고 듣지 마십시오.\" 그가 말했다. \"이 무대는 헬렌 박이 따낸 것이고 제가 여기 있는 건 그분 덕분입니다. 하지만 제 숫자의 어디가 틀렸는지 보여 드렸으니 들어 주십시오.\""
+        },
+        {
+          "en": "In the wings, Daniel held up his timer without saying anything, and it said three. Helen's message was waiting: \"It's seven here, my mother wants to know who you are, and nothing went back in. Good.\" At the coffee break, he kept his promise and walked Yuna over to the first prospect, but when they went looking for Grace Lim, she had already left.",
+          "ko": "무대 옆에서 대니얼이 아무 말 없이 타이머를 들어 보였고, 거기에는 3이라고 적혀 있었다. 헬렌의 메시지가 와 있었다. \"여기는 7시예요. 어머니가 저 사람 누구냐고 하시네요. 아무것도 다시 안 넣었군요. 좋아요.\" 커피 시간에 그는 약속대로 유나를 첫 번째 잠재 고객에게 데려갔지만, 그레이스 림을 찾아갔을 때 그녀는 이미 떠나고 없었다."
+        },
+        {
+          "en": "Then his phone lit up, because the slides had left Marcus's hands the moment he came off the stage, as agreed. \"Slide three is the best thing I've heard on that stage in years,\" Ethan wrote. \"I'm using it against you at three.\"",
+          "ko": "그때 휴대폰이 켜졌다. 합의대로 그가 무대에서 내려온 순간 슬라이드가 마커스의 손을 떠난 것이다. \"3번 슬라이드는 몇 년 동안 그 무대에서 들은 것 중 최고예요.\" 이선이 썼다. \"3시에 그걸로 당신을 공격할 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I wrap up",
+        "Let me leave you with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "walk through",
+          "surface": "walked them through",
+          "meaningKo": "차근차근 설명하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Now let's turn to what you can do on Monday morning,\" he said, and he walked them through it.",
+            "ko": "\"이제 월요일 아침에 하실 수 있는 일로 넘어가죠.\" 그는 그렇게 말하고 차근차근 설명했다."
+          }
+        },
+        {
+          "term": "rebuild",
+          "surface": "rebuilt",
+          "meaningKo": "다시 구축하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"At Norim, once the trail was rebuilt, the month-end close went from eleven days to six, and Han Mi-rae asked me to tell you that she was right.\"",
+            "ko": "\"노림에서는 추적 기록을 다시 만들자 월말 결산이 11일에서 6일로 줄었습니다. 한미래 씨는 자기가 옳았다고 전해 달라고 했습니다.\""
+          }
+        },
+        {
+          "term": "homework",
+          "surface": "homework",
+          "meaningKo": "숙제, 사전 준비",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Before I wrap up, here's the only homework: ask who signs this, and whether they can see where the number came from.\"",
+            "ko": "\"마치기 전에 숙제는 이것 하나입니다. 누가 서명하는지, 그 사람이 숫자의 출처를 볼 수 있는지 물어보세요.\""
+          }
+        },
+        {
+          "term": "run against",
+          "surface": "run against",
+          "meaningKo": "~와 대조하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The short answer is that you don't, until you check, so every row has now been run against the business registry,\" Jae-won said.",
+            "ko": "\"짧게 답하면, 확인하기 전에는 모릅니다. 그래서 이제 모든 행을 사업자 등록부와 대조했습니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "lineup",
+          "surface": "lineup",
+          "meaningKo": "출연자 명단, 라인업",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Marcus scrolled and, with no expression at all, read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\"",
+            "ko": "마커스는 화면을 내리더니 아무 표정 없이 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\""
+          }
+        },
+        {
+          "term": "in the wings",
+          "surface": "In the wings",
+          "meaningKo": "무대 옆에서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In the wings, Daniel held up his timer without saying anything, and it said three.",
+            "ko": "무대 옆에서 대니얼이 아무 말 없이 타이머를 들어 보였고, 거기에는 3이라고 적혀 있었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 426,
+      "paragraphs": [
+        {
+          "en": "\"Now let's turn to what you can do on Monday morning, none of which requires a budget,\" he said, and he took them through it step by step. \"At Norim, once the trail had been rebuilt, the month-end close went from eleven days to six, and Han Mi-rae asked me to tell you, as a condition of using her name, that she was right.\" The laugh this time came from the buyers rather than the vendors, and it was louder and considerably less polite.",
+          "ko": "\"이제 월요일 아침에 하실 수 있는 일로 넘어가죠. 예산이 드는 일은 하나도 없습니다.\" 그는 그렇게 말하고 차근차근 설명했다. \"노림에서는 추적 기록을 다시 만들자 월말 결산이 11일에서 6일로 줄었습니다. 한미래 씨는 이름을 쓰는 조건으로, 자기가 옳았다고 전해 달라고 했습니다.\" 이번 웃음은 공급업체가 아니라 구매자들 쪽에서 나왔고, 더 컸으며 훨씬 덜 예의 발랐다."
+        },
+        {
+          "en": "\"Before I wrap up, here's the only homework I'll give you: find out who signs this thing, and ask whether they can see where the number came from.\" \"Let me leave you with one sentence, and if you remember one thing, build for the person who has to sign.\" The floor clock said nineteen seconds, a number he knew rather well, and for once in his life he left them alone.",
+          "ko": "\"마치기 전에 숙제는 이것 하나입니다. 이걸 누가 서명하는지 알아내고, 그 사람이 숫자의 출처를 볼 수 있는지 물어보세요.\" \"마지막으로 한 문장을 남기겠습니다. 한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드십시오.\" 바닥 시계는 19초를 가리켰다. 그가 꽤 잘 아는 숫자였고, 난생처음으로 그는 그 시간을 그냥 두었다."
+        },
+        {
+          "en": "Marcus came out with the app open and no interest in the applause. \"How do we know that it isn't forty?\" he read. \"The short answer is that you don't, until you check, so every row has now been run against the business registry, and there's a signed note that I actually read,\" Jae-won said. Marcus scrolled and, with no expression whatsoever, read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\" It was the question he'd been afraid of for three weeks, read aloud to eight hundred people by a man who had almost certainly chosen it on purpose, and he took three seconds. \"Don't listen because of who was supposed to be here,\" he said. \"Helen Park earned this stage, and she's why I'm on it, but listen because I showed you where my own number was wrong.\"",
+          "ko": "마커스가 박수에는 관심 없다는 듯 앱을 열고 나왔다. \"40이 아니라는 걸 어떻게 아나요?\" 그가 읽었다. \"짧게 답하면, 확인하기 전에는 모릅니다. 그래서 이제 모든 행을 사업자 등록부와 대조했고, 이번에는 제가 실제로 읽고 서명한 메모도 있습니다.\" 재원이 말했다. 마커스는 화면을 내리더니 아무 표정 없이 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\" 3주 동안 두려워한 바로 그 질문이었고, 거의 틀림없이 일부러 골랐을 사람이 800명 앞에서 소리 내어 읽었다. 그는 3초를 썼다. \"원래 누가 오기로 했는지를 보고 듣지 마십시오.\" 그가 말했다. \"이 무대는 헬렌 박이 따낸 것이고 제가 여기 있는 건 그분 덕분입니다. 하지만 제 숫자의 어디가 틀렸는지 보여 드렸으니 들어 주십시오.\""
+        },
+        {
+          "en": "In the wings, Daniel held up his timer without saying anything, and it said three, and Priya, walking past, said, \"Eat something.\" Helen's message was waiting: \"It's seven here, my mother wants to know who you are, and nothing went back in. Good.\" At the coffee break, he kept his promise and walked Yuna over to the first prospect, but when they went looking for Grace Lim, there was only an empty chair in the third row.",
+          "ko": "무대 옆에서 대니얼이 아무 말 없이 타이머를 들어 보였고 거기에는 3이라고 적혀 있었다. 지나가던 프리야는 \"뭐 좀 먹어요\"라고 했다. 헬렌의 메시지가 와 있었다. \"여기는 7시예요. 어머니가 저 사람 누구냐고 하시네요. 아무것도 다시 안 넣었군요. 좋아요.\" 커피 시간에 그는 약속대로 유나를 첫 번째 잠재 고객에게 데려갔지만, 그레이스 림을 찾아갔을 때 3열에는 빈 의자만 있었다."
+        },
+        {
+          "en": "Then his phone lit up, because under the deal he'd struck, the slides had left Marcus's hands the moment he came off the stage. \"Slide three is the best thing I've heard on that stage in years,\" Ethan wrote. \"I'm using it against you at three.\"",
+          "ko": "그때 휴대폰이 켜졌다. 그가 맺은 합의대로 무대에서 내려온 순간 슬라이드가 마커스의 손을 떠난 것이다. \"3번 슬라이드는 몇 년 동안 그 무대에서 들은 것 중 최고예요.\" 이선이 썼다. \"3시에 그걸로 당신을 공격할 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I wrap up",
+        "Let me leave you with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "whatsoever",
+          "surface": "whatsoever",
+          "meaningKo": "전혀, 조금도",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Marcus scrolled and, with no expression whatsoever, read the last one. \"You weren't in the original lineup, so why should we listen to a substitute?\"",
+            "ko": "마커스는 화면을 내리더니 아무 표정 없이 마지막 질문을 읽었다. \"원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?\""
+          }
+        },
+        {
+          "term": "on purpose",
+          "surface": "on purpose",
+          "meaningKo": "일부러",
+          "paragraph": 2,
+          "sentence": {
+            "en": "It was the question he'd been afraid of for three weeks, read aloud to eight hundred people by a man who had almost certainly chosen it on purpose, and he took three seconds.",
+            "ko": "3주 동안 두려워한 바로 그 질문이었고, 거의 틀림없이 일부러 골랐을 사람이 800명 앞에서 소리 내어 읽었다. 그는 3초를 썼다."
+          }
+        },
+        {
+          "term": "in the wings",
+          "surface": "In the wings",
+          "meaningKo": "무대 옆에서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In the wings, Daniel held up his timer without saying anything, and it said three, and Priya, walking past, said, \"Eat something.\"",
+            "ko": "무대 옆에서 대니얼이 아무 말 없이 타이머를 들어 보였고 거기에는 3이라고 적혀 있었다. 지나가던 프리야는 \"뭐 좀 먹어요\"라고 했다."
+          }
+        },
+        {
+          "term": "strike a deal",
+          "surface": "deal he'd struck",
+          "meaningKo": "합의를 맺다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Then his phone lit up, because under the deal he'd struck, the slides had left Marcus's hands the moment he came off the stage.",
+            "ko": "그때 휴대폰이 켜졌다. 그가 맺은 합의대로 무대에서 내려온 순간 슬라이드가 마커스의 손을 떠난 것이다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What number is left on the floor clock when Jae-won finishes?",
+      "options": [
+        "Eleven seconds",
+        "Forty seconds",
+        "Three seconds",
+        "Nineteen seconds"
+      ],
+      "answerIndex": 3,
+      "evidence": "The floor clock said nineteen seconds, and for once he left them alone."
+    },
+    {
+      "question": "How does Jae-won's reply to the substitute question show that he has changed?",
+      "options": [
+        "He refuses to discuss it and moves on.",
+        "He names the fear that once froze him and answers it in three seconds.",
+        "He asks Marcus to choose a different question.",
+        "He answers in Korean to be precise."
+      ],
+      "answerIndex": 1,
+      "evidence": "You weren't in the original lineup, so why should we listen to a substitute?"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Before I wrap up, here's the only homework: ask who signs this, and whether they can see where the number came from.",
+      "Let me leave you with one sentence.",
+      "Listen because I showed you where my own number was wrong."
+    ],
+    "summaryPromptKo": "재원이 키노트를 어떻게 마무리했는지, 앱 질문 두 개에 뭐라고 답했는지, 무대에서 내려온 뒤 어떤 메시지가 왔는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "You have thirty seconds and no slides. Tell the people who missed this morning what your talk was about.",
+      "ko": "30초 드립니다. 슬라이드는 없어요. 오늘 아침 못 들은 분들께 발표가 무엇에 관한 것이었는지 말해 주세요."
+    },
+    "modelAnswer": "Picture this: a finance manager is checking a machine's numbers by hand at eleven at night, and she refuses to sign. Thirty-one of the forty-one pilots we studied stopped because of moments like that. Here's why that matters: the model was never the reason. Let me leave you with one sentence. Build for the person who has to sign, and build the audit trail first."
+  },
+  "nextTeaserKo": "오후 3시, 패널 토론. 이선 울프가 재원의 가장 정직한 15초를 재원에게 겨눈다. 서명한 사람이 행을 열어 보지도 않았다면, 그 서명은 대체 무엇을 지키는가.",
+  "roleplay": {
+    "title": "마지막 앱 질문",
+    "situationKo": "키노트의 끝부분과 마커스가 읽는 앱 질문을 다시 합니다. 내가 재원이 되어 마무리하고, 대타 질문까지 받아 봅니다. 3초쯤 생각하고 답해도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Slide nine is back. Keep going.",
+        "ko": "9번 슬라이드 돌아왔어요. 계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Now let's turn to what you can do on Monday morning.",
+        "ko": "이제 월요일 아침에 하실 수 있는 일로 넘어가죠.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "At Norim, the close went from eleven days to six, and Han Mi-rae asked me to tell you she was right.",
+        "ko": "노림에서는 결산이 11일에서 6일로 줄었고, 한미래 씨는 자기가 옳았다고 전해 달라고 했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Before I wrap up, one bit of homework: ask who signs this, and can they see where the number came from?",
+        "ko": "마치기 전에 숙제 하나입니다. 누가 서명하는지, 그 사람이 숫자의 출처를 볼 수 있는지 물어보세요.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me leave you with one sentence: build for the person who has to sign.",
+        "ko": "마지막으로 한 문장을 남기겠습니다. 서명해야 하는 사람을 위해 만드십시오.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Nineteen seconds to spare. From the app: how do we know it isn't forty?",
+        "ko": "19초 남았네요. 앱 질문입니다. 40이 아니라는 걸 어떻게 아나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The short answer is you don't, until you check. So we ran every row against the business registry.",
+        "ko": "짧게 답하면, 확인하기 전에는 모릅니다. 그래서 모든 행을 사업자 등록부와 대조했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Last one. You weren't in the original lineup. Why should we listen to a substitute?",
+        "ko": "마지막입니다. 원래 명단에 없던 분인데, 왜 대타의 말을 들어야 하죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Helen Park earned this stage. But listen because I showed you where my own number was wrong.",
+        "ko": "이 무대는 헬렌 박이 따낸 겁니다. 하지만 제 숫자의 어디가 틀렸는지 보여 드렸으니 들어 주십시오.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Time. Thank you. Get off my stage and eat something.",
+        "ko": "시간 됐습니다. 감사합니다. 제 무대에서 내려가 뭐 좀 드세요."
+      }
+    ]
+  }
+}

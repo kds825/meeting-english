@@ -1,0 +1,61 @@
+{
+  "episodeId": "keynote-s2-e35",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "at once": "word-at-once.mp3",
+    "papers": "word-papers.mp3",
+    "knee": "word-knee.mp3",
+    "director": "word-director.mp3",
+    "audit committee": "word-audit-committee.mp3",
+    "target": "word-target.mp3",
+    "chair": "word-chair.mp3",
+    "encouraging": "word-encouraging.mp3",
+    "undisturbed": "word-undisturbed.mp3",
+    "raise": "word-raise.mp3",
+    "contemplate": "word-contemplate.mp3",
+    "mean to": "word-mean-to.mp3",
+    "arrange oneself": "word-arrange-oneself.mp3",
+    "footnote": "word-footnote.mp3"
+  },
+  "termClips": {
+    "at once": "term-at-once.mp3",
+    "papers": "term-papers.mp3",
+    "knee": "term-knee.mp3",
+    "director": "term-director.mp3",
+    "audit committee": "term-audit-committee.mp3",
+    "target": "term-target.mp3",
+    "chair": "term-chair.mp3",
+    "encouraging": "term-encouraging.mp3",
+    "undisturbed": "term-undisturbed.mp3",
+    "raise": "term-raise.mp3",
+    "contemplate": "term-contemplate.mp3",
+    "mean to": "term-mean-to.mp3",
+    "arrange oneself": "term-arrange-oneself.mp3",
+    "footnote": "term-footnote.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

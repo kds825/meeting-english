@@ -1,0 +1,430 @@
+{
+  "id": "keynote-s2-e34",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 34,
+  "title": "Fourteen Questions",
+  "recapKo": "재원은 16주 차에 2,000건은 없다고 먼저 말하고 20주 차를 내놓았다. 그레이스는 구내식당에서 내년 말까지 이 시스템 때문에 일자리를 잃는 사람은 없다고 약속했고, 웨이링은 \"야간조에 한함\"이라 적고 서명했다. 여섯째 날 밤 시티가 빨간 키를 눌렀다. 14일 밤의 결과는 1,120장 중 112장. 아르준이 질문 14개를 들고 앉았다.",
+  "keyExpressions": [
+    {
+      "phrase": "This assumes that ~",
+      "meaningKo": "이것은 ~라고 가정한 것입니다",
+      "usage": "This assumes that demand stays flat through the summer."
+    },
+    {
+      "phrase": "If that assumption is wrong, ~",
+      "meaningKo": "그 가정이 틀리면 ~",
+      "usage": "If that assumption is wrong, we'll need another month."
+    },
+    {
+      "phrase": "I'd put the range at ~",
+      "meaningKo": "범위는 ~로 보고 있습니다",
+      "usage": "I'd put the range at three to five percent."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 208,
+      "paragraphs": [
+        {
+          "en": "\"Question one,\" Arjun said, \"is that fourteen nights isn't a month, so why are you multiplying?\" \"This assumes that month-end is the only different week,\" Jae-won said. \"If that assumption is wrong, you'll see it in week eighteen, before you pay anything.\" Arjun asked about the thirty forms from the night of the red key. \"They're in the count, because they were typed again,\" Jae-won said.",
+          "ko": "\"첫 번째 질문입니다.\" 아르준이 말했다. \"14일 밤은 한 달이 아닌데, 왜 곱하는 겁니까?\" \"이것은 월말만 다른 주라고 가정한 것입니다.\" 재원이 말했다. \"그 가정이 틀리면 18주 차에 보실 겁니다. 돈을 내시기 전에요.\" 아르준이 빨간 키를 누른 밤의 양식 30장에 대해 물었다. \"집계에 들어 있습니다. 다시 입력되었으니까요.\" 재원이 말했다."
+        },
+        {
+          "en": "Question six was the day shift. Nights would fall from twenty-four hundred to two hundred and forty. Days were seven thousand, and the last result was eighty-six percent. \"I'd put the range at twelve hundred to two thousand,\" he said.",
+          "ko": "여섯 번째 질문은 주간조였다. 야간조는 2,400건에서 240건으로 줄어들 것이다. 주간조는 7,000건이었고, 마지막 결과는 86퍼센트였다. \"범위는 1,200건에서 2,000건으로 보고 있습니다.\" 그가 말했다."
+        },
+        {
+          "en": "\"Question nine,\" Arjun said, \"is that if nobody leaves, where's my nine dollars?\" \"Five dollars is overtime and rework, and you get that now,\" Jae-won said. \"The other four only comes when people leave.\" He also said that the fines were a quarter, not a third. \"That's ninety thousand, and I told you a hundred and twenty. You don't have to take my word for it.\"",
+          "ko": "\"아홉 번째 질문입니다.\" 아르준이 말했다. \"아무도 안 떠나면, 제 9달러는 어디 있습니까?\" \"5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다. \"나머지 4달러는 사람이 떠날 때만 생깁니다.\" 그는 벌금도 3분의 1이 아니라 4분의 1이었다고 말했다. \"9만 달러입니다. 저는 12만 달러라고 말씀드렸고요. 제 말만 믿으실 필요는 없습니다.\""
+        },
+        {
+          "en": "Grace opened her drawer and gave Anders's pages back. Week twenty was approved, at Seoro's cost. \"The board meets on Tuesday of week eighteen,\" she said. \"You'll carry the papers, and you won't need to speak.\"",
+          "ko": "그레이스가 서랍을 열어 앤더스의 제안서를 돌려주었다. 20주 차가 승인되었고, 비용은 서로 파트너스가 부담한다. \"이사회는 18주 차 화요일에 열려요.\" 그녀가 말했다. \"서류를 들고 오세요. 말할 일은 없을 거예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "This assumes that",
+        "If that assumption is wrong",
+        "I'd put the range at"
+      ],
+      "wordCandidates": [
+        {
+          "term": "multiply",
+          "surface": "multiplying",
+          "meaningKo": "곱하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Question one,\" Arjun said, \"is that fourteen nights isn't a month, so why are you multiplying?\"",
+            "ko": "\"첫 번째 질문입니다.\" 아르준이 말했다. \"14일 밤은 한 달이 아닌데, 왜 곱하는 겁니까?\""
+          }
+        },
+        {
+          "term": "overtime",
+          "surface": "overtime",
+          "meaningKo": "초과 근무",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Five dollars is overtime and rework, and you get that now,\" Jae-won said.",
+            "ko": "\"5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "rework",
+          "surface": "rework",
+          "meaningKo": "재작업",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Five dollars is overtime and rework, and you get that now,\" Jae-won said.",
+            "ko": "\"5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "fine",
+          "surface": "fines",
+          "meaningKo": "벌금",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He also said that the fines were a quarter, not a third.",
+            "ko": "그는 벌금도 3분의 1이 아니라 4분의 1이었다고 말했다."
+          }
+        },
+        {
+          "term": "approve",
+          "surface": "approved",
+          "meaningKo": "승인하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Week twenty was approved, at Seoro's cost.",
+            "ko": "20주 차가 승인되었고, 비용은 서로 파트너스가 부담한다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 322,
+      "paragraphs": [
+        {
+          "en": "\"Question one,\" Arjun said, without looking up. \"Fourteen nights isn't a month, so why are you multiplying?\" \"This assumes that month-end is the only week that behaves differently,\" Jae-won said. \"If that assumption is wrong, you'll see it in week eighteen, before you've paid anything.\" Arjun moved on to the thirty forms from the night of the red key, and asked why a system that had been switched off was being charged for them. \"They were typed again, so they're in the count,\" Jae-won said. \"You can have eighty-two if you prefer, but I won't be using it.\"",
+          "ko": "\"첫 번째 질문입니다.\" 아르준이 고개를 들지 않고 말했다. \"14일 밤은 한 달이 아닌데, 왜 곱하는 겁니까?\" \"이것은 월말만 다르게 움직이는 주라고 가정한 것입니다.\" 재원이 말했다. \"그 가정이 틀리면 18주 차에 보실 겁니다. 돈을 내시기 전에요.\" 아르준은 빨간 키를 누른 밤의 양식 30장으로 넘어가, 꺼져 있던 시스템에 왜 그것을 달아 놓았느냐고 물었다. \"다시 입력되었으니 집계에 들어갑니다.\" 재원이 말했다. \"원하시면 82로 보셔도 되지만, 저는 그 숫자를 쓰지 않겠습니다.\""
+        },
+        {
+          "en": "Question six was the day shift, which nobody had tested. At this rate, nights would fall from twenty-four hundred a month to two hundred and forty. Days were seven thousand, and at the eighty-six percent from week ten, that left nearly a thousand. \"I'd put the range at twelve hundred to two thousand, and the top of it is the contract,\" he said.",
+          "ko": "여섯 번째 질문은 아무도 시험하지 않은 주간조였다. 이 비율이면 야간조는 월 2,400건에서 240건으로 줄어든다. 주간조는 7,000건이고, 10주 차의 86퍼센트를 적용하면 1,000건 가까이 남는다. \"범위는 1,200건에서 2,000건으로 보고 있고, 그 위쪽 끝이 계약입니다.\" 그가 말했다."
+        },
+        {
+          "en": "\"Question nine,\" Arjun said. \"Grace has promised that nobody leaves, so where's my nine dollars?\" \"Five of it is overtime and rework, and you get that now,\" Jae-won said. \"The other four only comes as people leave, and six left last year.\" Before Arjun could reach question twelve, he told him what it would be. \"I said a third of the fines were ours, and the records say a quarter, so that's ninety thousand a year rather than a hundred and twenty. You don't have to take my word for it.\"",
+          "ko": "\"아홉 번째 질문입니다.\" 아르준이 말했다. \"아무도 안 떠난다고 그레이스가 약속했으니, 제 9달러는 어디 있습니까?\" \"그중 5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다. \"나머지 4달러는 사람이 떠날 때만 생기는데, 작년에 여섯 명이 떠났습니다.\" 아르준이 열두 번째 질문에 이르기 전에, 그는 그것이 무엇일지 먼저 말했다. \"벌금의 3분의 1이 우리 몫이라고 했는데, 기록으로는 4분의 1입니다. 그러니 연 12만 달러가 아니라 9만 달러입니다. 제 말만 믿으실 필요는 없습니다.\""
+        },
+        {
+          "en": "Question fourteen was which number he trusted least, and he said the day shift, because nobody had read it yet. Grace opened her drawer and handed Anders's pages to her assistant, to be returned with thanks. Week twenty was approved, at Seoro's cost, with the bonus tied to a month-end. \"The board meets on Tuesday of week eighteen,\" she said. \"You'll carry the papers, and you won't need to speak.\"",
+          "ko": "열네 번째 질문은 어느 숫자를 가장 믿지 못하느냐는 것이었고, 그는 아직 아무도 읽지 않은 주간조라고 했다. 그레이스가 서랍을 열어 앤더스의 제안서를 비서에게 건네며 감사 인사와 함께 돌려주라고 했다. 20주 차가 승인되었고, 비용은 서로 파트너스가 부담하며, 성과금은 월말과 연동되었다. \"이사회는 18주 차 화요일에 열려요.\" 그녀가 말했다. \"서류를 들고 오세요. 말할 일은 없을 거예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "This assumes that",
+        "If that assumption is wrong",
+        "I'd put the range at"
+      ],
+      "wordCandidates": [
+        {
+          "term": "behave",
+          "surface": "behaves",
+          "meaningKo": "(수치 등이) 움직이다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"This assumes that month-end is the only week that behaves differently,\" Jae-won said.",
+            "ko": "\"이것은 월말만 다르게 움직이는 주라고 가정한 것입니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "charge",
+          "surface": "charged",
+          "meaningKo": "(책임·비용을) 달아 놓다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Arjun moved on to the thirty forms from the night of the red key, and asked why a system that had been switched off was being charged for them.",
+            "ko": "아르준은 빨간 키를 누른 밤의 양식 30장으로 넘어가, 꺼져 있던 시스템에 왜 그것을 달아 놓았느냐고 물었다."
+          }
+        },
+        {
+          "term": "rate",
+          "surface": "rate",
+          "meaningKo": "비율",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At this rate, nights would fall from twenty-four hundred a month to two hundred and forty.",
+            "ko": "이 비율이면 야간조는 월 2,400건에서 240건으로 줄어든다."
+          }
+        },
+        {
+          "term": "overtime",
+          "surface": "overtime",
+          "meaningKo": "초과 근무",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Five of it is overtime and rework, and you get that now,\" Jae-won said.",
+            "ko": "\"그중 5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "rework",
+          "surface": "rework",
+          "meaningKo": "재작업",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Five of it is overtime and rework, and you get that now,\" Jae-won said.",
+            "ko": "\"그중 5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "assistant",
+          "surface": "assistant",
+          "meaningKo": "비서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace opened her drawer and handed Anders's pages to her assistant, to be returned with thanks.",
+            "ko": "그레이스가 서랍을 열어 앤더스의 제안서를 비서에게 건네며 감사 인사와 함께 돌려주라고 했다."
+          }
+        },
+        {
+          "term": "tied to",
+          "surface": "tied to",
+          "meaningKo": "~와 연동된",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Week twenty was approved, at Seoro's cost, with the bonus tied to a month-end.",
+            "ko": "20주 차가 승인되었고, 비용은 서로 파트너스가 부담하며, 성과금은 월말과 연동되었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 443,
+      "paragraphs": [
+        {
+          "en": "\"Question one,\" Arjun said, without looking up from a list he had evidently been refining for some time. \"Fourteen nights isn't a month, so on what basis are you multiplying?\" \"This assumes that month-end is the only week that behaves differently, which is the assumption that hurt Corvane's other clients,\" Jae-won said. \"If that assumption is wrong, you'll see it in week eighteen, with volume at three times normal, before you've paid anything.\" Arjun moved on to the thirty forms from the night of the red key, and inquired why a system that had been switched off was being charged for them, since it was hardly in Jae-won's interest. \"They were typed again, so they're in the count, and you can have eighty-two if you prefer, but I won't be quoting it.\"",
+          "ko": "\"첫 번째 질문입니다.\" 아르준이 한동안 다듬어 온 것이 분명한 목록에서 고개를 들지 않고 말했다. \"14일 밤은 한 달이 아닌데, 무슨 근거로 곱하는 겁니까?\" \"이것은 월말만 다르게 움직이는 주라고 가정한 것이고, 코르베인의 다른 고객들을 힘들게 한 바로 그 가정입니다.\" 재원이 말했다. \"그 가정이 틀리면 물량이 평소의 3배인 18주 차에, 돈을 내시기 전에 보실 겁니다.\" 아르준은 빨간 키를 누른 밤의 양식 30장으로 넘어가, 재원에게 이로울 것도 없는데 꺼져 있던 시스템에 왜 그것을 달아 놓았느냐고 물었다. \"다시 입력되었으니 집계에 들어갑니다. 원하시면 82로 보셔도 되지만, 저는 그 숫자를 인용하지 않겠습니다.\""
+        },
+        {
+          "en": "Question six went for the soft part, which was the day shift that nobody had tested. At this rate, nights would fall from twenty-four hundred a month to two hundred and forty, whereas days were seven thousand, and at the eighty-six percent from week ten, that left nearly a thousand. \"I'd put the range at twelve hundred to two thousand, and I'd draw your attention to the fact that the top of it is the contract,\" he said.",
+          "ko": "여섯 번째 질문은 약한 대목, 아무도 시험하지 않은 주간조를 파고들었다. 이 비율이면 야간조는 월 2,400건에서 240건으로 줄지만, 주간조는 7,000건이고 10주 차의 86퍼센트를 적용하면 1,000건 가까이 남았다. \"범위는 1,200건에서 2,000건으로 보고 있고, 그 위쪽 끝이 계약이라는 점을 짚어 두겠습니다.\" 그가 말했다."
+        },
+        {
+          "en": "\"Question nine,\" Arjun said, and this one he had plainly been saving. \"Grace has promised the canteen that nobody leaves, so where, precisely, is my nine dollars?\" \"Five of it is overtime and rework, which you get now, and the other four only materializes as people leave, and six left last year,\" Jae-won said. Then, before Arjun could reach question twelve, he told him what it was going to be. \"I said a third of the fines were ours, and I said it as an estimate, and the records say a quarter, so that's ninety thousand a year rather than a hundred and twenty, and you don't have to take my word for it.\" Arjun wrote it down, crossed out a line on his own list, and looked at him for the first time that morning.",
+          "ko": "\"아홉 번째 질문입니다.\" 아르준이 말했고, 이것은 분명 아껴 둔 질문이었다. \"그레이스가 구내식당에서 아무도 안 떠난다고 약속했으니, 제 9달러는 정확히 어디 있습니까?\" \"그중 5달러는 초과 근무와 재작업이고 그건 지금 받으십니다. 나머지 4달러는 사람이 떠날 때만 실제가 되는데, 작년에 여섯 명이 떠났습니다.\" 재원이 말했다. 그러고는 아르준이 열두 번째 질문에 이르기 전에, 그것이 무엇일지 먼저 말했다. \"벌금의 3분의 1이 우리 몫이라고 추정치로 말씀드렸는데, 기록으로는 4분의 1입니다. 그러니 연 12만 달러가 아니라 9만 달러이고, 제 말만 믿으실 필요는 없습니다.\" 아르준은 그것을 적고 자기 목록의 한 줄을 지운 뒤 그날 아침 처음으로 그를 쳐다봤다."
+        },
+        {
+          "en": "Question fourteen asked which number he trusted least, and he said the day shift, because nobody had read it yet. Wei Ling remarked that nobody would until her day leads said so. Grace opened her drawer at last and handed Anders's pages to her assistant, to be returned with thanks and, she specified, no adjectives. Week twenty was approved, at Seoro's cost, with the bonus tied to a month-end, and Priscilla would have one page by noon. \"The board meets on Tuesday of week eighteen,\" Grace said. \"You'll carry the papers, and you won't need to speak.\"",
+          "ko": "열네 번째 질문은 어느 숫자를 가장 믿지 못하느냐는 것이었고, 그는 아직 아무도 읽지 않은 주간조라고 했다. 웨이링은 자기 주간 책임자들이 좋다고 할 때까지 아무도 읽지 못할 거라고 덧붙였다. 그레이스가 마침내 서랍을 열어 앤더스의 제안서를 비서에게 건네며 감사 인사와 함께, 형용사는 빼고 돌려주라고 일렀다. 20주 차가 승인되었고, 비용은 서로 파트너스가 부담하며, 성과금은 월말과 연동되고, 프리실라가 정오까지 한 장을 받기로 했다. \"이사회는 18주 차 화요일에 열려요.\" 그레이스가 말했다. \"서류를 들고 오세요. 말할 일은 없을 거예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "This assumes that",
+        "If that assumption is wrong",
+        "I'd put the range at"
+      ],
+      "wordCandidates": [
+        {
+          "term": "refine",
+          "surface": "refining",
+          "meaningKo": "다듬다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Question one,\" Arjun said, without looking up from a list he had evidently been refining for some time.",
+            "ko": "\"첫 번째 질문입니다.\" 아르준이 한동안 다듬어 온 것이 분명한 목록에서 고개를 들지 않고 말했다."
+          }
+        },
+        {
+          "term": "inquire",
+          "surface": "inquired",
+          "meaningKo": "묻다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Arjun moved on to the thirty forms from the night of the red key, and inquired why a system that had been switched off was being charged for them, since it was hardly in Jae-won's interest.",
+            "ko": "아르준은 빨간 키를 누른 밤의 양식 30장으로 넘어가, 재원에게 이로울 것도 없는데 꺼져 있던 시스템에 왜 그것을 달아 놓았느냐고 물었다."
+          }
+        },
+        {
+          "term": "the soft part",
+          "surface": "the soft part",
+          "meaningKo": "약한 대목",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Question six went for the soft part, which was the day shift that nobody had tested.",
+            "ko": "여섯 번째 질문은 약한 대목, 아무도 시험하지 않은 주간조를 파고들었다."
+          }
+        },
+        {
+          "term": "materialize",
+          "surface": "materializes",
+          "meaningKo": "실제가 되다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Five of it is overtime and rework, which you get now, and the other four only materializes as people leave, and six left last year,\" Jae-won said.",
+            "ko": "\"그중 5달러는 초과 근무와 재작업이고 그건 지금 받으십니다. 나머지 4달러는 사람이 떠날 때만 실제가 되는데, 작년에 여섯 명이 떠났습니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "estimate",
+          "surface": "estimate",
+          "meaningKo": "추정치",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I said a third of the fines were ours, and I said it as an estimate, and the records say a quarter, so that's ninety thousand a year rather than a hundred and twenty, and you don't have to take my word for it.\"",
+            "ko": "\"벌금의 3분의 1이 우리 몫이라고 추정치로 말씀드렸는데, 기록으로는 4분의 1입니다. 그러니 연 12만 달러가 아니라 9만 달러이고, 제 말만 믿으실 필요는 없습니다.\""
+          }
+        },
+        {
+          "term": "specify",
+          "surface": "specified",
+          "meaningKo": "명시하다, 지정하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace opened her drawer at last and handed Anders's pages to her assistant, to be returned with thanks and, she specified, no adjectives.",
+            "ko": "그레이스가 마침내 서랍을 열어 앤더스의 제안서를 비서에게 건네며 감사 인사와 함께, 형용사는 빼고 돌려주라고 일렀다."
+          }
+        },
+        {
+          "term": "adjective",
+          "surface": "adjectives",
+          "meaningKo": "형용사",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace opened her drawer at last and handed Anders's pages to her assistant, to be returned with thanks and, she specified, no adjectives.",
+            "ko": "그레이스가 마침내 서랍을 열어 앤더스의 제안서를 비서에게 건네며 감사 인사와 함께, 형용사는 빼고 돌려주라고 일렀다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How much do the records say the fines really are per year?",
+      "options": [
+        "Twelve thousand dollars",
+        "Ninety thousand dollars",
+        "A hundred and twenty thousand dollars",
+        "Three hundred and sixty thousand dollars"
+      ],
+      "answerIndex": 1,
+      "evidence": "ninety thousand"
+    },
+    {
+      "question": "Why does Jae-won bring up the mistake about the fines before Arjun asks?",
+      "options": [
+        "He has been ordered to by Helen",
+        "He thinks Arjun has lost the list",
+        "He wants to show that his numbers can be trusted even when they go against him",
+        "He wants to lower the fee"
+      ],
+      "answerIndex": 2,
+      "evidence": "ninety thousand"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "This assumes that month-end is the only different week.",
+      "If that assumption is wrong, you'll see it in week eighteen.",
+      "I'd put the range at twelve hundred to two thousand."
+    ],
+    "summaryPromptKo": "아르준이 어떤 가정을 공격했는지, 재원이 스스로 어떤 숫자를 정정했는지, 그레이스가 무엇을 결정했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "You tested fourteen nights and no days. Why should I believe any number for the whole month?",
+      "ko": "14일 밤을 시험했고 주간은 안 했죠. 왜 한 달 전체 숫자를 믿어야 합니까?"
+    },
+    "modelAnswer": "You shouldn't believe it as a fact. Treat it as a range. Nights fell from every form to one in ten. This assumes that month-end is the only different week, and that days do no worse than the eighty-six percent from week ten. I'd put the range at twelve hundred to two thousand. If that assumption is wrong, you'll see it in week eighteen, before you've paid anything."
+  },
+  "nextTeaserKo": "18주 차 화요일, 스트레이츠 메리디안 이사회. 재원은 서류만 들고 가면 된다. 그런데 이사회 슬라이드에는 아직 \"10건 중 1건\"이 그룹 전체 숫자처럼 적혀 있다. 재원은 전날 밤 그레이스에게 말한다. 그리고 다음 날 한 이사가 그 줄을 짚는다.",
+  "roleplay": {
+    "title": "질문 14개",
+    "situationKo": "16주 차 금요일, 아르준이 번호 붙은 질문을 하나씩 읽습니다. 가정을 먼저 밝히면 답이 쉬워져요. 수치는 틀려도 괜찮으니 편하게 다시 말해 보세요.",
+    "lines": [
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Question one. Fourteen nights isn't a month. Why are you multiplying?",
+        "ko": "첫 번째 질문입니다. 14일 밤은 한 달이 아닙니다. 왜 곱하는 겁니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "This assumes that month-end is the only different week. If that assumption is wrong, you'll see it in week eighteen.",
+        "ko": "이것은 월말만 다른 주라고 가정한 것입니다. 그 가정이 틀리면 18주 차에 보실 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Why are the thirty forms from the red key night in your count?",
+        "ko": "왜 빨간 키를 누른 밤의 양식 30장이 집계에 있습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "They were typed again. You can have eighty-two if you prefer, but I won't use it.",
+        "ko": "다시 입력되었으니까요. 원하시면 82로 보셔도 되지만, 저는 쓰지 않겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Question six. You haven't tested the day shift. What's your number?",
+        "ko": "여섯 번째 질문입니다. 주간조는 시험하지 않았죠. 숫자가 얼마입니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'd put the range at twelve hundred to two thousand, and the top of it is the contract.",
+        "ko": "범위는 1,200건에서 2,000건으로 보고 있고, 그 위쪽 끝이 계약입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Question nine. If nobody leaves, where's my nine dollars?",
+        "ko": "아홉 번째 질문입니다. 아무도 안 떠나면 제 9달러는 어디 있습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Five is overtime and rework, and you get that now. The other four only comes as people leave.",
+        "ko": "5달러는 초과 근무와 재작업이고, 그건 지금 받으십니다. 나머지 4달러는 사람이 떠날 때만 생깁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "I also have a question about the fines.",
+        "ko": "벌금에 대해서도 질문이 있습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I know. I said a third, the records say a quarter. That's ninety thousand, not a hundred and twenty.",
+        "ko": "압니다. 3분의 1이라고 했는데 기록으로는 4분의 1입니다. 12만 달러가 아니라 9만 달러입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Last one. Which number do you trust least?",
+        "ko": "마지막입니다. 어느 숫자를 가장 믿지 못합니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The day shift, because nobody has read it yet.",
+        "ko": "주간조입니다. 아직 아무도 읽지 않았으니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Week twenty, at your cost. The board meets on Tuesday of week eighteen. You'll carry the papers.",
+        "ko": "20주 차로 하죠. 비용은 그쪽 부담이고요. 이사회는 18주 차 화요일이에요. 서류를 들고 오세요."
+      }
+    ]
+  }
+}

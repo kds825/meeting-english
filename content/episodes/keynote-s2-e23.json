@@ -1,0 +1,425 @@
+{
+  "id": "keynote-s2-e23",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 23,
+  "title": "Burnout",
+  "recapKo": "콜은 칸을 넣기는 쉬워도 시험이 어렵다고 했다. 서류 1,000건 시험은 3주가 더 든다. 재원의 한 장을 받은 그레이스는 200건 시험과 10주 차 가동을 골랐고, 하피즈의 팀이 처음 4주 동안 신고서를 전부 읽기로 했다. 그 시험은 또 대니얼에게 맡겨졌다. \"그럼요.\" 대니얼이 말했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Walk me through ~",
+      "meaningKo": "~을 차근차근 설명해 주세요",
+      "usage": "Walk me through what happened on Thursday night."
+    },
+    {
+      "phrase": "I want to give you some feedback on ~",
+      "meaningKo": "~에 대해 피드백을 드리고 싶습니다",
+      "usage": "I want to give you some feedback on yesterday's report."
+    },
+    {
+      "phrase": "How are you holding up?",
+      "meaningKo": "좀 어떻게 지내요? 버틸 만해요?",
+      "usage": "It's been a long month. How are you holding up?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 223,
+      "paragraphs": [
+        {
+          "en": "In week seven, on Thursday, Daniel sent the weekly number at one in the morning: eighty-one percent on new forms. At seven, Jae-won sent it to Grace and Wei Ling in the same minute, and he didn't open the file.",
+          "ko": "7주 차 목요일, 대니얼이 새벽 1시에 주간 숫자를 보냈다. 새 양식에서 81퍼센트였다. 7시에 재원은 그것을 같은 분에 그레이스와 웨이링에게 보냈고, 파일은 열어 보지 않았다."
+        },
+        {
+          "en": "At nine, Siti called from the dock. \"That doesn't match what we saw, because Cole read a hundred and eighty of these on nights,\" she said. Jae-won opened the file and started to count.",
+          "ko": "9시에 도크의 시티가 전화했다. \"저희가 본 것과 안 맞아요. 콜이 이 중 180건은 밤에 읽었거든요.\" 그녀가 말했다. 재원은 파일을 열고 세기 시작했다."
+        },
+        {
+          "en": "He called Grace at nine forty and told Wei Ling in the same minute. \"I'll start with the bad news: the number you got this morning is wrong,\" he said. \"The real one is sixty-nine, and my name was on it.\"",
+          "ko": "그는 9시 40분에 그레이스에게 전화하면서 같은 분에 웨이링에게도 알렸다. \"나쁜 소식부터 말씀드리겠습니다. 오늘 아침에 받으신 숫자는 틀렸습니다.\" 그가 말했다. \"실제는 69이고, 제 이름이 달려 있었습니다.\""
+        },
+        {
+          "en": "At noon, he sat down with Daniel in a small room at Tuas, and Daniel's shirt was buttoned wrong. \"I want to give you some feedback on this morning's number,\" Jae-won said. \"Walk me through what happened.\" In a flat voice, Daniel said that Cole's folder had the wrong name and he hadn't checked it.",
+          "ko": "정오에 그는 투아스의 작은 방에서 대니얼과 마주 앉았고, 대니얼의 셔츠 단추가 어긋나 있었다. \"오늘 아침 숫자에 대해 피드백을 주고 싶어요.\" 재원이 말했다. \"무슨 일이 있었는지 차근차근 설명해 줘요.\" 대니얼은 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 확인하지 않았다고 말했다."
+        },
+        {
+          "en": "Jae-won looked at the shirt. \"How are you holding up?\" he asked, and then he asked about Daniel's last day off. \"It's been forty-six days, and you counted back in week four, because I saw your note,\" Daniel said. \"I wrote to Helen this morning, and I've asked to come off the project.\"",
+          "ko": "재원은 그 셔츠를 봤다. \"좀 어때요?\" 그가 물었고, 이어서 대니얼이 마지막으로 쉰 날을 물었다. \"46일 됐어요. 4주 차에 세어 보셨잖아요. 메모를 봤어요.\" 대니얼이 말했다. \"오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Walk me through",
+        "I want to give you some feedback on",
+        "How are you holding up?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "percent",
+          "surface": "percent",
+          "meaningKo": "퍼센트",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In week seven, on Thursday, Daniel sent the weekly number at one in the morning: eighty-one percent on new forms.",
+            "ko": "7주 차 목요일, 대니얼이 새벽 1시에 주간 숫자를 보냈다. 새 양식에서 81퍼센트였다."
+          }
+        },
+        {
+          "term": "count",
+          "surface": "count",
+          "meaningKo": "세다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won opened the file and started to count.",
+            "ko": "재원은 파일을 열고 세기 시작했다."
+          }
+        },
+        {
+          "term": "button",
+          "surface": "buttoned",
+          "meaningKo": "단추를 채우다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At noon, he sat down with Daniel in a small room at Tuas, and Daniel's shirt was buttoned wrong.",
+            "ko": "정오에 그는 투아스의 작은 방에서 대니얼과 마주 앉았고, 대니얼의 셔츠 단추가 어긋나 있었다."
+          }
+        },
+        {
+          "term": "flat",
+          "surface": "flat",
+          "meaningKo": "(목소리가) 단조로운, 무표정한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In a flat voice, Daniel said that Cole's folder had the wrong name and he hadn't checked it.",
+            "ko": "대니얼은 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 확인하지 않았다고 말했다."
+          }
+        },
+        {
+          "term": "come off",
+          "surface": "come off",
+          "meaningKo": "(프로젝트에서) 빠지다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I wrote to Helen this morning, and I've asked to come off the project.\"",
+            "ko": "\"오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 353,
+      "paragraphs": [
+        {
+          "en": "In week seven, on Thursday, Daniel sent the weekly number at ten past one in the morning: Corvane had reached eighty-one percent on unseen forms, up from sixty-eight the week before. At seven, Jae-won forwarded it to Grace and Wei Ling in the same minute, as promised, and he didn't open the file.",
+          "ko": "7주 차 목요일, 대니얼이 새벽 1시 10분에 주간 숫자를 보냈다. 코르베인이 처음 보는 양식에서 지난주 68퍼센트에서 오른 81퍼센트에 이르렀다는 것이었다. 7시에 재원은 약속대로 그것을 같은 분에 그레이스와 웨이링에게 전달했고, 파일은 열어 보지 않았다."
+        },
+        {
+          "en": "At nine, Siti called from the dock, and she had never called anyone at head office. \"That doesn't match what we saw,\" she said. \"I've seen this list, and Cole read a hundred and eighty of these on nights in week five, so they aren't new to him.\" Jae-won opened the file for the first time and started to count.",
+          "ko": "9시에 도크의 시티가 전화했다. 그녀는 본사의 누구에게도 전화한 적이 없었다. \"저희가 본 것과 안 맞아요.\" 그녀가 말했다. \"이 목록을 봤는데, 콜이 이 중 180건은 5주 차 밤에 읽었으니 그에게 새것이 아니에요.\" 재원은 처음으로 파일을 열고 세기 시작했다."
+        },
+        {
+          "en": "Siti was right, and the three hundred and twenty forms that were really new gave sixty-nine percent. He called Grace at nine forty and sent Wei Ling the same words in the same minute. \"I'll start with the bad news: the number you got this morning is wrong,\" he said. \"The real one is sixty-nine, the error came from my team, and my name was on it.\" Grace said to fix it before Arjun used it.",
+          "ko": "시티의 말이 맞았고, 정말 새로운 양식 320건의 결과는 69퍼센트였다. 그는 9시 40분에 그레이스에게 전화하면서 같은 분에 웨이링에게 같은 말을 보냈다. \"나쁜 소식부터 말씀드리겠습니다. 오늘 아침에 받으신 숫자는 틀렸습니다.\" 그가 말했다. \"실제는 69이고, 오류는 저희 팀에서 나왔고, 제 이름이 달려 있었습니다.\" 그레이스는 아르준이 쓰기 전에 고치라고 했다."
+        },
+        {
+          "en": "At noon, he sat down with Daniel in the small room behind the canteen at Tuas, and he had prepared what he was going to say. Daniel's shirt was buttoned wrong. \"I want to give you some feedback on this morning's number,\" Jae-won said. \"Walk me through what happened.\" Daniel explained in a flat voice that Cole's folder had the wrong name, that he had pulled it at one in the morning, and that he hadn't checked it.",
+          "ko": "정오에 그는 투아스 구내식당 뒤 작은 방에서 대니얼과 마주 앉았고, 할 말을 준비해 두었다. 대니얼의 셔츠 단추가 어긋나 있었다. \"오늘 아침 숫자에 대해 피드백을 주고 싶어요.\" 재원이 말했다. \"무슨 일이 있었는지 차근차근 설명해 줘요.\" 대니얼은 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 새벽 1시에 그것을 가져왔으며 확인하지 않았다고 설명했다."
+        },
+        {
+          "en": "Jae-won looked at the shirt and dropped the second half of what he had prepared. \"How are you holding up?\" he asked, and when that got no answer, he asked how long it had been since Daniel's last day off. \"Forty-six days,\" Daniel said. \"You counted back in week four, because I saw your note, and then you asked me to take the two hundred.\" He put his phone on the table. \"I wrote to Helen this morning, and I've asked to come off the project.\"",
+          "ko": "재원은 그 셔츠를 보고 준비한 말의 뒷부분을 버렸다. \"좀 어때요?\" 그가 물었고, 답이 없자 마지막으로 쉰 지 얼마나 됐느냐고 물었다. \"46일이요.\" 대니얼이 말했다. \"4주 차에 세어 보셨잖아요. 메모를 봤어요. 그러고 나서 200건을 맡아 달라고 하셨죠.\" 그가 휴대폰을 테이블에 놓았다. \"오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Walk me through",
+        "I want to give you some feedback on",
+        "How are you holding up?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "unseen",
+          "surface": "unseen",
+          "meaningKo": "처음 보는, 본 적 없는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In week seven, on Thursday, Daniel sent the weekly number at ten past one in the morning: Corvane had reached eighty-one percent on unseen forms, up from sixty-eight the week before.",
+            "ko": "7주 차 목요일, 대니얼이 새벽 1시 10분에 주간 숫자를 보냈다. 코르베인이 처음 보는 양식에서 지난주 68퍼센트에서 오른 81퍼센트에 이르렀다는 것이었다."
+          }
+        },
+        {
+          "term": "forward",
+          "surface": "forwarded",
+          "meaningKo": "전달하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At seven, Jae-won forwarded it to Grace and Wei Ling in the same minute, as promised, and he didn't open the file.",
+            "ko": "7시에 재원은 약속대로 그것을 같은 분에 그레이스와 웨이링에게 전달했고, 파일은 열어 보지 않았다."
+          }
+        },
+        {
+          "term": "error",
+          "surface": "error",
+          "meaningKo": "오류",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The real one is sixty-nine, the error came from my team, and my name was on it.\"",
+            "ko": "\"실제는 69이고, 오류는 저희 팀에서 나왔고, 제 이름이 달려 있었습니다.\""
+          }
+        },
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At noon, he sat down with Daniel in the small room behind the canteen at Tuas, and he had prepared what he was going to say.",
+            "ko": "정오에 그는 투아스 구내식당 뒤 작은 방에서 대니얼과 마주 앉았고, 할 말을 준비해 두었다."
+          }
+        },
+        {
+          "term": "pull",
+          "surface": "pulled",
+          "meaningKo": "(자료를) 가져오다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel explained in a flat voice that Cole's folder had the wrong name, that he had pulled it at one in the morning, and that he hadn't checked it.",
+            "ko": "대니얼은 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 새벽 1시에 그것을 가져왔으며 확인하지 않았다고 설명했다."
+          }
+        },
+        {
+          "term": "come off",
+          "surface": "come off",
+          "meaningKo": "(프로젝트에서) 빠지다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I wrote to Helen this morning, and I've asked to come off the project.\"",
+            "ko": "\"오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 470,
+      "paragraphs": [
+        {
+          "en": "In week seven, on Thursday, Daniel sent the weekly number at ten past one in the morning: Corvane had reached eighty-one percent on unseen forms, up from sixty-eight the week before, which was the kind of jump that ought to make an accountant nervous. At seven, Jae-won forwarded it to Grace and Wei Ling in the same minute, as promised, and he felt rather pleased with his own punctuality. He didn't open the file.",
+          "ko": "7주 차 목요일, 대니얼이 새벽 1시 10분에 주간 숫자를 보냈다. 코르베인이 처음 보는 양식에서 지난주 68퍼센트에서 오른 81퍼센트에 이르렀다는 것이었고, 회계사라면 불안해해야 할 종류의 도약이었다. 7시에 재원은 약속대로 그것을 같은 분에 그레이스와 웨이링에게 전달했고, 자신의 시간 엄수가 꽤 흡족했다. 파일은 열어 보지 않았다."
+        },
+        {
+          "en": "At nine, Siti called from the dock, and as far as anyone knew she had never voluntarily called head office about anything. \"That doesn't match what we saw,\" she said, and she didn't wait for him to look it up. \"I've seen this list, and Cole read a hundred and eighty of these on nights in week five, so they aren't new to him, whatever the folder says.\" Jae-won opened the file for the first time and started to count, with a sensation in his stomach that he recognized from three years ago and a row he hadn't opened.",
+          "ko": "9시에 도크의 시티가 전화했다. 아는 한 그녀가 무슨 일로든 본사에 자진해서 전화한 적은 없었다. \"저희가 본 것과 안 맞아요.\" 그녀가 말했고, 그가 찾아보기를 기다리지 않았다. \"이 목록을 봤는데, 콜이 이 중 180건은 5주 차 밤에 읽었으니, 폴더에 뭐라고 적혀 있든 그에게 새것이 아니에요.\" 재원은 처음으로 파일을 열고 세기 시작했다. 뱃속의 감각은 3년 전 열어 보지 않은 행에서 느꼈던 바로 그것이었다."
+        },
+        {
+          "en": "Siti was right, and the three hundred and twenty forms that were genuinely new gave sixty-nine percent, which was one point of progress rather than thirteen. He called Grace at nine forty and sent Wei Ling the same words in the same minute. \"I'll start with the bad news: the number you got this morning is wrong,\" he said. \"The real one is sixty-nine, the error came from my team, and my name was on it.\" Grace said to fix it before Arjun built anything on it, and she added, in the voice she used for rare concessions, that at least he hadn't learned this one second.",
+          "ko": "시티의 말이 맞았고, 정말 새로운 양식 320건의 결과는 69퍼센트였다. 13포인트가 아니라 1포인트의 진전이었다. 그는 9시 40분에 그레이스에게 전화하면서 같은 분에 웨이링에게 같은 말을 보냈다. \"나쁜 소식부터 말씀드리겠습니다. 오늘 아침에 받으신 숫자는 틀렸습니다.\" 그가 말했다. \"실제는 69이고, 오류는 저희 팀에서 나왔고, 제 이름이 달려 있었습니다.\" 그레이스는 아르준이 그 위에 뭔가 쌓기 전에 고치라고 했고, 드물게 양보할 때 쓰는 목소리로 적어도 이번에는 그가 두 번째로 안 건 아니라고 덧붙였다."
+        },
+        {
+          "en": "At noon, he sat down with Daniel in the small room behind the canteen at Tuas, with a tidy little speech prepared, and he noticed too late that Daniel's shirt was buttoned wrong. \"I want to give you some feedback on this morning's number,\" Jae-won said. \"Walk me through what happened.\" Daniel explained in a flat voice, like a man reading out someone else's statement, that Cole's folder had the wrong name, that he had pulled it at one in the morning, and that he hadn't checked it.",
+          "ko": "정오에 그는 깔끔한 짧은 연설을 준비해 투아스 구내식당 뒤 작은 방에서 대니얼과 마주 앉았고, 대니얼의 셔츠 단추가 어긋나 있다는 것을 너무 늦게 알아차렸다. \"오늘 아침 숫자에 대해 피드백을 주고 싶어요.\" 재원이 말했다. \"무슨 일이 있었는지 차근차근 설명해 줘요.\" 대니얼은 남의 진술서를 읽는 사람처럼 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 새벽 1시에 그것을 가져왔으며 확인하지 않았다고 설명했다."
+        },
+        {
+          "en": "Jae-won looked at the shirt and abandoned the second half of the speech. \"How are you holding up?\" he asked, and then, because that got no answer, he asked about Daniel's last day off, already aware that the question was three weeks late. \"Forty-six days,\" Daniel said. \"You counted back in week four, because I saw your note on the shared drive, and then you asked me to take the two hundred.\" He put his phone on the table with the screen facing up, as though submitting evidence. \"I wrote to Helen this morning, and I've asked to come off the project.\"",
+          "ko": "재원은 그 셔츠를 보고 연설의 뒷부분을 포기했다. \"좀 어때요?\" 그가 물었고, 답이 없자 대니얼이 마지막으로 쉰 날을 물었다. 그 질문이 세 주 늦었다는 것을 이미 알고 있었다. \"46일이요.\" 대니얼이 말했다. \"4주 차에 세어 보셨잖아요. 공유 드라이브에서 메모를 봤어요. 그러고 나서 200건을 맡아 달라고 하셨죠.\" 그가 증거를 제출하듯 휴대폰을 화면이 위로 가게 테이블에 놓았다. \"오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Walk me through",
+        "I want to give you some feedback on",
+        "How are you holding up?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "punctuality",
+          "surface": "punctuality",
+          "meaningKo": "시간 엄수",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At seven, Jae-won forwarded it to Grace and Wei Ling in the same minute, as promised, and he felt rather pleased with his own punctuality.",
+            "ko": "7시에 재원은 약속대로 그것을 같은 분에 그레이스와 웨이링에게 전달했고, 자신의 시간 엄수가 꽤 흡족했다."
+          }
+        },
+        {
+          "term": "voluntarily",
+          "surface": "voluntarily",
+          "meaningKo": "자진해서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At nine, Siti called from the dock, and as far as anyone knew she had never voluntarily called head office about anything.",
+            "ko": "9시에 도크의 시티가 전화했다. 아는 한 그녀가 무슨 일로든 본사에 자진해서 전화한 적은 없었다."
+          }
+        },
+        {
+          "term": "sensation",
+          "surface": "sensation",
+          "meaningKo": "감각, 느낌",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won opened the file for the first time and started to count, with a sensation in his stomach that he recognized from three years ago and a row he hadn't opened.",
+            "ko": "재원은 처음으로 파일을 열고 세기 시작했다. 뱃속의 감각은 3년 전 열어 보지 않은 행에서 느꼈던 바로 그것이었다."
+          }
+        },
+        {
+          "term": "genuinely",
+          "surface": "genuinely",
+          "meaningKo": "정말로, 진정으로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Siti was right, and the three hundred and twenty forms that were genuinely new gave sixty-nine percent, which was one point of progress rather than thirteen.",
+            "ko": "시티의 말이 맞았고, 정말 새로운 양식 320건의 결과는 69퍼센트였다. 13포인트가 아니라 1포인트의 진전이었다."
+          }
+        },
+        {
+          "term": "concession",
+          "surface": "concessions",
+          "meaningKo": "양보",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Grace said to fix it before Arjun built anything on it, and she added, in the voice she used for rare concessions, that at least he hadn't learned this one second.",
+            "ko": "그레이스는 아르준이 그 위에 뭔가 쌓기 전에 고치라고 했고, 드물게 양보할 때 쓰는 목소리로 적어도 이번에는 그가 두 번째로 안 건 아니라고 덧붙였다."
+          }
+        },
+        {
+          "term": "statement",
+          "surface": "statement",
+          "meaningKo": "진술(서)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel explained in a flat voice, like a man reading out someone else's statement, that Cole's folder had the wrong name, that he had pulled it at one in the morning, and that he hadn't checked it.",
+            "ko": "대니얼은 남의 진술서를 읽는 사람처럼 무표정한 목소리로, 콜의 폴더 이름이 잘못되어 있었고 새벽 1시에 그것을 가져왔으며 확인하지 않았다고 설명했다."
+          }
+        },
+        {
+          "term": "abandon",
+          "surface": "abandoned",
+          "meaningKo": "포기하다, 버리다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Jae-won looked at the shirt and abandoned the second half of the speech.",
+            "ko": "재원은 그 셔츠를 보고 연설의 뒷부분을 포기했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was the real number after Siti checked the forms?",
+      "options": [
+        "Sixty-one percent",
+        "Sixty-nine percent",
+        "Eighty-one percent",
+        "Eighty-five percent"
+      ],
+      "answerIndex": 1,
+      "evidence": "sixty-nine"
+    },
+    {
+      "question": "Why does Jae-won drop what he had prepared when he sees Daniel?",
+      "options": [
+        "Grace has told him to stop",
+        "He realizes that the mistake is also about how he has been managing Daniel",
+        "Daniel has already apologized",
+        "He thinks Cole is to blame"
+      ],
+      "answerIndex": 1,
+      "evidence": "I saw your note"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I want to give you some feedback on this morning's number.",
+      "Walk me through what happened.",
+      "I'll start with the bad news: the number you got this morning is wrong."
+    ],
+    "summaryPromptKo": "대니얼이 보낸 숫자가 어떻게 틀렸는지, 재원이 그레이스에게 어떻게 알렸는지, 대니얼과의 면담이 어떻게 끝났는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Daniel Cho",
+      "en": "You counted my days off in week four, and then you asked me to take the test as well. What did you think would happen?",
+      "ko": "4주 차에 제 쉬는 날을 세어 보시고, 그러고 나서 시험까지 맡기셨어요. 어떻게 될 거라고 생각하셨어요?"
+    },
+    "modelAnswer": "I didn't think, and that's the honest answer. I saw you asleep in that chair, I wrote a note, and I moved on to the next item. I kept asking if you could take it because I wanted to hear sure. Thursday's number was wrong, and we need to talk about that. But I forwarded it without opening it, so that part is mine. How are you holding up, really?"
+  },
+  "nextTeaserKo": "대니얼이 헬렌에게 빠지겠다고 메일을 썼다. 헬렌은 재원에게 한 가지를 묻는다. \"메모를 쓰고 나서 뭘 했죠?\" 프리야는 재원이 하기 싫은 문장을 찾아낸다. 재원은 대니얼에게 무슨 말을 해야 할까.",
+  "roleplay": {
+    "title": "구내식당 뒤 작은 방",
+    "situationKo": "정오, 투아스의 작은 방입니다. 틀린 숫자 이야기를 하러 왔는데, 앞에 앉은 사람이 먼저 눈에 들어옵니다. 준비한 말을 끝까지 하지 않아도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Eighty-one, on which forms? I've seen this list. Cole read a hundred and eighty of these on nights.",
+        "ko": "81이라니, 어떤 양식에서요? 이 목록 봤는데, 콜이 이 중 180건은 밤에 읽었어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me count. You're right. The real number is sixty-nine.",
+        "ko": "세어 볼게요. 맞네요. 실제 숫자는 69입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Jae-won, what is it?",
+        "ko": "재원, 무슨 일이죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll start with the bad news. The number you got this morning is wrong. The real one is sixty-nine.",
+        "ko": "나쁜 소식부터 말씀드리겠습니다. 오늘 아침에 받으신 숫자는 틀렸습니다. 실제는 69입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Fix it before Arjun uses it.",
+        "ko": "아르준이 쓰기 전에 고치세요."
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "You wanted to see me.",
+        "ko": "보자고 하셨죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I want to give you some feedback on this morning's number. Walk me through what happened.",
+        "ko": "오늘 아침 숫자에 대해 피드백을 주고 싶어요. 무슨 일이 있었는지 차근차근 설명해 줘요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Cole's folder had the wrong name. I pulled it at one in the morning, and I didn't check it.",
+        "ko": "콜의 폴더 이름이 잘못되어 있었어요. 새벽 1시에 가져왔고, 확인하지 않았습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "All right. How are you holding up? How long since your last day off?",
+        "ko": "알겠어요. 좀 어때요? 마지막으로 쉰 지 얼마나 됐어요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Forty-six days. You counted back in week four. I saw your note.",
+        "ko": "46일이요. 4주 차에 세어 보셨잖아요. 메모를 봤어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You did. I don't have a good answer for that.",
+        "ko": "봤군요. 거기에는 할 말이 없네요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I wrote to Helen this morning. I've asked to come off the project.",
+        "ko": "오늘 아침에 헬렌에게 메일을 썼어요. 프로젝트에서 빠지겠다고 했습니다."
+      }
+    ]
+  }
+}

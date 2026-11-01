@@ -1,0 +1,73 @@
+{
+  "episodeId": "keynote-s1-e39",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "food court": "word-food-court.mp3",
+    "port": "word-port.mp3",
+    "stack": "word-stack.mp3",
+    "vendor": "word-vendor.mp3",
+    "duplicate": "word-duplicate.mp3",
+    "warehouse": "word-warehouse.mp3",
+    "head of operations": "word-head-of-operations.mp3",
+    "pitch": "word-pitch.mp3",
+    "re-key": "word-re-key.mp3",
+    "scope": "word-scope.mp3",
+    "fall over": "word-fall-over.mp3",
+    "shrink": "word-shrink.mp3",
+    "steering committee": "word-steering-committee.mp3",
+    "staffing": "word-staffing.mp3",
+    "weigh down": "word-weigh-down.mp3",
+    "deck": "word-deck.mp3",
+    "second shift": "word-second-shift.mp3",
+    "occur to": "word-occur-to.mp3"
+  },
+  "termClips": {
+    "food court": "term-food-court.mp3",
+    "port": "term-port.mp3",
+    "stack": "term-stack.mp3",
+    "vendor": "term-vendor.mp3",
+    "duplicate": "term-duplicate.mp3",
+    "warehouse": "term-warehouse.mp3",
+    "head of operations": "term-head-of-operations.mp3",
+    "pitch": "term-pitch.mp3",
+    "re-key": "term-re-key.mp3",
+    "scope": "term-scope.mp3",
+    "fall over": "term-fall-over.mp3",
+    "shrink": "term-shrink.mp3",
+    "steering committee": "term-steering-committee.mp3",
+    "staffing": "term-staffing.mp3",
+    "weigh down": "term-weigh-down.mp3",
+    "deck": "term-deck.mp3",
+    "second shift": "term-second-shift.mp3",
+    "occur to": "term-occur-to.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3"
+  ]
+}

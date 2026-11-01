@@ -1,0 +1,380 @@
+{
+  "id": "keynote-s1-e24",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 24,
+  "title": "One Question",
+  "recapKo": "수요일 아침 사전 콜에서 이선은 재무 승인을 낡은 통제 수단이라 부르며 재원의 말을 40초 만에 끊었다. 재원은 프리야의 조언대로 속도를 유지하며 문장을 끝냈고, 표본이 작다는 공격도 받아 냈다. 하지만 이선이 벼르던 질문은 아직 나오지 않았다.",
+  "keyExpressions": [
+    {
+      "phrase": "Let me answer that directly.",
+      "meaningKo": "바로 답하겠습니다.",
+      "usage": "Let me answer that directly: no, we will not make the June date."
+    },
+    {
+      "phrase": "I'll get back to you on that by ~",
+      "meaningKo": "그 건은 ~까지 답을 드리겠습니다",
+      "usage": "I'll get back to you on that by end of day tomorrow."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 214,
+      "paragraphs": [
+        {
+          "en": "Ethan asked if the technology did not work, then. \"So you're asking whether my data proves that AI doesn't work, and it doesn't,\" Jae-won said. \"Let's separate two things: whether the model gets the number right, and whether anyone will put their name on it.\"",
+          "ko": "이선은 그럼 기술이 작동하지 않는다는 말이냐고 물었다. \"그러니까 제 데이터가 AI는 안 된다는 걸 증명하느냐고 물으시는 건데, 그렇지 않습니다.\" 재원이 말했다. \"두 가지를 나눠서 보죠. 모델이 숫자를 맞게 내느냐, 그리고 누군가 거기에 자기 이름을 올리느냐입니다.\""
+        },
+        {
+          "en": "Then Ethan smiled. \"Here's my one question,\" he said. \"I believe you checked your thirty-one failures. Did you check the eleven that worked the same way?\" Daniel stopped typing, and Jae-won counted to three.",
+          "ko": "그때 이선이 웃었다. \"제 질문은 하나예요.\" 그가 말했다. \"실패 31건을 확인했다는 건 믿습니다. 성공한 11건도 똑같이 확인했나요?\" 대니얼이 타자를 멈췄고, 재원은 셋까지 셌다."
+        },
+        {
+          "en": "\"Let me answer that directly, and the answer is no,\" he said. \"Nine rows came from an old tracker, and we confirmed the seven on the failure side but not the two on the success side. I'll get back to you on that by Thursday.\" \"Most people would have said yes,\" Ethan said. \"See you in Singapore.\"",
+          "ko": "\"바로 답하겠습니다. 답은 '아니요'입니다.\" 그가 말했다. \"9개 행이 예전 트래커에서 왔고, 실패 쪽 7개는 확인했지만 성공 쪽 2개는 하지 않았습니다. 그 건은 목요일까지 답을 드리겠습니다.\" \"대부분은 그렇다고 했을 텐데요.\" 이선이 말했다. \"싱가포르에서 봅시다.\""
+        },
+        {
+          "en": "When the call ended, Marcus sent a private message. \"Last night you wrote that there was nothing to report. Slides lock tomorrow at six, Singapore time, and the next thing I hear comes from you.\" Jae-won typed \"Understood.\"",
+          "ko": "콜이 끝나자 마커스가 개인 메시지를 보냈다. \"어젯밤엔 보고할 것이 없다고 썼죠. 슬라이드 확정은 내일 싱가포르 시간 6시이고, 다음 소식은 당신에게서 들어야겠습니다.\" 재원은 \"알겠습니다\"라고 쳤다."
+        },
+        {
+          "en": "The longest pause on Daniel's timer was three seconds. He was already pulling up the two rows, and row fourteen looked fine. He scrolled down to row thirty-eight and went very quiet. \"Jae-won, can you look at this right now?\"",
+          "ko": "대니얼의 타이머에 찍힌 가장 긴 침묵은 3초였다. 그는 벌써 두 행을 띄워 놓고 있었고, 14번 행은 괜찮아 보였다. 그는 38번 행까지 내려가더니 아주 조용해졌다. \"재원 님, 이거 지금 좀 봐 주시겠어요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me answer that directly",
+        "I'll get back to you on that by"
+      ],
+      "wordCandidates": [
+        {
+          "term": "tracker",
+          "surface": "tracker",
+          "meaningKo": "(진행 상황) 관리 시트, 트래커",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Nine rows came from an old tracker, and we confirmed the seven on the failure side but not the two on the success side.",
+            "ko": "9개 행이 예전 트래커에서 왔고, 실패 쪽 7개는 확인했지만 성공 쪽 2개는 하지 않았습니다."
+          }
+        },
+        {
+          "term": "private message",
+          "surface": "private message",
+          "meaningKo": "개인 메시지",
+          "paragraph": 3,
+          "sentence": {
+            "en": "When the call ended, Marcus sent a private message.",
+            "ko": "콜이 끝나자 마커스가 개인 메시지를 보냈다."
+          }
+        },
+        {
+          "term": "pull up",
+          "surface": "pulling up",
+          "meaningKo": "(화면에) 띄우다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He was already pulling up the two rows, and row fourteen looked fine.",
+            "ko": "그는 벌써 두 행을 띄워 놓고 있었고, 14번 행은 괜찮아 보였다."
+          }
+        },
+        {
+          "term": "scroll down",
+          "surface": "scrolled down",
+          "meaningKo": "(화면을) 아래로 내리다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He scrolled down to row thirty-eight and went very quiet.",
+            "ko": "그는 38번 행까지 내려가더니 아주 조용해졌다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 327,
+      "paragraphs": [
+        {
+          "en": "Ethan barely paused, and he said, \"Then what you're really saying is that the technology doesn't work.\" Jae-won said, \"So you're asking whether my data proves that AI doesn't work, and it doesn't prove that at all. Let's separate two things: whether the model gets the number right, and whether anyone's prepared to put their name on it.\"",
+          "ko": "이선은 거의 멈추지 않고 말했다. \"그럼 결국 기술이 작동하지 않는다는 말이네요.\" 재원이 말했다. \"그러니까 제 데이터가 AI는 안 된다는 걸 증명하느냐고 물으시는 건데, 전혀 그렇지 않습니다. 두 가지를 나눠서 보죠. 모델이 숫자를 맞게 내느냐, 그리고 누군가 거기에 자기 이름을 올릴 준비가 돼 있느냐입니다.\""
+        },
+        {
+          "en": "Ethan leaned toward the camera, and for the first time he looked as though he was enjoying himself. \"Okay, here's my one question, the one I told Marcus about,\" he said. \"You say thirty-one failed, and I believe you went through those failures line by line, because you're an accountant. Did you check the eleven that worked the same way?\" Beside him, Daniel stopped typing, and Jae-won counted to three.",
+          "ko": "이선이 카메라 쪽으로 몸을 기울였고, 처음으로 즐기는 듯 보였다. \"좋아요, 제 질문은 하나예요. 마커스에게 말해 둔 그 질문이요.\" 그가 말했다. \"31곳이 실패했다고 하셨고, 회계사시니까 그 실패 건들은 한 줄씩 살펴봤겠죠, 그건 믿습니다. 성공한 11곳도 똑같이 확인했나요?\" 옆에서 대니얼이 타자를 멈췄고, 재원은 셋까지 셌다."
+        },
+        {
+          "en": "\"Let me answer that directly, and the answer is no,\" he said. \"Nine rows came from an old tracker with no documents behind it, and we've confirmed the seven on the failure side, but the two on the success side haven't been touched. I'll get back to you on that by Thursday.\" Nobody spoke, and Marcus's face didn't move at all. \"Huh, most people would've told me yes,\" Ethan said. \"See you in Singapore.\"",
+          "ko": "\"바로 답하겠습니다. 답은 '아니요'입니다.\" 그가 말했다. \"9개 행이 뒷받침할 문서 없는 예전 트래커에서 왔고, 실패 쪽 7개는 확인했지만 성공 쪽 2개는 손대지 않았습니다. 그 건은 목요일까지 답을 드리겠습니다.\" 아무도 말하지 않았고, 마커스의 얼굴은 전혀 움직이지 않았다. \"흠, 대부분은 그렇다고 했을 텐데요.\" 이선이 말했다. \"싱가포르에서 봅시다.\""
+        },
+        {
+          "en": "Marcus closed the call in two sentences, and a private message appeared before the window had gone. \"Last night you wrote that there was nothing to report. Slides lock tomorrow at six, Singapore time, and the next thing I hear about this comes from you and nobody else.\" Jae-won typed \"Understood,\" because anything longer would have been an excuse.",
+          "ko": "마커스는 두 문장으로 콜을 마쳤고, 창이 닫히기도 전에 개인 메시지가 떴다. \"어젯밤엔 보고할 것이 없다고 썼죠. 슬라이드 확정은 내일 싱가포르 시간 6시이고, 이 건에 관해 다음에 듣는 소식은 다른 누구도 아닌 당신에게서 나와야 합니다.\" 재원은 \"알겠습니다\"라고만 쳤다. 그보다 길면 변명이 될 테니까."
+        },
+        {
+          "en": "Daniel turned his timer around and said that the longest pause was three seconds, so Jae-won could tell Priya, but he was already pulling up the two rows. Row fourteen looked fine at first glance. He scrolled down to row thirty-eight, stopped, scrolled back up to somewhere near the top, and then went very quiet. \"Jae-won, can you look at this?\" he said. \"I mean now.\"",
+          "ko": "대니얼은 타이머를 돌려 보이며 가장 긴 침묵이 3초였으니 프리야에게 말해도 된다고 했지만, 벌써 두 행을 띄워 놓고 있었다. 14번 행은 얼핏 괜찮아 보였다. 그는 38번 행까지 내려가 멈추더니, 위쪽 어딘가로 다시 올라갔다가 아주 조용해졌다. \"재원 님, 이거 좀 봐 주시겠어요?\" 그가 말했다. \"지금이요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me answer that directly",
+        "I'll get back to you on that by"
+      ],
+      "wordCandidates": [
+        {
+          "term": "line by line",
+          "surface": "line by line",
+          "meaningKo": "한 줄씩",
+          "paragraph": 1,
+          "sentence": {
+            "en": "You say thirty-one failed, and I believe you went through those failures line by line, because you're an accountant.",
+            "ko": "31곳이 실패했다고 하셨고, 회계사시니까 그 실패 건들은 한 줄씩 살펴봤겠죠, 그건 믿습니다."
+          }
+        },
+        {
+          "term": "at first glance",
+          "surface": "at first glance",
+          "meaningKo": "얼핏 보기에",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Row fourteen looked fine at first glance.",
+            "ko": "14번 행은 얼핏 괜찮아 보였다."
+          }
+        },
+        {
+          "term": "go quiet",
+          "surface": "went very quiet",
+          "meaningKo": "갑자기 조용해지다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He scrolled down to row thirty-eight, stopped, scrolled back up to somewhere near the top, and then went very quiet.",
+            "ko": "그는 38번 행까지 내려가 멈추더니, 위쪽 어딘가로 다시 올라갔다가 아주 조용해졌다."
+          }
+        },
+        {
+          "term": "private message",
+          "surface": "private message",
+          "meaningKo": "개인 메시지",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Marcus closed the call in two sentences, and a private message appeared before the window had gone.",
+            "ko": "마커스는 두 문장으로 콜을 마쳤고, 창이 닫히기도 전에 개인 메시지가 떴다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 457,
+      "paragraphs": [
+        {
+          "en": "Ethan barely drew breath, and he said, \"Then what you're actually saying, if we're being grown-ups about it, is that the technology doesn't work.\" Jae-won said, \"So you're asking whether my data proves that AI doesn't work, and it doesn't, and I'd be embarrassed if anyone walked out of that hall thinking I'd said so. Let's separate two things: whether the model gets the number right, which it mostly does, and whether anyone's prepared to put their name on that number, which is where it falls over.\"",
+          "ko": "이선은 숨도 거의 쉬지 않고 말했다. \"그럼 어른답게 말해서, 결국 기술이 작동하지 않는다는 말이네요.\" 재원이 말했다. \"그러니까 제 데이터가 AI는 안 된다는 걸 증명하느냐고 물으시는 건데, 그렇지 않고, 누가 제가 그렇게 말했다고 생각하며 홀을 나간다면 민망할 겁니다. 두 가지를 나눠서 보죠. 모델이 숫자를 맞게 내느냐는 대체로 그렇습니다. 누군가 그 숫자에 자기 이름을 올릴 준비가 돼 있느냐, 거기서 무너지는 겁니다.\""
+        },
+        {
+          "en": "Ethan leaned toward the camera, and for the first time he looked as though he was having a good morning, though it was evening wherever he was. \"Okay, here's my one question, the one I warned Marcus about, and I promise it's the last,\" he said. \"You say thirty-one failed, and I believe you went through every one of those failures with a ruler, because you're an accountant and it's written all over you. Did you check the eleven that worked with the same rigor, or did you only audit the half of the data that makes your point?\" Beside him, Daniel stopped typing, and Jae-won counted to three.",
+          "ko": "이선이 카메라 쪽으로 몸을 기울였고, 그가 있는 곳은 저녁이었지만 처음으로 기분 좋은 아침을 맞은 사람처럼 보였다. \"좋아요, 제 질문은 하나예요. 마커스에게 미리 경고한 그거고, 이게 마지막이라고 약속하죠.\" 그가 말했다. \"31곳이 실패했다고 하셨고, 회계사인 게 얼굴에 쓰여 있으니 그 실패 건들은 자를 대고 하나하나 살펴봤겠죠, 그건 믿습니다. 성공한 11곳도 똑같이 엄격하게 확인했나요, 아니면 자기 주장에 맞는 절반의 데이터만 감사한 건가요?\" 옆에서 대니얼이 타자를 멈췄고, 재원은 셋까지 셌다."
+        },
+        {
+          "en": "\"Let me answer that directly, and the answer is no,\" he said. \"Nine rows came from an old tracker with nothing behind them, we've run down the seven on the failure side in the past week, and the two on the success side haven't been touched, because I was only looking for what could hurt me. I'll get back to you on that by Thursday.\" Nobody spoke, and Marcus's face, which had never been expressive, gave up altogether. \"Huh, most people would've told me yes, and then I'd have had to find out,\" Ethan said. \"See you in Singapore.\"",
+          "ko": "\"바로 답하겠습니다. 답은 '아니요'입니다.\" 그가 말했다. \"9개 행이 아무 근거 없는 예전 트래커에서 왔고, 실패 쪽 7개는 지난 한 주 동안 추적해 확인했지만, 성공 쪽 2개는 손대지 않았습니다. 저한테 불리할 수 있는 것만 찾고 있었으니까요. 그 건은 목요일까지 답을 드리겠습니다.\" 아무도 말하지 않았고, 원래도 표정이 없던 마커스의 얼굴은 아예 표정을 포기했다. \"흠, 대부분은 그렇다고 했을 텐데요. 그럼 제가 직접 찾아내야 했겠죠.\" 이선이 말했다. \"싱가포르에서 봅시다.\""
+        },
+        {
+          "en": "Marcus closed the call in two sentences, and a private message landed before the window had finished shutting. \"Last night you wrote that there was nothing to report. Slides lock tomorrow at six, Singapore time, and the next thing I hear about this comes from you and nobody else.\" Jae-won typed \"Understood,\" and deleted the three sentences that had come after it, because each of them, on inspection, was an excuse.",
+          "ko": "마커스는 두 문장으로 콜을 마쳤고, 창이 다 닫히기도 전에 개인 메시지가 도착했다. \"어젯밤엔 보고할 것이 없다고 썼죠. 슬라이드 확정은 내일 싱가포르 시간 6시이고, 이 건에 관해 다음에 듣는 소식은 다른 누구도 아닌 당신에게서 나와야 합니다.\" 재원은 \"알겠습니다\"라고 친 뒤 이어 쓴 세 문장을 지웠다. 살펴보니 하나같이 변명이었기 때문이다."
+        },
+        {
+          "en": "Daniel turned his timer around and, because he was Daniel, supplied a comment: the longest pause had been three seconds, and that was one for Priya, but his other hand was already pulling up the two rows. Row fourteen looked fine at first glance. He scrolled down to row thirty-eight, stopped, scrolled back up to somewhere near the top of the sheet, and then went quieter than Jae-won had ever known him to go. \"Jae-won, can you look at this?\" he said. \"And I mean now, before you get a coffee.\"",
+          "ko": "대니얼은 타이머를 돌려 보이며, 대니얼답게 한마디를 덧붙였다. 가장 긴 침묵이 3초였으니 프리야에게 자랑할 만하다는 것이었다. 하지만 다른 손은 벌써 두 행을 띄우고 있었다. 14번 행은 얼핏 괜찮아 보였다. 그는 38번 행까지 내려가 멈추더니, 시트 위쪽 어딘가로 다시 올라갔다가, 재원이 본 적 없을 만큼 조용해졌다. \"재원 님, 이거 좀 봐 주시겠어요?\" 그가 말했다. \"지금요. 커피 드시기 전에요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me answer that directly",
+        "I'll get back to you on that by"
+      ],
+      "wordCandidates": [
+        {
+          "term": "fall over",
+          "surface": "falls over",
+          "meaningKo": "(계획·시스템이) 무너지다, 멈추다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Let's separate two things: whether the model gets the number right, which it mostly does, and whether anyone's prepared to put their name on that number, which is where it falls over.",
+            "ko": "두 가지를 나눠서 보죠. 모델이 숫자를 맞게 내느냐는 대체로 그렇습니다. 누군가 그 숫자에 자기 이름을 올릴 준비가 돼 있느냐, 거기서 무너지는 겁니다."
+          }
+        },
+        {
+          "term": "rigor",
+          "surface": "rigor",
+          "meaningKo": "엄격함",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Did you check the eleven that worked with the same rigor, or did you only audit the half of the data that makes your point?",
+            "ko": "성공한 11곳도 똑같이 엄격하게 확인했나요, 아니면 자기 주장에 맞는 절반의 데이터만 감사한 건가요?"
+          }
+        },
+        {
+          "term": "make one's point",
+          "surface": "makes your point",
+          "meaningKo": "자기 주장을 뒷받침하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Did you check the eleven that worked with the same rigor, or did you only audit the half of the data that makes your point?",
+            "ko": "성공한 11곳도 똑같이 엄격하게 확인했나요, 아니면 자기 주장에 맞는 절반의 데이터만 감사한 건가요?"
+          }
+        },
+        {
+          "term": "run down",
+          "surface": "run down",
+          "meaningKo": "(정보를) 끝까지 추적해 확인하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Nine rows came from an old tracker with nothing behind them, we've run down the seven on the failure side in the past week, and the two on the success side haven't been touched, because I was only looking for what could hurt me.",
+            "ko": "9개 행이 아무 근거 없는 예전 트래커에서 왔고, 실패 쪽 7개는 지난 한 주 동안 추적해 확인했지만, 성공 쪽 2개는 손대지 않았습니다. 저한테 불리할 수 있는 것만 찾고 있었으니까요."
+          }
+        },
+        {
+          "term": "on inspection",
+          "surface": "on inspection",
+          "meaningKo": "자세히 살펴보니",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won typed \"Understood,\" and deleted the three sentences that had come after it, because each of them, on inspection, was an excuse.",
+            "ko": "재원은 \"알겠습니다\"라고 친 뒤 이어 쓴 세 문장을 지웠다. 살펴보니 하나같이 변명이었기 때문이다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Jae-won admit when Ethan asked about the eleven successes?",
+      "options": [
+        "That the eleven were invented for the talk",
+        "That the two old-tracker rows on the success side had not been checked",
+        "That he had not read Ethan's questions in advance",
+        "That all nine old-tracker rows were still unconfirmed"
+      ],
+      "answerIndex": 1,
+      "evidence": "\"Nine rows came from an old tracker with no documents behind it, and we've confirmed the seven on the failure side, but the two on the success side haven't been touched."
+    },
+    {
+      "question": "What does Marcus's private message imply?",
+      "options": [
+        "He is about to remove Jae-won from the program.",
+        "He wants the slides sent a day early.",
+        "He does not care about the data as long as the slides arrive.",
+        "He is unhappy that \"nothing to report\" left this out, and he expects to hear directly from Jae-won next."
+      ],
+      "answerIndex": 3,
+      "evidence": "Slides lock tomorrow at six, Singapore time, and the next thing I hear about this comes from you and nobody else."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let me answer that directly, and the answer is no.",
+      "I'll get back to you on that by Thursday.",
+      "Let's separate two things: whether the model gets the number right, and whether anyone's prepared to put their name on it."
+    ],
+    "summaryPromptKo": "이선이 마지막 질문에서 무엇을 물었는지, 재원이 어떻게 답했는지, 콜이 끝난 뒤 무슨 일이 있었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "You've got forty-two companies, and you've only double-checked the half that supports your story. Why should anyone trust that number?",
+      "ko": "회사 42곳을 갖고 자기 이야기에 맞는 절반만 다시 확인했네요. 왜 누가 그 숫자를 믿어야 하죠?"
+    },
+    "modelAnswer": "Let me answer that directly. We went through the failures first because they could hurt the claim most, and the two rows on the success side haven't been checked yet. That's a fair challenge, and I won't defend it. What I can tell you is that every one of the thirty-one now has a document or a named person behind it. I'll get back to you on the other two by Thursday."
+  },
+  "nextTeaserKo": "38번 행에서 대니얼이 발견한 것은 무엇일까. 헬렌은 아직 비행기 안에 있고, 슬라이드 확정까지는 하루 남았으며, 마커스는 다음 소식을 재원에게서 직접 듣겠다고 했다.",
+  "roleplay": {
+    "title": "이선의 한 가지 질문",
+    "situationKo": "사전 콜이 이어집니다. 내가 재원이 되어 이선의 질문에 있는 그대로 답해 봅니다. 3초쯤 생각해도 괜찮고, 몇 번이고 다시 해 볼 수 있어요.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Then what you're really saying is that the technology doesn't work.",
+        "ko": "그럼 결국 기술이 안 된다는 말이네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So you're asking whether my data proves AI doesn't work. It doesn't prove that at all.",
+        "ko": "그러니까 제 데이터가 AI가 안 된다는 걸 증명하느냐고 물으시는 거죠. 전혀 그렇지 않습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Then what does it prove?",
+        "ko": "그럼 뭘 증명하는데요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let's separate two things. Does the model get the number right, and will anyone put their name on it?",
+        "ko": "두 가지를 나눠서 보시죠. 모델이 숫자를 맞히는가, 그리고 누가 거기에 자기 이름을 걸 것인가.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Okay, here's my one question. You say thirty-one failed. Did you check the eleven that worked the same way?",
+        "ko": "좋아요, 제 질문은 하나예요. 31곳이 실패했다고 하셨죠. 성공한 11곳도 똑같이 확인했습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me answer that directly. The answer is no.",
+        "ko": "바로 답하겠습니다. 답은 아니요입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "No?",
+        "ko": "아니라고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nine rows came from an old tracker. We've confirmed the seven failures, but not the two successes.",
+        "ko": "9행은 예전 트래커에서 왔습니다. 실패 쪽 7건은 확인했지만 성공 쪽 2건은 아직입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "So when do I hear about those two?",
+        "ko": "그럼 그 두 건은 언제 들을 수 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll get back to you on that by Thursday.",
+        "ko": "그 건은 목요일까지 답을 드리겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Huh, most people would've told me yes. See you in Singapore.",
+        "ko": "흠, 대부분은 그렇다고 했을 텐데요. 싱가포르에서 봅시다."
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Last night you wrote that there was nothing to report. The next thing I hear about this comes from you and nobody else.",
+        "ko": "어젯밤엔 보고할 것이 없다고 썼죠. 이 건에 관해 다음에 듣는 소식은 다른 누구도 아닌 당신에게서 나와야 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood.",
+        "ko": "알겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Jae-won, can you look at this? I mean now.",
+        "ko": "재원 님, 이거 좀 봐 주시겠어요? 지금이요."
+      }
+    ]
+  }
+}

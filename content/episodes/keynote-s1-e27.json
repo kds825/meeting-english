@@ -1,0 +1,427 @@
+{
+  "id": "keynote-s1-e27",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 27,
+  "title": "Different Views",
+  "recapKo": "38번 행과 6번 행은 이름만 다른 같은 회사였고, 그 분기 검토란에는 재원의 이니셜이 있었다. 재원은 헬렌에게 묻기도 전에 마커스에게 직접 전화해 제목을 \"41곳 중 31곳\"으로 바꿨지만, 인쇄된 프로그램 800부에는 42가 남았다. 새벽에 그는 그 오류로 발표를 시작하는 도입부를 썼고, 헬렌의 답이 왔다. \"그 도입부는 안 돼요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "We're coming at this from different angles.",
+      "meaningKo": "우리는 이 문제를 서로 다른 각도에서 보고 있네요.",
+      "usage": "We're coming at this from different angles, so let's start with the goal."
+    },
+    {
+      "phrase": "Where we differ is ~",
+      "meaningKo": "우리 생각이 다른 부분은 ~입니다",
+      "usage": "Where we differ is the timing, not the plan itself."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 218,
+      "paragraphs": [
+        {
+          "en": "At seven on Thursday, Jae-won called Helen from the ninth floor with Daniel. In Seattle it was afternoon, and she sat in a hospital corridor, with her mother's surgery the next morning. Slides would lock at seven that evening.",
+          "ko": "목요일 7시, 재원은 대니얼과 함께 9층에서 헬렌에게 전화했다. 시애틀은 오후였고, 어머니 수술을 다음 날 아침으로 앞둔 그녀는 병원 복도에 앉아 있었다. 슬라이드 확정은 그날 저녁 7시였다."
+        },
+        {
+          "en": "\"No,\" she said, before he spoke. \"You get one minute with eight hundred buyers, and you want to spend it on an apology, so they'll remember a consultant who can't count, not Han's kitchen table.\"",
+          "ko": "\"안 돼요.\" 그가 입을 열기도 전에 그녀가 말했다. \"구매자 800명 앞에서 1분을 얻었는데 그걸 사과에 쓰겠다니, 사람들은 한미래의 식탁이 아니라 숫자도 못 세는 컨설턴트를 기억할 거예요.\""
+        },
+        {
+          "en": "\"I take your point, but every person in that hall will hold a program that says forty-two,\" he said. \"My whole talk is about the person who signs, and I signed it.\" Helen said the note and the app were enough.",
+          "ko": "\"무슨 말씀인지는 알겠지만, 그 홀의 모든 사람이 42라고 적힌 프로그램을 들고 있을 거예요.\" 그가 말했다. \"제 발표 전체가 서명하는 사람에 관한 건데, 그걸 제가 서명했어요.\" 헬렌은 메모와 앱이면 충분하다고 했다."
+        },
+        {
+          "en": "\"Can I push back on that? Where we differ is who finds it first,\" he said. \"Ethan has the new abstract, so if he brings it up at three o'clock, it's something he found, and if I say it first, it's something I found.\" \"I spent eight months on that slot, and our firm's name is on it,\" she said.",
+          "ko": "\"반대 의견을 말씀드려도 될까요? 우리 생각이 다른 부분은 누가 먼저 찾아내느냐예요.\" 그가 말했다. \"이선이 새 초록을 갖고 있으니, 그가 3시에 꺼내면 그가 찾아낸 게 되고, 제가 먼저 말하면 제가 찾아낸 게 돼요.\" \"그 자리를 얻는 데 8개월이 걸렸고, 거기엔 우리 회사 이름이 걸려 있어요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"But you won't be in that hall,\" he said. The line went quiet, and Daniel looked at the table. \"No, I'll be here,\" Helen said. \"Thank you for reminding me.\" She breathed out slowly. \"We're coming at this from different angles,\" she said.",
+          "ko": "\"하지만 그 홀에 계시진 않잖아요.\" 그가 말했다. 화면 너머가 조용해졌고, 대니얼은 탁자를 내려다봤다. \"네, 저는 여기 있겠죠.\" 헬렌이 말했다. \"일깨워 줘서 고마워요.\" 그녀가 천천히 숨을 내쉬었다. \"우리는 이 문제를 서로 다른 각도에서 보고 있네요.\" 그녀가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're coming at this from different angles",
+        "Where we differ is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "corridor",
+          "surface": "corridor",
+          "meaningKo": "복도",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In Seattle it was afternoon, and she sat in a hospital corridor, with her mother's surgery the next morning.",
+            "ko": "시애틀은 오후였고, 어머니 수술을 다음 날 아침으로 앞둔 그녀는 병원 복도에 앉아 있었다."
+          }
+        },
+        {
+          "term": "surgery",
+          "surface": "surgery",
+          "meaningKo": "수술",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In Seattle it was afternoon, and she sat in a hospital corridor, with her mother's surgery the next morning.",
+            "ko": "시애틀은 오후였고, 어머니 수술을 다음 날 아침으로 앞둔 그녀는 병원 복도에 앉아 있었다."
+          }
+        },
+        {
+          "term": "apology",
+          "surface": "apology",
+          "meaningKo": "사과",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"You get one minute with eight hundred buyers, and you want to spend it on an apology, so they'll remember a consultant who can't count, not Han's kitchen table.\"",
+            "ko": "\"구매자 800명 앞에서 1분을 얻었는데 그걸 사과에 쓰겠다니, 사람들은 한미래의 식탁이 아니라 숫자도 못 세는 컨설턴트를 기억할 거예요.\""
+          }
+        },
+        {
+          "term": "bring up",
+          "surface": "brings it up",
+          "meaningKo": "(화제를) 꺼내다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Ethan has the new abstract, so if he brings it up at three o'clock, it's something he found, and if I say it first, it's something I found.\"",
+            "ko": "\"이선이 새 초록을 갖고 있으니, 그가 3시에 꺼내면 그가 찾아낸 게 되고, 제가 먼저 말하면 제가 찾아낸 게 돼요.\""
+          }
+        },
+        {
+          "term": "slot",
+          "surface": "slot",
+          "meaningKo": "(일정상의) 자리, 시간대",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I spent eight months on that slot, and our firm's name is on it,\" she said.",
+            "ko": "\"그 자리를 얻는 데 8개월이 걸렸고, 거기엔 우리 회사 이름이 걸려 있어요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "remind",
+          "surface": "reminding",
+          "meaningKo": "일깨우다, 상기시키다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Thank you for reminding me.\"",
+            "ko": "\"일깨워 줘서 고마워요.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 371,
+      "paragraphs": [
+        {
+          "en": "At seven on Thursday morning, Jae-won called Helen from the ninth floor, with Daniel beside him and twelve hours left before the slides locked at seven that evening, Seoul time. It was the middle of the afternoon in Seattle, and she was sitting in a hospital corridor with a vending machine behind her, because her mother's surgery was the next morning. She looked as if she hadn't slept since Incheon.",
+          "ko": "목요일 아침 7시, 재원은 대니얼과 함께 9층에서 헬렌에게 전화했다. 슬라이드가 확정되는 그날 저녁 서울 시간 7시까지 열두 시간이 남아 있었다. 시애틀은 한낮이 지난 오후였고, 어머니 수술을 다음 날 아침으로 앞둔 그녀는 자판기를 등지고 병원 복도에 앉아 있었다. 인천을 떠난 뒤로 한숨도 못 잔 듯한 얼굴이었다."
+        },
+        {
+          "en": "\"No,\" she said, before he had finished saying good morning. \"You get one minute with eight hundred buyers, and you want to spend it on an apology, which means nobody remembers Han's kitchen table. What they remember is a consultant who can't count, from a firm they've never heard of, and that's the end of the two prospects Yuna's been working on since March.\"",
+          "ko": "\"안 돼요.\" 그가 아침 인사를 끝내기도 전에 그녀가 말했다. \"구매자 800명 앞에서 1분을 얻었는데, 그걸 사과에 쓰겠다는 거잖아요. 그러면 아무도 한미래의 식탁을 기억하지 못해요. 기억하는 건 들어 본 적 없는 회사의 숫자도 못 세는 컨설턴트고, 유나가 3월부터 공들인 잠재 고객 두 곳은 거기서 끝이에요.\""
+        },
+        {
+          "en": "\"I take your point, but every person in that hall is going to be holding a program that says forty-two,\" he said. \"My whole talk is about the person who signs, and I'm the person who signed it, so if I walk past that, I'm the exact problem I'm describing.\" Helen said that a corrected abstract in the app and Daniel's note were more than enough, and that nobody reads the program anyway.",
+          "ko": "\"무슨 말씀인지는 알겠지만, 그 홀의 모든 사람이 42라고 적힌 프로그램을 들고 있을 거예요.\" 그가 말했다. \"제 발표 전체가 서명하는 사람에 관한 건데 서명한 사람이 저니까, 그걸 그냥 지나치면 제가 바로 제가 설명하는 그 문제가 되는 거죠.\" 헬렌은 앱의 수정된 초록과 대니얼의 메모면 차고 넘치고, 어차피 프로그램은 아무도 안 읽는다고 했다."
+        },
+        {
+          "en": "\"Can I push back on that? Where we differ is who finds it first,\" he said. \"Ethan already has the new abstract, so if he brings it up at three o'clock, it's something he caught, and if I say it at ten o'clock, it's something I caught.\" Helen's face didn't change. \"I spent eight months getting that slot, and it's our firm's name on the badge, not just yours,\" she said.",
+          "ko": "\"반대 의견을 말씀드려도 될까요? 우리 생각이 다른 부분은 누가 먼저 찾아내느냐예요.\" 그가 말했다. \"이선은 이미 새 초록을 갖고 있어요. 그가 3시에 꺼내면 그가 잡아낸 게 되고, 제가 10시에 말하면 제가 잡아낸 게 되는 거예요.\" 헬렌의 표정은 변하지 않았다. \"그 자리를 따내는 데 8개월이 걸렸고, 명찰에 있는 건 당신 이름만이 아니라 우리 회사 이름이에요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"With respect, you won't be in that hall,\" he said, and he knew as it left his mouth that it was the wrong sentence. The line went quiet, and Daniel became very interested in the table. \"No, I'll be right here, next to this machine,\" Helen said. \"Thank you for reminding me.\" Nobody hung up, which was the only good thing about the next ten seconds. She breathed out slowly and rubbed her eyes. \"We're coming at this from different angles, so let me say what I think is going on,\" she said.",
+          "ko": "\"외람되지만, 그 홀에 계시진 않잖아요.\" 그가 말했고, 입 밖으로 나가는 순간 잘못된 문장임을 알았다. 화면 너머가 조용해졌고, 대니얼은 갑자기 탁자에 깊은 관심을 보였다. \"네, 저는 바로 여기, 이 자판기 옆에 있겠죠.\" 헬렌이 말했다. \"일깨워 줘서 고마워요.\" 아무도 전화를 끊지 않았고, 그다음 10초 동안 좋은 일이라곤 그것뿐이었다. 그녀는 천천히 숨을 내쉬며 눈을 비볐다. \"우리는 이 문제를 서로 다른 각도에서 보고 있으니, 제가 보는 상황을 말해 볼게요.\" 그녀가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're coming at this from different angles",
+        "Where we differ is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "vending machine",
+          "surface": "vending machine",
+          "meaningKo": "자판기",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It was the middle of the afternoon in Seattle, and she was sitting in a hospital corridor with a vending machine behind her, because her mother's surgery was the next morning.",
+            "ko": "시애틀은 한낮이 지난 오후였고, 어머니 수술을 다음 날 아침으로 앞둔 그녀는 자판기를 등지고 병원 복도에 앉아 있었다."
+          }
+        },
+        {
+          "term": "work on",
+          "surface": "working on",
+          "meaningKo": "(고객 등에게) 공을 들이다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "What they remember is a consultant who can't count, from a firm they've never heard of, and that's the end of the two prospects Yuna's been working on since March.",
+            "ko": "기억하는 건 들어 본 적 없는 회사의 숫자도 못 세는 컨설턴트고, 유나가 3월부터 공들인 잠재 고객 두 곳은 거기서 끝이에요."
+          }
+        },
+        {
+          "term": "walk past",
+          "surface": "walk past",
+          "meaningKo": "그냥 지나치다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"My whole talk is about the person who signs, and I'm the person who signed it, so if I walk past that, I'm the exact problem I'm describing.\"",
+            "ko": "\"제 발표 전체가 서명하는 사람에 관한 건데 서명한 사람이 저니까, 그걸 그냥 지나치면 제가 바로 제가 설명하는 그 문제가 되는 거죠.\""
+          }
+        },
+        {
+          "term": "catch",
+          "surface": "caught",
+          "meaningKo": "(오류를) 잡아내다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Ethan already has the new abstract, so if he brings it up at three o'clock, it's something he caught, and if I say it at ten o'clock, it's something I caught.\"",
+            "ko": "\"이선은 이미 새 초록을 갖고 있어요. 그가 3시에 꺼내면 그가 잡아낸 게 되고, 제가 10시에 말하면 제가 잡아낸 게 되는 거예요.\""
+          }
+        },
+        {
+          "term": "badge",
+          "surface": "badge",
+          "meaningKo": "명찰",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I spent eight months getting that slot, and it's our firm's name on the badge, not just yours,\" she said.",
+            "ko": "\"그 자리를 따내는 데 8개월이 걸렸고, 명찰에 있는 건 당신 이름만이 아니라 우리 회사 이름이에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "with respect",
+          "surface": "With respect",
+          "meaningKo": "외람되지만, 말씀드리기 죄송하지만",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"With respect, you won't be in that hall,\" he said, and he knew as it left his mouth that it was the wrong sentence.",
+            "ko": "\"외람되지만, 그 홀에 계시진 않잖아요.\" 그가 말했고, 입 밖으로 나가는 순간 잘못된 문장임을 알았다."
+          }
+        },
+        {
+          "term": "rub",
+          "surface": "rubbed her eyes",
+          "meaningKo": "눈을 비비다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "She breathed out slowly and rubbed her eyes.",
+            "ko": "그녀는 천천히 숨을 내쉬며 눈을 비볐다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 482,
+      "paragraphs": [
+        {
+          "en": "At seven on Thursday morning, Jae-won called Helen from the ninth floor, with Daniel beside him and twelve hours on the clock before the slides locked at seven that evening, Seoul time. It was mid-afternoon in Seattle, and she was sitting in a hospital corridor with a vending machine humming behind her, because her mother's surgery was first thing the next morning. She looked as if she hadn't slept since Incheon, and she had plainly decided that she wasn't going to be gentle about it.",
+          "ko": "목요일 아침 7시, 재원은 대니얼과 함께 9층에서 헬렌에게 전화했다. 슬라이드가 확정되는 그날 저녁 서울 시간 7시까지 시계에는 열두 시간이 남아 있었다. 시애틀은 오후 중반이었고, 어머니 수술을 다음 날 아침 첫 순서로 앞둔 그녀는 웅웅거리는 자판기를 등지고 병원 복도에 앉아 있었다. 인천을 떠난 뒤로 한숨도 못 잔 듯한 얼굴이었고, 부드럽게 말하지 않기로 작정한 게 분명했다."
+        },
+        {
+          "en": "\"No,\" she said, before he had finished saying good morning. \"You get one minute with eight hundred buyers, the only minute in which they haven't yet decided whether you're worth listening to, and you want to blow it on a confession. Nobody's going to remember Han's kitchen table after that. What they'll take home is a consultant who can't count, from a firm they've never heard of, and that's the end of the two prospects Yuna's been nursing since March.\"",
+          "ko": "\"안 돼요.\" 그가 아침 인사를 끝내기도 전에 그녀가 말했다. \"구매자 800명 앞에서 1분을 얻었어요. 들을 가치가 있는 사람인지 아직 판단하지 않은 유일한 1분인데, 그걸 고백으로 날리겠다는 거잖아요. 그러고 나면 아무도 한미래의 식탁을 기억하지 못해요. 사람들이 가져가는 건 들어 본 적 없는 회사의 숫자도 못 세는 컨설턴트고, 유나가 3월부터 공들여 온 잠재 고객 두 곳은 거기서 끝이에요.\""
+        },
+        {
+          "en": "\"I take your point, but every person in that hall is going to be holding a program with forty-two in the title, and it's printed, so it isn't going away,\" he said. \"My whole talk is about the person who signs, I'm the person who signed it, and if I walk past that, I'm the exact problem I'm flying to Singapore to describe.\" Helen said that a corrected abstract in the app and Daniel's note covered him six ways from Sunday, and that in nine years of conferences she had never once seen anyone read the program.",
+          "ko": "\"무슨 말씀인지는 알겠지만, 그 홀의 모든 사람이 제목에 42가 적힌 프로그램을 들고 있을 거고, 인쇄된 거라 사라지지 않아요.\" 그가 말했다. \"제 발표 전체가 서명하는 사람에 관한 건데 서명한 사람이 저예요. 그걸 그냥 지나치면 제가 싱가포르까지 날아가 설명하려는 바로 그 문제가 되는 거죠.\" 헬렌은 앱의 수정된 초록과 대니얼의 메모면 빠져나갈 구멍 없이 충분히 막혀 있고, 9년 동안 콘퍼런스를 다니면서 프로그램을 읽는 사람은 한 번도 못 봤다고 했다."
+        },
+        {
+          "en": "\"Can I push back on that? Where we differ is who finds it first,\" he said. \"Ethan already has the new abstract and he isn't stupid, so if he brings it up at three o'clock, it's something he caught, and if I say it at ten o'clock, it's something I caught, and those are two very different afternoons.\" Helen's face didn't change at all. \"I spent eight months landing that slot, I've got a partner who thinks this whole exercise is a sales event, and it's our firm's name on the badge, not just yours,\" she said.",
+          "ko": "\"반대 의견을 말씀드려도 될까요? 우리 생각이 다른 부분은 누가 먼저 찾아내느냐예요.\" 그가 말했다. \"이선은 이미 새 초록을 갖고 있고 바보도 아니에요. 그가 3시에 꺼내면 그가 잡아낸 게 되고, 제가 10시에 말하면 제가 잡아낸 게 되는데, 그 두 오후는 완전히 달라요.\" 헬렌의 표정은 전혀 변하지 않았다. \"그 자리를 따내는 데 8개월이 걸렸고, 이 모든 걸 영업 행사로 생각하는 파트너도 있고, 명찰에 있는 건 당신 이름만이 아니라 우리 회사 이름이에요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"With respect, you won't be in that hall,\" he said, and he knew as it left his mouth that it was the wrong sentence, delivered with excellent pace. The line went quiet, and Daniel developed a sudden professional interest in the table. \"No, I'll be right here, next to this machine, while they cut my mother open,\" Helen said evenly. \"Thank you for reminding me.\" Nobody hung up, which was the only good thing that could be said for the next ten seconds. She breathed out slowly and rubbed her eyes with the heel of her hand. \"We're coming at this from different angles, so let me say what I think is actually going on, before we both say something worse,\" she said.",
+          "ko": "\"외람되지만, 그 홀에 계시진 않잖아요.\" 그가 말했고, 입 밖으로 나가는 순간 그것이 아주 훌륭한 속도로 전달된 잘못된 문장임을 알았다. 화면 너머가 조용해졌고, 대니얼은 갑자기 탁자에 직업적인 관심을 보였다. \"네, 어머니가 수술받는 동안 저는 바로 여기, 이 자판기 옆에 있겠죠.\" 헬렌이 차분하게 말했다. \"일깨워 줘서 고마워요.\" 아무도 전화를 끊지 않았고, 그다음 10초에 대해 할 수 있는 좋은 말은 그것뿐이었다. 그녀는 천천히 숨을 내쉬며 손바닥 끝으로 눈을 비볐다. \"우리는 이 문제를 서로 다른 각도에서 보고 있으니, 둘 다 더 심한 말을 하기 전에 제가 보는 실제 상황을 말해 볼게요.\" 그녀가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're coming at this from different angles",
+        "Where we differ is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "on the clock",
+          "surface": "on the clock",
+          "meaningKo": "시계에 남은, 시간이 흐르는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At seven on Thursday morning, Jae-won called Helen from the ninth floor, with Daniel beside him and twelve hours on the clock before the slides locked at seven that evening, Seoul time.",
+            "ko": "목요일 아침 7시, 재원은 대니얼과 함께 9층에서 헬렌에게 전화했다. 슬라이드가 확정되는 그날 저녁 서울 시간 7시까지 시계에는 열두 시간이 남아 있었다."
+          }
+        },
+        {
+          "term": "blow",
+          "surface": "blow it",
+          "meaningKo": "(기회를) 날리다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "You get one minute with eight hundred buyers, the only minute in which they haven't yet decided whether you're worth listening to, and you want to blow it on a confession.",
+            "ko": "구매자 800명 앞에서 1분을 얻었어요. 들을 가치가 있는 사람인지 아직 판단하지 않은 유일한 1분인데, 그걸 고백으로 날리겠다는 거잖아요."
+          }
+        },
+        {
+          "term": "nurse",
+          "surface": "nursing",
+          "meaningKo": "(관계·거래를) 공들여 키우다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "What they'll take home is a consultant who can't count, from a firm they've never heard of, and that's the end of the two prospects Yuna's been nursing since March.",
+            "ko": "사람들이 가져가는 건 들어 본 적 없는 회사의 숫자도 못 세는 컨설턴트고, 유나가 3월부터 공들여 온 잠재 고객 두 곳은 거기서 끝이에요."
+          }
+        },
+        {
+          "term": "six ways from Sunday",
+          "surface": "six ways from Sunday",
+          "meaningKo": "빈틈없이, 온갖 방식으로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Helen said that a corrected abstract in the app and Daniel's note covered him six ways from Sunday, and that in nine years of conferences she had never once seen anyone read the program.",
+            "ko": "헬렌은 앱의 수정된 초록과 대니얼의 메모면 빠져나갈 구멍 없이 충분히 막혀 있고, 9년 동안 콘퍼런스를 다니면서 프로그램을 읽는 사람은 한 번도 못 봤다고 했다."
+          }
+        },
+        {
+          "term": "land",
+          "surface": "landing that slot",
+          "meaningKo": "(자리·계약을) 따내다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I spent eight months landing that slot, I've got a partner who thinks this whole exercise is a sales event, and it's our firm's name on the badge, not just yours,\" she said.",
+            "ko": "\"그 자리를 따내는 데 8개월이 걸렸고, 이 모든 걸 영업 행사로 생각하는 파트너도 있고, 명찰에 있는 건 당신 이름만이 아니라 우리 회사 이름이에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "evenly",
+          "surface": "evenly",
+          "meaningKo": "차분하게, 감정 없이",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"No, I'll be right here, next to this machine, while they cut my mother open,\" Helen said evenly.",
+            "ko": "\"네, 어머니가 수술받는 동안 저는 바로 여기, 이 자판기 옆에 있겠죠.\" 헬렌이 차분하게 말했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How long did Helen spend getting the keynote slot?",
+      "options": [
+        "Three months",
+        "Five months",
+        "Eight months",
+        "Twelve months"
+      ],
+      "answerIndex": 2,
+      "evidence": "\"I spent eight months getting that slot, and it's our firm's name on the badge, not just yours,\" she said."
+    },
+    {
+      "question": "Why does the line go quiet after \"you won't be in that hall\"?",
+      "options": [
+        "The hospital connection fails for ten seconds.",
+        "Jae-won has hit a painful point: Helen gave up that stage because of her mother.",
+        "Helen is checking the program for the correct number.",
+        "Daniel has interrupted with a new question."
+      ],
+      "answerIndex": 1,
+      "evidence": "\"With respect, you won't be in that hall,\" he said, and he knew as it left his mouth that it was the wrong sentence."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Can I push back on that?",
+      "Where we differ is who finds it first.",
+      "We're coming at this from different angles."
+    ],
+    "summaryPromptKo": "헬렌이 왜 그 도입부에 반대했는지, 재원이 무엇을 근거로 맞섰는지, 어떤 말 때문에 통화가 얼어붙었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "You get one minute with eight hundred buyers, and you want to spend it on an apology?",
+      "ko": "구매자 800명과의 1분을 사과에 쓰겠다고요?"
+    },
+    "modelAnswer": "I take your point, but every person in that hall is going to be holding a program that says forty-two. My whole talk is about the person who signs, and I'm the person who signed it. Where we differ is who finds it first. If Ethan brings it up at three o'clock, it's something he caught. If I say it at ten, it's something I caught."
+  },
+  "nextTeaserKo": "선을 넘은 한마디 뒤, 헬렌이 천천히 말을 꺼낸다. 그녀는 무슨 말을 할까. 정정 발언은 발표에 들어갈 수 있을까. 슬라이드 확정까지는 이제 열두 시간도 남지 않았다.",
+  "roleplay": {
+    "title": "시애틀 복도의 통화",
+    "situationKo": "목요일 아침, 정정 발언을 두고 헬렌과 부딪히는 통화입니다. 내가 재원이 되어 맞서 보고, 말이 지나친 순간도 겪어 봅니다. 어색해도 괜찮아요. 말해 보는 것만으로 충분합니다.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "No. You get one minute with eight hundred buyers, and you want to spend it on an apology?",
+        "ko": "안 돼요. 구매자 800명과의 1분을 사과에 쓰겠다고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I take your point, but every person in that hall will be holding a program that says forty-two.",
+        "ko": "무슨 말씀인지 알지만, 그 홀의 모든 사람이 42라고 적힌 프로그램을 들고 있을 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "So?",
+        "ko": "그래서요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "My whole talk is about the person who signs. I signed it, and I can't walk past that.",
+        "ko": "제 발표 전체가 서명하는 사람에 관한 겁니다. 제가 서명했으니 그냥 지나칠 수 없어요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "A corrected abstract in the app and Daniel's note are more than enough. Nobody reads the program anyway.",
+        "ko": "앱의 수정된 초록과 대니얼의 메모면 충분하고도 남아요. 어차피 아무도 프로그램을 안 읽어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Can I push back on that? Where we differ is who finds it first.",
+        "ko": "그 점에 반론을 드려도 될까요? 우리 생각이 다른 부분은 누가 먼저 찾아내느냐예요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Meaning what?",
+        "ko": "무슨 뜻이죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "If Ethan raises it at three, he caught it. At ten, I caught it.",
+        "ko": "3시에 이선이 꺼내면 그가 잡은 거고, 10시에 제가 말하면 제가 잡은 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "I spent eight months getting that slot, and it's our firm's name on the badge, not just yours.",
+        "ko": "그 자리를 따는 데 8개월이 걸렸고, 명찰에 있는 건 당신 이름만이 아니라 우리 회사 이름이에요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "With respect, you won't be in that hall.",
+        "ko": "외람되지만, 그 홀에 계시진 않잖아요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "No, I'll be right here, next to this machine. Thank you for reminding me.",
+        "ko": "네, 나는 바로 여기, 이 자판기 옆에 있겠죠. 일깨워 줘서 고맙네요."
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "We're coming at this from different angles, so let me say what I think is going on.",
+        "ko": "우린 이 문제를 서로 다른 각도에서 보고 있으니, 내가 보는 상황을 말해 볼게요."
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "episodeId": "keynote-s1-e20",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "sales pitch": "word-sales-pitch.mp3",
+    "introduce": "word-introduce.mp3",
+    "chart": "word-chart.mp3",
+    "notice": "word-notice.mp3",
+    "lock": "word-lock.mp3",
+    "in exchange": "word-in-exchange.mp3",
+    "the better part of": "word-the-better-part-of.mp3",
+    "come in at": "word-come-in-at.mp3",
+    "lineup": "word-lineup.mp3",
+    "reprice": "word-reprice.mp3",
+    "green room": "word-green-room.mp3",
+    "without sentiment": "word-without-sentiment.mp3"
+  },
+  "termClips": {
+    "sales pitch": "term-sales-pitch.mp3",
+    "introduce": "term-introduce.mp3",
+    "chart": "term-chart.mp3",
+    "notice": "term-notice.mp3",
+    "lock": "term-lock.mp3",
+    "in exchange": "term-in-exchange.mp3",
+    "the better part of": "term-the-better-part-of.mp3",
+    "come in at": "term-come-in-at.mp3",
+    "lineup": "term-lineup.mp3",
+    "reprice": "term-reprice.mp3",
+    "green room": "term-green-room.mp3",
+    "without sentiment": "term-without-sentiment.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3"
+  ]
+}

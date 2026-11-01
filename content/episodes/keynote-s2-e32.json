@@ -1,0 +1,413 @@
+{
+  "id": "keynote-s2-e32",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 32,
+  "title": "Siti's Page",
+  "recapKo": "종이 없이 6번 도크에 간 재원은 상자를 나르다가 물었다. \"제가 놓치고 있는 게 뭘까요?\" 시티는 사고 전 화요일에 틀린 코드를 봤지만 말할 사람이 없었다고 했다. 웨이링의 조건은 셋이었다. 순서는 현장이 정하고, 누구든 시스템을 멈출 수 있고, 서명 전에 그레이스가 구내식당에 와서 16주 차 이후를 말할 것. 재원은 계산을 하고 말이 없어졌다. \"말해 보세요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "What if we started with ~?",
+      "meaningKo": "~부터 시작하면 어떨까요?",
+      "usage": "What if we started with one site and added the others in June?"
+    },
+    {
+      "phrase": "That costs us ~",
+      "meaningKo": "그러면 ~를 잃게 됩니다",
+      "usage": "That costs us two weeks, but I'd make that trade."
+    },
+    {
+      "phrase": "I can live with ~",
+      "meaningKo": "~은 받아들일 수 있습니다",
+      "usage": "I can live with a later date if the scope stays the same."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 203,
+      "paragraphs": [
+        {
+          "en": "\"Nights first means days start late,\" Jae-won said. \"That costs us week sixteen, and I told a full room to judge us on it.\" \"I can live with that,\" he said. \"On Grace's part, I can't say yes to that, but I'll ask her today.\"",
+          "ko": "\"야간조부터면 주간조가 늦게 시작합니다.\" 재원이 말했다. \"그러면 16주 차를 잃게 되는데, 저는 가득 찬 회의실에서 그걸로 평가해 달라고 했습니다.\" \"그건 받아들일 수 있습니다.\" 그가 말했다. \"그레이스의 몫은 제가 그렇다고 할 수 없지만, 오늘 여쭤보겠습니다.\""
+        },
+        {
+          "en": "At six, they sat in the canteen with Siti, Cole, Daniel and Hafiz. \"What if we started with nights, all eighty forms?\" Jae-won asked. Cole said that a red stop key would take him one day. Hafiz looked at the table and said that he was still two people short. Wei Ling said that two night clerks could become his readers, on better pay.",
+          "ko": "6시에 그들은 시티, 콜, 대니얼, 하피즈와 함께 구내식당에 앉았다. \"야간조의 양식 80장 전부부터 시작하면 어떨까요?\" 재원이 물었다. 콜은 빨간 정지 키는 하루면 된다고 했다. 하피즈는 탁자를 내려다보며 아직도 두 사람이 부족하다고 했다. 웨이링은 야간 사무원 둘이 더 나은 급여로 그의 판독자가 될 수 있다고 했다."
+        },
+        {
+          "en": "Jae-won reached for a pen, but Wei Ling gave it to Siti. Siti wrote the plan on the back of a form, in four lines. Daniel asked who would count the numbers. Jae-won said it would be Daniel, if he put something down first, and Daniel chose the Monday report.",
+          "ko": "재원이 펜으로 손을 뻗었지만, 웨이링은 그것을 시티에게 주었다. 시티는 양식 뒷면에 네 줄로 계획을 적었다. 대니얼이 숫자는 누가 세느냐고 물었다. 재원은 대니얼이 먼저 뭔가를 내려놓는다면 대니얼이 맡으라고 했고, 대니얼은 월요일 보고서를 골랐다."
+        },
+        {
+          "en": "Jae-won took a photo of the page and sent it to Grace and Wei Ling in the same minute. Grace called at once. \"You asked me to judge you on week sixteen,\" she said. \"Friday of next week, nine o'clock, and bring a date.\"",
+          "ko": "재원은 시티의 종이를 사진으로 찍어 그레이스와 웨이링에게 같은 분에 보냈다. 그레이스가 곧바로 전화했다. \"16주 차로 평가해 달라고 했죠.\" 그녀가 말했다. \"다음 주 금요일 9시요. 날짜를 가져오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What if we started with",
+        "That costs us",
+        "I can live with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "start late",
+          "surface": "start late",
+          "meaningKo": "늦게 시작하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Nights first means days start late,\" Jae-won said.",
+            "ko": "\"야간조부터면 주간조가 늦게 시작합니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "clerk",
+          "surface": "clerks",
+          "meaningKo": "사무원",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Wei Ling said that two night clerks could become his readers, on better pay.",
+            "ko": "웨이링은 야간 사무원 둘이 더 나은 급여로 그의 판독자가 될 수 있다고 했다."
+          }
+        },
+        {
+          "term": "reader",
+          "surface": "readers",
+          "meaningKo": "판독자, 읽는 사람",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Wei Ling said that two night clerks could become his readers, on better pay.",
+            "ko": "웨이링은 야간 사무원 둘이 더 나은 급여로 그의 판독자가 될 수 있다고 했다."
+          }
+        },
+        {
+          "term": "reach for",
+          "surface": "reached for",
+          "meaningKo": "~로 손을 뻗다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won reached for a pen, but Wei Ling gave it to Siti.",
+            "ko": "재원이 펜으로 손을 뻗었지만, 웨이링은 그것을 시티에게 주었다."
+          }
+        },
+        {
+          "term": "photo",
+          "surface": "photo",
+          "meaningKo": "사진",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won took a photo of the page and sent it to Grace and Wei Ling in the same minute.",
+            "ko": "재원은 시티의 종이를 사진으로 찍어 그레이스와 웨이링에게 같은 분에 보냈다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 324,
+      "paragraphs": [
+        {
+          "en": "\"Nights first means that days start late,\" Jae-won said. \"That costs us week sixteen, and on Friday I told a full room to judge us on it.\" \"I can live with that, and I'll tell them myself,\" he said. \"On Grace's part, I can't say yes to that, but I'll ask her today.\"",
+          "ko": "\"야간조부터면 주간조가 늦게 시작합니다.\" 재원이 말했다. \"그러면 16주 차를 잃게 되는데, 금요일에 저는 가득 찬 회의실에서 그걸로 평가해 달라고 했습니다.\" \"그건 받아들일 수 있고, 제가 직접 말하겠습니다.\" 그가 말했다. \"그레이스의 몫은 제가 그렇다고 할 수 없지만, 오늘 여쭤보겠습니다.\""
+        },
+        {
+          "en": "At six, they sat in the canteen with Siti, Cole, Daniel and Hafiz, who had come straight from a shift he hadn't been able to staff. \"What if we started with nights, all eighty forms, with people reading every one?\" Jae-won asked. Cole said that a red stop key on every terminal would take him one day and a second reader on the release note. Hafiz looked at the table and said that he was still two people short, and that he should have said so in week eleven. Wei Ling told him that two of her night clerks could become his readers, on better pay. \"The hours the machine saves go to reading,\" she said.",
+          "ko": "6시에 그들은 시티, 콜, 대니얼, 그리고 인원을 채우지 못한 근무조에서 곧장 온 하피즈와 함께 구내식당에 앉았다. \"야간조의 양식 80장 전부를, 사람이 한 장도 빠짐없이 읽는 방식으로 시작하면 어떨까요?\" 재원이 물었다. 콜은 모든 단말기에 빨간 정지 키를 넣는 데는 하루와 출시 노트의 두 번째 검토자면 된다고 했다. 하피즈는 탁자를 내려다보며 아직도 두 사람이 부족하고, 11주 차에 그렇게 말했어야 했다고 했다. 웨이링은 자기 야간 사무원 둘이 더 나은 급여로 그의 판독자가 될 수 있다고 말했다. \"기계가 아끼는 시간은 읽는 데 씁니다.\" 그녀가 말했다."
+        },
+        {
+          "en": "Jae-won reached for a pen, but Wei Ling passed it across him to Siti. Siti turned over a form and wrote the plan on the back in four short lines, and it was better than most of his pages. Daniel asked who would be counting the numbers. \"You, if you put something down first,\" Jae-won said. \"What will it be?\" Daniel looked mildly surprised to be asked, and said that nobody had read the Monday report since week six.",
+          "ko": "재원이 습관처럼 펜으로 손을 뻗었지만, 웨이링은 그를 건너 시티에게 펜을 넘겼다. 시티는 양식을 뒤집어 뒷면에 짧은 네 줄로 계획을 적었고, 그것은 그의 종이 대부분보다 나았다. 대니얼이 숫자는 누가 세느냐고 물었다. \"대니얼 씨요, 먼저 뭔가를 내려놓는다면요.\" 재원이 말했다. \"뭘로 할래요?\" 대니얼은 그런 질문을 받은 것에 살짝 놀란 듯했고, 6주 차 이후로 월요일 보고서를 읽은 사람이 없다고 했다."
+        },
+        {
+          "en": "Jae-won took a photo of Siti's page and sent it to Grace and Wei Ling in the same minute, with one line of his own: \"This moves week sixteen.\" Grace called before he had put the phone away. \"You asked me to judge you on week sixteen,\" she said. \"I did, and there's a line on that page about you.\" \"I can read,\" she said, \"so Friday of next week, nine o'clock, and bring a date.\"",
+          "ko": "재원은 시티의 종이를 사진으로 찍어 그레이스와 웨이링에게 같은 분에 보냈고, 자기 말은 한 줄만 덧붙였다. \"이것으로 16주 차가 움직입니다.\" 그가 전화기를 넣기도 전에 그레이스가 전화했다. \"16주 차로 평가해 달라고 했죠.\" 그녀가 말했다. \"그랬습니다. 그리고 그 종이에 그레이스 씨에 관한 줄이 있습니다.\" \"저도 읽을 줄 알아요.\" 그녀가 말했다. \"그러니 다음 주 금요일 9시요. 날짜를 가져오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What if we started with",
+        "That costs us",
+        "I can live with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "staff",
+          "surface": "staff",
+          "meaningKo": "인원을 배치하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At six, they sat in the canteen with Siti, Cole, Daniel and Hafiz, who had come straight from a shift he hadn't been able to staff.",
+            "ko": "6시에 그들은 시티, 콜, 대니얼, 그리고 인원을 채우지 못한 근무조에서 곧장 온 하피즈와 함께 구내식당에 앉았다."
+          }
+        },
+        {
+          "term": "terminal",
+          "surface": "terminal",
+          "meaningKo": "단말기",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Cole said that a red stop key on every terminal would take him one day and a second reader on the release note.",
+            "ko": "콜은 모든 단말기에 빨간 정지 키를 넣는 데는 하루와 출시 노트의 두 번째 검토자면 된다고 했다."
+          }
+        },
+        {
+          "term": "release note",
+          "surface": "release note",
+          "meaningKo": "출시 노트",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Cole said that a red stop key on every terminal would take him one day and a second reader on the release note.",
+            "ko": "콜은 모든 단말기에 빨간 정지 키를 넣는 데는 하루와 출시 노트의 두 번째 검토자면 된다고 했다."
+          }
+        },
+        {
+          "term": "turn over",
+          "surface": "turned over",
+          "meaningKo": "뒤집다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Siti turned over a form and wrote the plan on the back in four short lines, and it was better than most of his pages.",
+            "ko": "시티는 양식을 뒤집어 뒷면에 짧은 네 줄로 계획을 적었고, 그것은 그의 종이 대부분보다 나았다."
+          }
+        },
+        {
+          "term": "mildly",
+          "surface": "mildly",
+          "meaningKo": "살짝, 약간",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Daniel looked mildly surprised to be asked, and said that nobody had read the Monday report since week six.",
+            "ko": "대니얼은 그런 질문을 받은 것에 살짝 놀란 듯했고, 6주 차 이후로 월요일 보고서를 읽은 사람이 없다고 했다."
+          }
+        },
+        {
+          "term": "put away",
+          "surface": "put the phone away",
+          "meaningKo": "(전화기를) 넣다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace called before he had put the phone away.",
+            "ko": "그가 전화기를 넣기도 전에 그레이스가 전화했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 448,
+      "paragraphs": [
+        {
+          "en": "\"Nights first means that days start late, and each shift is owed its week of reading. That costs us week sixteen,\" Jae-won said. \"On Friday I told a full room to judge us on it, with what I now realize was unusual confidence.\" Wei Ling drank some of her coffee and observed that this was correct. \"I can live with that, and I'll be the one who tells them, because the sentence was mine,\" he said. \"On Grace's part, I can't say yes to that, but I'll put it to her today, in your words rather than mine.\"",
+          "ko": "\"야간조부터면 주간조가 늦게 시작하고, 교대조마다 일주일의 읽기 기간을 줘야 합니다. 그러면 16주 차를 잃게 됩니다.\" 재원이 말했다. \"금요일에 저는 가득 찬 회의실에서 그걸로 평가해 달라고 했고, 지금 보니 유난히 자신만만했습니다.\" 웨이링은 커피를 조금 마시고 그 말이 맞다고 했다. \"그건 받아들일 수 있고, 그들에게 말하는 사람은 제가 되겠습니다. 그 문장은 제 것이었으니까요.\" 그가 말했다. \"그레이스의 몫은 제가 그렇다고 할 수 없지만, 오늘 제 말이 아니라 웨이링 씨의 말로 전하겠습니다.\""
+        },
+        {
+          "en": "At six, they sat in the canteen with Siti, Cole, Daniel and Hafiz, who had come straight from a shift he hadn't been able to staff and who looked it. \"What if we started with nights, all eighty forms, with a person reading every one before it leaves the dock?\" Jae-won asked. Cole said that a red stop key on every terminal was a day's work, provided that somebody other than him read the release note, and he didn't look at anyone as he said it. Hafiz addressed the table and said that he was still two people short, and that he ought to have said so in week eleven rather than quietly sampling. Nobody rushed to absolve him, and Wei Ling offered him two of her night clerks as readers, on a better grade, which was the first time Jae-won had heard her volunteer anything. \"The hours the machine saves go to reading,\" she said, in the tone of someone quoting a regulation.",
+          "ko": "6시에 그들은 시티, 콜, 대니얼, 그리고 인원을 채우지 못한 근무조에서 곧장 온, 그런 얼굴을 한 하피즈와 함께 구내식당에 앉았다. \"야간조의 양식 80장 전부를, 도크를 떠나기 전에 사람이 한 장도 빠짐없이 읽는 방식으로 시작하면 어떨까요?\" 재원이 물었다. 콜은 누군가 자기 말고 출시 노트를 읽어 준다면 모든 단말기의 빨간 정지 키는 하루 일이라고 했고, 그렇게 말하면서 아무도 쳐다보지 않았다. 하피즈는 탁자에 대고, 아직도 두 사람이 부족하며 11주 차에 조용히 표본만 볼 게 아니라 그렇게 말했어야 했다고 했다. 아무도 서둘러 그를 용서하지 않았고, 웨이링은 자기 야간 사무원 둘을 더 높은 등급의 판독자로 내주겠다고 했다. 재원이 그녀가 무언가를 자청하는 것을 들은 건 처음이었다. \"기계가 아끼는 시간은 읽는 데 씁니다.\" 그녀가 규정을 인용하는 사람의 말투로 말했다."
+        },
+        {
+          "en": "Jae-won reached for a pen out of pure reflex, and Wei Ling passed it across him to Siti. Siti turned over a form and wrote the plan on the back in four short lines, and it was, he had to concede, better than most of his pages. Daniel asked who would be counting the numbers, with the wariness of a man who already knew. \"You, if you put something down first, so what will it be?\" Jae-won said. Daniel looked mildly astonished to be asked, and reported that nobody had read the Monday report since week six.",
+          "ko": "재원이 순전히 반사적으로 펜에 손을 뻗었고, 웨이링은 그를 건너 시티에게 펜을 넘겼다. 시티는 양식을 뒤집어 뒷면에 짧은 네 줄로 계획을 적었고, 그것은 인정할 수밖에 없게도 그의 종이 대부분보다 나았다. 대니얼이 숫자는 누가 세느냐고, 이미 답을 아는 사람의 경계심으로 물었다. \"대니얼 씨요, 먼저 뭔가를 내려놓는다면요. 뭘로 할래요?\" 재원이 말했다. 대니얼은 그런 질문을 받은 것에 살짝 놀란 듯했고, 6주 차 이후로 월요일 보고서를 읽은 사람이 없다고 알렸다."
+        },
+        {
+          "en": "Jae-won took a photo of Siti's page and sent it to Grace and Wei Ling in the same minute, adding one line of his own: \"This moves week sixteen.\" Grace called before he had put the phone away. \"You asked me to judge you on week sixteen,\" she said. \"I did, and there's a line on that page that concerns you personally.\" \"I can read,\" she said, and after a moment that seemed to contain some arithmetic, she added, \"Friday of next week, nine o'clock, and bring a date.\"",
+          "ko": "재원은 시티의 종이를 사진으로 찍어 그레이스와 웨이링에게 같은 분에 보냈고, 자기 말은 한 줄만 덧붙였다. \"이것으로 16주 차가 움직입니다.\" 그가 전화기를 넣기도 전에 그레이스가 전화했다. \"16주 차로 평가해 달라고 했죠.\" 그녀가 말했다. \"그랬습니다. 그리고 그 종이에 그레이스 씨 개인에 관한 줄이 있습니다.\" \"저도 읽을 줄 알아요.\" 그녀가 말했고, 계산이 들어 있는 듯한 잠깐의 뒤에 덧붙였다. \"다음 주 금요일 9시요. 날짜를 가져오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What if we started with",
+        "That costs us",
+        "I can live with"
+      ],
+      "wordCandidates": [
+        {
+          "term": "observe",
+          "surface": "observed",
+          "meaningKo": "(의견을) 말하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Wei Ling drank some of her coffee and observed that this was correct.",
+            "ko": "웨이링은 커피를 조금 마시고 그 말이 맞다고 했다."
+          }
+        },
+        {
+          "term": "absolve",
+          "surface": "absolve",
+          "meaningKo": "용서하다, 책임을 면해 주다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Nobody rushed to absolve him, and Wei Ling offered him two of her night clerks as readers, on a better grade, which was the first time Jae-won had heard her volunteer anything.",
+            "ko": "아무도 서둘러 그를 용서하지 않았고, 웨이링은 자기 야간 사무원 둘을 더 높은 등급의 판독자로 내주겠다고 했다. 재원이 그녀가 무언가를 자청하는 것을 들은 건 처음이었다."
+          }
+        },
+        {
+          "term": "volunteer",
+          "surface": "volunteer",
+          "meaningKo": "자청하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Nobody rushed to absolve him, and Wei Ling offered him two of her night clerks as readers, on a better grade, which was the first time Jae-won had heard her volunteer anything.",
+            "ko": "아무도 서둘러 그를 용서하지 않았고, 웨이링은 자기 야간 사무원 둘을 더 높은 등급의 판독자로 내주겠다고 했다. 재원이 그녀가 무언가를 자청하는 것을 들은 건 처음이었다."
+          }
+        },
+        {
+          "term": "reflex",
+          "surface": "reflex",
+          "meaningKo": "반사적 행동",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won reached for a pen out of pure reflex, and Wei Ling passed it across him to Siti.",
+            "ko": "재원이 순전히 반사적으로 펜에 손을 뻗었고, 웨이링은 그를 건너 시티에게 펜을 넘겼다."
+          }
+        },
+        {
+          "term": "concede",
+          "surface": "concede",
+          "meaningKo": "인정하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Siti turned over a form and wrote the plan on the back in four short lines, and it was, he had to concede, better than most of his pages.",
+            "ko": "시티는 양식을 뒤집어 뒷면에 짧은 네 줄로 계획을 적었고, 그것은 인정할 수밖에 없게도 그의 종이 대부분보다 나았다."
+          }
+        },
+        {
+          "term": "wariness",
+          "surface": "wariness",
+          "meaningKo": "경계심",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Daniel asked who would be counting the numbers, with the wariness of a man who already knew.",
+            "ko": "대니얼이 숫자는 누가 세느냐고, 이미 답을 아는 사람의 경계심으로 물었다."
+          }
+        },
+        {
+          "term": "astonished",
+          "surface": "astonished",
+          "meaningKo": "놀란",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Daniel looked mildly astonished to be asked, and reported that nobody had read the Monday report since week six.",
+            "ko": "대니얼은 그런 질문을 받은 것에 살짝 놀란 듯했고, 6주 차 이후로 월요일 보고서를 읽은 사람이 없다고 알렸다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Who writes the plan on the back of the form?",
+      "options": [
+        "Jae-won",
+        "Daniel",
+        "Cole",
+        "Siti"
+      ],
+      "answerIndex": 3,
+      "evidence": "to Siti"
+    },
+    {
+      "question": "Why does Wei Ling pass the pen to Siti rather than to Jae-won?",
+      "options": [
+        "Jae-won's handwriting is hard to read",
+        "She wants the plan to belong to the floor, not to the consultant",
+        "Siti is the only one who knows English",
+        "The pen belongs to Siti"
+      ],
+      "answerIndex": 1,
+      "evidence": "to Siti"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "That costs us week sixteen, and I told a full room to judge us on it.",
+      "I can live with that.",
+      "What if we started with nights, all eighty forms?"
+    ],
+    "summaryPromptKo": "재원이 무엇을 포기하기로 했는지, 구내식당에서 어떤 계획이 나왔는지, 그레이스가 뭐라고 답했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "You asked me to judge you on week sixteen. Now you've sent me a page that moves it. Why should I accept that?",
+      "ko": "16주 차로 평가해 달라고 했죠. 그런데 그걸 움직이는 종이를 보냈어요. 왜 받아들여야 하죠?"
+    },
+    "modelAnswer": "Because week sixteen was my sentence, and the floor's terms are better than my sentence. What if we started with nights, the eighty forms that broke us? That costs us week sixteen as a date for the full target. I can live with that, and I'm not asking you to like it. On Friday I'll bring you a date and a number you can check. And the third line on that page is yours."
+  },
+  "nextTeaserKo": "14주 차 금요일 9시. 그레이스의 탁자 위에 앤더스의 제안서가 놓여 있다. 재원은 16주 차를 뒤집는 나쁜 소식부터 꺼낸다. 그날 낮 그레이스는 구내식당에 서고, 밤에는 두 번째 파일럿이 시작된다. 그리고 며칠 뒤, 누군가 빨간 키를 누른다.",
+  "roleplay": {
+    "title": "펜은 시티에게",
+    "situationKo": "새벽 도크와 아침 구내식당입니다. 재원이 자기 약속을 먼저 내놓고, 현장 사람들과 방식을 함께 짜는 장면이에요. 천천히 해도 괜찮으니, 내주는 것을 분명하게 말해 보세요.",
+    "lines": [
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Say it.",
+        "ko": "말해 보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nights first means days start late. That costs us week sixteen.",
+        "ko": "야간조부터면 주간조가 늦게 시작합니다. 그러면 16주 차를 잃게 됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You told a full room to judge you on it.",
+        "ko": "가득 찬 회의실에서 그걸로 평가해 달라고 했죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I did. I can live with that, and I'll tell them myself.",
+        "ko": "그랬죠. 그건 받아들일 수 있고, 제가 직접 말하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Hafiz Rahman",
+        "voice": "male",
+        "en": "I'm still two people short. I should have said so in week eleven.",
+        "ko": "저는 아직도 두 사람이 부족합니다. 11주 차에 그렇게 말했어야 했어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you for saying it now. What if we started with nights, with people reading every form?",
+        "ko": "지금이라도 말씀해 주셔서 고맙습니다. 야간조부터, 사람이 양식을 전부 읽는 방식으로 시작하면 어떨까요?",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Two of my night clerks can be his readers, on better pay. Siti, take the pen.",
+        "ko": "제 야간 사무원 둘이 더 나은 급여로 그의 판독자가 될 수 있어요. 시티, 펜 받아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Good. Daniel, you'll count, but what will you put down first?",
+        "ko": "좋습니다. 대니얼, 대니얼 씨가 세되, 먼저 뭘 내려놓을래요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "The Monday report. Nobody has read it since week six.",
+        "ko": "월요일 보고서요. 6주 차 이후로 아무도 안 읽었어요."
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "You asked me to judge you on week sixteen.",
+        "ko": "16주 차로 평가해 달라고 했죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I did, and there's a line on that page about you.",
+        "ko": "그랬습니다. 그리고 그 종이에 그레이스 씨에 관한 줄이 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "I can read. Friday of next week, nine o'clock. Bring a date.",
+        "ko": "저도 읽을 줄 알아요. 다음 주 금요일 9시요. 날짜를 가져오세요."
+      }
+    ]
+  }
+}

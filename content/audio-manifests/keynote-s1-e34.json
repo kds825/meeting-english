@@ -1,0 +1,57 @@
+{
+  "episodeId": "keynote-s1-e34",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "kill": "word-kill.mp3",
+    "bio": "word-bio.mp3",
+    "curious": "word-curious.mp3",
+    "dangerous": "word-dangerous.mp3",
+    "die": "word-die.mp3",
+    "aisle": "word-aisle.mp3",
+    "light up": "word-light-up.mp3",
+    "go dead": "word-go-dead.mp3",
+    "blackout": "word-blackout.mp3",
+    "clause": "word-clause.mp3",
+    "exhibit": "word-exhibit.mp3",
+    "linger": "word-linger.mp3"
+  },
+  "termClips": {
+    "kill": "term-kill.mp3",
+    "bio": "term-bio.mp3",
+    "curious": "term-curious.mp3",
+    "dangerous": "term-dangerous.mp3",
+    "die": "term-die.mp3",
+    "aisle": "term-aisle.mp3",
+    "light up": "term-light-up.mp3",
+    "go dead": "term-go-dead.mp3",
+    "blackout": "term-blackout.mp3",
+    "clause": "term-clause.mp3",
+    "exhibit": "term-exhibit.mp3",
+    "linger": "term-linger.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dev-dist/
+.env
+.env.*
+!.env.example
+.cache/
+*.log
+english-app-starter.zip
+tsconfig.tsbuildinfo
+# 음성을 public/audio로 옮기기 전의 옛 파일
+content/audio/

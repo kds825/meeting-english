@@ -1,0 +1,448 @@
+{
+  "id": "keynote-s1-e31",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 31,
+  "title": "Arrival",
+  "recapKo": "2주 전과 같은 14층 방에서 재원은 19분 34초에 발표를 마치고, 모든 질문에 영어로 끝까지 답했다. 가장 긴 침묵은 3초였다. 프리야는 \"싱가포르에서 봐요\"라고만 했고, 밤늦게 마커스의 메일이 왔다. 이선 울프가 새 제목을 읽고 커피를 제안했다는 것이었다. \"안건은 없다더군요. 안건은 언제나 있습니다.\"",
+  "keyExpressions": [
+    {
+      "phrase": "I don't think we've met.",
+      "meaningKo": "처음 뵙는 것 같네요.",
+      "usage": "I don't think we've met. I'm Sora, from the Seoul office."
+    },
+    {
+      "phrase": "What brings you to ~?",
+      "meaningKo": "~에는 어쩐 일로 오셨어요?",
+      "usage": "What brings you to this conference?"
+    },
+    {
+      "phrase": "Let me introduce you to ~",
+      "meaningKo": "~를 소개해 드릴게요",
+      "usage": "Let me introduce you to my colleague, who runs our data team."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 217,
+      "paragraphs": [
+        {
+          "en": "On Tuesday afternoon, Jae-won and Daniel landed in Singapore. A message from Marcus was waiting: \"Speakers' reception at 6:30. Nobody wants to hear your talk.\"",
+          "ko": "화요일 오후, 재원과 대니얼은 싱가포르에 도착했다. 마커스의 메시지가 기다리고 있었다. \"연사 환영회 6시 30분. 아무도 당신 발표를 듣고 싶어 하지 않습니다.\""
+        },
+        {
+          "en": "At the reception, a banker from Bangkok asked, \"What brings you to Singapore?\" Jae-won gave him ninety seconds on month-end failures, and the man walked away. \"Give one sentence, and then ask him something back,\" Daniel said.",
+          "ko": "환영회에서 방콕에서 온 은행가가 물었다. \"싱가포르에는 어쩐 일로 오셨어요?\" 재원이 월말 결산 실패에 대해 90초를 쏟아 내자 그 남자는 가 버렸다. \"한 문장만 말하고 상대에게 되물어요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "\"I need four minutes,\" Marcus said, and he led them into the empty main hall. Eight hundred chairs faced the stage, and a countdown clock on the floor showed twenty minutes. \"Look at the chairs now, so that they don't surprise you on Thursday,\" he said.",
+          "ko": "\"4분만 주세요.\" 마커스는 그렇게 말하고 두 사람을 텅 빈 메인 홀로 데려갔다. 의자 800개가 무대를 향해 있었고, 바닥의 카운트다운 시계는 20분을 가리켰다. \"목요일에 놀라지 않도록 지금 의자들을 봐 두세요.\" 그가 말했다."
+        },
+        {
+          "en": "Back at the reception, a woman stood alone with a pencil. \"I don't think we've met,\" he said. \"I'm Jae-won.\" \"Grace,\" she said. \"Your program says forty-two, but the app says forty-one.\" \"It's forty-one, and on Thursday I'll tell you why,\" he said.",
+          "ko": "환영회로 돌아오니 한 여성이 연필을 들고 혼자 서 있었다. \"처음 뵙는 것 같네요.\" 그가 말했다. \"재원입니다.\" \"그레이스예요.\" 그녀가 말했다. \"프로그램에는 42, 앱에는 41이라고 돼 있네요.\" \"41이 맞고, 왜 그런지는 목요일에 말씀드리겠습니다.\" 그가 말했다."
+        },
+        {
+          "en": "\"What brings you to the summit?\" he asked, and she said that she moved boxes, mostly on paper. \"I'd love to hear more about the paper,\" he said, and he asked about customs forms for five minutes. Daniel came over, and Jae-won said, \"Let me introduce you to Daniel, because he's the reason it's forty-one.\" \"It's been great talking to you,\" she said, and she left.",
+          "ko": "\"서밋에는 어쩐 일로 오셨어요?\" 그가 묻자, 그녀는 상자를 옮기는 일을 한다고, 대부분 서류로 옮긴다고 했다. \"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고 5분 동안 통관 서류에 관해 물었다. 대니얼이 다가오자 재원이 말했다. \"대니얼을 소개해 드릴게요. 41이 된 건 이 친구 덕분입니다.\" \"말씀 나눠서 정말 좋았어요.\" 그녀는 그렇게 말하고 떠났다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I don't think we've met",
+        "What brings you to",
+        "Let me introduce you to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "land",
+          "surface": "landed",
+          "meaningKo": "도착하다, 착륙하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Tuesday afternoon, Jae-won and Daniel landed in Singapore.",
+            "ko": "화요일 오후, 재원과 대니얼은 싱가포르에 도착했다."
+          }
+        },
+        {
+          "term": "reception",
+          "surface": "reception",
+          "meaningKo": "환영회, 리셉션",
+          "paragraph": 0,
+          "sentence": {
+            "en": "A message from Marcus was waiting: \"Speakers' reception at 6:30. Nobody wants to hear your talk.\"",
+            "ko": "마커스의 메시지가 기다리고 있었다. \"연사 환영회 6시 30분. 아무도 당신 발표를 듣고 싶어 하지 않습니다.\""
+          }
+        },
+        {
+          "term": "banker",
+          "surface": "banker",
+          "meaningKo": "은행가",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At the reception, a banker from Bangkok asked, \"What brings you to Singapore?\"",
+            "ko": "환영회에서 방콕에서 온 은행가가 물었다. \"싱가포르에는 어쩐 일로 오셨어요?\""
+          }
+        },
+        {
+          "term": "countdown clock",
+          "surface": "countdown clock",
+          "meaningKo": "카운트다운 시계",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Eight hundred chairs faced the stage, and a countdown clock on the floor showed twenty minutes.",
+            "ko": "의자 800개가 무대를 향해 있었고, 바닥의 카운트다운 시계는 20분을 가리켰다."
+          }
+        },
+        {
+          "term": "customs form",
+          "surface": "customs forms",
+          "meaningKo": "통관 서류",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I'd love to hear more about the paper,\" he said, and he asked about customs forms for five minutes.",
+            "ko": "\"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고 5분 동안 통관 서류에 관해 물었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 356,
+      "paragraphs": [
+        {
+          "en": "Jae-won and Daniel landed on Tuesday afternoon, and by the time their taxi reached the hotel, a message from Marcus was already sitting on his phone: \"Speakers' reception at 6:30. Wear your badge. Nobody wants to hear your talk.\" \"You've rehearsed answers to two hundred and twelve questions,\" Daniel said, \"but I've never seen you talk to a stranger who's holding a drink.\"",
+          "ko": "재원과 대니얼은 화요일 오후에 도착했고, 택시가 호텔에 닿을 무렵 마커스의 메시지가 이미 휴대폰에 와 있었다. \"연사 환영회 6시 30분. 명찰 착용. 아무도 당신 발표를 듣고 싶어 하지 않습니다.\" \"질문 212개에 대한 답을 연습하셨잖아요.\" 대니얼이 말했다. \"그런데 술잔 든 낯선 사람과 얘기하는 건 한 번도 못 봤어요.\""
+        },
+        {
+          "en": "At the reception, a banker from Bangkok turned around with a friendly smile and said, \"What brings you to Singapore?\" Jae-won launched into ninety seconds on month-end failures, and the man's eyes started drifting over his shoulder. \"That was a question, not a rehearsal,\" Daniel murmured, \"so give him one sentence and then ask him something back.\"",
+          "ko": "환영회에서 방콕에서 온 은행가가 다정한 미소로 돌아서며 말했다. \"싱가포르에는 어쩐 일로 오셨어요?\" 재원이 월말 결산 실패에 대해 90초를 늘어놓기 시작하자, 남자의 시선이 그의 어깨 너머로 떠돌기 시작했다. \"그건 질문이었지 리허설이 아니에요.\" 대니얼이 속삭였다. \"그러니까 한 문장만 말하고 상대에게 되물어요.\""
+        },
+        {
+          "en": "A small man in running shoes materialized beside them and read Jae-won's badge. \"I'm Marcus, and I need four minutes,\" he said, and he walked them down a service corridor into the empty main hall. Eight hundred chairs faced a bare stage, where the countdown clock in the floor was already showing twenty minutes. \"The stage check is tomorrow at four, but get your staring done now, so that the chairs don't surprise you on Thursday,\" he said.",
+          "ko": "운동화를 신은 작은 남자가 어느새 옆에 나타나 재원의 명찰을 읽었다. \"마커스입니다. 4분만 주세요.\" 그는 그렇게 말하고 두 사람을 직원용 복도를 지나 텅 빈 메인 홀로 데려갔다. 의자 800개가 빈 무대를 향해 있었고, 바닥에 박힌 카운트다운 시계는 벌써 20분을 가리키고 있었다. \"무대 점검은 내일 4시지만, 목요일에 의자들 때문에 놀라지 않도록 지금 실컷 봐 두세요.\" 그가 말했다."
+        },
+        {
+          "en": "Back at the reception, a woman was standing by herself with a printed program and a pencil, and she had circled a word in his title. \"I don't think we've met,\" he said. \"I'm Jae-won.\" \"Grace,\" she said, without looking up. \"Your program says forty-two, and the app says forty-one, so which one's lying?\" \"It's forty-one, and on Thursday I'll tell you why,\" he said, and with some effort, he stopped there.",
+          "ko": "환영회로 돌아오니 한 여성이 인쇄된 프로그램과 연필을 들고 혼자 서 있었고, 그의 제목에 있는 한 단어에 동그라미가 쳐져 있었다. \"처음 뵙는 것 같네요.\" 그가 말했다. \"재원입니다.\" \"그레이스예요.\" 그녀는 고개도 들지 않고 말했다. \"프로그램에는 42, 앱에는 41이라고 돼 있는데, 어느 쪽이 거짓말이죠?\" \"41이 맞고, 왜 그런지는 목요일에 말씀드리겠습니다.\" 그는 그렇게 말하고, 애써 거기서 멈췄다."
+        },
+        {
+          "en": "\"What brings you to the summit?\" he asked, and she said that she lived here and moved boxes for a living, mostly on paper. \"I'd love to hear more about the paper,\" he said, and for five minutes he asked nothing but questions about customs forms and who had to re-key them. When Daniel wandered over, Jae-won said, \"Let me introduce you to Daniel, because he's the reason it's forty-one.\" She shook Daniel's hand, put the pencil away, and said, \"It's been great talking to you.\"",
+          "ko": "\"서밋에는 어쩐 일로 오셨어요?\" 그가 묻자, 그녀는 여기 살고 상자 옮기는 일로 먹고산다고, 대부분 서류로 옮긴다고 했다. \"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고, 5분 동안 통관 서류와 누가 그걸 다시 입력해야 하는지에 관해 질문만 했다. 대니얼이 슬쩍 다가오자 재원이 말했다. \"대니얼을 소개해 드릴게요. 41이 된 건 이 친구 덕분입니다.\" 그녀는 대니얼과 악수하고 연필을 집어넣으며 말했다. \"말씀 나눠서 정말 좋았어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I don't think we've met",
+        "What brings you to",
+        "Let me introduce you to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "launch into",
+          "surface": "launched into",
+          "meaningKo": "~을 장황하게 시작하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won launched into ninety seconds on month-end failures, and the man's eyes started drifting over his shoulder.",
+            "ko": "재원이 월말 결산 실패에 대해 90초를 늘어놓기 시작하자, 남자의 시선이 그의 어깨 너머로 떠돌기 시작했다."
+          }
+        },
+        {
+          "term": "drift",
+          "surface": "drifting",
+          "meaningKo": "떠돌다, 서서히 옮겨 가다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won launched into ninety seconds on month-end failures, and the man's eyes started drifting over his shoulder.",
+            "ko": "재원이 월말 결산 실패에 대해 90초를 늘어놓기 시작하자, 남자의 시선이 그의 어깨 너머로 떠돌기 시작했다."
+          }
+        },
+        {
+          "term": "murmur",
+          "surface": "murmured",
+          "meaningKo": "속삭이다, 나직이 말하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That was a question, not a rehearsal,\" Daniel murmured, \"so give him one sentence and then ask him something back.\"",
+            "ko": "\"그건 질문이었지 리허설이 아니에요.\" 대니얼이 속삭였다. \"그러니까 한 문장만 말하고 상대에게 되물어요.\""
+          }
+        },
+        {
+          "term": "materialize",
+          "surface": "materialized",
+          "meaningKo": "불쑥 나타나다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A small man in running shoes materialized beside them and read Jae-won's badge.",
+            "ko": "운동화를 신은 작은 남자가 어느새 옆에 나타나 재원의 명찰을 읽었다."
+          }
+        },
+        {
+          "term": "service corridor",
+          "surface": "service corridor",
+          "meaningKo": "직원용 복도",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I'm Marcus, and I need four minutes,\" he said, and he walked them down a service corridor into the empty main hall.",
+            "ko": "\"마커스입니다. 4분만 주세요.\" 그는 그렇게 말하고 두 사람을 직원용 복도를 지나 텅 빈 메인 홀로 데려갔다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-key",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I'd love to hear more about the paper,\" he said, and for five minutes he asked nothing but questions about customs forms and who had to re-key them.",
+            "ko": "\"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고, 5분 동안 통관 서류와 누가 그걸 다시 입력해야 하는지에 관해 질문만 했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 512,
+      "paragraphs": [
+        {
+          "en": "Jae-won and Daniel landed on Tuesday afternoon into air that felt like a wet towel, and before their taxi had reached the hotel, a message from Marcus was already sitting on his phone: \"Speakers' reception at 6:30. Wear your badge. Nobody wants to hear your talk.\" \"You've rehearsed your way through two hundred and twelve hostile questions,\" Daniel said, loosening his tie. \"But I've never once seen you make conversation with a stranger who's holding a drink.\"",
+          "ko": "재원과 대니얼은 화요일 오후 젖은 수건 같은 공기 속에 도착했고, 택시가 호텔에 닿기도 전에 마커스의 메시지가 벌써 휴대폰에 와 있었다. \"연사 환영회 6시 30분. 명찰 착용. 아무도 당신 발표를 듣고 싶어 하지 않습니다.\" \"적대적인 질문 212개를 연습으로 다 통과하셨죠.\" 대니얼이 넥타이를 풀며 말했다. \"그런데 술잔 든 낯선 사람과 잡담하는 모습은 한 번도 못 봤어요.\""
+        },
+        {
+          "en": "It took eleven minutes at the reception to prove him right, when a silver-haired banker from Bangkok turned around with a friendly smile and said, \"What brings you to Singapore?\" He launched into a tidy ninety seconds on month-end failures, and he watched the man's eyes begin to drift over his shoulder toward the satay. \"That was a pleasantry, not a rehearsal,\" Daniel murmured once the banker had made his escape. \"Next time, give him one sentence and then ask him something back, because nobody's scoring this.\"",
+          "ko": "환영회에서 대니얼의 말이 맞았음이 증명되기까지는 11분이면 충분했다. 은발의 방콕 은행가가 다정한 미소로 돌아서며 말했다. \"싱가포르에는 어쩐 일로 오셨어요?\" 그는 월말 결산 실패에 관한 깔끔한 90초를 시작했고, 남자의 시선이 그의 어깨 너머 사테 쪽으로 흘러가는 것을 지켜보았다. \"그건 인사치레였지 리허설이 아니에요.\" 은행가가 빠져나간 뒤 대니얼이 속삭였다. \"다음엔 한 문장만 말하고 되물어요. 아무도 채점 안 하니까요.\""
+        },
+        {
+          "en": "A small man in a gray suit and running shoes materialized at his elbow, and he read Jae-won's badge as though he were checking a boarding pass against a passport. \"I'm Marcus, and I need four minutes,\" he said, which was exactly how Jae-won had imagined it. He walked them through a service corridor into the empty main hall. Eight hundred chairs faced a bare stage, and the countdown clock set into the floor was already showing twenty minutes. \"The stage check is tomorrow at four, but get your staring done tonight, because on Thursday I'd prefer that you weren't meeting these chairs for the first time,\" Marcus said.",
+          "ko": "회색 양복에 운동화를 신은 작은 남자가 그의 팔꿈치 옆에 불쑥 나타나, 탑승권을 여권과 대조하듯 재원의 명찰을 읽었다. \"마커스입니다. 4분만 주세요.\" 그의 말은 재원이 상상한 그대로였다. 그는 두 사람을 직원용 복도를 지나 텅 빈 메인 홀로 데려갔다. 의자 800개가 빈 무대를 향해 있었고, 바닥에 박힌 카운트다운 시계는 벌써 20분을 가리키고 있었다. \"무대 점검은 내일 4시지만, 오늘 밤에 실컷 봐 두세요. 목요일에 이 의자들을 처음 만나는 일은 없었으면 하니까요.\" 마커스가 말했다."
+        },
+        {
+          "en": "Back at the reception, a woman in her fifties was standing by herself with a printed program and a pencil, ignoring the canapes, and she had circled a word in his title. \"I don't think we've met,\" he said, using the line that Daniel had given him. \"I'm Jae-won.\" \"Grace,\" she said, without looking up, \"and your printed title says forty-two, while the app says forty-one, so I've been standing here wondering which of them is lying to me.\" \"It's forty-one, and on Thursday I'll tell you why,\" he said, and with an effort that he felt in his jaw, he stopped there.",
+          "ko": "환영회로 돌아오니 50대 여성이 인쇄된 프로그램과 연필을 들고 카나페도 본체만체 혼자 서 있었는데, 그의 제목에 있는 한 단어에 동그라미가 쳐져 있었다. \"처음 뵙는 것 같네요.\" 그는 대니얼이 알려 준 대로 말했다. \"재원입니다.\" \"그레이스예요.\" 그녀는 고개도 들지 않고 말했다. \"그런데 인쇄된 제목은 42, 앱은 41이라, 어느 쪽이 제게 거짓말을 하는지 궁금해하며 서 있었죠.\" \"41이 맞고, 왜 그런지는 목요일에 말씀드리겠습니다.\" 그는 그렇게 말하고, 턱에 힘이 들어갈 만큼 애써 거기서 멈췄다."
+        },
+        {
+          "en": "\"What brings you to the summit?\" he asked. She said that she lived ten minutes away and moved boxes for a living, mostly on paper, in a tone that suggested the paper had personally wronged her. \"I'd love to hear more about the paper,\" he said, and for five minutes he asked nothing but questions about customs forms, about who re-keyed them and what happened when they got it wrong. He was surprised to find that he actually wanted to know. When Daniel drifted over with a plate, Jae-won said, \"Let me introduce you to Daniel, because he's the reason it's forty-one, and he's considerably better at parties.\" She shook Daniel's hand, tucked the pencil into her bag, and said, \"It's been great talking to you,\" with the air of someone closing a file for later.",
+          "ko": "\"서밋에는 어쩐 일로 오셨어요?\" 그가 물었다. 그녀는 10분 거리에 살고 상자 옮기는 일로 먹고산다고, 대부분 서류로 옮긴다고 했다. 서류가 개인적으로 그녀에게 잘못이라도 한 듯한 말투였다. \"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고, 5분 동안 통관 서류에 관해, 누가 그걸 다시 입력하고 틀리면 어떻게 되는지에 관해 질문만 했다. 자신이 정말 알고 싶어 한다는 사실에 그는 놀랐다. 대니얼이 접시를 들고 슬쩍 다가오자 재원이 말했다. \"대니얼을 소개해 드릴게요. 41이 된 건 이 친구 덕분이고, 파티에서도 저보다 훨씬 낫습니다.\" 그녀는 대니얼과 악수하고 연필을 가방에 넣으며, 나중을 위해 서류철을 덮는 사람 같은 태도로 말했다. \"말씀 나눠서 정말 좋았어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I don't think we've met",
+        "What brings you to",
+        "Let me introduce you to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pleasantry",
+          "surface": "pleasantry",
+          "meaningKo": "인사치레, 의례적인 말",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That was a pleasantry, not a rehearsal,\" Daniel murmured once the banker had made his escape.",
+            "ko": "\"그건 인사치레였지 리허설이 아니에요.\" 은행가가 빠져나간 뒤 대니얼이 속삭였다."
+          }
+        },
+        {
+          "term": "launch into",
+          "surface": "launched into",
+          "meaningKo": "~을 장황하게 시작하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He launched into a tidy ninety seconds on month-end failures, and he watched the man's eyes begin to drift over his shoulder toward the satay.",
+            "ko": "그는 월말 결산 실패에 관한 깔끔한 90초를 시작했고, 남자의 시선이 그의 어깨 너머 사테 쪽으로 흘러가는 것을 지켜보았다."
+          }
+        },
+        {
+          "term": "materialize",
+          "surface": "materialized",
+          "meaningKo": "불쑥 나타나다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A small man in a gray suit and running shoes materialized at his elbow, and he read Jae-won's badge as though he were checking a boarding pass against a passport.",
+            "ko": "회색 양복에 운동화를 신은 작은 남자가 그의 팔꿈치 옆에 불쑥 나타나, 탑승권을 여권과 대조하듯 재원의 명찰을 읽었다."
+          }
+        },
+        {
+          "term": "canape",
+          "surface": "canapes",
+          "meaningKo": "카나페 (한입 크기 전채)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Back at the reception, a woman in her fifties was standing by herself with a printed program and a pencil, ignoring the canapes, and she had circled a word in his title.",
+            "ko": "환영회로 돌아오니 50대 여성이 인쇄된 프로그램과 연필을 들고 카나페도 본체만체 혼자 서 있었는데, 그의 제목에 있는 한 단어에 동그라미가 쳐져 있었다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-keyed",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I'd love to hear more about the paper,\" he said, and for five minutes he asked nothing but questions about customs forms, about who re-keyed them and what happened when they got it wrong.",
+            "ko": "\"그 서류 얘기를 더 듣고 싶네요.\" 그는 그렇게 말하고, 5분 동안 통관 서류에 관해, 누가 그걸 다시 입력하고 틀리면 어떻게 되는지에 관해 질문만 했다."
+          }
+        },
+        {
+          "term": "with the air of",
+          "surface": "with the air of",
+          "meaningKo": "~ 같은 태도로",
+          "paragraph": 4,
+          "sentence": {
+            "en": "She shook Daniel's hand, tucked the pencil into her bag, and said, \"It's been great talking to you,\" with the air of someone closing a file for later.",
+            "ko": "그녀는 대니얼과 악수하고 연필을 가방에 넣으며, 나중을 위해 서류철을 덮는 사람 같은 태도로 말했다. \"말씀 나눠서 정말 좋았어요.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does Daniel tell Jae-won to do after the conversation with the banker?",
+      "options": [
+        "Practice his ninety-second answer again",
+        "Talk only about month-end failures",
+        "Stay away from the reception",
+        "Give one sentence and then ask something back"
+      ],
+      "answerIndex": 3,
+      "evidence": "so give him one sentence and then ask him something back."
+    },
+    {
+      "question": "Why does Grace seem to warm to Jae-won at the reception?",
+      "options": [
+        "He asks real questions about her work instead of giving a speech.",
+        "She dislikes other speakers at the summit.",
+        "Yuna had already told her about him.",
+        "Daniel has already pitched Seoro to her."
+      ],
+      "answerIndex": 0,
+      "evidence": "for five minutes he asked nothing but questions about customs forms and who had to re-key them."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What brings you to the summit?",
+      "I don't think we've met.",
+      "Let me introduce you to Daniel, because he's the reason it's forty-one."
+    ],
+    "summaryPromptKo": "환영회에서 재원이 은행가에게 어떤 실수를 했는지, 마커스가 무엇을 보여 주었는지, 그레이스와의 대화에서 무엇을 바꿨는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "You've just met me at a reception and you have one minute. What brings you here, and what do you want to know about my business?",
+      "ko": "환영회에서 저를 막 만났고 시간은 1분입니다. 무슨 일로 오셨고, 제 사업에 대해 뭘 알고 싶으세요?"
+    },
+    "modelAnswer": "I don't think we've met properly, so I'm Jae-won, and I'm speaking on Thursday. What brings me here is simple: I've studied why AI pilots stop at month-end. But I'd love to hear more about your customs forms. Who re-keys them, and what happens when they're wrong? Let me introduce you to Daniel as well, because he knows the data better than I do."
+  },
+  "nextTeaserKo": "연필을 든 그 여성은 대체 누구였을까. 대니얼이 명단을 열어 보는 순간 재원의 속이 내려앉는다. 그리고 수요일 아침 8시, \"안건 없는\" 커피가 기다린다.",
+  "roleplay": {
+    "title": "연필을 든 그 사람",
+    "situationKo": "환영회에서 혼자 서 있는 그레이스에게 말을 걸어 봅니다. 아직 그녀가 누구인지 모르는 상태예요. 발표 내용을 쏟아 내지 않고 한 문장 말한 뒤 되물어 보세요. 어색해도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "There's someone by herself over there with a pencil. One sentence, then ask a question.",
+        "ko": "저기 연필 들고 혼자 있는 분 있어요. 한 문장 말하고 질문하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I don't think we've met. I'm Jae-won.",
+        "ko": "처음 뵙는 것 같네요. 재원입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Grace. Your program says forty-two, and the app says forty-one. Which one's lying?",
+        "ko": "그레이스예요. 프로그램에는 42, 앱에는 41이라고 돼 있네요. 어느 쪽이 거짓말이죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It's forty-one, and I'll tell you why on Thursday.",
+        "ko": "41이 맞고, 왜 그런지는 목요일에 말씀드릴게요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "That's it? Most speakers would give me twenty minutes right here.",
+        "ko": "그게 다예요? 연사들은 대개 여기서 20분을 쏟아 내던데요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I tried that on a banker earlier. It didn't go well. What brings you to the summit?",
+        "ko": "아까 어떤 은행가에게 해 봤는데 잘 안 됐어요. 서밋에는 어쩐 일로 오셨어요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "I live here. I move boxes for a living, mostly on paper.",
+        "ko": "여기 살아요. 상자 옮기는 일을 하는데, 대부분 서류로 옮기죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'd love to hear more about the paper. What kind of forms?",
+        "ko": "그 서류 얘기를 더 듣고 싶네요. 어떤 서류인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Customs forms, thousands of them. And somebody types every one in again.",
+        "ko": "통관 서류요, 수천 장이나 돼요. 그걸 누군가 전부 다시 입력하고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So what happens when somebody gets one wrong?",
+        "ko": "그럼 누가 한 장을 틀리면 어떻게 되나요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "A container sits at the port, and I get a phone call.",
+        "ko": "컨테이너가 항구에 묶이고, 저한테 전화가 오죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That sounds like a month-end problem that happens every day. Oh, let me introduce you to Daniel.",
+        "ko": "매일 벌어지는 월말 결산 문제 같네요. 아, 대니얼을 소개해 드릴게요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Nice to meet you. Is he talking about pilots again?",
+        "ko": "만나서 반갑습니다. 또 파일럿 얘기 하시던가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, I'm asking questions. And Daniel's the reason it's forty-one, so he's the one to thank.",
+        "ko": "아니, 질문하고 있었어. 41이 된 건 대니얼 덕분이니 이 친구에게 인사하세요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Then I'll remember you both. Enjoy your evening.",
+        "ko": "그럼 두 분 다 기억해 둘게요. 좋은 저녁 보내세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It's been great talking to you. See you on Thursday.",
+        "ko": "말씀 나눠서 정말 좋았어요. 목요일에 뵙겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "You know, I think that went pretty well.",
+        "ko": "저기요, 꽤 잘된 것 같은데요."
+      }
+    ]
+  }
+}

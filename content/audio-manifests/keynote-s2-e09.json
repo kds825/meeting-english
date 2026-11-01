@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e09",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "canteen": "word-canteen.mp3",
+    "projector": "word-projector.mp3",
+    "apology": "word-apology.mp3",
+    "vending machine": "word-vending-machine.mp3",
+    "hand-keyed": "word-hand-keyed.mp3",
+    "suspicious": "word-suspicious.mp3",
+    "rented": "word-rented.mp3",
+    "urn": "word-urn.mp3",
+    "settle": "word-settle.mp3",
+    "reopen": "word-reopen.mp3",
+    "survive": "word-survive.mp3",
+    "vest": "word-vest.mp3",
+    "initiative": "word-initiative.mp3",
+    "decline": "word-decline.mp3",
+    "lean against": "word-lean-against.mp3"
+  },
+  "termClips": {
+    "canteen": "term-canteen.mp3",
+    "projector": "term-projector.mp3",
+    "apology": "term-apology.mp3",
+    "vending machine": "term-vending-machine.mp3",
+    "hand-keyed": "term-hand-keyed.mp3",
+    "suspicious": "term-suspicious.mp3",
+    "rented": "term-rented.mp3",
+    "urn": "term-urn.mp3",
+    "settle": "term-settle.mp3",
+    "reopen": "term-reopen.mp3",
+    "survive": "term-survive.mp3",
+    "vest": "term-vest.mp3",
+    "initiative": "term-initiative.mp3",
+    "decline": "term-decline.mp3",
+    "lean against": "term-lean-against.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": "keynote-s2-e28",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 28,
+  "title": "Good Faith",
+  "recapKo": "월요일 회의에서 아르준은 전액을 요구했고, 이선은 상한과 7쪽을, 백준호는 조항을 들었다. 재원은 무엇이 잘못됐는지와 누가 내는지를 나눠 화이트보드에 세 칸을 그렸다. 아르준이 물었다. \"서로 파트너스의 몫으로 내놓을 최선의 숫자는 얼마입니까?\" 백준호의 구두가 재원의 발을 밟았다.",
+  "keyExpressions": [
+    {
+      "phrase": "Let me put a number on that: ~",
+      "meaningKo": "숫자로 말씀드리죠. ~",
+      "usage": "Let me put a number on that: two weeks and forty thousand dollars."
+    },
+    {
+      "phrase": "We're prepared to ~",
+      "meaningKo": "저희는 ~할 용의가 있습니다",
+      "usage": "We're prepared to absorb the cost of the second test."
+    },
+    {
+      "phrase": "Can everyone live with that?",
+      "meaningKo": "다들 그 정도면 받아들이시겠습니까?",
+      "usage": "Corvane pays first and we split the rest. Can everyone live with that?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 222,
+      "paragraphs": [
+        {
+          "en": "Jae-won moved his foot and asked for ten minutes. In the corridor, Baek told him that the contract said zero and that Kwon had said zero too. \"Page thirty-one also says good faith, and I can't call zero good faith when I chose the test,\" Jae-won said.",
+          "ko": "재원은 발을 빼고 10분을 요청했다. 복도에서 백준호는 계약서도 0이라고 하고 권 파트너도 0이라고 했다고 말했다. \"31쪽에는 신의성실도 적혀 있어요. 시험을 고른 사람이 0을 신의성실이라고 부를 수는 없습니다.\" 재원이 말했다."
+        },
+        {
+          "en": "Helen was on his phone from Seattle. \"Whose word did you trust when you signed?\" she asked. \"Mine, on two hundred documents,\" he said. \"Then it comes off the fee, not out of a check, and I'll deal with Kwon,\" she said.",
+          "ko": "시애틀의 헬렌이 전화에 있었다. \"서명할 때 누구의 말을 믿었죠?\" 그녀가 물었다. \"제 말이요. 서류 200건으로요.\" 그가 말했다. \"그럼 수표가 아니라 수수료에서 빼요. 권 파트너는 내가 상대할게요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Back in the room, he didn't sit down. \"Let me put a number on that: a hundred and fifty thousand,\" he said. \"We're prepared to take it off our fixed fee. In exchange for that, the lookup comes out, and nobody here goes to court.\"",
+          "ko": "회의실로 돌아온 그는 앉지 않았다. \"숫자로 말씀드리죠. 15만 달러입니다.\" 그가 말했다. \"저희 고정 수수료에서 뺄 용의가 있습니다. 그 대신 대조 기능을 빼고, 여기 있는 누구도 소송을 하지 않습니다.\""
+        },
+        {
+          "en": "He wrote the rest under the columns: Corvane three hundred thousand, Straits Meridian a hundred and sixty. \"Can everyone live with that?\" he asked. Arjun did the sum. \"Your fixed fee is now one million one hundred thousand, the number I first offered you,\" he said.",
+          "ko": "그는 나머지를 칸 아래에 적었다. 코르베인 30만 달러, 스트레이츠 메리디안 16만 달러였다. \"다들 그 정도면 받아들이시겠습니까?\" 그가 물었다. 아르준이 계산했다. \"이제 고정 수수료가 110만 달러군요. 제가 처음 제시한 숫자입니다.\" 그가 말했다."
+        },
+        {
+          "en": "Priscilla said that she had waited twelve weeks to see someone put a name on something. At the lift, a message came from Grace: \"Friday's committee has a new item. Someone has sent me sixteen pages, and his name is Anders Berg.\"",
+          "ko": "프리실라는 누가 뭔가에 이름을 거는 것을 보려고 12주를 기다렸다고 말했다. 엘리베이터 앞에서 그레이스의 메시지가 왔다. \"금요일 위원회에 새 안건이 생겼어요. 누가 제게 16쪽을 보냈는데, 이름이 앤더스 버그예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me put a number on that",
+        "We're prepared to",
+        "Can everyone live with that?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "corridor",
+          "surface": "corridor",
+          "meaningKo": "복도",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In the corridor, Baek told him that the contract said zero and that Kwon had said zero too.",
+            "ko": "복도에서 백준호는 계약서도 0이라고 하고 권 파트너도 0이라고 했다고 말했다."
+          }
+        },
+        {
+          "term": "fee",
+          "surface": "fee",
+          "meaningKo": "수수료",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Then it comes off the fee, not out of a check, and I'll deal with Kwon,\" she said.",
+            "ko": "\"그럼 수표가 아니라 수수료에서 빼요. 권 파트너는 내가 상대할게요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "go to court",
+          "surface": "goes to court",
+          "meaningKo": "소송을 하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "In exchange for that, the lookup comes out, and nobody here goes to court.\"",
+            "ko": "그 대신 대조 기능을 빼고, 여기 있는 누구도 소송을 하지 않습니다.\""
+          }
+        },
+        {
+          "term": "lift",
+          "surface": "lift",
+          "meaningKo": "엘리베이터",
+          "paragraph": 4,
+          "sentence": {
+            "en": "At the lift, a message came from Grace: \"Friday's committee has a new item.",
+            "ko": "엘리베이터 앞에서 그레이스의 메시지가 왔다. \"금요일 위원회에 새 안건이 생겼어요.\""
+          }
+        },
+        {
+          "term": "sum",
+          "surface": "sum",
+          "meaningKo": "계산, 합계",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Arjun did the sum.",
+            "ko": "아르준이 계산했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 353,
+      "paragraphs": [
+        {
+          "en": "Jae-won moved his foot and asked for ten minutes. In the corridor, Baek told him that the contract said zero, that Kwon had said zero, and that a number spoken in that room would follow Seoro around for years. \"Page thirty-one also says good faith, and I can't call zero good faith when I chose the test,\" Jae-won said. Baek said that this was a very expensive sentence.",
+          "ko": "재원은 발을 빼고 10분을 요청했다. 복도에서 백준호는 계약서도 0이라고 하고, 권 파트너도 0이라고 했으며, 그 방에서 나온 숫자는 몇 년이고 서로 파트너스를 따라다닐 거라고 말했다. \"31쪽에는 신의성실도 적혀 있어요. 시험을 고른 사람이 0을 신의성실이라고 부를 수는 없습니다.\" 재원이 말했다. 백준호는 아주 비싼 문장이라고 말했다."
+        },
+        {
+          "en": "Helen was on his phone from Seattle, and she had heard all of it through the screen in the room. \"You remember my question from the coffee shop: whose word did you trust when you signed?\" she asked. \"Mine, on two hundred documents,\" he said. She was quiet for a moment. \"Then it comes off the fee, not out of a check, and I'll deal with Kwon, and you'll explain it at your review,\" she said.",
+          "ko": "시애틀의 헬렌이 전화에 있었고, 회의실 화면으로 다 듣고 있었다. \"커피숍에서 한 내 질문 기억하죠? 서명할 때 누구의 말을 믿었죠?\" 그녀가 물었다. \"제 말이요. 서류 200건으로요.\" 그가 말했다. 그녀는 잠시 말이 없었다. \"그럼 수표가 아니라 수수료에서 빼요. 권 파트너는 내가 상대할게요. 심사에서는 당신이 설명하고요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Back in the room, he didn't sit down. \"Let me put a number on that: a hundred and fifty thousand,\" he said. \"We're prepared to take it off our fixed fee, and I'd like that written as a credit, with no admission.\" Baek closed his pen with a small click. \"In exchange for that, the lookup comes out, Corvane retests that box on a thousand documents at its own cost, and nobody here goes to court.\"",
+          "ko": "회의실로 돌아온 그는 앉지 않았다. \"숫자로 말씀드리죠. 15만 달러입니다.\" 그가 말했다. \"저희 고정 수수료에서 뺄 용의가 있고, 책임 인정 없는 공제로 적어 주시면 좋겠습니다.\" 백준호가 작은 소리를 내며 펜을 닫았다. \"그 대신 대조 기능을 빼고, 코르베인이 자기 비용으로 그 칸을 1,000건에서 다시 시험하고, 여기 있는 누구도 소송을 하지 않습니다.\""
+        },
+        {
+          "en": "He wrote the rest under the columns: Corvane three hundred thousand, inside its cap, and Straits Meridian a hundred and sixty for the check. \"Can everyone live with that?\" he asked. Ethan looked at his lawyer and nodded, and Arjun, who had wanted all of it, did the sum in the margin. \"Your fixed fee is now one million one hundred thousand, the number I first offered you,\" he said, and it was the closest he had ever come to a smile.",
+          "ko": "그는 나머지를 칸 아래에 적었다. 코르베인은 상한 안에서 30만 달러, 스트레이츠 메리디안은 확인 건으로 16만 달러였다. \"다들 그 정도면 받아들이시겠습니까?\" 그가 물었다. 이선이 변호사를 보고 고개를 끄덕였고, 전액을 원했던 아르준은 여백에 계산했다. \"이제 고정 수수료가 110만 달러군요. 제가 처음 제시한 숫자입니다.\" 그가 말했고, 그로서는 미소에 가장 가까운 것이었다."
+        },
+        {
+          "en": "Priscilla said that she had waited twelve weeks to see someone put a name on something, and she signed first. At the lift, Jae-won's foot still hurt, and a message came from Grace: \"Friday's committee has a new item. Someone has sent me sixteen pages, and his name is Anders Berg.\"",
+          "ko": "프리실라는 누가 뭔가에 이름을 거는 것을 보려고 12주를 기다렸다고 말하고 가장 먼저 서명했다. 엘리베이터 앞에서 재원의 발은 아직 아팠고, 그레이스의 메시지가 왔다. \"금요일 위원회에 새 안건이 생겼어요. 누가 제게 16쪽을 보냈는데, 이름이 앤더스 버그예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me put a number on that",
+        "We're prepared to",
+        "Can everyone live with that?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "follow around",
+          "surface": "follow Seoro around",
+          "meaningKo": "(평판 등이) 따라다니다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In the corridor, Baek told him that the contract said zero, that Kwon had said zero, and that a number spoken in that room would follow Seoro around for years.",
+            "ko": "복도에서 백준호는 계약서도 0이라고 하고, 권 파트너도 0이라고 했으며, 그 방에서 나온 숫자는 몇 년이고 서로 파트너스를 따라다닐 거라고 말했다."
+          }
+        },
+        {
+          "term": "credit",
+          "surface": "credit",
+          "meaningKo": "공제, 차감",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"We're prepared to take it off our fixed fee, and I'd like that written as a credit, with no admission.\"",
+            "ko": "\"저희 고정 수수료에서 뺄 용의가 있고, 책임 인정 없는 공제로 적어 주시면 좋겠습니다.\""
+          }
+        },
+        {
+          "term": "admission",
+          "surface": "admission",
+          "meaningKo": "(책임) 인정",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"We're prepared to take it off our fixed fee, and I'd like that written as a credit, with no admission.\"",
+            "ko": "\"저희 고정 수수료에서 뺄 용의가 있고, 책임 인정 없는 공제로 적어 주시면 좋겠습니다.\""
+          }
+        },
+        {
+          "term": "retest",
+          "surface": "retests",
+          "meaningKo": "다시 시험하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"In exchange for that, the lookup comes out, Corvane retests that box on a thousand documents at its own cost, and nobody here goes to court.\"",
+            "ko": "\"그 대신 대조 기능을 빼고, 코르베인이 자기 비용으로 그 칸을 1,000건에서 다시 시험하고, 여기 있는 누구도 소송을 하지 않습니다.\""
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margin",
+          "meaningKo": "여백",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan looked at his lawyer and nodded, and Arjun, who had wanted all of it, did the sum in the margin.",
+            "ko": "이선이 변호사를 보고 고개를 끄덕였고, 전액을 원했던 아르준은 여백에 계산했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 439,
+      "paragraphs": [
+        {
+          "en": "Jae-won extracted his foot and asked for ten minutes. In the corridor, Baek told him that the contract said zero, that Kwon had said zero in capital letters, and that any number spoken in that room would follow Seoro around for years, like a smell. \"Page thirty-one also says good faith, and I can't call zero good faith when I chose the test,\" Jae-won said. Baek said that this was a very expensive sentence, and that he hoped it had been worth composing.",
+          "ko": "재원은 발을 빼내고 10분을 요청했다. 복도에서 백준호는 계약서도 0이라고 하고, 권 파트너도 대문자로 0이라고 했으며, 그 방에서 나온 숫자는 냄새처럼 몇 년이고 서로 파트너스를 따라다닐 거라고 말했다. \"31쪽에는 신의성실도 적혀 있어요. 시험을 고른 사람이 0을 신의성실이라고 부를 수는 없습니다.\" 재원이 말했다. 백준호는 아주 비싼 문장이라며, 지어낸 보람이 있기를 바란다고 말했다."
+        },
+        {
+          "en": "Helen was on his phone from Seattle, and she had followed all of it through the screen in the room, with the sound turned up. \"You remember my question from the coffee shop: whose word did you trust when you signed, and what do you do when it's wrong?\" she asked. \"Mine, on two hundred documents, and I'm finding out the second part now,\" he said. She was quiet for long enough that he checked the signal. \"Then it comes off the fee, not out of a check, and I'll deal with Kwon, and you'll explain it at your review,\" she said.",
+          "ko": "시애틀의 헬렌이 전화에 있었고, 회의실 화면으로 소리를 키워 다 따라오고 있었다. \"커피숍에서 한 내 질문 기억하죠? 서명할 때 누구의 말을 믿었고, 그게 틀리면 어떻게 할 건가요?\" 그녀가 물었다. \"제 말이요. 서류 200건으로요. 뒷부분은 지금 알아 가는 중입니다.\" 그가 말했다. 그녀가 신호를 확인할 만큼 오래 말이 없었다. \"그럼 수표가 아니라 수수료에서 빼요. 권 파트너는 내가 상대할게요. 심사에서는 당신이 설명하고요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Back in the room, he didn't sit down, because he suspected that he wouldn't get up again. \"Let me put a number on that: a hundred and fifty thousand,\" he said. \"We're prepared to take it off our fixed fee, and I'd like that written as a credit, with no admission of liability.\" Baek closed his pen with a small, audible click. \"In exchange for that, the lookup comes out, Corvane retests that box on a thousand documents at its own expense, and nobody here goes to court.\"",
+          "ko": "회의실로 돌아온 그는 앉지 않았다. 앉으면 다시 일어나지 못할 것 같았기 때문이다. \"숫자로 말씀드리죠. 15만 달러입니다.\" 그가 말했다. \"저희 고정 수수료에서 뺄 용의가 있고, 책임 인정 없는 공제로 적어 주시면 좋겠습니다.\" 백준호가 작지만 들리는 소리를 내며 펜을 닫았다. \"그 대신 대조 기능을 빼고, 코르베인이 자기 비용으로 그 칸을 1,000건에서 다시 시험하고, 여기 있는 누구도 소송을 하지 않습니다.\""
+        },
+        {
+          "en": "He wrote the rest under the columns: Corvane three hundred thousand, comfortably inside its cap, and Straits Meridian a hundred and sixty for the check that hadn't happened. \"Can everyone live with that?\" he asked. The silence that followed had a different texture from the earlier ones. Ethan consulted his lawyer's eyebrows and nodded, and Arjun, who had wanted all of it from everyone, did the sum in the margin. \"Your fixed fee is now one million one hundred thousand, the number I first offered you,\" he said, and it was the closest he had ever come to a smile.",
+          "ko": "그는 나머지를 칸 아래에 적었다. 코르베인은 상한 안에 넉넉히 드는 30만 달러, 스트레이츠 메리디안은 이뤄지지 않은 확인 건으로 16만 달러였다. \"다들 그 정도면 받아들이시겠습니까?\" 그가 물었다. 이어진 침묵은 앞선 침묵들과 결이 달랐다. 이선이 변호사의 눈썹을 살피고 고개를 끄덕였고, 모두에게서 전액을 원했던 아르준은 여백에 계산했다. \"이제 고정 수수료가 110만 달러군요. 제가 처음 제시한 숫자입니다.\" 그가 말했고, 그로서는 미소에 가장 가까운 것이었다."
+        },
+        {
+          "en": "Priscilla said that she had waited twelve weeks to see someone put a name on something, and she signed first and capped her pen. At the lift, Jae-won's foot still hurt, and he had the unfamiliar feeling of having lost money correctly. Then a message came from Grace: \"Friday's committee has a new item. Someone has sent me sixteen pages, and his name is Anders Berg.\"",
+          "ko": "프리실라는 누가 뭔가에 이름을 거는 것을 보려고 12주를 기다렸다고 말하고 가장 먼저 서명한 뒤 펜 뚜껑을 닫았다. 엘리베이터 앞에서 재원의 발은 아직 아팠고, 제대로 돈을 잃었다는 낯선 기분이 들었다. 그때 그레이스의 메시지가 왔다. \"금요일 위원회에 새 안건이 생겼어요. 누가 제게 16쪽을 보냈는데, 이름이 앤더스 버그예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me put a number on that",
+        "We're prepared to",
+        "Can everyone live with that?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "extract",
+          "surface": "extracted",
+          "meaningKo": "빼내다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won extracted his foot and asked for ten minutes.",
+            "ko": "재원은 발을 빼내고 10분을 요청했다."
+          }
+        },
+        {
+          "term": "compose",
+          "surface": "composing",
+          "meaningKo": "(문장을) 짓다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Baek said that this was a very expensive sentence, and that he hoped it had been worth composing.",
+            "ko": "백준호는 아주 비싼 문장이라며, 지어낸 보람이 있기를 바란다고 말했다."
+          }
+        },
+        {
+          "term": "liability",
+          "surface": "liability",
+          "meaningKo": "법적 책임",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"We're prepared to take it off our fixed fee, and I'd like that written as a credit, with no admission of liability.\"",
+            "ko": "\"저희 고정 수수료에서 뺄 용의가 있고, 책임 인정 없는 공제로 적어 주시면 좋겠습니다.\""
+          }
+        },
+        {
+          "term": "audible",
+          "surface": "audible",
+          "meaningKo": "들리는",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Baek closed his pen with a small, audible click.",
+            "ko": "백준호가 작지만 들리는 소리를 내며 펜을 닫았다."
+          }
+        },
+        {
+          "term": "texture",
+          "surface": "texture",
+          "meaningKo": "결, 질감",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The silence that followed had a different texture from the earlier ones.",
+            "ko": "이어진 침묵은 앞선 침묵들과 결이 달랐다."
+          }
+        },
+        {
+          "term": "unfamiliar",
+          "surface": "unfamiliar",
+          "meaningKo": "낯선",
+          "paragraph": 4,
+          "sentence": {
+            "en": "At the lift, Jae-won's foot still hurt, and he had the unfamiliar feeling of having lost money correctly.",
+            "ko": "엘리베이터 앞에서 재원의 발은 아직 아팠고, 제대로 돈을 잃었다는 낯선 기분이 들었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How does Seoro pay its share?",
+      "options": [
+        "By a check to Tern Bay",
+        "As a credit off its fixed fee",
+        "From Corvane's holdback",
+        "From the hundred and fifty thousand performance payment"
+      ],
+      "answerIndex": 1,
+      "evidence": "off our fixed fee"
+    },
+    {
+      "question": "What does Arjun mean by \"the number I first offered you\"?",
+      "options": [
+        "He is admitting that he made a mistake",
+        "He is pointing out, with some satisfaction, that Seoro has ended up at his original price",
+        "He wants to raise the fee again",
+        "He is asking Jae-won to resign"
+      ],
+      "answerIndex": 1,
+      "evidence": "the number I first offered you"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let me put a number on that: a hundred and fifty thousand.",
+      "We're prepared to take it off our fixed fee.",
+      "Can everyone live with that?"
+    ],
+    "summaryPromptKo": "복도에서 백준호와 헬렌이 뭐라고 했는지, 재원이 어떤 숫자를 내놓았는지, 손실 61만 달러가 어떻게 나뉘었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Baek Joon-ho",
+      "en": "The contract says zero, and you just gave away a hundred and fifty thousand dollars. What do I tell the partners?",
+      "ko": "계약서는 0이라고 하는데 15만 달러를 내주셨네요. 파트너들에게 뭐라고 합니까?"
+    },
+    "modelAnswer": "Tell them that I chose the test, and that it was the wrong test. The clause protects us from a lawsuit, but page thirty-one also says good faith, and these people are still our client. We kept the money out of court, with no admission of liability, and it comes off the fee. Our name is on that page, and I'd rather pay for it now than explain zero for the next ten years."
+  },
+  "nextTeaserKo": "금요일, 12주 차 운영위원회. 라힘이 2단계를 들으러 왔는데, 먼저 앤더스 버그가 일어선다. 90만 달러, 공급사 교체, 포트 클랑 포함. 그의 4쪽에는 데이터가 깨끗하다는 가정이 있을까? 재원은 준비한 질문을 던진다. 앤더스는 웃는다.",
+  "roleplay": {
+    "title": "그 숫자를 말하기",
+    "situationKo": "복도에서 백준호와 헬렌의 말을 듣고 돌아왔습니다. 계약서상으로는 안 내도 되는 돈입니다. 숫자를 먼저 말하고, 조건을 붙이고, 다들 받아들이는지 물어 보세요.",
+    "lines": [
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "The contract says zero, and Kwon says zero.",
+        "ko": "계약서도 0이고, 권 파트너도 0이라고 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Page thirty-one also says good faith. I can't call zero good faith when I chose the test.",
+        "ko": "31쪽에는 신의성실도 적혀 있어요. 시험을 고른 사람이 0을 신의성실이라고 할 수는 없어요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Whose word did you trust when you signed?",
+        "ko": "서명할 때 누구의 말을 믿었죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Mine, on two hundred documents.",
+        "ko": "제 말이요. 서류 200건으로요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Then it comes off the fee, not out of a check. I'll deal with Kwon.",
+        "ko": "그럼 수표가 아니라 수수료에서 빼요. 권 파트너는 내가 상대할게요."
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "So, what's your best number?",
+        "ko": "그래서 최선의 숫자는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me put a number on that: a hundred and fifty thousand. We're prepared to take it off our fixed fee.",
+        "ko": "숫자로 말씀드리죠. 15만 달러입니다. 저희 고정 수수료에서 뺄 용의가 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "And in return?",
+        "ko": "그 대가는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "In exchange for that, the lookup comes out, you retest that box, and nobody here goes to court.",
+        "ko": "그 대신 대조 기능을 빼고, 그 칸을 다시 시험하고, 여기 있는 누구도 소송을 하지 않습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "And the rest?",
+        "ko": "나머지는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Corvane three hundred thousand, Straits Meridian a hundred and sixty. Can everyone live with that?",
+        "ko": "코르베인 30만 달러, 스트레이츠 메리디안 16만 달러입니다. 다들 받아들이시겠습니까?",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Your fixed fee is now one million one hundred thousand, the number I first offered you.",
+        "ko": "이제 고정 수수료가 110만 달러군요. 제가 처음 제시한 숫자입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I noticed that too.",
+        "ko": "저도 알아차렸습니다.",
+        "you": true
+      }
+    ]
+  }
+}

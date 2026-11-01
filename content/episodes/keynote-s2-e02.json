@@ -1,0 +1,452 @@
+{
+  "id": "keynote-s2-e02",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 2,
+  "title": "Three Conditions",
+  "recapKo": "금요일 아침, 헬렌은 전화로 남의 말을 믿고 서명해야 할 때 누구의 말을 믿겠느냐고 물었고, 재원은 아직 모르겠다고 답했다. 그레이스의 제안은 16주, 수기 재입력을 세 건 중 한 건에서 열 건 중 한 건으로 줄이는 일이었다. 누가 이끌지 묻자 헬렌은 나머지 절반은 맞은편에 앉아 있으니 그에게 물어보라고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Before I say yes, ~",
+      "meaningKo": "수락하기 전에, ~",
+      "usage": "Before I say yes, I'd like to know who's on the team."
+    },
+    {
+      "phrase": "I'm happy to take this on, provided that ~",
+      "meaningKo": "~라는 조건이라면 기꺼이 맡겠습니다",
+      "usage": "I'm happy to take this on, provided that I can choose my team."
+    },
+    {
+      "phrase": "Can we put that in writing?",
+      "meaningKo": "그 내용을 문서로 남길 수 있을까요?",
+      "usage": "That works for me. Can we put that in writing?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 197,
+      "paragraphs": [
+        {
+          "en": "\"Before I say yes, I need three things,\" he said. \"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final, and Helen stays the accountable partner.\" Helen said that Daniel's promotion to consultant had gone through on Wednesday, but he could still say no.",
+          "ko": "\"수락하기 전에 세 가지가 필요합니다.\" 그가 말했다. \"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남는다는 조건이라면 기꺼이 맡겠습니다.\" 헬렌은 대니얼의 컨설턴트 승진이 수요일에 확정됐지만 그가 거절할 수도 있다고 말했다."
+        },
+        {
+          "en": "\"Done,\" Grace said, and he asked, \"Can we put that in writing?\" Then a thin man with a folder walked in and said, \"Arjun Menon, and your page has no numbers on it.\" Yuna promised the proposal by Wednesday, but he wanted Jae-won in the room.",
+          "ko": "\"좋아요.\" 그레이스가 말하자 그가 물었다. \"그 내용을 문서로 남길 수 있을까요?\" 그때 폴더를 든 마른 남자가 들어와 말했다. \"아르준 메논입니다. 그쪽 문서에는 숫자가 하나도 없더군요.\" 유나는 수요일까지 제안서를 보내겠다고 약속했지만, 그는 재원도 그 자리에 있기를 원했다."
+        },
+        {
+          "en": "From the lobby, he called Daniel in Seoul and explained the job. \"What exactly would that involve, and is their data any good?\" Daniel asked. \"Probably not,\" Jae-won said. Daniel said, \"Then I'm in.\"",
+          "ko": "로비에서 그는 서울의 대니얼에게 전화해 일을 설명했다. \"구체적으로 어떤 일이 되는 건가요? 거기 데이터는 괜찮아요?\" 대니얼이 물었다. \"아마 아닐 겁니다.\" 재원이 말했다. 대니얼이 답했다. \"그럼 할게요.\""
+        },
+        {
+          "en": "A small woman in steel-toed boots stood by the elevators and said, \"I'm Wei Ling Tan, so how many of my people are on your one page?\" \"None,\" he said. \"That's what worries me,\" she said. Then his phone showed a whiteboard with seven document types and three hubs, and Grace's words: \"All of it, in sixteen weeks.\"",
+          "ko": "작은 체구의 여자가 안전화를 신고 엘리베이터 옆에 서서 말했다. \"웨이링 탄이에요. 그 한 장에 우리 직원은 몇 명이나 있죠?\" \"한 명도 없습니다.\" 그가 말했다. \"그게 걱정이에요.\" 그녀가 말했다. 그때 휴대폰에 서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진과 그레이스의 말이 떴다. \"전부 다, 16주 안에.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I say yes",
+        "I'm happy to take this on, provided that",
+        "Can we put that in writing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "full-time",
+          "surface": "full-time",
+          "meaningKo": "전담으로, 상근으로",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final, and Helen stays the accountable partner.\"",
+            "ko": "\"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남는다는 조건이라면 기꺼이 맡겠습니다.\""
+          }
+        },
+        {
+          "term": "accountable",
+          "surface": "accountable",
+          "meaningKo": "책임을 지는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final, and Helen stays the accountable partner.\"",
+            "ko": "\"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남는다는 조건이라면 기꺼이 맡겠습니다.\""
+          }
+        },
+        {
+          "term": "promotion",
+          "surface": "promotion",
+          "meaningKo": "승진",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Helen said that Daniel's promotion to consultant had gone through on Wednesday, but he could still say no.",
+            "ko": "헬렌은 대니얼의 컨설턴트 승진이 수요일에 확정됐지만 그가 거절할 수도 있다고 말했다."
+          }
+        },
+        {
+          "term": "proposal",
+          "surface": "proposal",
+          "meaningKo": "제안서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Yuna promised the proposal by Wednesday, but he wanted Jae-won in the room.",
+            "ko": "유나는 수요일까지 제안서를 보내겠다고 약속했지만, 그는 재원도 그 자리에 있기를 원했다."
+          }
+        },
+        {
+          "term": "steel-toed boots",
+          "surface": "steel-toed boots",
+          "meaningKo": "앞코에 철심이 든 안전화",
+          "paragraph": 3,
+          "sentence": {
+            "en": "A small woman in steel-toed boots stood by the elevators and said, \"I'm Wei Ling Tan, so how many of my people are on your one page?\"",
+            "ko": "작은 체구의 여자가 안전화를 신고 엘리베이터 옆에 서서 말했다. \"웨이링 탄이에요. 그 한 장에 우리 직원은 몇 명이나 있죠?\""
+          }
+        },
+        {
+          "term": "hub",
+          "surface": "hubs",
+          "meaningKo": "물류 거점",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Then his phone showed a whiteboard with seven document types and three hubs, and Grace's words: \"All of it, in sixteen weeks.\"",
+            "ko": "그때 휴대폰에 서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진과 그레이스의 말이 떴다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 355,
+      "paragraphs": [
+        {
+          "en": "\"Before I say yes, I need three things settled,\" he said. \"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final, and Helen stays the accountable partner, so there's one person I can call when I'm in trouble.\" \"Daniel starts his third year next month, and his promotion to consultant went through on Wednesday,\" Helen said. \"He doesn't know yet, and he's allowed to say no.\"",
+          "ko": "\"수락하기 전에 세 가지를 정해야 합니다.\" 그가 말했다. \"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남아 곤경에 처했을 때 전화할 사람이 한 명 있다는 조건이라면 기꺼이 맡겠습니다.\" \"대니얼은 다음 달에 3년 차가 되고, 컨설턴트 승진은 수요일에 확정됐어요.\" 헬렌이 말했다. \"본인은 아직 모르고, 거절해도 돼요.\""
+        },
+        {
+          "en": "\"Done,\" Grace said, already reaching for the next folder, and he asked, \"Can we put that in writing?\" For the first time that morning she looked amused and said, \"One page, and don't make me cross anything out.\"",
+          "ko": "\"좋아요.\" 그레이스가 벌써 다음 폴더로 손을 뻗으며 말하자 그가 물었다. \"그 내용을 문서로 남길 수 있을까요?\" 그날 아침 처음으로 그녀는 재미있다는 표정을 지으며 말했다. \"한 장으로요. 내가 줄 긋게 하지 말고요.\""
+        },
+        {
+          "en": "A thin man with a folder came in without knocking and said, \"Arjun Menon, and I've read your page, which doesn't have a single number on it.\" Yuna said the proposal would reach him by Wednesday. \"Fine, but I'll want him in the room, because I don't negotiate with sales, I negotiate with the person who found the duplicate,\" he said, nodding at Jae-won.",
+          "ko": "폴더를 든 마른 남자가 노크도 없이 들어와 말했다. \"아르준 메논입니다. 그쪽 문서를 읽었는데 숫자가 하나도 없더군요.\" 유나는 수요일까지 제안서를 보내겠다고 했다. \"좋습니다. 하지만 이분도 그 자리에 있어야 합니다. 저는 영업과 협상하지 않습니다. 중복을 찾아낸 사람과 협상합니다.\" 그가 재원 쪽으로 고개를 까딱하며 말했다."
+        },
+        {
+          "en": "From the lobby he called Daniel in Seoul and told him about the sixteen weeks and the new title. \"What exactly would that involve, and is their data any good?\" Daniel asked. \"Probably not,\" Jae-won said, and there was a short silence while Daniel recognized his own words before he said, \"Then I'm in.\"",
+          "ko": "로비에서 그는 서울의 대니얼에게 전화해 16주와 새 직함 이야기를 했다. \"구체적으로 어떤 일이 되는 건가요? 거기 데이터는 괜찮아요?\" 대니얼이 물었다. \"아마 아닐 겁니다.\" 재원이 말했다. 대니얼이 자기 말을 알아듣는 동안 잠깐 침묵이 흐른 뒤 그가 말했다. \"그럼 할게요.\""
+        },
+        {
+          "en": "When he turned around, a small woman in steel-toed boots was standing by the elevators with a hard hat under her arm. \"I'm Wei Ling Tan, and I hear you want to talk to me before the scope is final, so tell me how many of my people are on your one page,\" she said. \"None,\" he said. \"That's what worries me,\" she said, and the elevator doors closed on her.",
+          "ko": "돌아서니 작은 체구의 여자가 안전화를 신고 안전모를 옆구리에 낀 채 엘리베이터 옆에 서 있었다. \"웨이링 탄이에요. 범위가 확정되기 전에 저와 이야기하고 싶다고 들었으니, 그 한 장에 우리 직원이 몇 명이나 있는지 말해 보세요.\" 그녀가 말했다. \"한 명도 없습니다.\" 그가 말했다. \"그게 걱정이에요.\" 그녀가 말했고, 엘리베이터 문이 닫혔다."
+        },
+        {
+          "en": "His phone buzzed before he reached the street, and it was a photo of a whiteboard with seven document types and three hubs on it, with three lines from Grace underneath. \"All of it, in sixteen weeks, starting Tuesday at nine,\" she had written. \"Bring a marker.\"",
+          "ko": "길에 나서기도 전에 휴대폰이 울렸다. 서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진이었고, 그 아래 그레이스의 글이 있었다. \"전부 다, 16주 안에. 화요일 9시부터.\" 그녀가 적었다. \"마커 가져와요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I say yes",
+        "I'm happy to take this on, provided that",
+        "Can we put that in writing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "accountable",
+          "surface": "accountable",
+          "meaningKo": "책임을 지는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final, and Helen stays the accountable partner, so there's one person I can call when I'm in trouble.\"",
+            "ko": "\"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남아 곤경에 처했을 때 전화할 사람이 한 명 있다는 조건이라면 기꺼이 맡겠습니다.\""
+          }
+        },
+        {
+          "term": "promotion",
+          "surface": "promotion",
+          "meaningKo": "승진",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Daniel starts his third year next month, and his promotion to consultant went through on Wednesday,\" Helen said.",
+            "ko": "\"대니얼은 다음 달에 3년 차가 되고, 컨설턴트 승진은 수요일에 확정됐어요.\" 헬렌이 말했다."
+          }
+        },
+        {
+          "term": "knock",
+          "surface": "knocking",
+          "meaningKo": "노크하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A thin man with a folder came in without knocking and said, \"Arjun Menon, and I've read your page, which doesn't have a single number on it.\"",
+            "ko": "폴더를 든 마른 남자가 노크도 없이 들어와 말했다. \"아르준 메논입니다. 그쪽 문서를 읽었는데 숫자가 하나도 없더군요.\""
+          }
+        },
+        {
+          "term": "duplicate",
+          "surface": "duplicate",
+          "meaningKo": "중복 (항목)",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Fine, but I'll want him in the room, because I don't negotiate with sales, I negotiate with the person who found the duplicate,\" he said, nodding at Jae-won.",
+            "ko": "\"좋습니다. 하지만 이분도 그 자리에 있어야 합니다. 저는 영업과 협상하지 않습니다. 중복을 찾아낸 사람과 협상합니다.\" 그가 재원 쪽으로 고개를 까딱하며 말했다."
+          }
+        },
+        {
+          "term": "hard hat",
+          "surface": "hard hat",
+          "meaningKo": "안전모",
+          "paragraph": 4,
+          "sentence": {
+            "en": "When he turned around, a small woman in steel-toed boots was standing by the elevators with a hard hat under her arm.",
+            "ko": "돌아서니 작은 체구의 여자가 안전화를 신고 안전모를 옆구리에 낀 채 엘리베이터 옆에 서 있었다."
+          }
+        },
+        {
+          "term": "hub",
+          "surface": "hubs",
+          "meaningKo": "물류 거점",
+          "paragraph": 5,
+          "sentence": {
+            "en": "His phone buzzed before he reached the street, and it was a photo of a whiteboard with seven document types and three hubs on it, with three lines from Grace underneath.",
+            "ko": "길에 나서기도 전에 휴대폰이 울렸다. 서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진이었고, 그 아래 그레이스의 글이 있었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 473,
+      "paragraphs": [
+        {
+          "en": "\"Before I say yes, I need three things settled, and none of them is about money, so Yuna can breathe,\" he said. \"I'm happy to take this on, provided that Daniel Cho is on site full-time, I talk to Wei Ling Tan before the scope is final rather than after, and Helen stays the accountable partner, so that there's one person I can call when I'm in trouble.\" \"Daniel starts his third year next month, and his promotion to consultant went through on Wednesday, somewhat over Kwon's objections,\" Helen said. \"He doesn't know yet, and he's allowed to say no.\"",
+          "ko": "\"수락하기 전에 세 가지를 정해야 합니다. 셋 다 돈 문제는 아니니 유나 씨는 숨 쉬어도 됩니다.\" 그가 말했다. \"대니얼 조가 현장에 전담으로 상주하고, 범위가 확정된 뒤가 아니라 확정되기 전에 제가 웨이링 탄과 이야기하고, 헬렌이 책임 파트너로 남아 곤경에 처했을 때 전화할 사람이 한 명 있다는 조건이라면 기꺼이 맡겠습니다.\" \"대니얼은 다음 달에 3년 차가 되고, 컨설턴트 승진은 권 파트너의 반대를 좀 넘어서 수요일에 확정됐어요.\" 헬렌이 말했다. \"본인은 아직 모르고, 거절해도 돼요.\""
+        },
+        {
+          "en": "\"Done,\" Grace said, already reaching for the next folder. \"Can we put that in writing?\" Jae-won asked, and for the first time that morning she looked amused. \"One page, and don't make me cross anything out, because I've got a limited supply of pencils,\" she said.",
+          "ko": "\"좋아요.\" 그레이스가 벌써 다음 폴더로 손을 뻗으며 말했다. \"그 내용을 문서로 남길 수 있을까요?\" 재원이 물었고, 그날 아침 처음으로 그녀는 재미있다는 표정을 지었다. \"한 장으로요. 내가 줄 긋게 하지 말고요. 연필이 무한정 있는 건 아니니까.\" 그녀가 말했다."
+        },
+        {
+          "en": "A thin man with a folder came in without knocking, already halfway through a thought. \"Arjun Menon,\" he said, shaking nobody's hand, \"and I've read your page, which doesn't have a single number on it, so I assume it was her idea, since consultants don't usually show that much restraint.\" Yuna said, in her warmest voice, that the proposal would reach him by Wednesday. \"Fine, but I'll want him in the room, because I don't negotiate with sales, I negotiate with the person who found the duplicate,\" he said.",
+          "ko": "폴더를 든 마른 남자가 노크도 없이 들어왔다. 이미 무슨 생각을 하던 중인 듯했다. \"아르준 메논입니다.\" 그는 누구와도 악수하지 않고 말했다. \"그쪽 문서를 읽었는데 숫자가 하나도 없더군요. 저분 생각이었겠죠. 컨설턴트가 그만큼 자제할 리는 없으니까.\" 유나는 가장 따뜻한 목소리로 수요일까지 제안서를 보내겠다고 했다. \"좋습니다. 하지만 이분도 그 자리에 있어야 합니다. 저는 영업과 협상하지 않습니다. 중복을 찾아낸 사람과 협상합니다.\" 그가 말했다."
+        },
+        {
+          "en": "From the lobby he called Daniel in Seoul and told him about the sixteen weeks, the new title and the apartment he'd have to find, and for once Daniel took a moment before making a joke. \"What exactly would that involve, and is their data any good?\" he asked. \"Probably not,\" Jae-won said, and there was a short silence while Daniel recognized his own words from a meeting room on the ninth floor. \"Then I'm in, obviously, because somebody's going to have to tell you,\" he said.",
+          "ko": "로비에서 그는 서울의 대니얼에게 전화해 16주와 새 직함, 구해야 할 아파트 이야기를 했고, 대니얼은 웬일로 농담을 하기 전에 잠시 뜸을 들였다. \"구체적으로 어떤 일이 되는 건가요? 거기 데이터는 괜찮아요?\" 그가 물었다. \"아마 아닐 겁니다.\" 재원이 말했다. 대니얼이 9층 회의실에서 자기가 했던 말을 알아듣는 동안 잠깐 침묵이 흘렀다. \"그럼 당연히 할게요. 누군가는 말씀드려야 할 테니까요.\" 그가 말했다."
+        },
+        {
+          "en": "When he turned around, a small woman in steel-toed boots was standing by the elevators with a hard hat under her arm, and he understood that news traveled faster in this building than he'd assumed. \"Wei Ling Tan,\" she said. \"I hear you want to talk to me before the scope is final, so talk, and start by telling me how many of my people are on your one page.\" \"None,\" he said. \"That's what worries me,\" she said pleasantly, and the elevator doors closed on her.",
+          "ko": "돌아서니 작은 체구의 여자가 안전화를 신고 안전모를 옆구리에 낀 채 엘리베이터 옆에 서 있었고, 그는 이 건물에서 소식이 자기 생각보다 빨리 돈다는 것을 알았다. \"웨이링 탄이에요.\" 그녀가 말했다. \"범위가 확정되기 전에 저와 이야기하고 싶다고 들었어요. 그럼 하세요. 그 한 장에 우리 직원이 몇 명이나 있는지부터요.\" \"한 명도 없습니다.\" 그가 말했다. \"그게 걱정이에요.\" 그녀가 상냥하게 말했고, 엘리베이터 문이 닫혔다."
+        },
+        {
+          "en": "His phone buzzed before he reached the street, and he stood on the pavement in the heat to look at it. It was a photo of a whiteboard with seven document types and three hubs on it, every box ticked in pencil, with three lines from Grace underneath. \"All of it, in sixteen weeks, starting Tuesday at nine,\" she had written. \"Bring a marker.\"",
+          "ko": "길에 나서기도 전에 휴대폰이 울렸고, 그는 더운 인도에 서서 그것을 보았다. 서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진이었고, 칸마다 연필로 표시가 되어 있었으며, 그 아래 그레이스의 글이 있었다. \"전부 다, 16주 안에. 화요일 9시부터.\" 그녀가 적었다. \"마커 가져와요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Before I say yes",
+        "I'm happy to take this on, provided that",
+        "Can we put that in writing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "objection",
+          "surface": "objections",
+          "meaningKo": "반대",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Daniel starts his third year next month, and his promotion to consultant went through on Wednesday, somewhat over Kwon's objections,\" Helen said.",
+            "ko": "\"대니얼은 다음 달에 3년 차가 되고, 컨설턴트 승진은 권 파트너의 반대를 좀 넘어서 수요일에 확정됐어요.\" 헬렌이 말했다."
+          }
+        },
+        {
+          "term": "restraint",
+          "surface": "restraint",
+          "meaningKo": "자제",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Arjun Menon,\" he said, shaking nobody's hand, \"and I've read your page, which doesn't have a single number on it, so I assume it was her idea, since consultants don't usually show that much restraint.\"",
+            "ko": "\"아르준 메논입니다.\" 그는 누구와도 악수하지 않고 말했다. \"그쪽 문서를 읽었는데 숫자가 하나도 없더군요. 저분 생각이었겠죠. 컨설턴트가 그만큼 자제할 리는 없으니까.\""
+          }
+        },
+        {
+          "term": "hard hat",
+          "surface": "hard hat",
+          "meaningKo": "안전모",
+          "paragraph": 4,
+          "sentence": {
+            "en": "When he turned around, a small woman in steel-toed boots was standing by the elevators with a hard hat under her arm, and he understood that news traveled faster in this building than he'd assumed.",
+            "ko": "돌아서니 작은 체구의 여자가 안전화를 신고 안전모를 옆구리에 낀 채 엘리베이터 옆에 서 있었고, 그는 이 건물에서 소식이 자기 생각보다 빨리 돈다는 것을 알았다."
+          }
+        },
+        {
+          "term": "pavement",
+          "surface": "pavement",
+          "meaningKo": "인도, 보도",
+          "paragraph": 5,
+          "sentence": {
+            "en": "His phone buzzed before he reached the street, and he stood on the pavement in the heat to look at it.",
+            "ko": "길에 나서기도 전에 휴대폰이 울렸고, 그는 더운 인도에 서서 그것을 보았다."
+          }
+        },
+        {
+          "term": "tick",
+          "surface": "ticked",
+          "meaningKo": "체크 표시를 하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "It was a photo of a whiteboard with seven document types and three hubs on it, every box ticked in pencil, with three lines from Grace underneath.",
+            "ko": "서류 일곱 종류와 거점 세 곳이 적힌 화이트보드 사진이었고, 칸마다 연필로 표시가 되어 있었으며, 그 아래 그레이스의 글이 있었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which of these is one of Jae-won's three conditions?",
+      "options": [
+        "A higher fee for Seoro",
+        "Grace leaves the steering committee",
+        "Daniel Cho on site full-time",
+        "Kwon replaces Helen as partner"
+      ],
+      "answerIndex": 2,
+      "evidence": "I'm happy to take this on, provided that Daniel Cho is on site full-time"
+    },
+    {
+      "question": "What does Wei Ling mean when she says \"That's what worries me\"?",
+      "options": [
+        "A plan that doesn't mention her people may not have thought about them",
+        "She thinks the page is too short",
+        "She is angry that she wasn't invited",
+        "She wants her name added to the fee"
+      ],
+      "answerIndex": 0,
+      "evidence": "That's what worries me"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Before I say yes, I need three things settled.",
+      "I'm happy to take this on, provided that Daniel Cho is on site full-time.",
+      "Can we put that in writing?"
+    ],
+    "summaryPromptKo": "재원이 어떤 조건을 걸었는지, 아르준과 대니얼과 웨이링이 각각 어떻게 반응했는지, 마지막에 무엇이 그를 기다리는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "You've got your three conditions. Now tell me why you actually want this job, and don't give me the line I crossed out.",
+      "ko": "조건 세 가지는 받았어요. 이제 이 일을 왜 정말 원하는지 말해 보세요. 제가 줄 그은 그 문장은 빼고요."
+    },
+    "modelAnswer": "The honest answer is that I've spent years watching projects die after the demo, and I've never been the one who had to keep one alive. To be honest, I don't yet know how I'll sign things I can't check myself. But I'd rather find out here, with your real documents and a clear target. I'm happy to take this on, provided that we keep to those conditions."
+  },
+  "nextTeaserKo": "화요일 9시, 화이트보드 앞. 서류 일곱 종류, 거점 세 곳, 16주. 그레이스는 전부를 원하고, 재원은 마커를 들고 처음으로 고객에게 \"그건 못 합니다\"라고 말해야 한다.",
+  "roleplay": {
+    "title": "세 가지 조건",
+    "situationKo": "헬렌이 결정의 나머지 절반을 재원에게 넘겼습니다. 이번에는 내가 재원이 되어 맡을 조건을 직접 말해 봅니다. 방을 나서면 아르준과 웨이링도 차례로 만나요. 막히면 힌트를 봐도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Helen says the other half of this decision is you. So do you want it or not?",
+        "ko": "헬렌이 이 결정의 나머지 절반은 당신이라네요. 그래서 원하는 거예요, 아닌 거예요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Before I say yes, I need three things settled.",
+        "ko": "수락하기 전에 세 가지를 정해야 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Go ahead.",
+        "ko": "말해 보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'm happy to take this on, provided that Daniel Cho is on site full-time.",
+        "ko": "대니얼 조가 현장에 전담으로 상주한다는 조건이라면 기꺼이 맡겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Fine. What else?",
+        "ko": "좋아요. 또 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I talk to Wei Ling before the scope is final, and Helen stays the accountable partner.",
+        "ko": "범위가 확정되기 전에 웨이링과 이야기하고, 헬렌이 책임 파트너로 남습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Done.",
+        "ko": "좋아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Great. Can we put that in writing?",
+        "ko": "좋습니다. 그 내용을 문서로 남길 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "One page, and don't make me cross anything out.",
+        "ko": "한 장으로요. 내가 줄 긋게 하지 말고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. No excited opportunities this time.",
+        "ko": "알겠습니다. 이번엔 기대가 크다는 말은 빼고요.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Arjun Menon. I've read your page, and it doesn't have a single number on it.",
+        "ko": "아르준 메논입니다. 그쪽 문서를 읽었는데 숫자가 하나도 없더군요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You're right. The proposal will reach you by Wednesday.",
+        "ko": "맞습니다. 제안서는 수요일까지 보내 드리겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Fine, but I'll want you in the room.",
+        "ko": "좋습니다. 하지만 당신도 그 자리에 있어야 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll be there.",
+        "ko": "그 자리에 있겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "I'm Wei Ling Tan. How many of my people are on your one page?",
+        "ko": "웨이링 탄이에요. 그 한 장에 우리 직원은 몇 명이나 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "None.",
+        "ko": "한 명도 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "That's what worries me.",
+        "ko": "그게 걱정이에요."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "episodeId": "keynote-s2-e34",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "multiply": "word-multiply.mp3",
+    "overtime": "word-overtime.mp3",
+    "rework": "word-rework.mp3",
+    "fine": "word-fine.mp3",
+    "approve": "word-approve.mp3",
+    "behave": "word-behave.mp3",
+    "charge": "word-charge.mp3",
+    "rate": "word-rate.mp3",
+    "assistant": "word-assistant.mp3",
+    "tied to": "word-tied-to.mp3",
+    "refine": "word-refine.mp3",
+    "inquire": "word-inquire.mp3",
+    "the soft part": "word-the-soft-part.mp3",
+    "materialize": "word-materialize.mp3",
+    "estimate": "word-estimate.mp3",
+    "specify": "word-specify.mp3",
+    "adjective": "word-adjective.mp3"
+  },
+  "termClips": {
+    "multiply": "term-multiply.mp3",
+    "overtime": "term-overtime.mp3",
+    "rework": "term-rework.mp3",
+    "fine": "term-fine.mp3",
+    "approve": "term-approve.mp3",
+    "behave": "term-behave.mp3",
+    "charge": "term-charge.mp3",
+    "rate": "term-rate.mp3",
+    "assistant": "term-assistant.mp3",
+    "tied to": "term-tied-to.mp3",
+    "refine": "term-refine.mp3",
+    "inquire": "term-inquire.mp3",
+    "the soft part": "term-the-soft-part.mp3",
+    "materialize": "term-materialize.mp3",
+    "estimate": "term-estimate.mp3",
+    "specify": "term-specify.mp3",
+    "adjective": "term-adjective.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

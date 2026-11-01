@@ -1,0 +1,71 @@
+{
+  "episodeId": "keynote-s1-e10",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "pause": "word-pause.mp3",
+    "perfect": "word-perfect.mp3",
+    "repeat": "word-repeat.mp3",
+    "ashamed": "word-ashamed.mp3",
+    "hold one's breath": "word-hold-one-s-breath.mp3",
+    "stretch out": "word-stretch-out.mp3",
+    "obituary": "word-obituary.mp3",
+    "catch up": "word-catch-up.mp3",
+    "buy a beat": "word-buy-a-beat.mp3",
+    "flat": "word-flat.mp3",
+    "subject line": "word-subject-line.mp3",
+    "tact": "word-tact.mp3",
+    "lurch": "word-lurch.mp3",
+    "short of": "word-short-of.mp3",
+    "defuse": "word-defuse.mp3",
+    "by some distance": "word-by-some-distance.mp3"
+  },
+  "termClips": {
+    "pause": "term-pause.mp3",
+    "perfect": "term-perfect.mp3",
+    "repeat": "term-repeat.mp3",
+    "ashamed": "term-ashamed.mp3",
+    "hold one's breath": "term-hold-one-s-breath.mp3",
+    "stretch out": "term-stretch-out.mp3",
+    "obituary": "term-obituary.mp3",
+    "catch up": "term-catch-up.mp3",
+    "buy a beat": "term-buy-a-beat.mp3",
+    "flat": "term-flat.mp3",
+    "subject line": "term-subject-line.mp3",
+    "tact": "term-tact.mp3",
+    "lurch": "term-lurch.mp3",
+    "short of": "term-short-of.mp3",
+    "defuse": "term-defuse.mp3",
+    "by some distance": "term-by-some-distance.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3",
+    "roleplay-16.mp3",
+    "roleplay-17.mp3"
+  ]
+}

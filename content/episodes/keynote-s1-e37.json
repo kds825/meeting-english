@@ -1,0 +1,436 @@
+{
+  "id": "keynote-s1-e37",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 37,
+  "title": "The Panel",
+  "recapKo": "재원은 식탁 장면으로 키노트를 열고 15초 정정을 해냈으며, 13분쯤 화면이 꺼졌을 때도 돌아보지 않았다. 19초를 남기고 끝낸 뒤 \"왜 대타의 말을 들어야 하죠?\"라는 앱 질문에 3초 만에 답했다. 그레이스 림은 커피 시간 전에 사라졌고, 슬라이드를 받은 이선은 문자를 보냈다. \"3시에 그걸로 당신을 공격할 겁니다.\"",
+  "keyExpressions": [
+    {
+      "phrase": "Can I jump in here?",
+      "meaningKo": "여기서 한마디 끼어들어도 될까요?",
+      "usage": "Can I jump in here? We tried that last year."
+    },
+    {
+      "phrase": "With respect, ~",
+      "meaningKo": "외람되지만, ~ / 말씀은 알겠지만, ~",
+      "usage": "With respect, I don't think the numbers support that."
+    },
+    {
+      "phrase": "Let me build on that.",
+      "meaningKo": "거기에 덧붙여 말씀드리면요.",
+      "usage": "Let me build on that. The same thing happened in our Busan office."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 195,
+      "paragraphs": [
+        {
+          "en": "At three o'clock, four chairs stood on the stage, and Marcus sat on a stool beside them. Ethan went first and took only sixty seconds. \"Sign-off is a legacy control, and in three years it's gone,\" he said.",
+          "ko": "3시, 무대에는 의자 네 개가 놓였고 마커스는 그 옆 등받이 없는 의자에 앉았다. 이선이 먼저 시작했고 60초만 썼다. \"승인은 낡은 통제 장치이고, 3년 뒤면 사라집니다.\" 그가 말했다."
+        },
+        {
+          "en": "For six minutes, Ethan and Tomas talked about cost, and Jae-won couldn't get in. He waited for a pause, but no pause came. \"Can I jump in here?\" he said, and then he said it again, louder. Marcus held up one hand to Ethan.",
+          "ko": "6분 동안 이선과 토마스가 비용 얘기를 했고, 재원은 끼어들지 못했다. 말이 끊기기를 기다렸지만 끊기지 않았다. \"여기서 한마디 끼어들어도 될까요?\" 그는 그렇게 말하고, 더 크게 다시 말했다. 마커스가 이선에게 한 손을 들어 보였다."
+        },
+        {
+          "en": "\"With respect, Tomas, you're counting the staff you save, but not the six weeks of rebuilding,\" Jae-won said. Sari spoke next and said, \"My bank runs in nine countries, and four regulators want a named officer.\"",
+          "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 다시 구축하는 6주는 세지 않으시네요.\" 재원이 말했다. 이어서 사리가 말했다. \"우리 은행은 아홉 나라에서 운영하는데, 규제 기관 네 곳이 이름 있는 책임자를 요구해요.\""
+        },
+        {
+          "en": "\"Let me build on that,\" he said. \"A named officer is exactly what month-end needs.\" \"Before we move on, I owe Ethan an answer: we checked the successes, and one was counted twice.\"",
+          "ko": "\"거기에 덧붙여 말씀드리면요.\" 그가 말했다. \"이름 있는 책임자야말로 월말 결산에 필요한 겁니다.\" \"다음으로 넘어가기 전에, 이선에게 드릴 답이 있습니다. 성공 사례를 확인했더니 하나가 두 번 세어져 있었습니다.\""
+        },
+        {
+          "en": "Ethan smiled and said, \"I read it, and it's my favorite slide.\" \"He put his initials on a number without opening a single row.\" \"A registry check would catch that in one second, so why do we need his signature?\" The hall went quiet.",
+          "ko": "이선이 웃으며 말했다. \"읽었어요. 제가 제일 좋아하는 슬라이드죠.\" \"이분은 행 하나 열어 보지 않고 숫자에 이니셜을 적었습니다.\" \"등록부 대조면 1초 만에 잡을 일인데, 왜 이분의 서명이 필요하죠?\" 홀이 조용해졌다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can I jump in here",
+        "With respect",
+        "Let me build on that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "legacy control",
+          "surface": "legacy control",
+          "meaningKo": "낡은 통제 장치",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Sign-off is a legacy control, and in three years it's gone,\" he said.",
+            "ko": "\"승인은 낡은 통제 장치이고, 3년 뒤면 사라집니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "staff",
+          "surface": "staff",
+          "meaningKo": "직원, 인력",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"With respect, Tomas, you're counting the staff you save, but not the six weeks of rebuilding,\" Jae-won said.",
+            "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 다시 구축하는 6주는 세지 않으시네요.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "regulator",
+          "surface": "regulators",
+          "meaningKo": "규제 기관",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Sari spoke next and said, \"My bank runs in nine countries, and four regulators want a named officer.\"",
+            "ko": "이어서 사리가 말했다. \"우리 은행은 아홉 나라에서 운영하는데, 규제 기관 네 곳이 이름 있는 책임자를 요구해요.\""
+          }
+        },
+        {
+          "term": "named officer",
+          "surface": "named officer",
+          "meaningKo": "이름이 명시된 책임자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Sari spoke next and said, \"My bank runs in nine countries, and four regulators want a named officer.\"",
+            "ko": "이어서 사리가 말했다. \"우리 은행은 아홉 나라에서 운영하는데, 규제 기관 네 곳이 이름 있는 책임자를 요구해요.\""
+          }
+        },
+        {
+          "term": "favorite",
+          "surface": "favorite",
+          "meaningKo": "가장 좋아하는",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Ethan smiled and said, \"I read it, and it's my favorite slide.\"",
+            "ko": "이선이 웃으며 말했다. \"읽었어요. 제가 제일 좋아하는 슬라이드죠.\""
+          }
+        },
+        {
+          "term": "catch",
+          "surface": "catch",
+          "meaningKo": "(오류를) 잡아내다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"A registry check would catch that in one second, so why do we need his signature?\"",
+            "ko": "\"등록부 대조면 1초 만에 잡을 일인데, 왜 이분의 서명이 필요하죠?\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 327,
+      "paragraphs": [
+        {
+          "en": "At three o'clock, four chairs stood on the main stage, with Marcus on a stool beside them and his tablet on his knee. Ethan went first and used sixty of his ninety seconds, and then Sari, Tomas and Jae-won took their turns without anyone interrupting, which Marcus seemed to find suspicious. \"Sign-off is a legacy control, and in three years it's gone, so I'd stop building around it,\" he said.",
+          "ko": "3시, 메인 무대에는 의자 네 개가 놓였고 마커스는 그 옆 등받이 없는 의자에 앉아 태블릿을 무릎에 올려놓았다. 이선이 먼저 시작해 90초 중 60초를 썼고, 이어서 사리, 토마스, 재원이 아무도 끼어들지 않은 채 차례를 마쳤다. 마커스는 그게 수상한 모양이었다. \"승인은 낡은 통제 장치이고 3년 뒤면 사라집니다. 그러니 그걸 중심으로 만드는 건 그만두겠습니다.\" 그가 말했다."
+        },
+        {
+          "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth, and Jae-won couldn't find a way in. He kept waiting for someone to breathe, until he remembered Priya's advice that nobody on a panel ever would. \"Can I jump in here?\" he said, and when Ethan kept going, he said it again, louder. Marcus raised one finger, and Ethan stopped.",
+          "ko": "이후 6분 동안 이선과 토마스 린드가 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다. 그는 누군가 숨을 돌리기를 계속 기다리다가, 패널에서는 아무도 그러지 않는다는 프리야의 조언을 떠올렸다. \"여기서 한마디 끼어들어도 될까요?\" 그가 말했고, 이선이 계속 말하자 더 크게 다시 말했다. 마커스가 손가락 하나를 들자 이선이 멈췄다."
+        },
+        {
+          "en": "\"With respect, Tomas, you're counting the staff you save and leaving out the six weeks it takes to rebuild the audit trail after the first close fails,\" Jae-won said. Sari Wibowo, who had said little so far, leaned in. \"My bank runs in nine countries, and four of those regulators won't accept anything without a named officer,\" she said.",
+          "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 첫 결산이 실패한 뒤 감사 추적을 다시 만드는 6주는 빼고 계시네요.\" 재원이 말했다. 그때까지 말이 적던 사리 위보워가 몸을 앞으로 기울였다. \"우리 은행은 아홉 나라에서 운영하는데, 그중 네 곳의 규제 기관은 이름 있는 책임자 없이는 아무것도 받아 주지 않아요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"Let me build on that,\" Jae-won said. \"A named officer is exactly what month-end needs, whether a regulator asks for one or not.\" \"Before we move on, I owe Ethan an answer from last week, because he asked and I said Thursday: we checked the successes, and one of them had been counted twice.\"",
+          "ko": "\"거기에 덧붙여 말씀드리면요.\" 재원이 말했다. \"규제 기관이 요구하든 안 하든, 이름 있는 책임자야말로 월말 결산에 필요한 겁니다.\" \"다음으로 넘어가기 전에, 지난주에 이선에게 약속한 답이 있습니다. 그가 물었고 제가 목요일이라고 했으니까요. 성공 사례를 확인했더니 그중 하나가 두 번 세어져 있었습니다.\""
+        },
+        {
+          "en": "Ethan smiled as if he had been handed a present. \"I read it, and slide three is my favorite,\" he said. \"Here's a man telling eight hundred people this morning that he put his initials on a number without opening a single row.\" \"A registry check would catch that in about a second, so what exactly did his signature protect?\" The hall went quiet, because it was a very good question and people wanted to hear it answered.",
+          "ko": "이선은 선물이라도 받은 듯 웃었다. \"읽었어요. 3번 슬라이드가 제일 좋더군요.\" 그가 말했다. \"이분은 오늘 아침 800명 앞에서, 행 하나 열어 보지 않고 숫자에 이니셜을 적었다고 말했습니다.\" \"등록부 대조면 1초쯤에 잡을 일인데, 그럼 이분의 서명이 대체 뭘 지켰다는 거죠?\" 홀이 조용해졌다. 아주 좋은 질문이었고 사람들이 답을 듣고 싶어 했기 때문이다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can I jump in here",
+        "With respect",
+        "Let me build on that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "bat back and forth",
+          "surface": "batted",
+          "meaningKo": "(의견을) 주고받다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth, and Jae-won couldn't find a way in.",
+            "ko": "이후 6분 동안 이선과 토마스 린드가 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다."
+          }
+        },
+        {
+          "term": "headcount",
+          "surface": "headcount",
+          "meaningKo": "인원수",
+          "paragraph": 1,
+          "sentence": {
+            "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth, and Jae-won couldn't find a way in.",
+            "ko": "이후 6분 동안 이선과 토마스 린드가 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다."
+          }
+        },
+        {
+          "term": "leave out",
+          "surface": "leaving out",
+          "meaningKo": "빼다, 누락하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"With respect, Tomas, you're counting the staff you save and leaving out the six weeks it takes to rebuild the audit trail after the first close fails,\" Jae-won said.",
+            "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 첫 결산이 실패한 뒤 감사 추적을 다시 만드는 6주는 빼고 계시네요.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "lean in",
+          "surface": "leaned in",
+          "meaningKo": "몸을 앞으로 기울이다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Sari Wibowo, who had said little so far, leaned in.",
+            "ko": "그때까지 말이 적던 사리 위보워가 몸을 앞으로 기울였다."
+          }
+        },
+        {
+          "term": "regulator",
+          "surface": "regulators",
+          "meaningKo": "규제 기관",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"My bank runs in nine countries, and four of those regulators won't accept anything without a named officer,\" she said.",
+            "ko": "\"우리 은행은 아홉 나라에서 운영하는데, 그중 네 곳의 규제 기관은 이름 있는 책임자 없이는 아무것도 받아 주지 않아요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "named officer",
+          "surface": "named officer",
+          "meaningKo": "이름이 명시된 책임자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"My bank runs in nine countries, and four of those regulators won't accept anything without a named officer,\" she said.",
+            "ko": "\"우리 은행은 아홉 나라에서 운영하는데, 그중 네 곳의 규제 기관은 이름 있는 책임자 없이는 아무것도 받아 주지 않아요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "catch",
+          "surface": "catch",
+          "meaningKo": "(오류를) 잡아내다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"A registry check would catch that in about a second, so what exactly did his signature protect?\"",
+            "ko": "\"등록부 대조면 1초쯤에 잡을 일인데, 그럼 이분의 서명이 대체 뭘 지켰다는 거죠?\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 442,
+      "paragraphs": [
+        {
+          "en": "At three o'clock, four chairs stood on the main stage, angled just enough to suggest a conversation, with Marcus on a stool beside them and his tablet on his knee like a referee's whistle. Ethan went first and used sixty of his ninety seconds, which he seemed to regard as a tip. \"Sign-off is a legacy control, and in three years it's gone, so with all the love in the world for controllers, I'd stop building around it,\" he said.",
+          "ko": "3시, 메인 무대에는 대화하는 듯 보일 만큼만 비스듬히 의자 네 개가 놓였고, 마커스는 그 옆 등받이 없는 의자에 앉아 심판의 호루라기처럼 태블릿을 무릎에 올려놓았다. 이선이 먼저 시작해 90초 중 60초를 썼는데, 그걸 팁쯤으로 여기는 듯했다. \"승인은 낡은 통제 장치이고 3년 뒤면 사라집니다. 재무 관리자들을 세상 무엇보다 사랑하지만, 그걸 중심으로 만드는 건 그만두겠습니다.\" 그가 말했다."
+        },
+        {
+          "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth like two men who'd played this court before, and Jae-won couldn't find a way in. He kept waiting for someone to breathe, until he remembered Priya's advice that nobody on a panel ever does, and that the only way in is over the top of a comma. \"Can I jump in here?\" he said, and when Ethan kept going, he said it again, louder, and heard it come back off the far wall. Marcus raised one finger without looking up, and Ethan stopped in the middle of a word.",
+          "ko": "이후 6분 동안 이선과 토마스 린드는 이 코트에서 뛰어 본 사람들처럼 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다. 그는 누군가 숨을 돌리기를 계속 기다리다가, 패널에서는 아무도 그러지 않으며 유일한 길은 쉼표 위로 넘어가는 것이라던 프리야의 조언을 떠올렸다. \"여기서 한마디 끼어들어도 될까요?\" 그가 말했고, 이선이 계속 말하자 더 크게 다시 말했다. 그 소리가 먼 벽에서 되돌아왔다. 마커스가 고개도 들지 않고 손가락 하나를 들자, 이선은 단어 중간에 멈췄다."
+        },
+        {
+          "en": "\"With respect, Tomas, you're counting the staff you save and leaving out the six weeks it takes to rebuild the audit trail after the first close falls over, which never seems to make it into the investor deck,\" Jae-won said. Tomas spread his hands in mock surrender, and Sari Wibowo, who had been quietly waiting for the men to tire themselves out, leaned in. \"My bank runs in nine countries, and four of those regulators won't accept anything without a named officer, so this isn't a philosophical debate for me,\" she said.",
+          "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 첫 결산이 무너진 뒤 감사 추적을 다시 만드는 6주는 빼고 계시네요. 그건 투자자 자료에 절대 안 들어가더군요.\" 재원이 말했다. 토마스가 항복하는 시늉으로 두 손을 펼치자, 남자들이 지치기를 조용히 기다리던 사리 위보워가 몸을 앞으로 기울였다. \"우리 은행은 아홉 나라에서 운영하는데, 그중 네 곳의 규제 기관은 이름 있는 책임자 없이는 아무것도 받아 주지 않아요. 그러니 제게 이건 철학 논쟁이 아니에요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"Let me build on that,\" Jae-won said. \"A named officer is exactly what month-end needs, whether a regulator asks for one or not, because somebody has to be findable when the number turns out to be wrong.\" \"Before we move on, I owe Ethan an answer from last week, because he asked and I said Thursday: we checked the successes, and one of them had been counted twice.\"",
+          "ko": "\"거기에 덧붙여 말씀드리면요.\" 재원이 말했다. \"규제 기관이 요구하든 안 하든, 이름 있는 책임자야말로 월말 결산에 필요한 겁니다. 숫자가 틀렸을 때 찾아낼 수 있는 사람이 있어야 하니까요.\" \"다음으로 넘어가기 전에, 지난주에 이선에게 약속한 답이 있습니다. 그가 물었고 제가 목요일이라고 했으니까요. 성공 사례를 확인했더니 그중 하나가 두 번 세어져 있었습니다.\""
+        },
+        {
+          "en": "Ethan smiled like a man who'd been handed exactly the present he had asked for. \"I read it, and slide three is my favorite,\" he said. \"Here's a man telling eight hundred people, very movingly, that he put his initials on a number without opening a single row.\" \"A registry check would catch that in about a second, and it would have caught it three years ago, so what exactly did his signature protect?\" The hall went quiet, not out of sympathy, but because it was a very good question and people wanted to hear it answered.",
+          "ko": "이선은 바라던 선물을 정확히 받은 사람처럼 웃었다. \"읽었어요. 3번 슬라이드가 제일 좋더군요.\" 그가 말했다. \"이분은 800명 앞에서 아주 감동적으로, 행 하나 열어 보지 않고 숫자에 이니셜을 적었다고 말했습니다.\" \"등록부 대조면 1초쯤에 잡을 일이고, 3년 전에도 잡았을 겁니다. 그럼 이분의 서명이 대체 뭘 지켰다는 거죠?\" 홀이 조용해졌다. 동정해서가 아니라, 아주 좋은 질문이었고 사람들이 답을 듣고 싶어 했기 때문이다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can I jump in here",
+        "With respect",
+        "Let me build on that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "referee",
+          "surface": "referee",
+          "meaningKo": "심판",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At three o'clock, four chairs stood on the main stage, angled just enough to suggest a conversation, with Marcus on a stool beside them and his tablet on his knee like a referee's whistle.",
+            "ko": "3시, 메인 무대에는 대화하는 듯 보일 만큼만 비스듬히 의자 네 개가 놓였고, 마커스는 그 옆 등받이 없는 의자에 앉아 심판의 호루라기처럼 태블릿을 무릎에 올려놓았다."
+          }
+        },
+        {
+          "term": "bat back and forth",
+          "surface": "batted",
+          "meaningKo": "(의견을) 주고받다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth like two men who'd played this court before, and Jae-won couldn't find a way in.",
+            "ko": "이후 6분 동안 이선과 토마스 린드는 이 코트에서 뛰어 본 사람들처럼 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다."
+          }
+        },
+        {
+          "term": "headcount",
+          "surface": "headcount",
+          "meaningKo": "인원수",
+          "paragraph": 1,
+          "sentence": {
+            "en": "For the next six minutes, Ethan and Tomas Lind batted cost and headcount back and forth like two men who'd played this court before, and Jae-won couldn't find a way in.",
+            "ko": "이후 6분 동안 이선과 토마스 린드는 이 코트에서 뛰어 본 사람들처럼 비용과 인원을 두고 공방을 벌였고, 재원은 끼어들 틈을 찾지 못했다."
+          }
+        },
+        {
+          "term": "fall over",
+          "surface": "falls over",
+          "meaningKo": "무너지다, 먹통이 되다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"With respect, Tomas, you're counting the staff you save and leaving out the six weeks it takes to rebuild the audit trail after the first close falls over, which never seems to make it into the investor deck,\" Jae-won said.",
+            "ko": "\"말씀은 알겠지만 토마스, 줄이는 인력만 세고 첫 결산이 무너진 뒤 감사 추적을 다시 만드는 6주는 빼고 계시네요. 그건 투자자 자료에 절대 안 들어가더군요.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "mock surrender",
+          "surface": "mock surrender",
+          "meaningKo": "항복하는 시늉",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Tomas spread his hands in mock surrender, and Sari Wibowo, who had been quietly waiting for the men to tire themselves out, leaned in.",
+            "ko": "토마스가 항복하는 시늉으로 두 손을 펼치자, 남자들이 지치기를 조용히 기다리던 사리 위보워가 몸을 앞으로 기울였다."
+          }
+        },
+        {
+          "term": "philosophical",
+          "surface": "philosophical",
+          "meaningKo": "철학적인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"My bank runs in nine countries, and four of those regulators won't accept anything without a named officer, so this isn't a philosophical debate for me,\" she said.",
+            "ko": "\"우리 은행은 아홉 나라에서 운영하는데, 그중 네 곳의 규제 기관은 이름 있는 책임자 없이는 아무것도 받아 주지 않아요. 그러니 제게 이건 철학 논쟁이 아니에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "findable",
+          "surface": "findable",
+          "meaningKo": "찾아낼 수 있는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Let me build on that,\" Jae-won said. \"A named officer is exactly what month-end needs, whether a regulator asks for one or not, because somebody has to be findable when the number turns out to be wrong.\"",
+            "ko": "\"거기에 덧붙여 말씀드리면요.\" 재원이 말했다. \"규제 기관이 요구하든 안 하든, 이름 있는 책임자야말로 월말 결산에 필요한 겁니다. 숫자가 틀렸을 때 찾아낼 수 있는 사람이 있어야 하니까요.\""
+          }
+        },
+        {
+          "term": "movingly",
+          "surface": "movingly",
+          "meaningKo": "감동적으로",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Here's a man telling eight hundred people, very movingly, that he put his initials on a number without opening a single row.\"",
+            "ko": "\"이분은 800명 앞에서 아주 감동적으로, 행 하나 열어 보지 않고 숫자에 이니셜을 적었다고 말했습니다.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "In how many countries does Sari's bank run?",
+      "options": [
+        "Four",
+        "Nine",
+        "Six",
+        "Forty-one"
+      ],
+      "answerIndex": 1,
+      "evidence": "My bank runs in nine countries"
+    },
+    {
+      "question": "Why does Ethan call slide three his favorite?",
+      "options": [
+        "He thinks that the design of the slide is excellent.",
+        "He wants to thank Jae-won for helping Corvane.",
+        "He has not read the rest of the deck.",
+        "Jae-won's honest admission gives him something to attack."
+      ],
+      "answerIndex": 3,
+      "evidence": "I read it, and slide three is my favorite"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Can I jump in here?",
+      "With respect, Tomas, you're counting the staff you save.",
+      "Let me build on that."
+    ],
+    "summaryPromptKo": "재원이 패널에서 어떻게 끼어들었는지, 사리가 무엇을 보탰는지, 이선이 3번 슬라이드로 어떤 질문을 던졌는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Tomas Lind",
+      "en": "The savings are in headcount, and that's what investors fund. Why should anyone pay for more people at month-end?",
+      "ko": "절감은 인원에서 나오고, 투자자가 돈을 대는 것도 그거죠. 왜 월말 결산에 사람을 더 써야 합니까?"
+    },
+    "modelAnswer": "Can I jump in here? With respect, Tomas, you're counting the staff you save and leaving out the six weeks it takes to rebuild the audit trail after the first close fails. Sari's regulators won't accept anything without a named officer. Let me build on that. A named officer is exactly what month-end needs, whether a regulator asks for one or not."
+  },
+  "nextTeaserKo": "800명이 답을 기다린다. 재원에게 있는 것은 3초. 행 하나 열어 보지 않고 적은 그 이니셜은 대체 무엇을 지켰을까.",
+  "roleplay": {
+    "title": "끼어들 틈을 찾아서",
+    "situationKo": "패널 토론 초반, 이선과 토마스가 말을 주고받느라 틈이 없습니다. 내가 재원이 되어 끼어들고, 사리의 말에 덧붙여 봅니다. 두 번 말해야 들려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Tomas Lind",
+        "voice": "male",
+        "en": "The savings are in headcount. That's what investors fund. Ethan, you'd say the same?",
+        "ko": "절감은 인원에서 나옵니다. 투자자가 돈을 대는 것도 그거죠. 이선, 같은 생각이죠?"
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Exactly, and in three years sign-off is just a line item that's gone.",
+        "ko": "맞아요. 3년 뒤면 승인은 그냥 사라진 항목일 뿐이죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Can I jump in here?",
+        "ko": "여기서 한마디 끼어들어도 될까요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "And another thing about reconciling is that it's the first thing machines...",
+        "ko": "그리고 대사에 관해 또 하나 말하자면, 기계가 가장 먼저…"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Sorry, can I jump in here? With respect, Tomas, you're leaving out six weeks of rebuilding.",
+        "ko": "죄송합니다, 여기서 끼어들어도 될까요? 말씀은 알겠지만 토마스, 다시 구축하는 6주를 빼고 계시네요.",
+        "you": true
+      },
+      {
+        "speaker": "Sari Wibowo",
+        "voice": "female",
+        "en": "And in four of my nine countries, the regulator wants a named officer.",
+        "ko": "그리고 우리 아홉 나라 중 네 곳에서는 규제 기관이 이름 있는 책임자를 요구해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me build on that. A named officer is exactly what month-end needs.",
+        "ko": "거기에 덧붙여 말씀드리면요. 이름 있는 책임자야말로 월말 결산에 필요한 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Before we move on, I owe Ethan an answer. We checked the successes, and one was counted twice.",
+        "ko": "다음으로 넘어가기 전에, 이선에게 드릴 답이 있습니다. 성공 사례를 확인했더니 하나가 두 번 세어져 있었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "I read it, and slide three is my favorite. A registry check would catch that in about a second.",
+        "ko": "읽었어요. 3번 슬라이드가 제일 좋더군요. 등록부 대조면 1초쯤에 잡을 일이죠."
+      }
+    ]
+  }
+}

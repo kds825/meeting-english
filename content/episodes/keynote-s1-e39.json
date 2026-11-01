@@ -1,0 +1,502 @@
+{
+  "id": "keynote-s1-e39",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 39,
+  "title": "What Comes Next",
+  "recapKo": "패널에서 재원은 끼어드는 데 성공했고, 이선이 \"그 서명이 뭘 지켰느냐\"고 치고 들어오자 3초를 쓴 뒤 \"당신의 모델이 틀리면 누가 전화하느냐\"고 되물었다. 두 사람은 대사는 기계가, 결과는 이름 있는 사람이 맡는다는 데 합의했다. 패널의 가장 긴 침묵 4초는 재원의 것이 아니었다. 무대 문에서 그레이스의 연필 메모가 도착했다. \"내일 7시 30분 조찬.\"",
+  "keyExpressions": [
+    {
+      "phrase": "What are the next steps?",
+      "meaningKo": "다음 단계는 무엇인가요?",
+      "usage": "That sounds good. What are the next steps?"
+    },
+    {
+      "phrase": "Let's set up a call ~",
+      "meaningKo": "~ 통화 일정을 잡읍시다",
+      "usage": "Let's set up a call with your finance team next week."
+    },
+    {
+      "phrase": "I'll send you ~ by ~",
+      "meaningKo": "~까지 ~를 보내 드리겠습니다",
+      "usage": "I'll send you the summary by Monday noon."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 226,
+      "paragraphs": [
+        {
+          "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port. A stack of customs forms sat next to her coffee. \"This isn't a sales meeting, so don't sell,\" she said.",
+          "ko": "금요일 7시 30분, 재원과 대니얼은 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다. 커피 옆에 통관 서류 한 뭉치가 놓여 있었다. \"영업 미팅이 아니니까 팔려고 하지 마세요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"Six vendors told me about AI this year, and you're the first to tell me about a mistake,\" she said. \"We handle forty thousand customs documents a month, and a third of them are typed in again by hand.\" She looked at Daniel. \"How long would it take you to find a duplicate in my data?\" \"How bad is your data?\" Daniel asked, and she almost smiled.",
+          "ko": "\"올해 공급업체 여섯 곳이 AI 얘기를 했는데, 실수 얘기를 한 건 당신이 처음이에요.\" 그녀가 말했다. \"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 손으로 다시 입력해요.\" 그녀가 대니얼을 보았다. \"제 데이터에서 중복을 찾는 데 얼마나 걸리겠어요?\" \"데이터가 얼마나 엉망인가요?\" 대니얼이 묻자 그녀가 웃을 뻔했다."
+        },
+        {
+          "en": "\"I want a sixteen-week project on warehouse and customs documents,\" she said. \"What exactly would that involve?\" Jae-won asked. \"It's English only, my CFO will ask where every figure comes from, and my head of operations already thinks that you're here to cut her team.\"",
+          "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 하고 싶어요.\" 그녀가 말했다. \"구체적으로 어떤 일이 되는 건가요?\" 재원이 물었다. \"영어로만 진행하고, 우리 CFO는 모든 수치의 출처를 물을 거고, 현장 총괄은 벌써 당신이 자기 팀을 줄이러 온다고 생각해요.\""
+        },
+        {
+          "en": "\"And I want you to run it, not a partner who visits once a month,\" she said. \"I can't commit to that yet, because that's Helen's call,\" he said. \"What are the next steps?\"",
+          "ko": "\"그리고 한 달에 한 번 들르는 파트너 말고 당신이 맡았으면 해요.\" 그녀가 말했다. \"아직 그건 약속드릴 수 없습니다. 헬렌이 결정할 일이니까요.\" 그가 말했다. \"다음 단계는 무엇인가요?\""
+        },
+        {
+          "en": "\"Let's set up a call with Helen next week,\" she said. \"I'll send you one page on what we heard by Monday noon,\" he said. \"Just to confirm, that's one page with no prices?\" he asked, and she nodded.",
+          "ko": "\"다음 주에 헬렌과 통화 일정을 잡읍시다.\" 그녀가 말했다. \"저희가 들은 내용을 한 장으로 월요일 정오까지 보내 드리겠습니다.\" 그가 말했다. \"확인차 여쭙는데, 한 장이고 가격은 없는 거죠?\" 그가 묻자 그녀가 고개를 끄덕였다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are the next steps",
+        "Let's set up a call",
+        "I'll send you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "food court",
+          "surface": "food court",
+          "meaningKo": "푸드 코트",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port.",
+            "ko": "금요일 7시 30분, 재원과 대니얼은 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다."
+          }
+        },
+        {
+          "term": "port",
+          "surface": "port",
+          "meaningKo": "항구",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port.",
+            "ko": "금요일 7시 30분, 재원과 대니얼은 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다."
+          }
+        },
+        {
+          "term": "stack",
+          "surface": "stack",
+          "meaningKo": "한 뭉치, 더미",
+          "paragraph": 0,
+          "sentence": {
+            "en": "A stack of customs forms sat next to her coffee.",
+            "ko": "커피 옆에 통관 서류 한 뭉치가 놓여 있었다."
+          }
+        },
+        {
+          "term": "vendor",
+          "surface": "vendors",
+          "meaningKo": "공급업체, 판매사",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Six vendors told me about AI this year, and you're the first to tell me about a mistake,\" she said.",
+            "ko": "\"올해 공급업체 여섯 곳이 AI 얘기를 했는데, 실수 얘기를 한 건 당신이 처음이에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "duplicate",
+          "surface": "duplicate",
+          "meaningKo": "중복 건",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She looked at Daniel. \"How long would it take you to find a duplicate in my data?\"",
+            "ko": "그녀가 대니얼을 보았다. \"제 데이터에서 중복을 찾는 데 얼마나 걸리겠어요?\""
+          }
+        },
+        {
+          "term": "warehouse",
+          "surface": "warehouse",
+          "meaningKo": "창고",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I want a sixteen-week project on warehouse and customs documents,\" she said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 하고 싶어요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "head of operations",
+          "surface": "head of operations",
+          "meaningKo": "운영 총괄",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It's English only, my CFO will ask where every figure comes from, and my head of operations already thinks that you're here to cut her team.\"",
+            "ko": "\"영어로만 진행하고, 우리 CFO는 모든 수치의 출처를 물을 거고, 현장 총괄은 벌써 당신이 자기 팀을 줄이러 온다고 생각해요.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 358,
+      "paragraphs": [
+        {
+          "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port, with a stack of customs forms next to her coffee. Yuna had sent him a list of nine things not to say, and then a second message that read, \"Ignore that, I don't know what you're doing, so keep doing it.\" \"This isn't a sales meeting, so don't sell,\" Grace said, pushing two kaya toasts across the table.",
+          "ko": "금요일 7시 30분, 재원과 대니얼은 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다. 커피 옆에는 통관 서류 한 뭉치가 놓여 있었다. 유나는 하지 말아야 할 말 아홉 가지를 보내더니, 곧이어 두 번째 메시지를 보냈다. \"무시하세요. 뭘 하시는 건지 모르겠지만 그냥 계속하세요.\" \"영업 미팅이 아니니까 팔려고 하지 마세요.\" 그레이스가 카야 토스트 두 개를 테이블 너머로 밀며 말했다."
+        },
+        {
+          "en": "\"Six vendors have pitched me AI this year, and you're the first person who's stood up and told me about a mistake,\" she said. \"We handle forty thousand customs documents a month, and a third of them get re-keyed by hand somewhere between the warehouse and the broker.\" She turned to Daniel. \"How long would it take you to find a duplicate in my data?\" \"That depends on how bad your data is,\" Daniel said, and she almost smiled.",
+          "ko": "\"올해 공급업체 여섯 곳이 AI를 제안했는데, 일어서서 실수 얘기를 한 사람은 당신이 처음이에요.\" 그녀가 말했다. \"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 창고와 통관 대리인 사이 어딘가에서 손으로 다시 입력돼요.\" 그녀가 대니얼을 돌아보았다. \"제 데이터에서 중복을 찾는 데 얼마나 걸리겠어요?\" \"데이터가 얼마나 엉망이냐에 달렸죠.\" 대니얼의 말에 그녀가 웃을 뻔했다."
+        },
+        {
+          "en": "\"I'm looking at a sixteen-week project on warehouse and customs paperwork, and I want it scoped by people who've seen one of these fall over,\" she said. \"What exactly would that involve?\" Jae-won asked. \"It'd be English only, my CFO will ask where every figure comes from, and my head of operations has twenty years on the floor and has already decided that you're here to shrink her team.\"",
+          "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 생각하고 있어요. 이런 게 무너지는 걸 본 사람들에게 범위를 잡게 하고 싶고요.\" 그녀가 말했다. \"구체적으로 어떤 일이 되는 건가요?\" 재원이 물었다. \"영어로만 진행하고, 우리 CFO는 모든 수치의 출처를 물을 거고, 현장에서 20년을 일한 운영 총괄은 벌써 당신이 자기 팀을 줄이러 온다고 결론 내렸어요.\""
+        },
+        {
+          "en": "\"And I want you running it, rather than a partner who flies in once a month for the steering committee,\" she said. A month ago, his mind would have gone blank, but he started inside three seconds. \"I can't commit to that yet, because staffing is Helen's call, and she'll have views,\" he said. \"What are the next steps?\"",
+          "ko": "\"그리고 운영위원회 때 한 달에 한 번 날아오는 파트너 말고 당신이 이끌었으면 해요.\" 그녀가 말했다. 한 달 전이었다면 머릿속이 하얘졌겠지만, 그는 3초 안에 입을 열었다. \"아직 그건 약속드릴 수 없습니다. 인력 배치는 헬렌이 결정할 일이고, 그분 생각이 있을 테니까요.\" 그가 말했다. \"다음 단계는 무엇인가요?\""
+        },
+        {
+          "en": "\"Let's set up a call with Helen for next week, and in the meantime, tell me what you think you heard,\" she said. \"I'll send you one page by Monday noon, covering what we heard and what we'd want to check first,\" he said. \"Just to confirm, that's one page with no pricing?\" he asked. \"If there's a number with a dollar sign on it, it goes in the bin,\" she said.",
+          "ko": "\"다음 주에 헬렌과 통화 일정을 잡읍시다. 그동안 들은 내용을 어떻게 이해했는지 말해 주세요.\" 그녀가 말했다. \"월요일 정오까지 한 장으로 보내 드리겠습니다. 저희가 들은 내용과 먼저 확인하고 싶은 것을 담아서요.\" 그가 말했다. \"확인차 여쭙는데, 한 장이고 가격은 없는 거죠?\" 그가 물었다. \"달러 표시가 붙은 숫자가 있으면 쓰레기통으로 갑니다.\" 그녀가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are the next steps",
+        "Let's set up a call",
+        "I'll send you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "stack",
+          "surface": "stack",
+          "meaningKo": "한 뭉치, 더미",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port, with a stack of customs forms next to her coffee.",
+            "ko": "금요일 7시 30분, 재원과 대니얼은 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다. 커피 옆에는 통관 서류 한 뭉치가 놓여 있었다."
+          }
+        },
+        {
+          "term": "pitch",
+          "surface": "pitched",
+          "meaningKo": "(제안을) 내놓다, 영업하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Six vendors have pitched me AI this year, and you're the first person who's stood up and told me about a mistake,\" she said.",
+            "ko": "\"올해 공급업체 여섯 곳이 AI를 제안했는데, 일어서서 실수 얘기를 한 사람은 당신이 처음이에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-keyed",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"We handle forty thousand customs documents a month, and a third of them get re-keyed by hand somewhere between the warehouse and the broker.\"",
+            "ko": "\"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 창고와 통관 대리인 사이 어딘가에서 손으로 다시 입력돼요.\""
+          }
+        },
+        {
+          "term": "scope",
+          "surface": "scoped",
+          "meaningKo": "범위를 정하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I'm looking at a sixteen-week project on warehouse and customs paperwork, and I want it scoped by people who've seen one of these fall over,\" she said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 생각하고 있어요. 이런 게 무너지는 걸 본 사람들에게 범위를 잡게 하고 싶고요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "fall over",
+          "surface": "fall over",
+          "meaningKo": "무너지다, 먹통이 되다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I'm looking at a sixteen-week project on warehouse and customs paperwork, and I want it scoped by people who've seen one of these fall over,\" she said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 생각하고 있어요. 이런 게 무너지는 걸 본 사람들에게 범위를 잡게 하고 싶고요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "shrink",
+          "surface": "shrink",
+          "meaningKo": "줄이다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It'd be English only, my CFO will ask where every figure comes from, and my head of operations has twenty years on the floor and has already decided that you're here to shrink her team.\"",
+            "ko": "\"영어로만 진행하고, 우리 CFO는 모든 수치의 출처를 물을 거고, 현장에서 20년을 일한 운영 총괄은 벌써 당신이 자기 팀을 줄이러 온다고 결론 내렸어요.\""
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"And I want you running it, rather than a partner who flies in once a month for the steering committee,\" she said.",
+            "ko": "\"그리고 운영위원회 때 한 달에 한 번 날아오는 파트너 말고 당신이 이끌었으면 해요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "staffing",
+          "surface": "staffing",
+          "meaningKo": "인력 배치",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I can't commit to that yet, because staffing is Helen's call, and she'll have views,\" he said. \"What are the next steps?\"",
+            "ko": "\"아직 그건 약속드릴 수 없습니다. 인력 배치는 헬렌이 결정할 일이고, 그분 생각이 있을 테니까요.\" 그가 말했다. \"다음 단계는 무엇인가요?\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 505,
+      "paragraphs": [
+        {
+          "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port, surrounded by truck drivers, with a stack of customs forms weighed down by her coffee. Yuna had sent him a list of nine things not to say, and then, four minutes later, a second message that read, \"Ignore that, I don't know what you're doing, so keep doing it.\" \"This isn't a sales meeting, so don't sell, and eat that before it gets cold,\" Grace said, pushing two kaya toasts across the table.",
+          "ko": "금요일 7시 30분, 재원과 대니얼은 트럭 운전사들에 둘러싸인 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다. 통관 서류 한 뭉치가 그녀의 커피에 눌려 있었다. 유나는 하지 말아야 할 말 아홉 가지를 보내더니, 4분 뒤 두 번째 메시지를 보냈다. \"무시하세요. 뭘 하시는 건지 모르겠지만 그냥 계속하세요.\" \"영업 미팅이 아니니까 팔려고 하지 마세요. 그리고 식기 전에 드세요.\" 그레이스가 카야 토스트 두 개를 테이블 너머로 밀며 말했다."
+        },
+        {
+          "en": "\"Six vendors have pitched me AI this year, all with beautiful decks, and you're the first person who's stood up in front of a room and told me about a mistake that he didn't have to mention,\" she said. \"We handle forty thousand customs documents a month, and a third of them get re-keyed by hand somewhere between the warehouse and the broker, usually by someone who's on her second shift.\" She turned to Daniel, who had his mouth full. \"How long would it take you to find a duplicate in my data?\" \"That depends on how bad your data is, and nobody ever thinks theirs is bad,\" Daniel said when he could, and she almost smiled.",
+          "ko": "\"올해 공급업체 여섯 곳이 다들 근사한 슬라이드로 AI를 제안했는데, 사람들 앞에 일어서서 굳이 말하지 않아도 될 실수를 얘기한 사람은 당신이 처음이에요.\" 그녀가 말했다. \"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 창고와 통관 대리인 사이 어딘가에서 손으로 다시 입력돼요. 대개 두 번째 교대 근무 중인 사람이 하죠.\" 그녀가 입에 음식이 가득한 대니얼을 돌아보았다. \"제 데이터에서 중복을 찾는 데 얼마나 걸리겠어요?\" \"데이터가 얼마나 엉망이냐에 달렸죠. 그런데 다들 자기 건 멀쩡하다고 생각하더군요.\" 대니얼이 겨우 삼키고 말하자 그녀가 웃을 뻔했다."
+        },
+        {
+          "en": "\"I'm looking at a sixteen-week project on warehouse and customs paperwork, and I want it scoped by people who've watched one of these fall over, not by people who've only seen the demo,\" she said. \"What exactly would that involve?\" Jae-won asked, and it occurred to him that he had asked Helen the same thing, a month ago, in a much smaller voice. \"It'd be English only from the first meeting to the last, my CFO will ask where every figure comes from until you want to lie down in the road, and my head of operations has twenty years on the floor and has already decided that you're here to shrink her team.\"",
+          "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 생각하고 있어요. 데모만 본 사람들 말고, 이런 게 무너지는 걸 지켜본 사람들에게 범위를 잡게 하고 싶어요.\" 그녀가 말했다. \"구체적으로 어떤 일이 되는 건가요?\" 재원이 물었다. 한 달 전 헬렌에게 훨씬 작은 목소리로 같은 말을 했다는 생각이 스쳤다. \"첫 회의부터 마지막까지 영어로만 진행하고, 우리 CFO는 길바닥에 드러눕고 싶어질 때까지 모든 수치의 출처를 물을 거고, 현장에서 20년을 일한 운영 총괄은 벌써 당신이 자기 팀을 줄이러 온다고 결론 내렸어요.\""
+        },
+        {
+          "en": "\"And I want you running it, rather than some partner who flies in once a month for the steering committee and leaves before the sandwiches,\" she said. A month ago, his mind would have gone blank and stayed that way, but he started inside three seconds, with a first sentence that wasn't especially pretty. \"I can't commit to that yet, because staffing is Helen's call, she'll have views, and I've never led anything in English alone,\" he said. \"What are the next steps?\"",
+          "ko": "\"그리고 운영위원회 때 한 달에 한 번 날아와서 샌드위치 나오기 전에 떠나는 파트너 말고 당신이 이끌었으면 해요.\" 그녀가 말했다. 한 달 전이었다면 머릿속이 하얘진 채로 있었겠지만, 그는 3초 안에 입을 열었다. 첫 문장은 그리 예쁘지 않았다. \"아직 그건 약속드릴 수 없습니다. 인력 배치는 헬렌이 결정할 일이고, 그분 생각이 있을 테고, 저는 영어로 혼자 뭔가를 이끌어 본 적이 없습니다.\" 그가 말했다. \"다음 단계는 무엇인가요?\""
+        },
+        {
+          "en": "\"Let's set up a call with Helen for next week, and in the meantime, tell me what you think you heard, because I'm curious how much of it you got,\" she said. \"I'll send you one page by Monday noon, covering what we heard and what we'd want to check before anyone promises you anything,\" he said. \"Just to confirm, that's one page with no pricing?\" he asked. \"If there's a number with a dollar sign on it, it goes in the bin, along with whoever sent it,\" she said, and she went back to her forms.",
+          "ko": "\"다음 주에 헬렌과 통화 일정을 잡읍시다. 그동안 들은 내용을 어떻게 이해했는지 말해 주세요. 얼마나 알아들었는지 궁금하니까요.\" 그녀가 말했다. \"월요일 정오까지 한 장으로 보내 드리겠습니다. 저희가 들은 내용과, 누가 무엇을 약속하기 전에 확인하고 싶은 것을 담아서요.\" 그가 말했다. \"확인차 여쭙는데, 한 장이고 가격은 없는 거죠?\" 그가 물었다. \"달러 표시가 붙은 숫자가 있으면 보낸 사람까지 함께 쓰레기통으로 갑니다.\" 그녀는 그렇게 말하고 다시 서류로 돌아갔다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are the next steps",
+        "Let's set up a call",
+        "I'll send you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "weigh down",
+          "surface": "weighed down",
+          "meaningKo": "눌러 두다, 짓누르다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 7:30 on Friday, Jae-won and Daniel found Grace Lim at a plastic table in a food court near the port, surrounded by truck drivers, with a stack of customs forms weighed down by her coffee.",
+            "ko": "금요일 7시 30분, 재원과 대니얼은 트럭 운전사들에 둘러싸인 항구 근처 푸드 코트의 플라스틱 테이블에서 그레이스 림을 찾았다. 통관 서류 한 뭉치가 그녀의 커피에 눌려 있었다."
+          }
+        },
+        {
+          "term": "deck",
+          "surface": "decks",
+          "meaningKo": "발표 슬라이드 묶음",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Six vendors have pitched me AI this year, all with beautiful decks, and you're the first person who's stood up in front of a room and told me about a mistake that he didn't have to mention,\" she said.",
+            "ko": "\"올해 공급업체 여섯 곳이 다들 근사한 슬라이드로 AI를 제안했는데, 사람들 앞에 일어서서 굳이 말하지 않아도 될 실수를 얘기한 사람은 당신이 처음이에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-keyed",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"We handle forty thousand customs documents a month, and a third of them get re-keyed by hand somewhere between the warehouse and the broker, usually by someone who's on her second shift.\"",
+            "ko": "\"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 창고와 통관 대리인 사이 어딘가에서 손으로 다시 입력돼요. 대개 두 번째 교대 근무 중인 사람이 하죠.\""
+          }
+        },
+        {
+          "term": "second shift",
+          "surface": "second shift",
+          "meaningKo": "두 번째 교대 근무",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"We handle forty thousand customs documents a month, and a third of them get re-keyed by hand somewhere between the warehouse and the broker, usually by someone who's on her second shift.\"",
+            "ko": "\"우리는 한 달에 통관 서류 4만 건을 처리하는데, 그중 3분의 1은 창고와 통관 대리인 사이 어딘가에서 손으로 다시 입력돼요. 대개 두 번째 교대 근무 중인 사람이 하죠.\""
+          }
+        },
+        {
+          "term": "scope",
+          "surface": "scoped",
+          "meaningKo": "범위를 정하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I'm looking at a sixteen-week project on warehouse and customs paperwork, and I want it scoped by people who've watched one of these fall over, not by people who've only seen the demo,\" she said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주 프로젝트를 생각하고 있어요. 데모만 본 사람들 말고, 이런 게 무너지는 걸 지켜본 사람들에게 범위를 잡게 하고 싶어요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "occur to",
+          "surface": "occurred to",
+          "meaningKo": "(생각이) 떠오르다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"What exactly would that involve?\" Jae-won asked, and it occurred to him that he had asked Helen the same thing, a month ago, in a much smaller voice.",
+            "ko": "\"구체적으로 어떤 일이 되는 건가요?\" 재원이 물었다. 한 달 전 헬렌에게 훨씬 작은 목소리로 같은 말을 했다는 생각이 스쳤다."
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"And I want you running it, rather than some partner who flies in once a month for the steering committee and leaves before the sandwiches,\" she said.",
+            "ko": "\"그리고 운영위원회 때 한 달에 한 번 날아와서 샌드위치 나오기 전에 떠나는 파트너 말고 당신이 이끌었으면 해요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "staffing",
+          "surface": "staffing",
+          "meaningKo": "인력 배치",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I can't commit to that yet, because staffing is Helen's call, she'll have views, and I've never led anything in English alone,\" he said. \"What are the next steps?\"",
+            "ko": "\"아직 그건 약속드릴 수 없습니다. 인력 배치는 헬렌이 결정할 일이고, 그분 생각이 있을 테고, 저는 영어로 혼자 뭔가를 이끌어 본 적이 없습니다.\" 그가 말했다. \"다음 단계는 무엇인가요?\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many customs documents does Grace's company handle each month?",
+      "options": [
+        "Four thousand",
+        "Sixteen thousand",
+        "Forty-one thousand",
+        "Forty thousand"
+      ],
+      "answerIndex": 3,
+      "evidence": "We handle forty thousand customs documents a month"
+    },
+    {
+      "question": "Why does Jae-won say \"I can't commit to that yet\" when Grace asks him to run the project?",
+      "options": [
+        "He knows that staffing decisions belong to Helen, and he won't promise what isn't his.",
+        "He is afraid of Grace and wants to refuse.",
+        "He has already accepted another job.",
+        "He wants a higher fee."
+      ],
+      "answerIndex": 0,
+      "evidence": "I can't commit to that yet, because staffing is Helen's call, and she'll have views"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What are the next steps?",
+      "Let's set up a call with Helen for next week.",
+      "I'll send you one page by Monday noon."
+    ],
+    "summaryPromptKo": "그레이스가 조찬에서 무엇을 제안했는지, 재원이 무엇을 약속하지 않았는지, 어떤 후속 조치에 합의했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "Before you go, tell me exactly what happens next, and who does what by when.",
+      "ko": "가기 전에, 다음에 무슨 일이 일어나는지, 누가 언제까지 뭘 하는지 정확히 말해 주세요."
+    },
+    "modelAnswer": "Here's what I've got. I'll send you one page by Monday noon, with what we heard and what we'd want to check first, and with no pricing. Let's set up a call with Helen next week, because who leads this is her decision. And I can't thank you enough for the breakfast, even though I still can't commit to anything."
+  },
+  "nextTeaserKo": "유나는 이 소식을 듣고 뭐라고 할까. 헬렌은 그레이스의 지목을 어떻게 받아들일까. 싱가포르를 떠나기 전, 재원은 몇 사람에게서 마지막 말을 듣는다.",
+  "roleplay": {
+    "title": "영업 미팅이 아닌 조찬",
+    "situationKo": "금요일 아침, 항구 근처 푸드 코트에서 그레이스를 만납니다. 그녀의 제안을 듣고, 약속할 수 있는 것과 없는 것을 나눈 뒤 다음 단계를 정해 보세요. 천천히 해도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "This isn't a sales meeting, so don't sell. Eat that before it gets cold.",
+        "ko": "영업 미팅이 아니니까 팔려고 하지 마세요. 식기 전에 드세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. I'm not selling. Why did you want to see us?",
+        "ko": "고맙습니다. 안 팔겠습니다. 왜 저희를 보자고 하셨어요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Forty thousand customs documents a month, and a third get re-keyed by hand. I want a sixteen-week project.",
+        "ko": "한 달에 통관 서류 4만 건, 그중 3분의 1은 손으로 다시 입력해요. 16주 프로젝트를 하고 싶어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What exactly would that involve?",
+        "ko": "구체적으로 어떤 일이 되는 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "English only. My CFO will ask where every figure comes from. My head of operations won't like you.",
+        "ko": "영어로만 진행해요. CFO는 모든 수치의 출처를 물을 거고, 운영 총괄은 당신을 안 좋아할 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's fair. She's probably worried about her team, so I'd want to talk to her early.",
+        "ko": "그럴 만하네요. 팀 걱정이 크실 테니 일찍 만나 뵙고 싶습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Good. And I want you running it, not some partner who flies in once a month.",
+        "ko": "좋아요. 그리고 한 달에 한 번 날아오는 파트너 말고 당신이 이끌었으면 해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I can't commit to that yet. Staffing is Helen's call. What are the next steps?",
+        "ko": "아직 그건 약속드릴 수 없습니다. 인력 배치는 헬렌이 결정합니다. 다음 단계는 무엇인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Tell me. You've been a consultant for eleven years.",
+        "ko": "말해 보세요. 11년이나 컨설턴트를 하셨잖아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let's set up a call with Helen for next week. Does Tuesday work?",
+        "ko": "다음 주에 헬렌과 통화 일정을 잡읍시다. 화요일 괜찮으세요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Tuesday's fine. And what do I get before then?",
+        "ko": "화요일 좋아요. 그전에 제가 받는 건 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll send you one page by Monday noon: what we heard, and what we'd check first.",
+        "ko": "월요일 정오까지 한 장으로 보내 드리겠습니다. 저희가 들은 내용과 먼저 확인할 것을요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "If there's a dollar sign on it, it goes in the bin.",
+        "ko": "달러 표시가 있으면 쓰레기통으로 갑니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, one page and no pricing. I can't thank you enough for your time.",
+        "ko": "확인하겠습니다. 한 장에 가격은 없고요. 시간 내 주셔서 뭐라고 감사해야 할지 모르겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "You asked good questions on Tuesday. That's why you're here.",
+        "ko": "화요일에 좋은 질문을 하셨어요. 그래서 여기 계신 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That means a lot. I'll see you on the call.",
+        "ko": "정말 큰 힘이 됩니다. 통화 때 뵙겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

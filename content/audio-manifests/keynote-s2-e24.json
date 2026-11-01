@@ -1,0 +1,63 @@
+{
+  "episodeId": "keynote-s2-e24",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "hang up": "word-hang-up.mp3",
+    "plan": "word-plan.mp3",
+    "stall": "word-stall.mp3",
+    "analyst": "word-analyst.mp3",
+    "drop": "word-drop.mp3",
+    "lesson": "word-lesson.mp3",
+    "press send": "word-press-send.mp3",
+    "correction": "word-correction.mp3",
+    "evidently": "word-evidently.mp3",
+    "incident report": "word-incident-report.mp3",
+    "for what it was worth": "word-for-what-it-was-worth.mp3",
+    "initial": "word-initial.mp3",
+    "to one's credit": "word-to-one-s-credit.mp3",
+    "creep up": "word-creep-up.mp3"
+  },
+  "termClips": {
+    "hang up": "term-hang-up.mp3",
+    "plan": "term-plan.mp3",
+    "stall": "term-stall.mp3",
+    "analyst": "term-analyst.mp3",
+    "drop": "term-drop.mp3",
+    "lesson": "term-lesson.mp3",
+    "press send": "term-press-send.mp3",
+    "correction": "term-correction.mp3",
+    "evidently": "term-evidently.mp3",
+    "incident report": "term-incident-report.mp3",
+    "for what it was worth": "term-for-what-it-was-worth.mp3",
+    "initial": "term-initial.mp3",
+    "to one's credit": "term-to-one-s-credit.mp3",
+    "creep up": "term-creep-up.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3"
+  ]
+}

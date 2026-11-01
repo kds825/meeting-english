@@ -1,0 +1,450 @@
+{
+  "id": "keynote-s1-e14",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 14,
+  "title": "Three Messages",
+  "recapKo": "수요일 아침, 프리야의 30초 엘리베이터 테스트에서 재원은 2분 40초 동안 요점 열한 개를 쏟아 냈다. 프리야는 오늘 밤까지 문장 세 개를 찾으라고 했다. 오후 4시 화이트보드 앞에서 열한 개를 세 묶음으로 나누자, 헬렌이 마커를 받아 들었다.",
+  "keyExpressions": [
+    {
+      "phrase": "I'm going to make three points.",
+      "meaningKo": "세 가지를 말씀드리겠습니다.",
+      "usage": "I'm going to make three points, and I'll keep each one short."
+    },
+    {
+      "phrase": "That brings me to ~",
+      "meaningKo": "그래서 다음은 ~입니다",
+      "usage": "That brings me to the timeline, which is where the risk sits."
+    },
+    {
+      "phrase": "If you remember one thing, ~",
+      "meaningKo": "한 가지만 기억하신다면, ~",
+      "usage": "If you remember one thing, fix the data before you buy the tool."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "Helen wrote the result in three lines. \"One: pilots don't die in the demo, they die at month-end. Two: the person who signs is your real user. Three: build the audit trail first, not last.\"",
+          "ko": "헬렌이 결과를 세 줄로 적었다. \"하나, 파일럿은 시연에서 죽지 않고 월말에 죽는다. 둘, 서명하는 사람이 진짜 사용자다. 셋, 감사 추적 기록을 마지막이 아니라 맨 먼저 만들어라.\""
+        },
+        {
+          "en": "\"Now the audience needs to know where you are,\" she said, so he stood up and tried it out loud. \"I'm going to make three points. Let me start with a kitchen table, at eleven at night.\"",
+          "ko": "\"이제 청중이 지금 어디쯤인지 알아야 해요.\" 그녀의 말에 그는 일어나 소리 내어 해 봤다. \"세 가지를 말씀드리겠습니다. 밤 11시의 식탁부터 말씀드리겠습니다.\""
+        },
+        {
+          "en": "He told the story of Han Mi-rae and gave the number. \"That brings me to the person who signs,\" he went on. \"Now let's turn to what you can do on Monday morning.\"",
+          "ko": "그는 한미래 이야기를 하고 숫자를 말했다. \"그래서 다음은 서명하는 사람입니다.\" 그가 이어 갔다. \"이제 월요일 아침에 할 수 있는 일로 넘어가겠습니다.\""
+        },
+        {
+          "en": "\"And the ending?\" Helen asked. He thought about Marcus's question, and this time something was there. \"If you remember one thing, build for the person who has to sign.\" Helen put down her pen and said, \"That's your answer for Marcus.\"",
+          "ko": "\"그럼 마무리는요?\" 헬렌이 물었다. 그는 마커스의 질문을 떠올렸고, 이번에는 뭔가가 있었다. \"한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드세요.\" 헬렌이 펜을 내려놓고 말했다. \"그게 마커스에게 줄 답이네요.\""
+        },
+        {
+          "en": "She turned to Daniel. \"Say all three, with no notes.\" He did it easily and looked pleased. She asked what supported the first one. \"Thirty-one out of forty-two,\" he said, and he stopped looking pleased.",
+          "ko": "그녀가 대니얼을 돌아봤다. \"메모 없이 세 개 다 말해 봐요.\" 그는 쉽게 해내고 뿌듯한 표정을 지었다. 그녀는 첫 번째를 뒷받침하는 게 뭐냐고 물었다. \"42곳 중 31곳이요.\" 그가 말했고, 뿌듯한 표정이 사라졌다."
+        },
+        {
+          "en": "When Helen left, Jae-won closed the door. \"You said we should check the forty-two. Have you looked?\" Daniel said, \"I started on Monday night. Can I show you at eight tomorrow?\" \"Is there a problem?\" This time he did not say \"Probably not.\" \"I'd rather show you,\" he said.",
+          "ko": "헬렌이 나가자 재원은 문을 닫았다. \"그 42곳을 확인해 봐야 한다고 했잖아요. 살펴봤어요?\" 대니얼이 말했다. \"월요일 밤에 시작했어요. 내일 8시에 보여 드려도 될까요?\" \"문제가 있어요?\" 이번에 그는 \"아마 없을 거예요\"라고 말하지 않았다. \"보여 드리는 게 낫겠어요.\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm going to make three points",
+        "That brings me to",
+        "If you remember one thing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "result",
+          "surface": "result",
+          "meaningKo": "결과",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Helen wrote the result in three lines.",
+            "ko": "헬렌이 결과를 세 줄로 적었다."
+          }
+        },
+        {
+          "term": "out loud",
+          "surface": "out loud",
+          "meaningKo": "소리 내어",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Now the audience needs to know where you are,\" she said, so he stood up and tried it out loud.",
+            "ko": "\"이제 청중이 지금 어디쯤인지 알아야 해요.\" 그녀의 말에 그는 일어나 소리 내어 해 봤다."
+          }
+        },
+        {
+          "term": "go on",
+          "surface": "went on",
+          "meaningKo": "(말을) 이어 가다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"That brings me to the person who signs,\" he went on.",
+            "ko": "\"그래서 다음은 서명하는 사람입니다.\" 그가 이어 갔다."
+          }
+        },
+        {
+          "term": "pleased",
+          "surface": "pleased",
+          "meaningKo": "뿌듯한, 기뻐하는",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He did it easily and looked pleased.",
+            "ko": "그는 쉽게 해내고 뿌듯한 표정을 지었다."
+          }
+        },
+        {
+          "term": "support",
+          "surface": "supported",
+          "meaningKo": "뒷받침하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "She asked what supported the first one.",
+            "ko": "그녀는 첫 번째를 뒷받침하는 게 뭐냐고 물었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 360,
+      "paragraphs": [
+        {
+          "en": "Helen wrote the result on the board in three lines. \"One: pilots don't die in the demo, they die at month-end. Two: the person who signs is your real user. Three: build the audit trail first, not last.\" Jae-won read them over, and it was strange to see a week's worth of slides fit on one whiteboard.",
+          "ko": "헬렌이 결과를 보드에 세 줄로 적었다. \"하나, 파일럿은 시연에서 죽지 않고 월말에 죽는다. 둘, 서명하는 사람이 진짜 사용자다. 셋, 감사 추적 기록을 마지막이 아니라 맨 먼저 만들어라.\" 재원은 그것을 다시 읽었고, 일주일 치 슬라이드가 화이트보드 하나에 들어가는 게 낯설었다."
+        },
+        {
+          "en": "\"Good, but now you need the transitions, because an audience can't see your structure unless you tell them where they are,\" she said. So he stood up in front of the two of them and tried it out loud. \"I'm going to make three points this morning. Let me start with a kitchen table, at eleven at night, on the last day of the month.\"",
+          "ko": "\"좋아요. 하지만 이제 전환 표현이 필요해요. 지금 어디쯤인지 말해 주지 않으면 청중은 구조를 볼 수 없으니까요.\" 그녀가 말했다. 그래서 그는 두 사람 앞에 서서 소리 내어 해 봤다. \"오늘 아침 세 가지를 말씀드리겠습니다. 월말 마지막 날 밤 11시의 식탁부터 말씀드리겠습니다.\""
+        },
+        {
+          "en": "He told Han Mi-rae's story in ninety seconds and landed on the number. \"That brings me to the person who signs, because she's the user nobody designs for,\" he went on, and he could hear the talk starting to move. \"Now let's turn to what you can do on Monday morning, before you approve another pilot.\"",
+          "ko": "그는 한미래 이야기를 90초 만에 하고 숫자로 마무리했다. \"그래서 다음은 서명하는 사람입니다. 아무도 그 사람을 위해 설계하지 않는 사용자니까요.\" 그가 이어 갔고, 발표가 움직이기 시작하는 게 들렸다. \"이제 파일럿을 또 승인하기 전, 월요일 아침에 할 수 있는 일로 넘어가겠습니다.\""
+        },
+        {
+          "en": "Helen asked how he was going to land it. He thought about Marcus's question, the one that had left him speechless in his own kitchen, and this time something was there. \"If you remember one thing, build for the person who has to sign.\" Helen put the cap back on her pen and said, \"Well, there's your answer for Marcus.\"",
+          "ko": "헬렌이 어떻게 마무리할 거냐고 물었다. 그는 자기 집 부엌에서 말문을 막히게 했던 마커스의 질문을 떠올렸고, 이번에는 뭔가가 있었다. \"한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드세요.\" 헬렌이 펜 뚜껑을 닫으며 말했다. \"자, 마커스에게 줄 답이 나왔네요.\""
+        },
+        {
+          "en": "Then she turned to Daniel. \"Taxi test: say them back to me, no notes.\" Daniel got all three in under ten seconds and looked pleased with himself. She asked what was holding up the first one. \"Thirty-one out of forty-two,\" he said, and the pleased look went away.",
+          "ko": "그러고 나서 그녀는 대니얼을 돌아봤다. \"택시 테스트예요. 메모 없이 다시 말해 봐요.\" 대니얼은 10초도 안 돼서 세 개를 다 말하고 뿌듯해했다. 그녀는 첫 번째를 떠받치는 게 뭐냐고 물었다. \"42곳 중 31곳이요.\" 그가 말했고, 뿌듯한 표정이 사라졌다."
+        },
+        {
+          "en": "When Helen had gone, Jae-won shut the door, because Priya's last question had been following him around for a day and a half. \"You said we should take a look at the forty-two, and I never followed up,\" he said. \"Have you?\" Daniel said, \"I started on Monday night, so can I show you at eight tomorrow?\" \"Is there a problem?\" This time he didn't say \"Probably not.\" \"I'd rather show you,\" he said.",
+          "ko": "헬렌이 나가자 재원은 문을 닫았다. 프리야의 마지막 질문이 하루 반 동안 그를 따라다니고 있었기 때문이다. \"그 42곳을 한번 봐야 한다고 했는데 내가 후속 확인을 안 했어요.\" 그가 말했다. \"봤어요?\" 대니얼이 말했다. \"월요일 밤에 시작했는데, 내일 8시에 보여 드려도 될까요?\" \"문제가 있어요?\" 이번에 그는 \"아마 없을 거예요\"라고 말하지 않았다. \"보여 드리는 게 낫겠어요.\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm going to make three points",
+        "That brings me to",
+        "If you remember one thing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "transition",
+          "surface": "transitions",
+          "meaningKo": "전환 (표현)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Good, but now you need the transitions, because an audience can't see your structure unless you tell them where they are,\" she said.",
+            "ko": "\"좋아요. 하지만 이제 전환 표현이 필요해요. 지금 어디쯤인지 말해 주지 않으면 청중은 구조를 볼 수 없으니까요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "structure",
+          "surface": "structure",
+          "meaningKo": "구조",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Good, but now you need the transitions, because an audience can't see your structure unless you tell them where they are,\" she said.",
+            "ko": "\"좋아요. 하지만 이제 전환 표현이 필요해요. 지금 어디쯤인지 말해 주지 않으면 청중은 구조를 볼 수 없으니까요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "land on",
+          "surface": "landed on the number",
+          "meaningKo": "(숫자로) 마무리하다, 정확히 도달하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He told Han Mi-rae's story in ninety seconds and landed on the number.",
+            "ko": "그는 한미래 이야기를 90초 만에 하고 숫자로 마무리했다."
+          }
+        },
+        {
+          "term": "land",
+          "surface": "land it",
+          "meaningKo": "(발표를) 잘 마무리하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen asked how he was going to land it.",
+            "ko": "헬렌이 어떻게 마무리할 거냐고 물었다."
+          }
+        },
+        {
+          "term": "speechless",
+          "surface": "speechless",
+          "meaningKo": "말문이 막힌",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He thought about Marcus's question, the one that had left him speechless in his own kitchen, and this time something was there.",
+            "ko": "그는 자기 집 부엌에서 말문을 막히게 했던 마커스의 질문을 떠올렸고, 이번에는 뭔가가 있었다."
+          }
+        },
+        {
+          "term": "hold up",
+          "surface": "holding up",
+          "meaningKo": "떠받치다, 뒷받침하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "She asked what was holding up the first one.",
+            "ko": "그녀는 첫 번째를 떠받치는 게 뭐냐고 물었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 515,
+      "paragraphs": [
+        {
+          "en": "Helen took the marker back and wrote three lines under everything else. \"One: pilots don't die in the demo, they die at month-end. Two: the person who signs is your real user. Three: build the audit trail first, not last.\" She stepped back and said, \"That's your skeleton, and any slide that can't point to one of those three lines has some explaining to do.\" It was strange, Jae-won thought, to see a week's worth of work fit on one whiteboard with room to spare.",
+          "ko": "헬렌이 마커를 도로 가져가 맨 아래에 세 줄을 적었다. \"하나, 파일럿은 시연에서 죽지 않고 월말에 죽는다. 둘, 서명하는 사람이 진짜 사용자다. 셋, 감사 추적 기록을 마지막이 아니라 맨 먼저 만들어라.\" 그녀가 한 걸음 물러나 말했다. \"이게 뼈대예요. 이 세 줄 중 어느 것도 가리키지 못하는 슬라이드는 해명을 좀 해야 할 거예요.\" 일주일 치 작업이 화이트보드 하나에 넉넉하게 들어가는 게 낯설다고 재원은 생각했다."
+        },
+        {
+          "en": "\"Fine, now the transitions, because you're not sending this as a memo,\" she said. \"A reader can flip back to see where he is, whereas an audience is lost the moment you stop telling them, so signpost it, and do it out loud.\" So he stood up in front of the two of them, feeling slightly ridiculous, and tried it. \"I'm going to make three points this morning. Let me start with a kitchen table, at eleven at night, on the last day of the month.\"",
+          "ko": "\"좋아요, 이제 전환 표현이요. 이건 메모로 보내는 게 아니니까요.\" 그녀가 말했다. \"독자는 어디쯤인지 앞으로 넘겨 볼 수 있지만, 청중은 당신이 말해 주기를 멈추는 순간 길을 잃어요. 그러니 표지판을 세워요, 소리 내서요.\" 그래서 그는 조금 우스운 기분으로 두 사람 앞에 서서 해 봤다. \"오늘 아침 세 가지를 말씀드리겠습니다. 월말 마지막 날 밤 11시의 식탁부터 말씀드리겠습니다.\""
+        },
+        {
+          "en": "He gave them Han Mi-rae in ninety seconds flat and landed on the number, and Daniel, who had seen it thirty times, actually looked up. \"That brings me to the person who signs, because she's the user nobody designs for and the only one who can kill your project without attending a single meeting,\" he went on, and for the first time he could hear the talk starting to move. \"Now let's turn to what you can do on Monday morning, before you approve another pilot.\"",
+          "ko": "그는 한미래 이야기를 딱 90초 만에 하고 숫자로 마무리했고, 서른 번은 봤을 대니얼이 실제로 고개를 들었다. \"그래서 다음은 서명하는 사람입니다. 아무도 그 사람을 위해 설계하지 않지만, 회의에 한 번도 안 나오고 프로젝트를 죽일 수 있는 유일한 사용자니까요.\" 그가 이어 갔고, 처음으로 발표가 움직이기 시작하는 게 들렸다. \"이제 파일럿을 또 승인하기 전, 월요일 아침에 할 수 있는 일로 넘어가겠습니다.\""
+        },
+        {
+          "en": "\"And how do you land the plane?\" Helen asked, in the voice of someone who expected him to crash it. He thought about Marcus's question, the one that had left him speechless in his own kitchen, and this time there was actually something there. \"If you remember one thing, build for the person who has to sign.\" Nobody said anything, and Helen put the cap back on her pen. \"Well, there's your answer for Marcus, and it only took you eight days,\" she said.",
+          "ko": "\"그럼 비행기를 어떻게 착륙시키죠?\" 헬렌이 추락을 예상하는 사람의 목소리로 물었다. 그는 자기 집 부엌에서 말문을 막히게 했던 마커스의 질문을 떠올렸고, 이번에는 실제로 뭔가가 있었다. \"한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드세요.\" 아무도 말이 없었고, 헬렌이 펜 뚜껑을 닫았다. \"자, 마커스에게 줄 답이 나왔네요. 8일밖에 안 걸렸고요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Then she swung around to Daniel. \"Taxi test: play them back to me, no notes, you're a tired CFO.\" Daniel rattled off all three in under ten seconds and looked pleased with himself, as he was entitled to. \"And what's the load-bearing number under the first one, the thing the whole argument falls over without?\" she asked, already gathering up her things. \"Thirty-one out of forty-two,\" he said, and the pleased look went away so quickly that only one person in the room noticed.",
+          "ko": "그러고 나서 그녀는 대니얼에게 몸을 돌렸다. \"택시 테스트예요. 메모 없이 다시 말해 봐요. 당신은 지친 CFO예요.\" 대니얼은 10초도 안 돼서 세 개를 줄줄 말하고는 그럴 만하게 뿌듯해했다. \"그럼 첫 번째 밑에서 하중을 받는 숫자, 그게 없으면 논리 전체가 무너지는 건 뭐죠?\" 그녀가 벌써 짐을 챙기며 물었다. \"42곳 중 31곳이요.\" 그가 말했고, 뿌듯한 표정이 너무 빨리 사라져서 방 안에서 한 사람만 알아챘다."
+        },
+        {
+          "en": "When Helen had gone, Jae-won shut the door, because Priya's last question had been following him around for a day and a half. \"You said we should kick the tires on the forty-two, and I never followed up, which is on me,\" he said. \"Have you?\" \"I started on Monday night, after the rehearsal,\" Daniel said, looking at the laptop rather than at him. \"Can I show you at eight tomorrow?\" \"Is there a problem?\" This time, Jae-won noticed, he didn't say \"Probably not.\" \"I'd rather show you,\" he said.",
+          "ko": "헬렌이 나가자 재원은 문을 닫았다. 프리야의 마지막 질문이 하루 반 동안 그를 따라다니고 있었기 때문이다. \"그 42곳을 꼼꼼히 뜯어봐야 한다고 했는데 내가 후속 확인을 안 했어요. 그건 내 책임이에요.\" 그가 말했다. \"봤어요?\" \"월요일 밤 리허설 뒤에 시작했어요.\" 대니얼이 그가 아니라 노트북을 보며 말했다. \"내일 8시에 보여 드려도 될까요?\" \"문제가 있어요?\" 이번에 그는 \"아마 없을 거예요\"라고 말하지 않았다는 걸 재원은 알아차렸다. \"보여 드리는 게 낫겠어요.\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm going to make three points",
+        "That brings me to",
+        "If you remember one thing"
+      ],
+      "wordCandidates": [
+        {
+          "term": "have some explaining to do",
+          "surface": "has some explaining to do",
+          "meaningKo": "해명할 일이 있다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She stepped back and said, \"That's your skeleton, and any slide that can't point to one of those three lines has some explaining to do.\"",
+            "ko": "그녀가 한 걸음 물러나 말했다. \"이게 뼈대예요. 이 세 줄 중 어느 것도 가리키지 못하는 슬라이드는 해명을 좀 해야 할 거예요.\""
+          }
+        },
+        {
+          "term": "signpost",
+          "surface": "signpost",
+          "meaningKo": "(발표에서) 지금 위치를 알려 주다, 표지판을 세우다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"A reader can flip back to see where he is, whereas an audience is lost the moment you stop telling them, so signpost it, and do it out loud.\"",
+            "ko": "\"독자는 어디쯤인지 앞으로 넘겨 볼 수 있지만, 청중은 당신이 말해 주기를 멈추는 순간 길을 잃어요. 그러니 표지판을 세워요, 소리 내서요.\""
+          }
+        },
+        {
+          "term": "land the plane",
+          "surface": "land the plane",
+          "meaningKo": "(논의·발표를) 잘 마무리하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"And how do you land the plane?\"",
+            "ko": "\"그럼 비행기를 어떻게 착륙시키죠?\""
+          }
+        },
+        {
+          "term": "rattle off",
+          "surface": "rattled off",
+          "meaningKo": "줄줄 말하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Daniel rattled off all three in under ten seconds and looked pleased with himself, as he was entitled to.",
+            "ko": "대니얼은 10초도 안 돼서 세 개를 줄줄 말하고는 그럴 만하게 뿌듯해했다."
+          }
+        },
+        {
+          "term": "load-bearing",
+          "surface": "load-bearing",
+          "meaningKo": "하중을 받는, 핵심적으로 떠받치는",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"And what's the load-bearing number under the first one, the thing the whole argument falls over without?\" she asked, already gathering up her things.",
+            "ko": "\"그럼 첫 번째 밑에서 하중을 받는 숫자, 그게 없으면 논리 전체가 무너지는 건 뭐죠?\" 그녀가 벌써 짐을 챙기며 물었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which of these is the second of the three messages Helen wrote on the board?",
+      "options": [
+        "Pilots die at month-end.",
+        "The person who signs is your real user.",
+        "Build the audit trail first.",
+        "Hire a firm that has failed before."
+      ],
+      "answerIndex": 1,
+      "evidence": "Two: the person who signs is your real user."
+    },
+    {
+      "question": "What does Daniel's reply \"I'd rather show you\" suggest?",
+      "options": [
+        "He thinks the slides look better on a big screen.",
+        "He has not started the work yet and needs more time.",
+        "He wants credit from Helen for finding an error.",
+        "He has found something he doesn't want to brush off with a quick reassurance."
+      ],
+      "answerIndex": 3,
+      "evidence": "This time he didn't say \"Probably not.\""
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I'm going to make three points this morning.",
+      "That brings me to the person who signs, because she's the user nobody designs for.",
+      "If you remember one thing, build for the person who has to sign."
+    ],
+    "summaryPromptKo": "요점이 어떤 메시지 세 개로 압축됐는지, 재원이 전환 표현으로 발표를 어떻게 이어 갔는지, 회의 끝에 대니얼에게 어떤 변화가 있었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priya Nair",
+      "en": "You've got thirty seconds in an elevator with a CFO. Give me your talk, with the three messages and how you get from one to the next.",
+      "ko": "엘리베이터에서 CFO와 함께 있고 30초가 있어요. 메시지 세 개와 그 사이를 어떻게 넘어가는지 포함해서 발표를 말해 봐요."
+    },
+    "modelAnswer": "I'm going to make three points. Let me start with where pilots really die, which is month-end, not the demo. That brings me to the person who signs, because she's the real user and nobody designs for her. Now let's turn to what you can do on Monday, which is to build the audit trail first. If you remember one thing, build for the person who has to sign."
+  },
+  "nextTeaserKo": "목요일 아침 8시, 대니얼이 스프레드시트를 연다. 42개 행 중 일부의 출처란에는 문서 대신 퇴사한 사람의 이니셜만 적혀 있다. 그리고 그 숫자는 이미 키노트 제목이 되어 마커스에게 가 있다.",
+  "roleplay": {
+    "title": "화이트보드 앞에서 소리 내어 전환하기",
+    "situationKo": "세 문장이 적힌 9층 화이트보드 앞입니다. 내가 재원이 되어 전환 표현으로 발표의 뼈대를 말해 봅니다. 발표 연습이지만 청중은 Helen과 Daniel뿐이니 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "One: pilots don't die in the demo, they die at month-end. Two: the person who signs is your real user. Three: build the audit trail first, not last.",
+        "ko": "하나, 파일럿은 데모에서 죽지 않고 월말에 죽는다. 둘, 서명하는 사람이 진짜 사용자다. 셋, 감사 추적은 마지막이 아니라 맨 먼저 만들어라."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It's strange to see a week of slides fit on one whiteboard.",
+        "ko": "일주일치 슬라이드가 화이트보드 하나에 들어가니 이상하네요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Good, but now you need the transitions, because an audience can't see your structure unless you tell them where they are. Stand up and try it.",
+        "ko": "좋아요. 그런데 이제 전환이 필요해요. 어디쯤인지 말해 주지 않으면 청중은 구조를 볼 수 없으니까요. 일어나서 해 봐요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'm going to make three points this morning.",
+        "ko": "오늘 아침에 세 가지를 말씀드리겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Okay, keep going.",
+        "ko": "좋아요, 계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me start with a kitchen table, at eleven at night, on the last day of the month.",
+        "ko": "식탁 이야기부터 말씀드리겠습니다. 그달 마지막 날, 밤 11시의 식탁입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Fine. Say you tell her story and land on the number. What comes next?",
+        "ko": "좋아요. 그분 이야기를 하고 숫자까지 갔다고 쳐요. 그다음은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That brings me to the person who signs, because she's the user nobody designs for.",
+        "ko": "그래서 다음은 서명하는 사람입니다. 아무도 그 사람을 위해 설계하지 않는 사용자니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I can hear it moving now. And the third one?",
+        "ko": "이제 흐름이 들리네요. 세 번째는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Now let's turn to what you can do on Monday morning, before you approve another pilot.",
+        "ko": "이제 월요일 아침에 할 수 있는 일로 넘어가겠습니다. 다음 파일럿을 승인하기 전에요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And how are you going to land it?",
+        "ko": "그럼 마무리는 어떻게 할 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "If you remember one thing, build for the person who has to sign.",
+        "ko": "한 가지만 기억하신다면, 서명해야 하는 사람을 위해 만드십시오.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Well, there's your answer for Marcus.",
+        "ko": "자, 그게 Marcus에게 줄 답이네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Daniel, you said we should take a look at the forty-two. Have you?",
+        "ko": "Daniel, 42곳을 한번 봐야 한다고 했었죠. 봤어요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I started on Monday night, so can I show you at eight tomorrow?",
+        "ko": "월요일 밤에 시작했어요. 내일 8시에 보여 드려도 될까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Is there a problem?",
+        "ko": "문제가 있어요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I'd rather show you.",
+        "ko": "직접 보여 드릴게요."
+      }
+    ]
+  }
+}

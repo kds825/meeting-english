@@ -1,0 +1,387 @@
+{
+  "id": "keynote-s2-e14",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 14,
+  "title": "Clean Read",
+  "recapKo": "공급업체 설명회에서 버로우와 오스트렐이 지나간 뒤, 코르베인이 98.6퍼센트 정확도의 데모를 보였다. 재원은 그 숫자가 데이터 묶음의 항목 단위라는 답을 받아 냈고, 틀린 사례는 커피 얼룩으로 웃음이 됐다. 재원은 시티의 지난달 양식을 내밀었다. 웨이링이 찻잔을 내려놓았고, 4초 동안 화면은 비어 있었다.",
+  "keyExpressions": [
+    {
+      "phrase": "What's your track record on ~?",
+      "meaningKo": "~에 대한 실적은 어떻습니까?",
+      "usage": "What's your track record on projects of this size?"
+    },
+    {
+      "phrase": "Before we commit, ~",
+      "meaningKo": "확정하기 전에 ~",
+      "usage": "Before we commit, I'd like to speak to one of your customers."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 204,
+      "paragraphs": [
+        {
+          "en": "Then the screen filled in: carrier, container number, count, and every seven correct. \"Well,\" Arjun said, which was high praise. Wei Ling pointed at one empty box and asked, \"Where's the code?\" \"It isn't in the data pack, but it's easy to add,\" Cole said.",
+          "ko": "그때 화면이 채워졌다. 운송사, 컨테이너 번호, 수량, 그리고 7자가 전부 맞았다. \"흠.\" 아르준이 말했는데, 그에게는 큰 칭찬이었다. 웨이링이 빈칸 하나를 가리키며 물었다. \"코드는 어디 있죠?\" \"데이터 묶음에 없어서요. 추가하는 건 쉽습니다.\" 콜이 말했다."
+        },
+        {
+          "en": "Jae-won asked Ethan, \"What's your track record on month-end?\" After two seconds, Ethan said, \"Every customer's first month-end teaches us something.\" Nobody else at the table wrote that down.",
+          "ko": "재원이 이선에게 물었다. \"월말에 대한 실적은 어떻습니까?\" 2초 뒤 이선이 말했다. \"어느 고객이든 첫 월말에는 배우는 게 있죠.\" 테이블의 다른 누구도 그 말을 적지 않았다."
+        },
+        {
+          "en": "After the vendors left, Grace said, \"Corvane.\" \"Before we commit, I want Corvane and Ostrel on a thousand real documents,\" Jae-won said. \"The risk we see is that one form isn't a test.\" Grace gave him until the end of next week.",
+          "ko": "공급업체들이 나가자 그레이스가 말했다. \"코르베인.\" \"확정하기 전에 코르베인과 오스트렐을 실제 서류 1,000건으로 시험하고 싶습니다.\" 재원이 말했다. \"저희가 보는 위험은 양식 한 장은 시험이 아니라는 점입니다.\" 그레이스는 다음 주 말까지 시간을 주었다."
+        },
+        {
+          "en": "Ethan was waiting by the lifts. \"Nobody asks that question by accident,\" he said. \"I kept my promise,\" Jae-won said, and then he asked if those three customers were fixed. Ethan pressed the button. \"Bring me the worst thousand you've got,\" he said, \"and then ask me again.\"",
+          "ko": "이선이 엘리베이터 앞에서 기다리고 있었다. \"그런 질문을 우연히 하는 사람은 없죠.\" 그가 말했다. \"약속은 지켰습니다.\" 재원은 그렇게 말하고, 그 고객 3곳의 문제는 해결됐느냐고 물었다. 이선이 버튼을 눌렀다. \"가장 나쁜 1,000건을 가져오세요.\" 그가 말했다. \"그러고 나서 다시 물으세요.\""
+        },
+        {
+          "en": "Daniel and Siti chose the thousand, six hundred from days and four hundred from nights. Late on Tuesday, a message came from Daniel. \"Corvane's run is finished, so don't read this on your phone, just come to Tuas,\" it said.",
+          "ko": "대니얼과 시티가 1,000건을 골랐다. 주간조 600건, 야간조 400건이었다. 화요일 늦게 대니얼의 메시지가 왔다. \"코르베인 시험이 끝났어요. 전화기로 보지 말고 투아스로 오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's your track record on",
+        "Before we commit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "high praise",
+          "surface": "high praise",
+          "meaningKo": "큰 칭찬",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Well,\" Arjun said, which was high praise.",
+            "ko": "\"흠.\" 아르준이 말했는데, 그에게는 큰 칭찬이었다."
+          }
+        },
+        {
+          "term": "month-end",
+          "surface": "month-end",
+          "meaningKo": "월말 (결산)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won asked Ethan, \"What's your track record on month-end?\"",
+            "ko": "재원이 이선에게 물었다. \"월말에 대한 실적은 어떻습니까?\""
+          }
+        },
+        {
+          "term": "test",
+          "surface": "test",
+          "meaningKo": "시험, 검증",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The risk we see is that one form isn't a test.\"",
+            "ko": "\"저희가 보는 위험은 양식 한 장은 시험이 아니라는 점입니다.\""
+          }
+        },
+        {
+          "term": "by accident",
+          "surface": "by accident",
+          "meaningKo": "우연히",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Nobody asks that question by accident,\" he said.",
+            "ko": "\"그런 질문을 우연히 하는 사람은 없죠.\""
+          }
+        },
+        {
+          "term": "lift",
+          "surface": "lifts",
+          "meaningKo": "엘리베이터",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan was waiting by the lifts.",
+            "ko": "이선이 엘리베이터 앞에서 기다리고 있었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 321,
+      "paragraphs": [
+        {
+          "en": "Then the screen filled in: carrier, container number, count, and every seven correct. \"Well,\" Arjun said, which was high praise, and two score sheets moved at once. Wei Ling walked to the screen, pointed at one empty box and asked, \"Where's the code?\" \"It isn't in the data pack, but it's easy to add,\" Cole said. She went back to her chair and picked up her tea without marking her sheet.",
+          "ko": "그때 화면이 채워졌다. 운송사, 컨테이너 번호, 수량, 그리고 7자가 전부 맞았다. \"흠.\" 아르준이 말했는데, 그에게는 큰 칭찬이었고 채점표 두 장이 동시에 움직였다. 웨이링이 화면으로 걸어가 빈칸 하나를 가리키며 물었다. \"코드는 어디 있죠?\" \"데이터 묶음에 없어서요. 추가하는 건 쉽습니다.\" 콜이 말했다. 그녀는 채점표에 아무 표시도 하지 않고 의자로 돌아가 찻잔을 들었다."
+        },
+        {
+          "en": "Jae-won asked Ethan, \"What's your track record on month-end?\" It sounded like a routine question, and only one person in the room knew it wasn't. After two seconds, Ethan said, \"Every customer's first month-end teaches us something.\" Nobody else at the table wrote that down.",
+          "ko": "재원이 이선에게 물었다. \"월말에 대한 실적은 어떻습니까?\" 평범한 질문처럼 들렸고, 그렇지 않다는 걸 아는 사람은 방 안에 한 명뿐이었다. 2초 뒤 이선이 말했다. \"어느 고객이든 첫 월말에는 배우는 게 있죠.\" 테이블의 다른 누구도 그 말을 적지 않았다."
+        },
+        {
+          "en": "After the vendors left, Arjun read out the prices: Verrow a hundred and twenty thousand dollars a year, Corvane a hundred and eighty, Ostrel two hundred and twenty. Grace said, \"Corvane, and I'd like it signed by Monday.\" \"Before we commit, I want Corvane and Ostrel on a thousand real documents, as we agreed,\" Jae-won said. \"The risk we see is that one form isn't a test.\" Grace looked at him for a moment and gave him until the end of next week.",
+          "ko": "공급업체들이 나가자 아르준이 가격을 읽었다. 버로우 연 12만 달러, 코르베인 18만, 오스트렐 22만이었다. 그레이스가 말했다. \"코르베인으로 하고, 월요일까지 서명했으면 합니다.\" \"확정하기 전에 합의한 대로 코르베인과 오스트렐을 실제 서류 1,000건으로 시험하고 싶습니다.\" 재원이 말했다. \"저희가 보는 위험은 양식 한 장은 시험이 아니라는 점입니다.\" 그레이스는 잠시 그를 바라보더니 다음 주 말까지 시간을 주었다."
+        },
+        {
+          "en": "Ethan was waiting by the lifts with his jacket over his arm. \"Nobody asks that question by accident,\" he said. \"I kept my promise, and it's a question anyone could ask,\" Jae-won said, and then he asked if those three customers were fixed. Ethan pressed the button and watched the numbers come down. \"Bring me the worst thousand you've got,\" he said, \"and then ask me again.\"",
+          "ko": "이선이 재킷을 팔에 걸치고 엘리베이터 앞에서 기다리고 있었다. \"그런 질문을 우연히 하는 사람은 없죠.\" 그가 말했다. \"약속은 지켰고, 누구나 할 수 있는 질문입니다.\" 재원은 그렇게 말하고, 그 고객 3곳의 문제는 해결됐느냐고 물었다. 이선이 버튼을 누르고 내려오는 숫자를 바라보았다. \"가장 나쁜 1,000건을 가져오세요.\" 그가 말했다. \"그러고 나서 다시 물으세요.\""
+        },
+        {
+          "en": "Daniel and Siti chose the thousand, six hundred from days and four hundred from nights, none of them from the data pack's month. Late on Tuesday, when Jae-won was still at head office, a message came from Daniel. \"Corvane's run is finished, so don't read this on your phone, just come to Tuas,\" it said.",
+          "ko": "대니얼과 시티가 1,000건을 골랐다. 주간조 600건, 야간조 400건이었고, 데이터 묶음의 달에서 나온 것은 하나도 없었다. 화요일 늦게, 재원이 아직 본사에 있을 때 대니얼의 메시지가 왔다. \"코르베인 시험이 끝났어요. 전화기로 보지 말고 투아스로 오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's your track record on",
+        "Before we commit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "routine",
+          "surface": "routine",
+          "meaningKo": "평범한, 일상적인",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It sounded like a routine question, and only one person in the room knew it wasn't.",
+            "ko": "평범한 질문처럼 들렸고, 그렇지 않다는 걸 아는 사람은 방 안에 한 명뿐이었다."
+          }
+        },
+        {
+          "term": "read out",
+          "surface": "read out",
+          "meaningKo": "소리 내어 읽다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "After the vendors left, Arjun read out the prices: Verrow a hundred and twenty thousand dollars a year, Corvane a hundred and eighty, Ostrel two hundred and twenty.",
+            "ko": "공급업체들이 나가자 아르준이 가격을 읽었다. 버로우 연 12만 달러, 코르베인 18만, 오스트렐 22만이었다."
+          }
+        },
+        {
+          "term": "sign",
+          "surface": "signed",
+          "meaningKo": "서명하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Grace said, \"Corvane, and I'd like it signed by Monday.\"",
+            "ko": "\"코르베인으로 하고, 월요일까지 서명했으면 합니다.\""
+          }
+        },
+        {
+          "term": "press",
+          "surface": "pressed",
+          "meaningKo": "누르다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan pressed the button and watched the numbers come down.",
+            "ko": "이선이 버튼을 누르고 내려오는 숫자를 바라보았다."
+          }
+        },
+        {
+          "term": "run",
+          "surface": "run",
+          "meaningKo": "(시험) 가동",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Corvane's run is finished, so don't read this on your phone, just come to Tuas,\" it said.",
+            "ko": "\"코르베인 시험이 끝났어요. 전화기로 보지 말고 투아스로 오세요.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 457,
+      "paragraphs": [
+        {
+          "en": "Then the screen filled in: carrier, container number, count, and every seven correct, including the one that the whole day shift at Tuas had been phoning carriers about for years. \"Well,\" Arjun said, which was high praise, and two score sheets moved at once. Wei Ling walked to the screen, pointed at one empty box and asked, \"Where's the code?\" \"It isn't in the data pack, but it's easy to add,\" Cole said, with the confidence of someone who had never needed it. She went back to her chair and picked up her tea without marking her sheet, a silence that Jae-won was starting to be able to read.",
+          "ko": "그때 화면이 채워졌다. 운송사, 컨테이너 번호, 수량, 그리고 7자가 전부 맞았다. 투아스 주간조 전체가 몇 년째 운송사에 전화해 묻던 바로 그 7자까지였다. \"흠.\" 아르준이 말했는데, 그에게는 큰 칭찬이었고 채점표 두 장이 동시에 움직였다. 웨이링이 화면으로 걸어가 빈칸 하나를 가리키며 물었다. \"코드는 어디 있죠?\" \"데이터 묶음에 없어서요. 추가하는 건 쉽습니다.\" 콜이 그것이 필요했던 적 없는 사람의 자신감으로 말했다. 그녀는 채점표에 아무 표시도 하지 않고 의자로 돌아가 찻잔을 들었다. 재원이 조금씩 읽을 수 있게 된 침묵이었다."
+        },
+        {
+          "en": "Jae-won asked Ethan, \"What's your track record on month-end?\" It sounded like a routine question, the kind that sits on every procurement checklist between uptime and data residency, and only one person in the room knew it wasn't. Ethan waited two seconds, which from him was a long time. \"Every customer's first month-end teaches us something,\" he said, and the sentence was so graceful that nobody else at the table wrote it down.",
+          "ko": "재원이 이선에게 물었다. \"월말에 대한 실적은 어떻습니까?\" 가동률과 데이터 보관 위치 사이에 어느 구매 점검표에나 있는 평범한 질문처럼 들렸고, 그렇지 않다는 걸 아는 사람은 방 안에 한 명뿐이었다. 이선은 2초를 기다렸는데, 그에게는 긴 시간이었다. \"어느 고객이든 첫 월말에는 배우는 게 있죠.\" 그가 말했다. 문장이 어찌나 매끄러운지 테이블의 다른 누구도 그것을 적지 않았다."
+        },
+        {
+          "en": "After the vendors left, Arjun read out the prices: Verrow a hundred and twenty thousand dollars a year, Corvane a hundred and eighty, Ostrel two hundred and twenty. Grace said, \"Corvane, and I'd like it signed by Monday, because I have a board that reads calendars.\" \"Before we commit, I want Corvane and Ostrel on a thousand real documents, as we agreed,\" Jae-won said, aware of how it sounded a quarter of an hour after a miracle. \"The risk we see is that one form isn't a test.\" Grace looked at him for a moment, in the way she had once looked at a printed program, and gave him until the end of next week.",
+          "ko": "공급업체들이 나가자 아르준이 가격을 읽었다. 버로우 연 12만 달러, 코르베인 18만, 오스트렐 22만이었다. 그레이스가 말했다. \"코르베인으로 하고, 월요일까지 서명했으면 합니다. 달력을 읽는 이사회가 있거든요.\" \"확정하기 전에 합의한 대로 코르베인과 오스트렐을 실제 서류 1,000건으로 시험하고 싶습니다.\" 재원이 말했다. 기적이 일어난 지 15분 뒤에 그 말이 어떻게 들리는지 그도 알았다. \"저희가 보는 위험은 양식 한 장은 시험이 아니라는 점입니다.\" 그레이스는 언젠가 인쇄 프로그램을 보던 그 눈으로 잠시 그를 바라보더니 다음 주 말까지 시간을 주었다."
+        },
+        {
+          "en": "Ethan was waiting by the lifts with his jacket over his arm, as if the corridor were an extension of the agenda. \"Nobody asks that question by accident,\" he said, without rancor. \"I kept my promise, and it's a question anyone could ask,\" Jae-won said, and then he asked if those three customers were fixed, which was not a question anyone could ask. Ethan pressed the button and watched the numbers come down. \"Bring me the worst thousand you've got,\" he said, \"and then ask me again.\"",
+          "ko": "이선이 재킷을 팔에 걸치고 엘리베이터 앞에서 기다리고 있었다. 복도까지 안건의 연장인 듯했다. \"그런 질문을 우연히 하는 사람은 없죠.\" 그가 앙금 없이 말했다. \"약속은 지켰고, 누구나 할 수 있는 질문입니다.\" 재원은 그렇게 말하고, 그 고객 3곳의 문제는 해결됐느냐고 물었다. 그건 누구나 할 수 있는 질문이 아니었다. 이선이 버튼을 누르고 내려오는 숫자를 바라보았다. \"가장 나쁜 1,000건을 가져오세요.\" 그가 말했다. \"그러고 나서 다시 물으세요.\""
+        },
+        {
+          "en": "Daniel and Siti chose the thousand, six hundred from days and four hundred from nights, none of them from the data pack's month, and Siti took some pleasure in the selection. Late on Tuesday, when Jae-won was still at head office, a message came from Daniel, who had stopped using full sentences around the second night. \"Corvane's run is finished, so don't read this on your phone, just come to Tuas,\" it said.",
+          "ko": "대니얼과 시티가 1,000건을 골랐다. 주간조 600건, 야간조 400건이었고, 데이터 묶음의 달에서 나온 것은 하나도 없었으며, 시티는 고르는 일을 꽤 즐겼다. 화요일 늦게, 재원이 아직 본사에 있을 때 둘째 밤쯤부터 온전한 문장을 쓰지 않게 된 대니얼의 메시지가 왔다. \"코르베인 시험이 끝났어요. 전화기로 보지 말고 투아스로 오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's your track record on",
+        "Before we commit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "procurement",
+          "surface": "procurement",
+          "meaningKo": "구매, 조달",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It sounded like a routine question, the kind that sits on every procurement checklist between uptime and data residency, and only one person in the room knew it wasn't.",
+            "ko": "가동률과 데이터 보관 위치 사이에 어느 구매 점검표에나 있는 평범한 질문처럼 들렸고, 그렇지 않다는 걸 아는 사람은 방 안에 한 명뿐이었다."
+          }
+        },
+        {
+          "term": "uptime",
+          "surface": "uptime",
+          "meaningKo": "가동률, 가동 시간",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It sounded like a routine question, the kind that sits on every procurement checklist between uptime and data residency, and only one person in the room knew it wasn't.",
+            "ko": "가동률과 데이터 보관 위치 사이에 어느 구매 점검표에나 있는 평범한 질문처럼 들렸고, 그렇지 않다는 걸 아는 사람은 방 안에 한 명뿐이었다."
+          }
+        },
+        {
+          "term": "graceful",
+          "surface": "graceful",
+          "meaningKo": "매끄러운, 우아한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Every customer's first month-end teaches us something,\" he said, and the sentence was so graceful that nobody else at the table wrote it down.",
+            "ko": "\"어느 고객이든 첫 월말에는 배우는 게 있죠.\" 그가 말했다. 문장이 어찌나 매끄러운지 테이블의 다른 누구도 그것을 적지 않았다."
+          }
+        },
+        {
+          "term": "miracle",
+          "surface": "miracle",
+          "meaningKo": "기적",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Before we commit, I want Corvane and Ostrel on a thousand real documents, as we agreed,\" Jae-won said, aware of how it sounded a quarter of an hour after a miracle.",
+            "ko": "\"확정하기 전에 합의한 대로 코르베인과 오스트렐을 실제 서류 1,000건으로 시험하고 싶습니다.\" 재원이 말했다. 기적이 일어난 지 15분 뒤에 그 말이 어떻게 들리는지 그도 알았다."
+          }
+        },
+        {
+          "term": "rancor",
+          "surface": "rancor",
+          "meaningKo": "앙금, 원한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Nobody asks that question by accident,\" he said, without rancor.",
+            "ko": "\"그런 질문을 우연히 하는 사람은 없죠.\" 그가 앙금 없이 말했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Who chose the thousand documents for the test?",
+      "options": [
+        "Grace and Arjun",
+        "Ethan and Cole",
+        "Joanne and Wei Ling",
+        "Daniel and Siti"
+      ],
+      "answerIndex": 3,
+      "evidence": "Daniel and Siti chose the thousand"
+    },
+    {
+      "question": "What does Ethan's remark by the lifts suggest?",
+      "options": [
+        "He thinks Jae-won asked about month-end because of what he privately knows",
+        "He has decided to withdraw Corvane",
+        "He thinks Grace wrote the question",
+        "He didn't understand the question"
+      ],
+      "answerIndex": 0,
+      "evidence": "Nobody asks that question by accident"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What's your track record on month-end?",
+      "Before we commit, I want Corvane and Ostrel on a thousand real documents.",
+      "The risk we see is that one form isn't a test."
+    ],
+    "summaryPromptKo": "데모에서 시티의 양식이 어떻게 됐는지, 그레이스가 무엇을 원했고 재원이 뭐라고 답했는지, 이선이 복도에서 뭐라고 했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "You just watched it read a night-shift form perfectly, in front of my whole team. Why are you asking me to wait?",
+      "ko": "야간조 양식을 완벽하게 읽는 걸 우리 팀 전체 앞에서 봤잖아요. 왜 기다리라는 거죠?"
+    },
+    "modelAnswer": "Because it read one form, and I won't pretend that isn't impressive. But your slide depends on nine thousand four hundred documents, not one. Before we commit, I want Corvane and Ostrel on a thousand real ones, picked by the people who wrote them. It costs you about a week. If Corvane is as good as it looked today, you'll have proof for your board, and I'll be the first to say so."
+  },
+  "nextTeaserKo": "화요일 밤, 투아스. 대니얼이 돌려놓은 화면에는 98.6과 전혀 다른 숫자가 있다. 그런데 시티의 양식은 왜 완벽하게 읽혔을까. 재원은 코르베인에 전화를 건다.",
+  "roleplay": {
+    "title": "기적 15분 뒤",
+    "situationKo": "데모가 끝나고 방 안의 분위기는 코르베인 쪽으로 기울었습니다. 그레이스의 기대를 꺾는 말을 해야 하는 자리예요. 근거만 차분히 말하면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Verrow, a hundred and twenty thousand a year. Corvane, a hundred and eighty. Ostrel, two hundred and twenty.",
+        "ko": "버로우 연 12만, 코르베인 18만, 오스트렐 22만입니다."
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Corvane. I'd like it signed by Monday.",
+        "ko": "코르베인으로 하죠. 월요일까지 서명했으면 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Before we commit, I want Corvane and Ostrel on a thousand real documents, as we agreed.",
+        "ko": "확정하기 전에 합의한 대로 코르베인과 오스트렐을 실제 서류 1,000건으로 시험하고 싶습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "You saw it read that form. Every seven.",
+        "ko": "그 양식 읽는 거 봤잖아요. 7자까지 전부요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I did. The risk we see is that one form isn't a test.",
+        "ko": "봤습니다. 저희가 보는 위험은 양식 한 장은 시험이 아니라는 점입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "It also left the code box empty.",
+        "ko": "코드 칸도 비어 있었고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Yes. Thank you, Wei Ling. And I still need an answer on month-end.",
+        "ko": "네. 고맙습니다, 웨이링. 그리고 월말에 대한 답도 아직 못 들었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "You have until the end of next week.",
+        "ko": "다음 주 말까지 시간을 드리죠."
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Nobody asks that question by accident.",
+        "ko": "그런 질문을 우연히 하는 사람은 없죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I kept my promise, Ethan. It's a question anyone could ask. Are those three customers fixed?",
+        "ko": "약속은 지켰습니다, 이선. 누구나 할 수 있는 질문이에요. 그 고객 3곳은 해결됐습니까?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Bring me the worst thousand you've got, and then ask me again.",
+        "ko": "가장 나쁜 1,000건을 가져오세요. 그러고 나서 다시 물으세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We will. What's your track record on month-end, though? I'd still like that answered.",
+        "ko": "그러죠. 그런데 월말에 대한 실적은 어떻습니까? 그 답은 여전히 듣고 싶습니다.",
+        "you": true
+      }
+    ]
+  }
+}

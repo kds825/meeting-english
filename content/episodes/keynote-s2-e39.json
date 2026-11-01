@@ -1,0 +1,407 @@
+{
+  "id": "keynote-s2-e39",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 39,
+  "title": "Handover",
+  "recapKo": "\"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 재원은 헬렌의 질문에 그렇게 답했고, 대니얼이 틀리면 \"말은 그의 것, 전화는 제 것\"이라고 했다. 투표는 3대 2, 1월부터 파트너다. 권 파트너는 자기가 반대표였다고 말하고 악수했다. 목요일 밤 대니얼의 메시지가 왔다. 20주 차 숫자가 두 개라고.",
+  "keyExpressions": [
+    {
+      "phrase": "For the record, ~",
+      "meaningKo": "분명히 해 두자면, ~",
+      "usage": "For the record, the delay started before we joined."
+    },
+    {
+      "phrase": "We came in at ~",
+      "meaningKo": "결과는 ~로 나왔습니다",
+      "usage": "We came in at eleven percent, just under the limit."
+    },
+    {
+      "phrase": "Where do we go from here?",
+      "meaningKo": "앞으로 어떻게 할까요?",
+      "usage": "We've agreed on the problem. Where do we go from here?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 209,
+      "paragraphs": [
+        {
+          "en": "On Thursday night, Daniel put two pages on the canteen table. By the contract, the month came to nineteen hundred and forty, under the target of two thousand, so the bonus was safe. But on Siti's list, the new readers had typed a hundred and thirty forms again, and with them it was twenty seventy.",
+          "ko": "목요일 밤, 대니얼이 구내식당 탁자에 종이 두 장을 놓았다. 계약 기준으로 그달은 1,940건이었고, 목표 2,000건 아래였으니 성과금은 안전했다. 하지만 시티의 목록을 보면 새 판독자들이 130장을 다시 입력했고, 그것까지 넣으면 2,070건이었다."
+        },
+        {
+          "en": "\"Send the contract number, and only that,\" Baek said from Seoul. \"Who else needs to see this?\" Jae-won asked himself. At seven, he sent both numbers to Grace, Arjun and Wei Ling in the same minute.",
+          "ko": "\"계약 숫자만 보내세요.\" 백준호가 서울에서 말했다. \"이걸 또 누가 봐야 하지?\" 재원이 자문했다. 7시에 그는 두 숫자를 그레이스, 아르준, 웨이링에게 같은 분에 보냈다."
+        },
+        {
+          "en": "\"Why did you send me the second one?\" Arjun asked at nine. \"We came in at nineteen forty, by the contract,\" Jae-won said. \"For the record, you'll plan your costs on twenty seventy, because it's true.\" \"I pay on the contract, so you'll have it in thirty days,\" Arjun said. Wei Ling, who had added the day teams one by one, crossed out \"Nights only.\"",
+          "ko": "\"왜 두 번째 숫자를 보냈습니까?\" 9시에 아르준이 물었다. \"계약 기준으로 결과는 1,940건입니다.\" 재원이 말했다. \"분명히 해 두자면, 원가 계획은 2,070건으로 세우시게 될 겁니다. 그게 사실이니까요.\" \"저는 계약대로 지급하니 30일 안에 받으실 겁니다.\" 아르준이 말했다. 주간 팀들을 하나씩 추가해 온 웨이링이 \"야간조에 한함\"에 줄을 그었다."
+        },
+        {
+          "en": "Rahim opened his folder at last. \"Where do we go from here?\" Jae-won asked. \"Port Klang, then Jakarta, with you running it, and I want an answer on Monday,\" Grace said. That night, Anders sent a message: \"I'd still hire you.\" Then Daniel knocked on his door and said, \"I want Port Klang.\"",
+          "ko": "라힘이 마침내 폴더를 열었다. \"앞으로 어떻게 할까요?\" 재원이 물었다. \"포트 클랑, 그다음 자카르타요. 당신이 맡았으면 하고, 월요일에 답을 주세요.\" 그레이스가 말했다. 그날 밤 앤더스의 메시지가 왔다. \"여전히 채용하고 싶습니다.\" 그때 대니얼이 그의 문을 두드리고 말했다. \"포트 클랑을 제가 하고 싶어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "For the record",
+        "We came in at",
+        "Where do we go from here?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "target",
+          "surface": "target",
+          "meaningKo": "목표",
+          "paragraph": 0,
+          "sentence": {
+            "en": "By the contract, the month came to nineteen hundred and forty, under the target of two thousand, so the bonus was safe.",
+            "ko": "계약 기준으로 그달은 1,940건이었고, 목표 2,000건 아래였으니 성과금은 안전했다."
+          }
+        },
+        {
+          "term": "bonus",
+          "surface": "bonus",
+          "meaningKo": "성과금",
+          "paragraph": 0,
+          "sentence": {
+            "en": "By the contract, the month came to nineteen hundred and forty, under the target of two thousand, so the bonus was safe.",
+            "ko": "계약 기준으로 그달은 1,940건이었고, 목표 2,000건 아래였으니 성과금은 안전했다."
+          }
+        },
+        {
+          "term": "reader",
+          "surface": "readers",
+          "meaningKo": "판독자",
+          "paragraph": 0,
+          "sentence": {
+            "en": "But on Siti's list, the new readers had typed a hundred and thirty forms again, and with them it was twenty seventy.",
+            "ko": "하지만 시티의 목록을 보면 새 판독자들이 130장을 다시 입력했고, 그것까지 넣으면 2,070건이었다."
+          }
+        },
+        {
+          "term": "cross out",
+          "surface": "crossed out",
+          "meaningKo": "줄을 그어 지우다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Wei Ling, who had added the day teams one by one, crossed out \"Nights only.\"",
+            "ko": "주간 팀들을 하나씩 추가해 온 웨이링이 \"야간조에 한함\"에 줄을 그었다."
+          }
+        },
+        {
+          "term": "knock",
+          "surface": "knocked",
+          "meaningKo": "두드리다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Then Daniel knocked on his door and said, \"I want Port Klang.\"",
+            "ko": "그때 대니얼이 그의 문을 두드리고 말했다. \"포트 클랑을 제가 하고 싶어요.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 327,
+      "paragraphs": [
+        {
+          "en": "At eleven on Thursday night, Daniel put two pages on the canteen table. By the definition on Priscilla's one page, counting the three weeks that included month-end and scaling up, the month came to nineteen hundred and forty, against a target of two thousand, so the bonus was safe. Then he pointed to Siti's list, on which the new readers had typed a hundred and thirty forms again before they left the dock. The contract only counted the teams downstream, but with those forms, it was twenty seventy. \"Nobody is lying if you send the first one,\" Daniel said.",
+          "ko": "목요일 밤 11시, 대니얼이 구내식당 탁자에 종이 두 장을 놓았다. 프리실라의 한 장에 적힌 정의로, 월말이 포함된 3주를 세어 한 달로 환산하면 1,940건이었고, 목표는 2,000건이었으니 성과금은 안전했다. 그러고는 시티의 목록을 가리켰다. 거기에는 새 판독자들이 도크를 떠나기 전에 130장을 다시 입력한 것이 적혀 있었다. 계약은 뒤 단계 팀만 셌지만, 그 양식까지 넣으면 2,070건이었다. \"첫 번째 숫자를 보내도 아무도 거짓말하는 게 아니에요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "Baek called from Seoul, wide awake, and told him to send the contract number and only that. \"Who else needs to see this?\" Jae-won asked himself, and the answer took about as long as Priya's three seconds. At seven, he sent both numbers to Grace, Arjun and Wei Ling in the same minute.",
+          "ko": "백준호가 말짱한 정신으로 서울에서 전화해 계약 숫자만 보내라고 했다. \"이걸 또 누가 봐야 하지?\" 재원이 자문했고, 답은 프리야의 3초만큼 걸렸다. 7시에 그는 두 숫자를 그레이스, 아르준, 웨이링에게 같은 분에 보냈다."
+        },
+        {
+          "en": "At nine, Arjun put the page on the table, tapped the second line, and asked why he had sent it. \"We came in at nineteen forty, by the contract's definition,\" Jae-won said. \"For the record, you'll be planning your costs on twenty seventy, because that's what your people are actually typing.\" \"I pay on the contract, so you'll have it in thirty days, and I'm using your second number,\" he said. Wei Ling, who had been adding the day teams beside her name one at a time, found page thirty-one and crossed out \"Nights only.\"",
+          "ko": "9시에 아르준이 종이를 탁자에 놓고 둘째 줄을 두드리며 왜 이걸 보냈느냐고 물었다. \"계약 정의로 결과는 1,940건입니다.\" 재원이 말했다. \"분명히 해 두자면, 원가 계획은 2,070건으로 세우시게 될 겁니다. 직원들이 실제로 입력하는 게 그거니까요.\" \"저는 계약대로 지급하니 30일 안에 받으실 겁니다. 그리고 숫자는 두 번째 걸 쓰겠습니다.\" 그가 말했다. 주간 팀들을 이름 옆에 하나씩 추가해 온 웨이링이 31쪽을 찾아 \"야간조에 한함\"에 줄을 그었다."
+        },
+        {
+          "en": "Rahim, who had waited eight weeks, opened his folder at last. \"Where do we go from here?\" Jae-won asked. \"Port Klang, then Jakarta, with you running it on the floor, and I want an answer on Monday,\" Grace said. That night, Anders sent a message that said only, \"I'd still hire you,\" and Kwon sent one that said, \"Sign it.\" Then Daniel knocked on his door. \"I want Port Klang, and I already know what I'd put down,\" he said.",
+          "ko": "8주를 기다린 라힘이 마침내 폴더를 열었다. \"앞으로 어떻게 할까요?\" 재원이 물었다. \"포트 클랑, 그다음 자카르타요. 당신이 현장에서 맡았으면 하고, 월요일에 답을 주세요.\" 그레이스가 말했다. 그날 밤 앤더스는 \"여전히 채용하고 싶습니다\"라고만 적어 보냈고, 권 파트너는 \"서명하세요\"라고 보냈다. 그때 대니얼이 그의 문을 두드렸다. \"포트 클랑을 제가 하고 싶어요. 뭘 내려놓을지도 이미 압니다.\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "For the record",
+        "We came in at",
+        "Where do we go from here?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "definition",
+          "surface": "definition",
+          "meaningKo": "정의",
+          "paragraph": 0,
+          "sentence": {
+            "en": "By the definition on Priscilla's one page, counting the three weeks that included month-end and scaling up, the month came to nineteen hundred and forty, against a target of two thousand, so the bonus was safe.",
+            "ko": "프리실라의 한 장에 적힌 정의로, 월말이 포함된 3주를 세어 한 달로 환산하면 1,940건이었고, 목표는 2,000건이었으니 성과금은 안전했다."
+          }
+        },
+        {
+          "term": "scale up",
+          "surface": "scaling up",
+          "meaningKo": "환산하다, 확대하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "By the definition on Priscilla's one page, counting the three weeks that included month-end and scaling up, the month came to nineteen hundred and forty, against a target of two thousand, so the bonus was safe.",
+            "ko": "프리실라의 한 장에 적힌 정의로, 월말이 포함된 3주를 세어 한 달로 환산하면 1,940건이었고, 목표는 2,000건이었으니 성과금은 안전했다."
+          }
+        },
+        {
+          "term": "downstream",
+          "surface": "downstream",
+          "meaningKo": "뒤 단계의",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The contract only counted the teams downstream, but with those forms, it was twenty seventy.",
+            "ko": "계약은 뒤 단계 팀만 셌지만, 그 양식까지 넣으면 2,070건이었다."
+          }
+        },
+        {
+          "term": "wide awake",
+          "surface": "wide awake",
+          "meaningKo": "말짱하게 깨어 있는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Baek called from Seoul, wide awake, and told him to send the contract number and only that.",
+            "ko": "백준호가 말짱한 정신으로 서울에서 전화해 계약 숫자만 보내라고 했다."
+          }
+        },
+        {
+          "term": "tap",
+          "surface": "tapped",
+          "meaningKo": "가볍게 두드리다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At nine, Arjun put the page on the table, tapped the second line, and asked why he had sent it.",
+            "ko": "9시에 아르준이 종이를 탁자에 놓고 둘째 줄을 두드리며 왜 이걸 보냈느냐고 물었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 458,
+      "paragraphs": [
+        {
+          "en": "At eleven on Thursday night, Daniel put two pages on the canteen table and sat back, as if they might go off. By the definition on Priscilla's one page, counting the three weeks that included month-end and scaling up, the month came to nineteen hundred and forty, against a target of two thousand, which meant that the bonus was safe by a margin nobody could dispute. Then he pointed to Siti's list, on which the new readers had typed a hundred and thirty forms again before they ever left the dock. The contract only counted the teams downstream, for the excellent reason that no reader had existed when it was written, but with those forms, it was twenty seventy. \"Nobody is lying if you send the first one,\" Daniel said.",
+          "ko": "목요일 밤 11시, 대니얼이 구내식당 탁자에 종이 두 장을 놓고 터지기라도 할 듯 몸을 뒤로 뺐다. 프리실라의 한 장에 적힌 정의로, 월말이 포함된 3주를 세어 한 달로 환산하면 1,940건이었고, 목표 2,000건에 대해 아무도 이의를 달 수 없는 차이로 성과금은 안전했다. 그러고는 시티의 목록을 가리켰다. 거기에는 새 판독자들이 도크를 떠나기도 전에 130장을 다시 입력한 것이 적혀 있었다. 계약은 뒤 단계 팀만 셌는데, 작성 당시 판독자가 없었으니 지극히 타당한 이유였다. 하지만 그 양식까지 넣으면 2,070건이었다. \"첫 번째 숫자를 보내도 아무도 거짓말하는 게 아니에요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "Baek called from Seoul, disturbingly wide awake, to convey the view of the firm, which was that the contract number should go out, alone, and with no commentary whatsoever. \"Who else needs to see this?\" Jae-won asked himself, and the answer took about as long as Priya's three seconds. At seven, he sent both numbers to Grace, Arjun and Wei Ling in the same minute.",
+          "ko": "백준호가 불안할 만큼 말짱한 정신으로 서울에서 전화해, 계약 숫자만 아무런 설명 없이 보내야 한다는 회사의 견해를 전했다. \"이걸 또 누가 봐야 하지?\" 재원이 자문했고, 답은 프리야의 3초만큼 걸렸다. 7시에 그는 두 숫자를 그레이스, 아르준, 웨이링에게 같은 분에 보냈다."
+        },
+        {
+          "en": "At nine, Arjun put the page on the table and tapped the second line, as if checking whether it was hollow. \"You've just tried to talk me out of paying you, so why did you send me this?\" he asked. \"We came in at nineteen forty, by the contract's definition, and I'm claiming the bonus,\" Jae-won said. \"For the record, you'll be planning your costs on twenty seventy, because that's what your people are actually typing, and I'd rather you found that out from me.\" Arjun considered him for some time, in the manner of someone auditing an unfamiliar species. \"I pay on the contract, so you'll have it in thirty days, and I'll be using your second number, and you may regard that as a compliment,\" he said. Wei Ling, who had been adding the day teams beside her name one at a time, found page thirty-one and crossed out \"Nights only.\"",
+          "ko": "9시에 아르준이 종이를 탁자에 놓고, 속이 비었는지 확인하듯 둘째 줄을 두드렸다. \"방금 저더러 돈을 내지 말라고 설득한 셈인데, 왜 이걸 보냈습니까?\" 그가 물었다. \"계약 정의로 결과는 1,940건이고, 저는 성과금을 청구합니다.\" 재원이 말했다. \"분명히 해 두자면, 원가 계획은 2,070건으로 세우시게 될 겁니다. 직원들이 실제로 입력하는 게 그거니까요. 그리고 그건 제게서 아시는 편이 낫겠습니다.\" 아르준은 낯선 종을 감사하는 사람의 태도로 한동안 그를 바라봤다. \"저는 계약대로 지급하니 30일 안에 받으실 겁니다. 숫자는 두 번째 걸 쓰겠고, 그걸 칭찬으로 여기셔도 됩니다.\" 그가 말했다. 주간 팀들을 이름 옆에 하나씩 추가해 온 웨이링이 31쪽을 펴고 \"야간조에 한함\"에 줄을 그었다."
+        },
+        {
+          "en": "Rahim, who had waited eight weeks with commendable restraint, opened his folder at last. \"Where do we go from here?\" Jae-won asked. \"Port Klang, then Jakarta, with you running it on the floor, and I want an answer on Monday,\" Grace said. That night, Anders sent a message that said only, \"I'd still hire you,\" and Kwon sent one that said, \"Sign it,\" and for once the two of them seemed to be applying the same kind of pressure. Then Daniel knocked on his door, looking rested for the first time since Seoul. \"I want Port Klang, and before you ask, I already know what I'd put down,\" he said.",
+          "ko": "칭찬할 만한 자제력으로 8주를 기다린 라힘이 마침내 폴더를 열었다. \"앞으로 어떻게 할까요?\" 재원이 물었다. \"포트 클랑, 그다음 자카르타요. 당신이 현장에서 맡았으면 하고, 월요일에 답을 주세요.\" 그레이스가 말했다. 그날 밤 앤더스는 \"여전히 채용하고 싶습니다\"라고만 적어 보냈고, 권 파트너는 \"서명하세요\"라고 보냈으며, 이번만은 두 사람이 같은 종류의 압박을 넣는 듯했다. 그때 대니얼이 서울 이후 처음으로 푹 쉰 얼굴로 그의 문을 두드렸다. \"포트 클랑을 제가 하고 싶어요. 묻기 전에 말씀드리면, 뭘 내려놓을지도 이미 압니다.\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "For the record",
+        "We came in at",
+        "Where do we go from here?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dispute",
+          "surface": "dispute",
+          "meaningKo": "이의를 제기하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "By the definition on Priscilla's one page, counting the three weeks that included month-end and scaling up, the month came to nineteen hundred and forty, against a target of two thousand, which meant that the bonus was safe by a margin nobody could dispute.",
+            "ko": "프리실라의 한 장에 적힌 정의로, 월말이 포함된 3주를 세어 한 달로 환산하면 1,940건이었고, 목표 2,000건에 대해 아무도 이의를 달 수 없는 차이로 성과금은 안전했다."
+          }
+        },
+        {
+          "term": "disturbingly",
+          "surface": "disturbingly",
+          "meaningKo": "불안할 만큼",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Baek called from Seoul, disturbingly wide awake, to convey the view of the firm, which was that the contract number should go out, alone, and with no commentary whatsoever.",
+            "ko": "백준호가 불안할 만큼 말짱한 정신으로 서울에서 전화해, 계약 숫자만 아무런 설명 없이 보내야 한다는 회사의 견해를 전했다."
+          }
+        },
+        {
+          "term": "commentary",
+          "surface": "commentary",
+          "meaningKo": "설명, 논평",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Baek called from Seoul, disturbingly wide awake, to convey the view of the firm, which was that the contract number should go out, alone, and with no commentary whatsoever.",
+            "ko": "백준호가 불안할 만큼 말짱한 정신으로 서울에서 전화해, 계약 숫자만 아무런 설명 없이 보내야 한다는 회사의 견해를 전했다."
+          }
+        },
+        {
+          "term": "hollow",
+          "surface": "hollow",
+          "meaningKo": "속이 빈",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At nine, Arjun put the page on the table and tapped the second line, as if checking whether it was hollow.",
+            "ko": "9시에 아르준이 종이를 탁자에 놓고, 속이 비었는지 확인하듯 둘째 줄을 두드렸다."
+          }
+        },
+        {
+          "term": "talk out of",
+          "surface": "talk me out of",
+          "meaningKo": "~하지 말라고 설득하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"You've just tried to talk me out of paying you, so why did you send me this?\" he asked.",
+            "ko": "\"방금 저더러 돈을 내지 말라고 설득한 셈인데, 왜 이걸 보냈습니까?\" 그가 물었다."
+          }
+        },
+        {
+          "term": "compliment",
+          "surface": "compliment",
+          "meaningKo": "칭찬",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I pay on the contract, so you'll have it in thirty days, and I'll be using your second number, and you may regard that as a compliment,\" he said.",
+            "ko": "\"저는 계약대로 지급하니 30일 안에 받으실 겁니다. 숫자는 두 번째 걸 쓰겠고, 그걸 칭찬으로 여기셔도 됩니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "restraint",
+          "surface": "restraint",
+          "meaningKo": "자제력",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Rahim, who had waited eight weeks with commendable restraint, opened his folder at last.",
+            "ko": "칭찬할 만한 자제력으로 8주를 기다린 라힘이 마침내 폴더를 열었다."
+          }
+        },
+        {
+          "term": "apply pressure",
+          "surface": "applying the same kind of pressure",
+          "meaningKo": "압박을 가하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "That night, Anders sent a message that said only, \"I'd still hire you,\" and Kwon sent one that said, \"Sign it,\" and for once the two of them seemed to be applying the same kind of pressure.",
+            "ko": "그날 밤 앤더스는 \"여전히 채용하고 싶습니다\"라고만 적어 보냈고, 권 파트너는 \"서명하세요\"라고 보냈으며, 이번만은 두 사람이 같은 종류의 압박을 넣는 듯했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the contract number for the month?",
+      "options": [
+        "Two thousand",
+        "Nineteen hundred and forty",
+        "Twenty seventy",
+        "Nine thousand four hundred"
+      ],
+      "answerIndex": 1,
+      "evidence": "nineteen hundred and forty"
+    },
+    {
+      "question": "What does Arjun show by paying on the contract but using the second number?",
+      "options": [
+        "He doesn't trust the contract",
+        "He has decided to end the work",
+        "He keeps the deal as written, and he also treats Jae-won's less flattering figure as the real one",
+        "He wants to lower the bonus"
+      ],
+      "answerIndex": 2,
+      "evidence": "I pay on the contract"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "We came in at nineteen forty, by the contract.",
+      "For the record, you'll plan your costs on twenty seventy, because it's true.",
+      "Where do we go from here?"
+    ],
+    "summaryPromptKo": "숫자가 왜 두 개였는지, 재원이 무엇을 보냈는지, 아르준과 웨이링이 어떻게 했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "You could have sent one number and said nothing. Why did you send me the second one?",
+      "ko": "숫자 하나만 보내고 아무 말도 안 할 수 있었어요. 왜 두 번째 숫자를 보냈습니까?"
+    },
+    "modelAnswer": "Because you'd have found it, and because you need it. We came in at nineteen forty, by the contract's definition, and I'm claiming the bonus. For the record, the new readers typed a hundred and thirty forms again on the dock. The contract doesn't count them, but your costs do. So you should plan on twenty seventy. I'd rather you heard that from me than from your own budget."
+  },
+  "nextTeaserKo": "시즌 2의 마지막 화. 월요일 아침, 재원은 그레이스 앞에 앉는다. 포트 클랑을 직접 맡을까, 앤더스의 제안을 받을까, 아니면 대니얼의 말을 믿고 서명할까. 그리고 그날 밤, 그는 마지막으로 6번 도크에 내려간다.",
+  "roleplay": {
+    "title": "숫자 두 개",
+    "situationKo": "금요일 아침 9시, 성과금이 걸린 자리입니다. 계약은 지키되 불리한 숫자도 스스로 내놓는 장면이에요. 두 숫자가 헷갈려도 괜찮으니 편하게 해 보세요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Nobody is lying if you send the first one.",
+        "ko": "첫 번째 숫자를 보내도 아무도 거짓말하는 게 아니에요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I know. Who else needs to see this?",
+        "ko": "압니다. 이걸 또 누가 봐야 할까요?",
+        "you": true
+      },
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "Send the contract number, and only that.",
+        "ko": "계약 숫자만 보내세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'm sending both, to Grace, Arjun and Wei Ling, in the same minute.",
+        "ko": "둘 다 보내겠습니다. 그레이스, 아르준, 웨이링에게 같은 분에요.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Why did you send me the second one?",
+        "ko": "왜 두 번째 숫자를 보냈습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We came in at nineteen forty, by the contract's definition, and I'm claiming the bonus.",
+        "ko": "계약 정의로 결과는 1,940건이고, 저는 성과금을 청구합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Then what's this twenty seventy?",
+        "ko": "그럼 이 2,070은 뭡니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "For the record, that's what your people are actually typing. You'll plan your costs on it.",
+        "ko": "분명히 해 두자면, 직원들이 실제로 입력하는 숫자입니다. 원가 계획은 그걸로 세우시게 될 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "I pay on the contract. You'll have it in thirty days, and I'm using your second number.",
+        "ko": "저는 계약대로 지급합니다. 30일 안에 받으실 거고, 숫자는 두 번째 걸 쓰겠습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. Grace, where do we go from here?",
+        "ko": "고맙습니다. 그레이스, 앞으로 어떻게 할까요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Port Klang, then Jakarta. I want you running it, and I want an answer on Monday.",
+        "ko": "포트 클랑, 그다음 자카르타요. 당신이 맡았으면 하고, 월요일에 답을 주세요."
+      }
+    ]
+  }
+}

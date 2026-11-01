@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s2-e25",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "volume": "word-volume.mp3",
+    "pass": "word-pass.mp3",
+    "hold": "word-hold.mp3",
+    "chilled": "word-chilled.mp3",
+    "terminal": "word-terminal.mp3",
+    "dull": "word-dull.mp3",
+    "line": "word-line.mp3",
+    "second check": "word-second-check.mp3",
+    "guess": "word-guess.mp3",
+    "log": "word-log.mp3",
+    "dread": "word-dread.mp3",
+    "anticlimactic": "word-anticlimactic.mp3",
+    "suspiciously": "word-suspiciously.mp3",
+    "rehearse": "word-rehearse.mp3",
+    "forgiving": "word-forgiving.mp3",
+    "reproach": "word-reproach.mp3"
+  },
+  "termClips": {
+    "volume": "term-volume.mp3",
+    "pass": "term-pass.mp3",
+    "hold": "term-hold.mp3",
+    "chilled": "term-chilled.mp3",
+    "terminal": "term-terminal.mp3",
+    "dull": "term-dull.mp3",
+    "line": "term-line.mp3",
+    "second check": "term-second-check.mp3",
+    "guess": "term-guess.mp3",
+    "log": "term-log.mp3",
+    "dread": "term-dread.mp3",
+    "anticlimactic": "term-anticlimactic.mp3",
+    "suspiciously": "term-suspiciously.mp3",
+    "rehearse": "term-rehearse.mp3",
+    "forgiving": "term-forgiving.mp3",
+    "reproach": "term-reproach.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

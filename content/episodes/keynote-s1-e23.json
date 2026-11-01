@@ -1,0 +1,475 @@
+{
+  "id": "keynote-s1-e23",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 23,
+  "title": "The Pre-Call",
+  "recapKo": "마커스는 이선 울프가 재원의 패널에 들어온다고 알리며 내일 9시 사전 콜을 잡았고, 재원은 슬라이드를 넘기지 않는 조건을 받아 냈다. 마감 40분 전, 대니얼이 찾아낸 배지혜의 전화로 27번 행이 확인되어 제목은 그대로 남았다. 재원은 마커스에게 \"보고할 것 없습니다\"라고 보냈고, 답이 왔다. \"이선에게 질문이 하나 있습니다. 마음에 안 들 겁니다.\"",
+  "keyExpressions": [
+    {
+      "phrase": "That's not quite what I said.",
+      "meaningKo": "제가 드린 말씀은 그게 아닙니다.",
+      "usage": "That's not quite what I said. I said the cost is unclear, not that it's high."
+    },
+    {
+      "phrase": "If I could just finish, ~",
+      "meaningKo": "제 말을 마저 끝내자면, ~",
+      "usage": "If I could just finish, there is a second reason we chose this vendor."
+    },
+    {
+      "phrase": "What I can tell you is ~",
+      "meaningKo": "제가 말씀드릴 수 있는 건 ~입니다",
+      "usage": "I don't know the final price, but what I can tell you is that it won't go above budget."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "At seven on Wednesday, Jae-won met Priya above the bakery. Helen's flight to Seattle left at nine, so she would miss the whole call. \"He will interrupt your second sentence, so don't speed up, and finish what you were saying,\" Priya said.",
+          "ko": "수요일 7시, 재원은 빵집 위층에서 프리야를 만났다. 헬렌의 시애틀행 비행기는 9시 출발이라 콜을 통째로 놓칠 터였다. \"두 번째 문장에서 끼어들 테니, 빨라지지 말고 하던 말을 끝내요.\" 프리야가 말했다."
+        },
+        {
+          "en": "At nine, he joined from the ninth floor, with Daniel beside him on mute. Marcus moderated, with two other panelists: Sari Wibowo, a bank CIO from Jakarta, and Tomas Lind, an investor from Stockholm. Ethan joined four minutes late.",
+          "ko": "9시, 그는 9층에서 접속했고 옆에는 대니얼이 음소거로 앉아 있었다. 마커스가 사회를 봤고, 화면에는 다른 패널 두 명이 있었다. 자카르타의 은행 CIO 사리 위보워와 스톡홀름의 투자자 토마스 린드였다. 이선은 4분 늦게 들어왔다."
+        },
+        {
+          "en": "Ethan went first. \"Sign-off is a legacy control,\" he said. \"In three years, machines will reconcile the numbers and people will only clear the exceptions, so the person who signs has a job that is going away.\"",
+          "ko": "이선이 먼저 했다. \"승인은 낡은 통제 수단입니다.\" 그가 말했다. \"3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 테니, 서명하는 사람의 일은 사라져 가는 겁니다.\""
+        },
+        {
+          "en": "Ethan came in after forty seconds of Jae-won's opening. \"So buyers need a consultant to watch a spreadsheet?\" Jae-won kept his pace. \"That's not quite what I said. If I could just finish, someone has to defend the number to an auditor, and today that person is not a machine.\"",
+          "ko": "재원의 첫 발언 40초 만에 이선이 끼어들었다. \"그러니까 구매자들은 스프레드시트를 지켜볼 컨설턴트가 필요하다고요?\" 재원은 속도를 유지했다. \"제가 드린 말씀은 그게 아닙니다. 제 말을 마저 끝내자면, 누군가는 감사인 앞에서 그 숫자를 변호해야 하고, 오늘날 그 사람은 기계가 아닙니다.\""
+        },
+        {
+          "en": "\"Fine, but your data is forty-two Korean companies, and Sari's bank runs in nine countries,\" Ethan said. \"That's a fair challenge, because only six of them operate outside Korea, so I won't give a global rate,\" Jae-won said. \"What I can tell you is where those pilots stopped.\" Sari said her head of finance would agree. Ethan still had his question.",
+          "ko": "\"좋아요. 하지만 당신 데이터는 한국 회사 42곳이고, 사리의 은행은 9개국에서 운영됩니다.\" 이선이 말했다. \"그건 타당한 반론이에요. 42곳 중 한국 밖에서 운영하는 곳은 6곳뿐이라 전 세계 비율은 드리지 않겠습니다.\" 재원이 말했다. \"제가 말씀드릴 수 있는 건 그 파일럿들이 어디서 멈췄는지입니다.\" 사리는 자기 재무 책임자도 동의할 거라고 했다. 이선에게는 아직 그 질문이 남아 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's not quite what I said",
+        "If I could just finish",
+        "What I can tell you is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "on mute",
+          "surface": "on mute",
+          "meaningKo": "음소거 상태로",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At nine, he joined from the ninth floor, with Daniel beside him on mute.",
+            "ko": "9시, 그는 9층에서 접속했고 옆에는 대니얼이 음소거로 앉아 있었다."
+          }
+        },
+        {
+          "term": "legacy",
+          "surface": "legacy control",
+          "meaningKo": "낡은 통제 수단 (legacy: 구시대의)",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sign-off is a legacy control,\" he said.",
+            "ko": "\"승인은 낡은 통제 수단입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "reconcile",
+          "surface": "reconcile",
+          "meaningKo": "(숫자를) 대사하다, 맞춰 보다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"In three years, machines will reconcile the numbers and people will only clear the exceptions, so the person who signs has a job that is going away.\"",
+            "ko": "3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 테니, 서명하는 사람의 일은 사라져 가는 겁니다."
+          }
+        },
+        {
+          "term": "exception",
+          "surface": "exceptions",
+          "meaningKo": "예외 (건)",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"In three years, machines will reconcile the numbers and people will only clear the exceptions, so the person who signs has a job that is going away.\"",
+            "ko": "3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 테니, 서명하는 사람의 일은 사라져 가는 겁니다."
+          }
+        },
+        {
+          "term": "keep one's pace",
+          "surface": "kept his pace",
+          "meaningKo": "속도를 유지하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won kept his pace.",
+            "ko": "재원은 속도를 유지했다."
+          }
+        },
+        {
+          "term": "defend",
+          "surface": "defend the number",
+          "meaningKo": "숫자를 변호하다, 근거를 대고 지키다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If I could just finish, someone has to defend the number to an auditor, and today that person is not a machine.",
+            "ko": "제 말을 마저 끝내자면, 누군가는 감사인 앞에서 그 숫자를 변호해야 하고, 오늘날 그 사람은 기계가 아닙니다."
+          }
+        },
+        {
+          "term": "operate",
+          "surface": "operate",
+          "meaningKo": "운영하다, 사업을 하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"That's a fair challenge, because only six of them operate outside Korea, so I won't give a global rate,\" Jae-won said.",
+            "ko": "\"그건 타당한 반론이에요. 42곳 중 한국 밖에서 운영하는 곳은 6곳뿐이라 전 세계 비율은 드리지 않겠습니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "head of finance",
+          "surface": "head of finance",
+          "meaningKo": "재무 책임자",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Sari said her head of finance would agree.",
+            "ko": "사리는 자기 재무 책임자도 동의할 거라고 했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 373,
+      "paragraphs": [
+        {
+          "en": "At seven on Wednesday morning, Jae-won sat across from Priya in the room above the bakery, with Helen's flight to Seattle due to leave at nine, which meant she would be in the air for the whole call. \"He'll come in on your second sentence, because that's what he does to everyone,\" Priya said. \"Don't speed up and don't restart, just finish the sentence you were on, and when he asks something hard, you still get three seconds and not one more.\"",
+          "ko": "수요일 아침 7시, 재원은 빵집 위층 방에서 프리야와 마주 앉았다. 헬렌의 시애틀행 비행기는 9시 출발이라 콜 내내 공중에 있을 터였다. \"두 번째 문장에서 끼어들 거예요. 누구한테나 그러거든요.\" 프리야가 말했다. \"빨라지지도 말고 다시 시작하지도 말고, 하던 문장을 끝내요. 어려운 걸 물어도 여전히 3초고, 1초도 더 없어요.\""
+        },
+        {
+          "en": "At nine he joined from the ninth floor, with Daniel beside him on mute and the spreadsheet open just in case. Marcus was chairing from his office in Singapore, and the other two panelists were already on screen: Sari Wibowo, the CIO of a bank in Jakarta, and Tomas Lind, an investor from Stockholm. Ethan dialed in four minutes late from the back of a car, and he didn't apologize.",
+          "ko": "9시, 그는 9층에서 접속했고, 옆에는 대니얼이 음소거로 앉아 혹시 몰라 스프레드시트를 열어 두었다. 마커스는 싱가포르 사무실에서 사회를 봤고, 다른 패널 두 명은 이미 화면에 있었다. 자카르타 은행의 CIO 사리 위보워와 스톡홀름의 투자자 토마스 린드였다. 이선은 4분 늦게 차 뒷좌석에서 접속했고 사과하지 않았다."
+        },
+        {
+          "en": "Ethan took his ninety seconds first and needed only sixty. \"Sign-off is a legacy control, and I say that with love for every controller I've ever met,\" he said. \"In three years, machines will reconcile the numbers and humans will clear the exceptions, so anyone who builds around the person who signs is building for a job that's on its way out.\"",
+          "ko": "이선은 먼저 90초를 받았지만 60초면 충분했다. \"승인은 낡은 통제 수단입니다. 제가 만난 모든 재무 담당자를 사랑하는 마음으로 하는 말이에요.\" 그가 말했다. \"3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 겁니다. 그러니 서명하는 사람을 중심으로 만드는 건 곧 사라질 직업을 위해 만드는 거예요.\""
+        },
+        {
+          "en": "Jae-won began his opening, and Ethan came in after forty seconds. \"So you're telling buyers they need to hire a consultant to babysit a spreadsheet?\" Jae-won felt the old heat in his neck and kept his pace. \"That's not quite what I said. If I could just finish, what I said is that somebody has to defend the number to an auditor, and as of today that somebody isn't a machine.\"",
+          "ko": "재원이 첫 발언을 시작하자 40초 만에 이선이 끼어들었다. \"그러니까 구매자들에게 스프레드시트나 돌봐 줄 컨설턴트를 고용하라는 거죠?\" 재원은 목덜미에 익숙한 열기를 느끼면서도 속도를 유지했다. \"제가 드린 말씀은 그게 아닙니다. 제 말을 마저 끝내자면, 누군가는 감사인 앞에서 그 숫자를 변호해야 하고, 지금으로서는 그 누군가가 기계가 아니라는 겁니다.\""
+        },
+        {
+          "en": "\"Fine, but your sample is forty-two Korean mid-sized companies, and Sari's bank runs in nine countries, so why should she care?\" Ethan said. \"That's a fair challenge, because only six of the forty-two operate outside Korea, so I won't give you a global rate, and I'll say that on stage,\" Jae-won said. \"What I can tell you is where those pilots stopped, and it was never the model.\" Sari unmuted long enough to say that her head of finance would agree with that. Ethan still had his question.",
+          "ko": "\"좋아요. 하지만 당신 표본은 한국 중견기업 42곳이고 사리의 은행은 9개국에서 운영되는데, 그녀가 왜 신경 써야 하죠?\" 이선이 말했다. \"그건 타당한 반론이에요. 42곳 중 한국 밖에서 운영하는 곳은 6곳뿐이라 전 세계 비율은 드리지 않을 거고, 무대에서도 그렇게 말할 겁니다.\" 재원이 말했다. \"제가 말씀드릴 수 있는 건 그 파일럿들이 어디서 멈췄는지이고, 그건 모델 때문인 적이 없었다는 겁니다.\" 사리는 잠깐 음소거를 풀고 자기 재무 책임자도 그 말에 동의할 거라고 했다. 이선에게는 아직 그 질문이 남아 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's not quite what I said",
+        "If I could just finish",
+        "What I can tell you is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "due to",
+          "surface": "due to leave",
+          "meaningKo": "~할 예정인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At seven on Wednesday morning, Jae-won sat across from Priya in the room above the bakery, with Helen's flight to Seattle due to leave at nine, which meant she would be in the air for the whole call.",
+            "ko": "수요일 아침 7시, 재원은 빵집 위층 방에서 프리야와 마주 앉았다. 헬렌의 시애틀행 비행기는 9시 출발이라 콜 내내 공중에 있을 터였다."
+          }
+        },
+        {
+          "term": "chair",
+          "surface": "chairing",
+          "meaningKo": "(회의의) 사회를 보다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Marcus was chairing from his office in Singapore, and the other two panelists were already on screen: Sari Wibowo, the CIO of a bank in Jakarta, and Tomas Lind, an investor from Stockholm.",
+            "ko": "마커스는 싱가포르 사무실에서 사회를 봤고, 다른 패널 두 명은 이미 화면에 있었다. 자카르타 은행의 CIO 사리 위보워와 스톡홀름의 투자자 토마스 린드였다."
+          }
+        },
+        {
+          "term": "dial in",
+          "surface": "dialed in",
+          "meaningKo": "(회의에) 접속하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Ethan dialed in four minutes late from the back of a car, and he didn't apologize.",
+            "ko": "이선은 4분 늦게 차 뒷좌석에서 접속했고 사과하지 않았다."
+          }
+        },
+        {
+          "term": "controller",
+          "surface": "controller",
+          "meaningKo": "재무 담당자, 회계 책임자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sign-off is a legacy control, and I say that with love for every controller I've ever met,\" he said.",
+            "ko": "\"승인은 낡은 통제 수단입니다. 제가 만난 모든 재무 담당자를 사랑하는 마음으로 하는 말이에요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "on one's way out",
+          "surface": "on its way out",
+          "meaningKo": "곧 사라질, 퇴출되는 중인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"In three years, machines will reconcile the numbers and humans will clear the exceptions, so anyone who builds around the person who signs is building for a job that's on its way out.\"",
+            "ko": "\"3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 겁니다. 그러니 서명하는 사람을 중심으로 만드는 건 곧 사라질 직업을 위해 만드는 거예요.\""
+          }
+        },
+        {
+          "term": "babysit",
+          "surface": "babysit",
+          "meaningKo": "(비유) 돌봐 주다, 지키고 있다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So you're telling buyers they need to hire a consultant to babysit a spreadsheet?\"",
+            "ko": "\"그러니까 구매자들에게 스프레드시트나 돌봐 줄 컨설턴트를 고용하라는 거죠?\""
+          }
+        },
+        {
+          "term": "as of today",
+          "surface": "as of today",
+          "meaningKo": "오늘 기준으로, 지금으로서는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If I could just finish, what I said is that somebody has to defend the number to an auditor, and as of today that somebody isn't a machine.",
+            "ko": "제 말을 마저 끝내자면, 누군가는 감사인 앞에서 그 숫자를 변호해야 하고, 지금으로서는 그 누군가가 기계가 아니라는 겁니다."
+          }
+        },
+        {
+          "term": "global rate",
+          "surface": "global rate",
+          "meaningKo": "전 세계 비율",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"That's a fair challenge, because only six of the forty-two operate outside Korea, so I won't give you a global rate, and I'll say that on stage,\" Jae-won said.",
+            "ko": "\"그건 타당한 반론이에요. 42곳 중 한국 밖에서 운영하는 곳은 6곳뿐이라 전 세계 비율은 드리지 않을 거고, 무대에서도 그렇게 말할 겁니다.\" 재원이 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 471,
+      "paragraphs": [
+        {
+          "en": "At seven on Wednesday morning, Jae-won sat across from Priya in the room above the bakery, with Helen's flight to Seattle due to leave at nine, which meant she'd be unreachable for the whole of the call and the ten hours after it. \"He'll come in on your second sentence, because that's his party trick and he does it to ministers,\" Priya said. \"Don't speed up and don't restart, just land the sentence you were on, and when he asks something hard, you get your three seconds and not one more.\"",
+          "ko": "수요일 아침 7시, 재원은 빵집 위층 방에서 프리야와 마주 앉았다. 헬렌의 시애틀행 비행기는 9시 출발이라 콜 내내, 그리고 그 뒤로 열 시간 동안 연락이 닿지 않을 터였다. \"두 번째 문장에서 끼어들 거예요. 그 사람 장기고, 장관들한테도 그래요.\" 프리야가 말했다. \"빨라지지도 말고 다시 시작하지도 말고, 하던 문장을 마무리해요. 어려운 걸 물어도 3초고, 1초도 더 없어요.\""
+        },
+        {
+          "en": "At nine he joined from the ninth floor, with Daniel beside him on mute and the spreadsheet open just in case, which neither of them commented on. Marcus was chairing from his office in Singapore with the blinds down, and the other two panelists were already on screen: Sari Wibowo, the CIO of a bank in Jakarta, and Tomas Lind, an investor from Stockholm who looked as if he had come for the entertainment. Ethan dialed in four minutes late from the back of a car, and he did not treat this as something that required comment.",
+          "ko": "9시, 그는 9층에서 접속했고, 옆에는 대니얼이 음소거로 앉아 혹시 몰라 스프레드시트를 열어 두었는데, 둘 다 그 얘기는 하지 않았다. 마커스는 싱가포르 사무실에서 블라인드를 내린 채 사회를 봤고, 다른 패널 두 명은 이미 화면에 있었다. 자카르타 은행의 CIO 사리 위보워와, 구경하러 온 듯한 표정의 스톡홀름 투자자 토마스 린드였다. 이선은 4분 늦게 차 뒷좌석에서 접속했고, 그게 언급할 일이라고 여기지 않았다."
+        },
+        {
+          "en": "Ethan took his ninety seconds first and used barely sixty of them. \"Sign-off is a legacy control, and I say that with love for every controller I've ever met, including the one who made me cry in my first job,\" he said. \"In three years the machines reconcile, the humans clear the exceptions, and anyone who's building their practice around the person who signs is building for a job that's already on its way out the door.\"",
+          "ko": "이선은 먼저 90초를 받아 겨우 60초만 썼다. \"승인은 낡은 통제 수단입니다. 제 첫 직장에서 저를 울린 분을 포함해, 제가 만난 모든 재무 담당자를 사랑하는 마음으로 하는 말이에요.\" 그가 말했다. \"3년 뒤면 기계가 대사하고 사람은 예외만 처리합니다. 서명하는 사람을 중심으로 사업을 짜는 건 이미 문밖으로 나가고 있는 직업을 위해 짜는 거예요.\""
+        },
+        {
+          "en": "Jae-won began his opening, got as far as the kitchen table, and Ethan came in at the forty-second mark. \"Sorry, let me get this straight, you're telling buyers they should hire a consultant to babysit a spreadsheet?\" Jae-won felt the old heat climb his neck and kept exactly the same pace. \"That's not quite what I said. If I could just finish, what I said is that somebody has to stand behind that number in front of an auditor at eleven at night, and as of today, that somebody isn't a machine.\"",
+          "ko": "재원이 첫 발언을 시작해 식탁 얘기까지 갔을 때, 40초 지점에서 이선이 끼어들었다. \"잠깐, 정리 좀 하죠. 구매자들에게 스프레드시트나 돌봐 줄 컨설턴트를 고용하라는 거예요?\" 재원은 목덜미로 익숙한 열기가 올라오는 걸 느끼면서도 속도를 조금도 바꾸지 않았다. \"제가 드린 말씀은 그게 아닙니다. 제 말을 마저 끝내자면, 밤 11시에 감사인 앞에서 누군가는 그 숫자에 책임을 져야 하고, 지금으로서는 그 누군가가 기계가 아니라는 겁니다.\""
+        },
+        {
+          "en": "\"Fine, but your sample's forty-two Korean mid-caps and Sari's bank runs in nine countries, so forgive me if I ask why she'd lose any sleep over it,\" Ethan said. \"That's a fair challenge, because only six of the forty-two operate outside Korea, which is why I won't quote you a global rate, and I'm going to say so from the stage before you get the chance to,\" Jae-won said. \"What I can tell you is where those pilots stopped, and it was never the model.\" Sari unmuted just long enough to say that her head of finance would sign that sentence herself, and Tomas grinned at nobody in particular. Ethan still had his question.",
+          "ko": "\"좋아요. 하지만 당신 표본은 한국 중견기업 42곳이고 사리의 은행은 9개국에서 운영되니, 그녀가 왜 그걸로 잠을 설쳐야 하는지 좀 묻겠습니다.\" 이선이 말했다. \"그건 타당한 반론이에요. 42곳 중 한국 밖에서 운영하는 곳은 6곳뿐이고, 그래서 전 세계 비율은 말씀드리지 않을 겁니다. 그쪽이 말할 기회를 잡기 전에 제가 무대에서 그렇게 말할 거고요.\" 재원이 말했다. \"제가 말씀드릴 수 있는 건 그 파일럿들이 어디서 멈췄는지이고, 그건 모델 때문인 적이 없었다는 겁니다.\" 사리는 잠깐 음소거를 풀고 자기 재무 책임자라면 그 문장에 직접 서명할 거라고 했고, 토마스는 누구에게랄 것 없이 싱긋 웃었다. 이선에게는 아직 그 질문이 남아 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's not quite what I said",
+        "If I could just finish",
+        "What I can tell you is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "unreachable",
+          "surface": "unreachable",
+          "meaningKo": "연락이 닿지 않는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At seven on Wednesday morning, Jae-won sat across from Priya in the room above the bakery, with Helen's flight to Seattle due to leave at nine, which meant she'd be unreachable for the whole of the call and the ten hours after it.",
+            "ko": "수요일 아침 7시, 재원은 빵집 위층 방에서 프리야와 마주 앉았다. 헬렌의 시애틀행 비행기는 9시 출발이라 콜 내내, 그리고 그 뒤로 열 시간 동안 연락이 닿지 않을 터였다."
+          }
+        },
+        {
+          "term": "party trick",
+          "surface": "party trick",
+          "meaningKo": "장기, 단골 수법",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"He'll come in on your second sentence, because that's his party trick and he does it to ministers,\" Priya said.",
+            "ko": "\"두 번째 문장에서 끼어들 거예요. 그 사람 장기고, 장관들한테도 그래요.\" 프리야가 말했다."
+          }
+        },
+        {
+          "term": "practice",
+          "surface": "their practice",
+          "meaningKo": "(전문직의) 사업, 업무 영역",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"In three years the machines reconcile, the humans clear the exceptions, and anyone who's building their practice around the person who signs is building for a job that's already on its way out the door.\"",
+            "ko": "\"3년 뒤면 기계가 대사하고 사람은 예외만 처리합니다. 서명하는 사람을 중심으로 사업을 짜는 건 이미 문밖으로 나가고 있는 직업을 위해 짜는 거예요.\""
+          }
+        },
+        {
+          "term": "get this straight",
+          "surface": "get this straight",
+          "meaningKo": "(말을) 분명히 정리하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Sorry, let me get this straight, you're telling buyers they should hire a consultant to babysit a spreadsheet?\"",
+            "ko": "\"잠깐, 정리 좀 하죠. 구매자들에게 스프레드시트나 돌봐 줄 컨설턴트를 고용하라는 거예요?\""
+          }
+        },
+        {
+          "term": "stand behind",
+          "surface": "stand behind",
+          "meaningKo": "(숫자·결정에) 책임지다, 보증하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If I could just finish, what I said is that somebody has to stand behind that number in front of an auditor at eleven at night, and as of today, that somebody isn't a machine.",
+            "ko": "제 말을 마저 끝내자면, 밤 11시에 감사인 앞에서 누군가는 그 숫자에 책임을 져야 하고, 지금으로서는 그 누군가가 기계가 아니라는 겁니다."
+          }
+        },
+        {
+          "term": "mid-cap",
+          "surface": "mid-caps",
+          "meaningKo": "중견기업 (시가총액 중간 규모 기업)",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Fine, but your sample's forty-two Korean mid-caps and Sari's bank runs in nine countries, so forgive me if I ask why she'd lose any sleep over it,\" Ethan said.",
+            "ko": "\"좋아요. 하지만 당신 표본은 한국 중견기업 42곳이고 사리의 은행은 9개국에서 운영되니, 그녀가 왜 그걸로 잠을 설쳐야 하는지 좀 묻겠습니다.\" 이선이 말했다."
+          }
+        },
+        {
+          "term": "lose sleep over",
+          "surface": "lose any sleep over",
+          "meaningKo": "~로 잠을 설치다, 걱정하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Fine, but your sample's forty-two Korean mid-caps and Sari's bank runs in nine countries, so forgive me if I ask why she'd lose any sleep over it,\" Ethan said.",
+            "ko": "\"좋아요. 하지만 당신 표본은 한국 중견기업 42곳이고 사리의 은행은 9개국에서 운영되니, 그녀가 왜 그걸로 잠을 설쳐야 하는지 좀 묻겠습니다.\" 이선이 말했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Who else is on the panel besides Jae-won and Ethan?",
+      "options": [
+        "Helen Park and Priya Nair",
+        "Yuna Seo and a Stockholm journalist",
+        "Sari Wibowo, a bank CIO, and Tomas Lind, an investor",
+        "Han Mi-rae and Oh Sang-woo"
+      ],
+      "answerIndex": 2,
+      "evidence": "Marcus was chairing from his office in Singapore, and the other two panelists were already on screen: Sari Wibowo, the CIO of a bank in Jakarta, and Tomas Lind, an investor from Stockholm."
+    },
+    {
+      "question": "What does it show that Jae-won keeps his pace when Ethan interrupts him?",
+      "options": [
+        "He is following Priya's advice to finish his sentence instead of speeding up or restarting.",
+        "He did not hear Ethan because of a bad connection.",
+        "He has decided not to answer Ethan at all.",
+        "Marcus has told him to ignore every interruption."
+      ],
+      "answerIndex": 0,
+      "evidence": "Jae-won felt the old heat in his neck and kept his pace."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "That's not quite what I said.",
+      "If I could just finish, what I said is that somebody has to defend the number to an auditor.",
+      "What I can tell you is where those pilots stopped, and it was never the model."
+    ],
+    "summaryPromptKo": "프리야가 어떤 조언을 했는지, 이선이 어떤 공격을 했는지, 재원이 말을 끊겨도 어떻게 받았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "So you're telling buyers they need a consultant to babysit a spreadsheet, and your sample is forty-two Korean companies. Why should anyone care?",
+      "ko": "그러니까 구매자들에게 스프레드시트나 돌봐 줄 컨설턴트가 필요하다는 거고, 표본은 한국 회사 42곳이네요. 왜 누가 신경 써야 하죠?"
+    },
+    "modelAnswer": "That's not quite what I said. If I could just finish, what I said is that somebody has to defend the number to an auditor, and as of today that somebody isn't a machine. Your point about the sample is a fair challenge, because only six of the forty-two operate outside Korea. So I won't give a global rate. What I can tell you is where those pilots stopped, and it was never the model."
+  },
+  "nextTeaserKo": "마음에 안 들 거라던 이선의 질문이 드디어 나온다. 재원은 프리야가 말한 3초 안에 답할 수 있을까. 화면에는 마커스도 지켜보고 있다.",
+  "roleplay": {
+    "title": "두 번째 문장에서 끼어드는 사람",
+    "situationKo": "수요일 아침 사전 패널 콜입니다. 이선이 말을 끊고 들어와도 내가 재원이 되어 하던 문장을 끝까지 말해 봅니다. 중간에 막혀도 괜찮아요. 몇 번이고 다시 해 볼 수 있어요.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Sign-off is a legacy control. In three years, machines reconcile the numbers and humans clear the exceptions.",
+        "ko": "승인은 낡은 통제 방식입니다. 3년 뒤면 기계가 숫자를 대사하고 사람은 예외만 처리할 겁니다."
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Jae-won, your ninety seconds.",
+        "ko": "재원 씨, 90초 드립니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thanks, Marcus. Pilots don't die in the demo. They die at month-end, when someone has to sign.",
+        "ko": "고맙습니다, 마커스. 파일럿은 데모에서 죽지 않습니다. 누군가 서명해야 하는 월말에 죽습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "So you're telling buyers they need to hire a consultant to babysit a spreadsheet?",
+        "ko": "그러니까 스프레드시트 돌보라고 컨설턴트를 고용하라고 구매자들에게 말하는 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's not quite what I said. If I could just finish, somebody has to defend the number to an auditor.",
+        "ko": "제가 드린 말씀은 그게 아닙니다. 제 말을 마저 끝내자면, 누군가는 감사인 앞에서 숫자를 방어해야 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "And a machine can't do that?",
+        "ko": "기계는 그걸 못 하고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "As of today, that somebody isn't a machine.",
+        "ko": "오늘 기준으로 그 누군가는 기계가 아닙니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Fine, but your sample is forty-two Korean mid-sized companies, and Sari's bank runs in nine countries. Why should she care?",
+        "ko": "좋아요, 하지만 표본은 한국 중견기업 42곳이고 사리의 은행은 9개국에서 운영됩니다. 그분이 왜 신경 써야 하죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's a fair challenge. Only six of the forty-two operate outside Korea, so I won't give a global rate.",
+        "ko": "충분히 제기할 만한 문제입니다. 42곳 중 여섯 곳만 한국 밖에서 운영하니 세계 비율은 내지 않겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Then what are you giving us?",
+        "ko": "그럼 뭘 주시겠다는 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What I can tell you is where those pilots stopped, and it was never the model.",
+        "ko": "제가 말씀드릴 수 있는 건 그 파일럿들이 어디서 멈췄는지이고, 모델 때문인 적은 없었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Sari Wibowo",
+        "voice": "female",
+        "en": "My head of finance would agree with that.",
+        "ko": "저희 재무 책임자도 그 말에 동의할 거예요."
+      }
+    ]
+  }
+}

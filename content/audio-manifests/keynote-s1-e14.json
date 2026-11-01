@@ -1,0 +1,70 @@
+{
+  "episodeId": "keynote-s1-e14",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "result": "word-result.mp3",
+    "out loud": "word-out-loud.mp3",
+    "go on": "word-go-on.mp3",
+    "pleased": "word-pleased.mp3",
+    "support": "word-support.mp3",
+    "transition": "word-transition.mp3",
+    "structure": "word-structure.mp3",
+    "land on": "word-land-on.mp3",
+    "land": "word-land.mp3",
+    "speechless": "word-speechless.mp3",
+    "hold up": "word-hold-up.mp3",
+    "have some explaining to do": "word-have-some-explaining-to-do.mp3",
+    "signpost": "word-signpost.mp3",
+    "land the plane": "word-land-the-plane.mp3",
+    "rattle off": "word-rattle-off.mp3",
+    "load-bearing": "word-load-bearing.mp3"
+  },
+  "termClips": {
+    "result": "term-result.mp3",
+    "out loud": "term-out-loud.mp3",
+    "go on": "term-go-on.mp3",
+    "pleased": "term-pleased.mp3",
+    "support": "term-support.mp3",
+    "transition": "term-transition.mp3",
+    "structure": "term-structure.mp3",
+    "land on": "term-land-on.mp3",
+    "land": "term-land.mp3",
+    "speechless": "term-speechless.mp3",
+    "hold up": "term-hold-up.mp3",
+    "have some explaining to do": "term-have-some-explaining-to-do.mp3",
+    "signpost": "term-signpost.mp3",
+    "land the plane": "term-land-the-plane.mp3",
+    "rattle off": "term-rattle-off.mp3",
+    "load-bearing": "term-load-bearing.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3",
+    "roleplay-16.mp3"
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "id": "keynote-s2-e12",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 12,
+  "title": "Eighty a Night",
+  "recapKo": "밤 10시, 재원은 작은 안전화를 신고 6번 도크에서 시티의 일을 지켜봤다. 수량 부족은 시스템에 칸이 없어 여백의 코드로만 남고, 주간조는 매일 아침 그 양식을 다시 입력했다. 운송사 하나가 열한 가지 철자로 적혀 있었다. 새벽 4시 30분, 대니얼은 \"숫자도 나왔고 더 나쁜 것도 있다\"고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "So what I'm hearing is ~",
+      "meaningKo": "그러니까 제가 이해하기로는 ~라는 말씀이군요",
+      "usage": "So what I'm hearing is that the date can move but the budget can't."
+    },
+    {
+      "phrase": "Who else needs to see ~?",
+      "meaningKo": "~를 또 누가 봐야 하나요?",
+      "usage": "Who else needs to see this before it goes to the client?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 216,
+      "paragraphs": [
+        {
+          "en": "At 4:30 in the canteen, Daniel opened his notebook. \"Eighty receipts a night for thirty nights makes twenty-four hundred keyed twice and counted once,\" he said, \"so the real number is nine thousand four hundred.\" \"One night isn't a number, so we'll count five,\" Jae-won said.",
+          "ko": "새벽 4시 30분, 구내식당에서 대니얼이 수첩을 폈다. \"하룻밤에 확인서 80장씩 30일이면 2,400건이 두 번 입력되고 한 번으로 세어진 거예요.\" 그가 말했다. \"그러니 진짜 숫자는 9,400건이에요.\" \"하룻밤은 숫자가 아니니까 닷새를 세죠.\" 재원이 말했다."
+        },
+        {
+          "en": "Then Daniel unfolded the first page of the data pack. Every carrier was spelled one way, and there were no margins. Joanne Seah, the new data owner, had cleaned it so that vendors could read it. \"They'll be testing a warehouse that doesn't exist,\" Daniel said.",
+          "ko": "그러고 나서 대니얼이 데이터 묶음의 첫 장을 펼쳤다. 운송사 철자는 전부 하나로 통일되어 있었고 여백은 없었다. 새 데이터 책임자 조앤 시아가 공급업체들이 읽을 수 있게 정리한 것이었다. \"있지도 않은 창고를 시험하게 되는 거죠.\" 대니얼이 말했다."
+        },
+        {
+          "en": "By Friday, the five nights averaged eighty. Jae-won sent one page to Grace and Wei Ling in the same minute. \"Same minute, checked,\" Wei Ling replied.",
+          "ko": "금요일이 되자 닷새 밤의 평균은 80장이었다. 재원은 한 장짜리 보고를 그레이스와 웨이링에게 같은 분에 보냈다. \"같은 분이네요. 확인했어요.\" 웨이링이 답했다."
+        },
+        {
+          "en": "\"The contract says two thousand,\" Arjun said on the call. \"So what I'm hearing is that the baseline moves and the target stays,\" Jae-won said. Then he asked Grace, \"Who else needs to see this?\" \"Nobody until week four,\" she said. \"In exchange for keeping Vendor Day next Thursday, I want the finalists tested on a thousand real documents,\" he said.",
+          "ko": "\"계약서에는 2,000건이라고 되어 있어요.\" 통화에서 아르준이 말했다. \"그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.\" 재원이 말했다. 그러고는 그레이스에게 물었다. \"이걸 또 누가 봐야 하나요?\" \"4주 차까지는 아무도요.\" 그녀가 말했다. \"다음 주 목요일 공급업체 설명회를 그대로 두는 대신, 최종 후보들을 실제 서류 1,000건으로 시험하고 싶습니다.\" 그가 말했다."
+        },
+        {
+          "en": "That night, a message came from Ethan Wolfe. \"Corvane made the final three,\" it said. \"I told you to watch it run on real data.\" Jae-won thought about three customers stopped at month-end, and about his promise.",
+          "ko": "그날 밤, 이선 울프에게서 메시지가 왔다. \"코르베인이 최종 3곳에 들었습니다.\" 메시지는 그렇게 시작했다. \"실제 데이터로 도는 걸 보라고 했었죠.\" 재원은 월말에 멈춘 고객 3곳과 자기가 한 약속을 생각했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So what I'm hearing is",
+        "Who else needs to see"
+      ],
+      "wordCandidates": [
+        {
+          "term": "unfold",
+          "surface": "unfolded",
+          "meaningKo": "(접힌 것을) 펼치다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then Daniel unfolded the first page of the data pack.",
+            "ko": "그러고 나서 대니얼이 데이터 묶음의 첫 장을 펼쳤다."
+          }
+        },
+        {
+          "term": "data owner",
+          "surface": "data owner",
+          "meaningKo": "데이터 책임자",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Joanne Seah, the new data owner, had cleaned it so that vendors could read it.",
+            "ko": "새 데이터 책임자 조앤 시아가 공급업체들이 읽을 수 있게 정리한 것이었다."
+          }
+        },
+        {
+          "term": "average",
+          "surface": "averaged",
+          "meaningKo": "평균 ~이 되다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By Friday, the five nights averaged eighty.",
+            "ko": "금요일이 되자 닷새 밤의 평균은 80장이었다."
+          }
+        },
+        {
+          "term": "baseline",
+          "surface": "baseline",
+          "meaningKo": "기준치",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So what I'm hearing is that the baseline moves and the target stays,\" Jae-won said.",
+            "ko": "\"그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.\""
+          }
+        },
+        {
+          "term": "finalist",
+          "surface": "finalists",
+          "meaningKo": "최종 후보",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"In exchange for keeping Vendor Day next Thursday, I want the finalists tested on a thousand real documents,\" he said.",
+            "ko": "\"다음 주 목요일 공급업체 설명회를 그대로 두는 대신, 최종 후보들을 실제 서류 1,000건으로 시험하고 싶습니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 336,
+      "paragraphs": [
+        {
+          "en": "At 4:30 in the canteen, with the night shift going home around them, Daniel opened his notebook. \"Eighty receipts a night for thirty nights makes twenty-four hundred keyed twice and counted once,\" he said, \"so the real number is nine thousand four hundred.\" Jae-won looked at it for a while, because that number sat under the target, the fee and Grace's slide. \"One night isn't a number, so we'll count five, and then we'll tell everyone at once,\" he said.",
+          "ko": "새벽 4시 30분, 야간조가 퇴근하는 구내식당에서 대니얼이 수첩을 폈다. \"하룻밤에 확인서 80장씩 30일이면 2,400건이 두 번 입력되고 한 번으로 세어진 거예요.\" 그가 말했다. \"그러니 진짜 숫자는 9,400건이에요.\" 재원은 한동안 그것을 바라보았다. 그 숫자 위에 목표와 수수료와 그레이스의 슬라이드가 올라가 있었다. \"하룻밤은 숫자가 아니니까 닷새를 세고, 그다음 모두에게 한꺼번에 말하죠.\" 그가 말했다."
+        },
+        {
+          "en": "Then Daniel unfolded the first page of the data pack. Every carrier was spelled one way, and there were no margins. Joanne Seah, the data owner Arjun had named on Monday, had cleaned it so that vendors could read it. When Jae-won called her, she said that real scans would take three weeks and that the pack was due on Thursday. \"They'll be testing a warehouse that doesn't exist,\" Daniel said.",
+          "ko": "그러고 나서 대니얼이 데이터 묶음의 첫 장을 펼쳤다. 운송사 철자는 전부 하나로 통일되어 있었고 여백은 없었다. 아르준이 월요일에 지명한 데이터 책임자 조앤 시아가 공급업체들이 읽을 수 있게 정리한 것이었다. 재원이 전화하자, 그녀는 실제 스캔본을 만들려면 3주가 걸리고 묶음은 목요일에 나가야 한다고 말했다. \"있지도 않은 창고를 시험하게 되는 거죠.\" 대니얼이 말했다."
+        },
+        {
+          "en": "By Friday, the five nights averaged eighty. Jae-won sent one page to Grace and Wei Ling in the same minute, as he had promised in the canteen. \"Same minute, checked,\" Wei Ling replied.",
+          "ko": "금요일이 되자 닷새 밤의 평균은 80장이었다. 재원은 구내식당에서 약속한 대로 한 장짜리 보고를 그레이스와 웨이링에게 같은 분에 보냈다. \"같은 분이네요. 확인했어요.\" 웨이링이 답했다."
+        },
+        {
+          "en": "\"The contract says two thousand, not five thousand fewer,\" Arjun said on the call. \"So what I'm hearing is that the baseline moves and the target stays,\" Jae-won said. \"Correct, and the hundred and fifty thousand stays at risk,\" Arjun said, \"so you've made my return better and your job harder.\" Then Jae-won asked Grace, \"Who else needs to see this?\" \"Nobody until the steering committee in week four,\" she said. \"In exchange for keeping Vendor Day next Thursday, I want the finalists tested on a thousand real documents,\" he said, and she told him to put it on one page.",
+          "ko": "\"계약서에는 5,000건 감소가 아니라 2,000건이라고 되어 있어요.\" 통화에서 아르준이 말했다. \"그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.\" 재원이 말했다. \"맞아요. 15만 달러도 그대로 걸려 있고요.\" 아르준이 말했다. \"내 수익률은 좋아졌고 당신 일은 어려워졌네요.\" 재원은 그레이스에게 물었다. \"이걸 또 누가 봐야 하나요?\" \"4주 차 운영위원회까지는 아무도요.\" 그녀가 말했다. \"다음 주 목요일 공급업체 설명회를 그대로 두는 대신, 최종 후보들을 실제 서류 1,000건으로 시험하고 싶습니다.\" 그가 말하자, 그녀는 한 장으로 적어 오라고 했다."
+        },
+        {
+          "en": "That night, a message came from Ethan Wolfe. \"Corvane made the final three,\" it said. \"I told you to watch it run on real data.\" Jae-won read it twice on Dock Six, thinking about three customers stopped at month-end and the promise he had made to keep them off the table.",
+          "ko": "그날 밤, 이선 울프에게서 메시지가 왔다. \"코르베인이 최종 3곳에 들었습니다.\" 메시지는 그렇게 시작했다. \"실제 데이터로 도는 걸 보라고 했었죠.\" 재원은 6번 도크에서 그것을 두 번 읽으며, 월말에 멈춘 고객 3곳과 그 얘기를 테이블에 올리지 않겠다고 한 약속을 생각했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So what I'm hearing is",
+        "Who else needs to see"
+      ],
+      "wordCandidates": [
+        {
+          "term": "slide",
+          "surface": "slide",
+          "meaningKo": "(발표) 슬라이드",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won looked at it for a while, because that number sat under the target, the fee and Grace's slide.",
+            "ko": "그 숫자 위에 목표와 수수료와 그레이스의 슬라이드가 올라가 있었다."
+          }
+        },
+        {
+          "term": "scan",
+          "surface": "scans",
+          "meaningKo": "스캔본",
+          "paragraph": 1,
+          "sentence": {
+            "en": "When Jae-won called her, she said that real scans would take three weeks and that the pack was due on Thursday.",
+            "ko": "재원이 전화하자, 그녀는 실제 스캔본을 만들려면 3주가 걸리고 묶음은 목요일에 나가야 한다고 말했다."
+          }
+        },
+        {
+          "term": "at risk",
+          "surface": "at risk",
+          "meaningKo": "걸려 있는, 잃을 위험이 있는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Correct, and the hundred and fifty thousand stays at risk,\" Arjun said, \"so you've made my return better and your job harder.\"",
+            "ko": "\"맞아요. 15만 달러도 그대로 걸려 있고요.\" 아르준이 말했다. \"내 수익률은 좋아졌고 당신 일은 어려워졌네요.\""
+          }
+        },
+        {
+          "term": "return",
+          "surface": "return",
+          "meaningKo": "수익률, 투자 수익",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Correct, and the hundred and fifty thousand stays at risk,\" Arjun said, \"so you've made my return better and your job harder.\"",
+            "ko": "\"맞아요. 15만 달러도 그대로 걸려 있고요.\" 아르준이 말했다. \"내 수익률은 좋아졌고 당신 일은 어려워졌네요.\""
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Nobody until the steering committee in week four,\" she said.",
+            "ko": "\"4주 차 운영위원회까지는 아무도요.\""
+          }
+        },
+        {
+          "term": "off the table",
+          "surface": "off the table",
+          "meaningKo": "논의에서 제외된",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Jae-won read it twice on Dock Six, thinking about three customers stopped at month-end and the promise he had made to keep them off the table.",
+            "ko": "재원은 6번 도크에서 그것을 두 번 읽으며, 월말에 멈춘 고객 3곳과 그 얘기를 테이블에 올리지 않겠다고 한 약속을 생각했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 456,
+      "paragraphs": [
+        {
+          "en": "At 4:30 in the canteen, with the night shift going home around them, Daniel opened his notebook and turned it so that nobody at the next table could read it. \"Eighty receipts a night for thirty nights makes twenty-four hundred keyed twice and counted once,\" he said, \"so the real number is nine thousand four hundred.\" Jae-won looked at it for a while, because that number sat under the target, the fee and Grace's slide, and he had defended it to a CFO with a straight face. \"One night isn't a number, so we'll count five,\" he said, \"and then we'll tell everyone at once, before anyone can hear it in the wrong order.\"",
+          "ko": "새벽 4시 30분, 야간조가 퇴근하는 구내식당에서 대니얼이 수첩을 펴고 옆 테이블에서 읽지 못하게 돌려놓았다. \"하룻밤에 확인서 80장씩 30일이면 2,400건이 두 번 입력되고 한 번으로 세어진 거예요.\" 그가 말했다. \"그러니 진짜 숫자는 9,400건이에요.\" 재원은 한동안 그것을 바라보았다. 그 숫자 위에 목표와 수수료와 그레이스의 슬라이드가 올라가 있었고, 그는 CFO 앞에서 태연하게 그 숫자를 방어한 사람이었다. \"하룻밤은 숫자가 아니니까 닷새를 세죠.\" 그가 말했다. \"그러고 누가 잘못된 순서로 듣기 전에 모두에게 한꺼번에 말하죠.\""
+        },
+        {
+          "en": "Then Daniel unfolded the first page of the data pack, which was immaculate. Every carrier was spelled one way, and there were no margins. Joanne Seah, the data owner Arjun had named on Monday, had cleaned it so that vendors could read it, and she made no apology for this when Jae-won called, pointing out that real scans would take three weeks and that the pack was due on Thursday. \"They'll be testing a warehouse that doesn't exist,\" Daniel said, with something close to admiration.",
+          "ko": "그러고 나서 대니얼이 데이터 묶음의 첫 장을 펼쳤는데, 흠잡을 데가 없었다. 운송사 철자는 전부 하나로 통일되어 있었고 여백은 없었다. 아르준이 월요일에 지명한 데이터 책임자 조앤 시아가 공급업체들이 읽을 수 있게 정리한 것이었고, 재원이 전화했을 때 그녀는 사과하지 않았다. 실제 스캔본을 만들려면 3주가 걸리고 묶음은 목요일에 나가야 한다는 것이었다. \"있지도 않은 창고를 시험하게 되는 거죠.\" 대니얼이 감탄에 가까운 어조로 말했다."
+        },
+        {
+          "en": "By Friday, the five nights averaged eighty, with a spread too narrow to argue about. Jae-won sent one page to Grace and Wei Ling in the same minute, as he had promised in the canteen, and he resisted the urge to soften the first line. \"Same minute, checked,\" Wei Ling replied.",
+          "ko": "금요일이 되자 닷새 밤의 평균은 80장이었고, 편차는 왈가왈부할 수 없을 만큼 좁았다. 재원은 구내식당에서 약속한 대로 한 장짜리 보고를 그레이스와 웨이링에게 같은 분에 보냈고, 첫 줄을 부드럽게 고치고 싶은 충동을 참았다. \"같은 분이네요. 확인했어요.\" 웨이링이 답했다."
+        },
+        {
+          "en": "\"The contract says two thousand, not five thousand fewer,\" Arjun said on the call, in the tone of a man reading a bus timetable. \"So what I'm hearing is that the baseline moves and the target stays,\" Jae-won said, since there was no version of that sentence that improved with delay. \"Correct, and the hundred and fifty thousand stays at risk,\" Arjun said, \"so you've made my return better and your job harder, for which I'm grateful.\" Then Jae-won asked Grace, \"Who else needs to see this?\" \"Nobody until the steering committee in week four, and I'll decide what my board hears,\" she said. \"In exchange for keeping Vendor Day next Thursday, I want the finalists tested on a thousand real documents,\" he said, and she told him to put it on one page.",
+          "ko": "\"계약서에는 5,000건 감소가 아니라 2,000건이라고 되어 있어요.\" 통화에서 아르준이 버스 시간표를 읽는 사람의 어조로 말했다. \"그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.\" 재원이 말했다. 늦춘다고 나아질 문장이 아니었다. \"맞아요. 15만 달러도 그대로 걸려 있고요.\" 아르준이 말했다. \"내 수익률은 좋아졌고 당신 일은 어려워졌으니 고맙네요.\" 재원은 그레이스에게 물었다. \"이걸 또 누가 봐야 하나요?\" \"4주 차 운영위원회까지는 아무도요. 이사회가 뭘 들을지는 제가 정합니다.\" 그녀가 말했다. \"다음 주 목요일 공급업체 설명회를 그대로 두는 대신, 최종 후보들을 실제 서류 1,000건으로 시험하고 싶습니다.\" 그가 말하자, 그녀는 한 장으로 적어 오라고 했다."
+        },
+        {
+          "en": "That night, a message came from Ethan Wolfe, as breezy as if they had parted an hour ago. \"Corvane made the final three,\" it said. \"I told you to watch it run on real data.\" Jae-won read it twice on Dock Six, thinking about three customers stopped at month-end and the promise he had made to keep them off the table, a promise that had seemed cheap when nobody was buying anything.",
+          "ko": "그날 밤, 이선 울프에게서 한 시간 전에 헤어진 사람처럼 가벼운 메시지가 왔다. \"코르베인이 최종 3곳에 들었습니다.\" 메시지는 그렇게 시작했다. \"실제 데이터로 도는 걸 보라고 했었죠.\" 재원은 6번 도크에서 그것을 두 번 읽으며, 월말에 멈춘 고객 3곳과 그 얘기를 테이블에 올리지 않겠다고 한 약속을 생각했다. 아무도 뭘 사지 않던 때에는 값싸 보이던 약속이었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So what I'm hearing is",
+        "Who else needs to see"
+      ],
+      "wordCandidates": [
+        {
+          "term": "straight face",
+          "surface": "straight face",
+          "meaningKo": "태연한 표정",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won looked at it for a while, because that number sat under the target, the fee and Grace's slide, and he had defended it to a CFO with a straight face.",
+            "ko": "그 숫자 위에 목표와 수수료와 그레이스의 슬라이드가 올라가 있었고, 그는 CFO 앞에서 태연하게 그 숫자를 방어한 사람이었다."
+          }
+        },
+        {
+          "term": "immaculate",
+          "surface": "immaculate",
+          "meaningKo": "흠잡을 데 없는, 티 없이 깨끗한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then Daniel unfolded the first page of the data pack, which was immaculate.",
+            "ko": "그러고 나서 대니얼이 데이터 묶음의 첫 장을 펼쳤는데, 흠잡을 데가 없었다."
+          }
+        },
+        {
+          "term": "spread",
+          "surface": "spread",
+          "meaningKo": "편차, 분포 폭",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By Friday, the five nights averaged eighty, with a spread too narrow to argue about.",
+            "ko": "금요일이 되자 닷새 밤의 평균은 80장이었고, 편차는 왈가왈부할 수 없을 만큼 좁았다."
+          }
+        },
+        {
+          "term": "delay",
+          "surface": "delay",
+          "meaningKo": "지연, 늦춤",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So what I'm hearing is that the baseline moves and the target stays,\" Jae-won said, since there was no version of that sentence that improved with delay.",
+            "ko": "\"그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.\" 재원이 말했다. 늦춘다고 나아질 문장이 아니었다."
+          }
+        },
+        {
+          "term": "breezy",
+          "surface": "breezy",
+          "meaningKo": "가벼운, 태평한",
+          "paragraph": 4,
+          "sentence": {
+            "en": "That night, a message came from Ethan Wolfe, as breezy as if they had parted an hour ago.",
+            "ko": "그날 밤, 이선 울프에게서 한 시간 전에 헤어진 사람처럼 가벼운 메시지가 왔다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How did Jae-won report the five-night count?",
+      "options": [
+        "He told Grace first and Wei Ling a day later",
+        "He waited for the steering committee",
+        "He sent one page to Grace and Wei Ling in the same minute",
+        "He asked Joanne to send it for him"
+      ],
+      "answerIndex": 2,
+      "evidence": "Jae-won sent one page to Grace and Wei Ling in the same minute"
+    },
+    {
+      "question": "Why does Jae-won want the finalists tested on real documents?",
+      "options": [
+        "He wants to delay Vendor Day",
+        "The data pack was cleaned, so results on it may not reflect the actual floor",
+        "Joanne asked him to replace her",
+        "Arjun refused to pay for the data pack"
+      ],
+      "answerIndex": 1,
+      "evidence": "They'll be testing a warehouse that doesn't exist"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "So what I'm hearing is that the baseline moves and the target stays.",
+      "Who else needs to see this?",
+      "One night isn't a number, so we'll count five."
+    ],
+    "summaryPromptKo": "진짜 숫자가 왜 9,400건인지, 데이터 묶음의 문제가 무엇인지, 재원이 그레이스에게 무엇을 요청했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "Your baseline was wrong by twenty-four hundred documents, and you defended it to me. Why should I believe your new number?",
+      "ko": "기준치가 2,400건이나 틀렸는데 그걸 내게 방어했죠. 새 숫자는 왜 믿어야 합니까?"
+    },
+    "modelAnswer": "You shouldn't take it on trust, and I won't pretend the first number was good. I defended seven thousand without standing on that floor. This one comes from five nights of counting paper at Tuas, and the nights averaged eighty receipts, with very little spread. Wei Ling has the same page you have, so tell me where I've got this wrong. So what I'm hearing is that you'd like to check it yourself, and you're welcome to."
+  },
+  "nextTeaserKo": "다음 주 목요일, 공급업체 설명회. 최종 3곳이 그레이스와 아르준, 웨이링 앞에 선다. 이선 울프의 데모는 방 안의 모두를 놀라게 하고, 재원은 폴더에서 시티의 확인서 한 장을 꺼낸다.",
+  "roleplay": {
+    "title": "같은 분에 보낸 한 장",
+    "situationKo": "금요일 통화입니다. 닷새 동안 센 숫자는 이미 그레이스와 웨이링에게 갔어요. 아르준의 말을 정리해 확인하고, 실제 서류로 시험하자고 말해 보세요. 천천히 말해도 괜찮습니다.",
+    "lines": [
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Nine thousand four hundred. But the contract says two thousand, not five thousand fewer.",
+        "ko": "9,400건이라. 하지만 계약서에는 5,000건 감소가 아니라 2,000건이라고 되어 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So what I'm hearing is that the baseline moves and the target stays.",
+        "ko": "그러니까 제가 이해하기로는 기준치는 움직이고 목표는 그대로라는 말씀이군요.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Correct. And the hundred and fifty thousand stays at risk.",
+        "ko": "맞아요. 15만 달러도 그대로 걸려 있고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I understand, and I'm not asking you to move it.",
+        "ko": "알겠습니다. 옮겨 달라고 요청하는 게 아닙니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Nine thousand four hundred. My people could have told you that for free.",
+        "ko": "9,400건이요. 우리 직원들이 공짜로 말해 줄 수 있었을 텐데요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "They did. Siti told me in front of everyone, and I'm sorry it took five nights to prove it.",
+        "ko": "말씀해 주셨죠. 시티가 모두 앞에서 말해 줬고, 증명하는 데 닷새나 걸려 죄송합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Noted. Go on.",
+        "ko": "알겠어요. 계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Grace, who else needs to see this?",
+        "ko": "그레이스, 이걸 또 누가 봐야 하나요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Nobody until the steering committee in week four.",
+        "ko": "4주 차 운영위원회까지는 아무도요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. There's one more thing. The vendor data pack was cleaned, so it doesn't look like the floor.",
+        "ko": "알겠습니다. 하나 더 있습니다. 공급업체 데이터 묶음은 정리된 것이라 현장과 다릅니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Vendor Day doesn't move. It's next Thursday.",
+        "ko": "공급업체 설명회는 안 옮겨요. 다음 주 목요일입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "In exchange for keeping that date, I want the finalists tested on a thousand real documents.",
+        "ko": "그 날짜를 그대로 두는 대신, 최종 후보들을 실제 서류 1,000건으로 시험하고 싶습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Put it on one page.",
+        "ko": "한 장으로 적어 오세요."
+      }
+    ]
+  }
+}

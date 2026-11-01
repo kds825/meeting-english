@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s2-e19",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "significant": "word-significant.mp3",
+    "paragraph": "word-paragraph.mp3",
+    "baseline": "word-baseline.mp3",
+    "delay": "word-delay.mp3",
+    "odds": "word-odds.mp3",
+    "context": "word-context.mp3",
+    "frighten": "word-frighten.mp3",
+    "silence": "word-silence.mp3",
+    "price into": "word-price-into.mp3",
+    "edge": "word-edge.mp3",
+    "container": "word-container.mp3",
+    "uncap": "word-uncap.mp3",
+    "concentration": "word-concentration.mp3",
+    "relative": "word-relative.mp3",
+    "assign": "word-assign.mp3"
+  },
+  "termClips": {
+    "significant": "term-significant.mp3",
+    "paragraph": "term-paragraph.mp3",
+    "baseline": "term-baseline.mp3",
+    "delay": "term-delay.mp3",
+    "odds": "term-odds.mp3",
+    "context": "term-context.mp3",
+    "frighten": "term-frighten.mp3",
+    "silence": "term-silence.mp3",
+    "price into": "term-price-into.mp3",
+    "edge": "term-edge.mp3",
+    "container": "term-container.mp3",
+    "uncap": "term-uncap.mp3",
+    "concentration": "term-concentration.mp3",
+    "relative": "term-relative.mp3",
+    "assign": "term-assign.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

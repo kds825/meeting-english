@@ -1,0 +1,467 @@
+{
+  "id": "keynote-s1-e01",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 1,
+  "title": "The Empty Seat",
+  "recapKo": null,
+  "keyExpressions": [
+    {
+      "phrase": "What exactly would that involve?",
+      "meaningKo": "구체적으로 어떤 일을 하게 되는 건가요?",
+      "usage": "Before I say yes, what exactly would that involve for my team?"
+    },
+    {
+      "phrase": "To be honest, ~",
+      "meaningKo": "솔직히 말씀드리면",
+      "usage": "To be honest, the timeline worries me a bit."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 226,
+      "paragraphs": [
+        {
+          "en": "At 7:40 on Monday morning, a message from Helen Park appeared on Jae-won's phone: \"Can you stop by my office before the team meeting?\" In eleven years at Seoro Partners, she had never asked to see him this early.",
+          "ko": "월요일 아침 7시 40분, 헬렌 박의 메시지가 재원의 휴대폰에 떴다. \"팀 회의 전에 제 사무실에 잠깐 들러 줄 수 있어요?\" 서로 파트너스에서 11년을 일하는 동안 그녀가 이렇게 이른 시간에 그를 찾은 적은 한 번도 없었다."
+        },
+        {
+          "en": "\"My mother needs surgery in Seattle, and the date can't change,\" she said. \"So I can't go to Singapore next month. The Asia Enterprise AI Summit still expects a speaker from our firm, and I'd like that speaker to be you.\"",
+          "ko": "\"어머니가 시애틀에서 수술을 받으셔야 하는데 날짜를 바꿀 수가 없어요.\" 그녀가 말했다. \"그래서 다음 달 싱가포르에 못 가요. 아시아 엔터프라이즈 AI 서밋은 여전히 우리 회사 연사를 기다리고 있고, 저는 그 연사가 당신이었으면 해요.\""
+        },
+        {
+          "en": "\"You mean your keynote, in English, in front of eight hundred people?\" Jae-won said. Helen nodded and pushed the summit program across her desk.",
+          "ko": "\"헬렌의 기조연설 말씀이세요? 영어로, 800명 앞에서요?\" 재원이 말했다. 헬렌은 고개를 끄덕이고 서밋 프로그램을 책상 너머로 밀어 주었다."
+        },
+        {
+          "en": "He asked, \"What exactly would that involve?\" Helen said, \"A twenty-minute keynote, and then a forty-five-minute panel on the same day. It took me eight months to get this slot, so we can't just cancel.\"",
+          "ko": "그가 물었다. \"구체적으로 어떤 일을 하게 되는 건가요?\" 헬렌이 말했다. \"20분 기조연설, 그리고 같은 날 45분짜리 패널 토론이요. 이 자리를 잡는 데 8개월이 걸렸으니 그냥 취소할 수는 없어요.\""
+        },
+        {
+          "en": "\"Why not ask one of the other partners?\" Jae-won said. \"They would turn it into a sales pitch. You have led our last six AI projects, and you know this topic better than anyone here.\"",
+          "ko": "\"다른 파트너분들께 부탁하면 안 될까요?\" 재원이 말했다. \"그분들은 영업 발표로 만들어 버릴 거예요. 당신은 우리 AI 프로젝트 최근 여섯 건을 이끌었고, 이 주제는 여기서 누구보다 잘 알잖아요.\""
+        },
+        {
+          "en": "\"To be honest, the topic is not my problem,\" Jae-won said. He could write a strong report in English. But when someone asked him a question in a live meeting, his mind went blank. Last month, a finance director had asked him about costs, and he had answered in Korean without thinking.",
+          "ko": "\"솔직히 말씀드리면, 주제는 문제가 아니에요.\" 재원이 말했다. 그는 영어로 탄탄한 보고서를 쓸 수 있었다. 하지만 실시간 회의에서 누가 질문을 하면 머리가 하얘졌다. 지난달에는 한 재무 책임자가 비용에 관해 물었는데, 자기도 모르게 한국어로 답해 버렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What exactly would that involve",
+        "To be honest"
+      ],
+      "wordCandidates": [
+        {
+          "term": "stop by",
+          "surface": "stop by",
+          "meaningKo": "잠깐 들르다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 7:40 on Monday morning, a message from Helen Park appeared on Jae-won's phone: \"Can you stop by my office before the team meeting?\"",
+            "ko": "팀 회의 전에 제 사무실에 잠깐 들러 줄 수 있어요?"
+          }
+        },
+        {
+          "term": "surgery",
+          "surface": "surgery",
+          "meaningKo": "수술",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"My mother needs surgery in Seattle, and the date can't change,\" she said.",
+            "ko": "어머니가 시애틀에서 수술을 받으셔야 하는데 날짜를 바꿀 수가 없어요."
+          }
+        },
+        {
+          "term": "slot",
+          "surface": "slot",
+          "meaningKo": "(행사·일정의) 자리, 시간대",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It took me eight months to get this slot, so we can't just cancel.",
+            "ko": "이 자리를 잡는 데 8개월이 걸렸으니 그냥 취소할 수는 없어요."
+          }
+        },
+        {
+          "term": "sales pitch",
+          "surface": "sales pitch",
+          "meaningKo": "영업 발표, 판매 권유",
+          "paragraph": 4,
+          "sentence": {
+            "en": "They would turn it into a sales pitch.",
+            "ko": "그분들은 영업 발표로 만들어 버릴 거예요."
+          }
+        },
+        {
+          "term": "go blank",
+          "surface": "went blank",
+          "meaningKo": "(머리가) 하얘지다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "But when someone asked him a question in a live meeting, his mind went blank.",
+            "ko": "하지만 실시간 회의에서 누가 질문을 하면 머리가 하얘졌다."
+          }
+        },
+        {
+          "term": "finance director",
+          "surface": "finance director",
+          "meaningKo": "재무 책임자",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Last month, a finance director had asked him about costs, and he had answered in Korean without thinking.",
+            "ko": "지난달에는 한 재무 책임자가 비용에 관해 물었는데, 자기도 모르게 한국어로 답해 버렸다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 372,
+      "paragraphs": [
+        {
+          "en": "It was 7:40 on Monday morning when a message from Helen Park lit up Jae-won's phone: \"Can you stop by my office before the team meeting?\" In eleven years at Seoro Partners, she had never asked to see him this early. She did not move meetings around for small things.",
+          "ko": "월요일 아침 7시 40분, 헬렌 박의 메시지가 재원의 휴대폰에 떴다. \"팀 회의 전에 제 사무실에 잠깐 들러 줄 수 있어요?\" 서로 파트너스에서 11년을 일하는 동안 그녀가 이렇게 일찍 그를 찾은 적은 한 번도 없었다. 그녀는 사소한 일로 회의를 옮기지 않았다."
+        },
+        {
+          "en": "Helen closed the door and didn't waste any time. \"My mother's having surgery in Seattle, the date can't be moved, and I'm going to be there for at least three weeks,\" she said. \"That means I have to pull out of Singapore, but the Asia Enterprise AI Summit still expects someone from our firm on the main stage. I'd like that someone to be you.\"",
+          "ko": "헬렌은 문을 닫고 곧장 본론으로 들어갔다. \"어머니가 시애틀에서 수술을 받으시는데 날짜를 옮길 수가 없고, 저는 최소 3주는 거기 있어야 해요.\" 그녀가 말했다. \"그래서 싱가포르에서 빠져야 하는데, 아시아 엔터프라이즈 AI 서밋은 여전히 우리 회사 사람이 메인 무대에 서길 기대하고 있어요. 그 사람이 당신이었으면 해요.\""
+        },
+        {
+          "en": "Jae-won stared at her, convinced he had misheard. \"You mean your keynote, in English, in front of eight hundred people?\" Helen slid the printed program across the desk, and he saw her name at the top of the opening morning, directly above a line that read \"title to be confirmed.\"",
+          "ko": "재원은 잘못 들었다고 확신하며 그녀를 빤히 바라봤다. \"헬렌의 기조연설 말씀이세요? 영어로, 800명 앞에서요?\" 헬렌이 인쇄된 프로그램을 책상 너머로 밀어 주자, 개막일 오전 맨 위에 적힌 그녀의 이름과 바로 아래 \"제목 미정\"이라는 줄이 보였다."
+        },
+        {
+          "en": "He reached for the only safe move he had, which was to ask for details. \"What exactly would that involve?\" Helen counted it off on her fingers: \"Twenty minutes on the main stage, then a forty-five-minute panel that afternoon. It took me eight months to land that slot, and two prospects we've been chasing in Singapore have already registered, so bowing out isn't really an option for the firm.\"",
+          "ko": "그는 자신에게 남은 유일하게 안전한 수를 택했다. 세부 사항을 묻는 것이었다. \"구체적으로 어떤 일을 하게 되는 건가요?\" 헬렌이 손가락을 꼽으며 말했다. \"메인 무대에서 20분, 그리고 그날 오후 45분짜리 패널 토론이요. 그 자리를 따내는 데 8개월이 걸렸고, 우리가 공들여 온 싱가포르 잠재 고객 두 곳이 이미 등록했어요. 그러니 회사로서는 발을 빼는 건 사실상 선택지가 아니에요.\""
+        },
+        {
+          "en": "\"Couldn't one of the other partners step in and take this over from you?\" he asked, and she almost laughed. \"They could, but they'd turn it into a sales pitch, and the organizers would never invite us back. You've run our last six AI engagements, you've sat with the finance teams when the pilots fell apart, and you know this topic better than anyone in the building.\"",
+          "ko": "\"다른 파트너분 중 한 분이 대신 맡아 주실 수는 없나요?\" 그가 묻자 그녀는 웃음이 터질 뻔했다. \"그럴 수야 있죠. 하지만 그분들은 영업 발표로 만들어 버릴 거고, 주최측은 다시는 우리를 부르지 않을 거예요. 당신은 우리 AI 프로젝트 최근 여섯 건을 이끌었고, 파일럿이 무너질 때 재무팀 옆에 앉아 있었고, 이 주제는 이 건물에서 누구보다 잘 알아요.\""
+        },
+        {
+          "en": "\"To be honest, the topic isn't what worries me,\" Jae-won said. He could write a flawless report in English, but whenever someone threw him a question in a live meeting, his mind went blank. Just last month, at a steering committee, a client's CFO had asked what the system would cost to run after year one, a number he knew by heart, and he had answered in Korean without realizing it.",
+          "ko": "\"솔직히 말씀드리면, 걱정되는 건 주제가 아니에요.\" 재원이 말했다. 그는 영어 보고서라면 흠잡을 데 없이 쓸 수 있었지만, 실시간 회의에서 누가 질문을 던지면 머리가 하얘졌다. 바로 지난달 운영위원회에서도 고객사 CFO가 1년 차 이후 시스템 운영 비용이 얼마냐고 물었는데, 줄줄 외우던 숫자였는데도 자기도 모르게 한국어로 답해 버렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What exactly would that involve",
+        "To be honest"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pull out of",
+          "surface": "pull out of",
+          "meaningKo": "~에서 빠지다, 손을 떼다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "That means I have to pull out of Singapore, but the Asia Enterprise AI Summit still expects someone from our firm on the main stage.",
+            "ko": "그래서 싱가포르에서 빠져야 하는데, 아시아 엔터프라이즈 AI 서밋은 여전히 우리 회사 사람이 메인 무대에 서길 기대하고 있어요."
+          }
+        },
+        {
+          "term": "land a slot",
+          "surface": "land that slot",
+          "meaningKo": "(경쟁 끝에) 자리를 따내다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It took me eight months to land that slot, and two prospects we've been chasing in Singapore have already registered, so bowing out isn't really an option for the firm.",
+            "ko": "그 자리를 따내는 데 8개월이 걸렸고, 우리가 공들여 온 싱가포르 잠재 고객 두 곳이 이미 등록했어요. 그러니 회사로서는 발을 빼는 건 사실상 선택지가 아니에요."
+          }
+        },
+        {
+          "term": "prospect",
+          "surface": "prospects",
+          "meaningKo": "잠재 고객",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It took me eight months to land that slot, and two prospects we've been chasing in Singapore have already registered, so bowing out isn't really an option for the firm.",
+            "ko": "그 자리를 따내는 데 8개월이 걸렸고, 우리가 공들여 온 싱가포르 잠재 고객 두 곳이 이미 등록했어요. 그러니 회사로서는 발을 빼는 건 사실상 선택지가 아니에요."
+          }
+        },
+        {
+          "term": "bow out",
+          "surface": "bowing out",
+          "meaningKo": "(자리·행사에서) 물러나다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It took me eight months to land that slot, and two prospects we've been chasing in Singapore have already registered, so bowing out isn't really an option for the firm.",
+            "ko": "그 자리를 따내는 데 8개월이 걸렸고, 우리가 공들여 온 싱가포르 잠재 고객 두 곳이 이미 등록했어요. 그러니 회사로서는 발을 빼는 건 사실상 선택지가 아니에요."
+          }
+        },
+        {
+          "term": "step in",
+          "surface": "step in",
+          "meaningKo": "대신 나서다, 개입하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Couldn't one of the other partners step in and take this over from you?\"",
+            "ko": "다른 파트너분 중 한 분이 대신 맡아 주실 수는 없나요?"
+          }
+        },
+        {
+          "term": "engagement",
+          "surface": "engagements",
+          "meaningKo": "(컨설팅) 프로젝트, 계약 건",
+          "paragraph": 4,
+          "sentence": {
+            "en": "You've run our last six AI engagements, you've sat with the finance teams when the pilots fell apart, and you know this topic better than anyone in the building.",
+            "ko": "당신은 우리 AI 프로젝트 최근 여섯 건을 이끌었고, 파일럿이 무너질 때 재무팀 옆에 앉아 있었고, 이 주제는 이 건물에서 누구보다 잘 알아요."
+          }
+        },
+        {
+          "term": "flawless",
+          "surface": "flawless",
+          "meaningKo": "흠잡을 데 없는",
+          "paragraph": 5,
+          "sentence": {
+            "en": "He could write a flawless report in English, but whenever someone threw him a question in a live meeting, his mind went blank.",
+            "ko": "그는 영어 보고서라면 흠잡을 데 없이 쓸 수 있었지만, 실시간 회의에서 누가 질문을 던지면 머리가 하얘졌다."
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회, 프로젝트 조정 위원회",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Just last month, at a steering committee, a client's CFO had asked what the system would cost to run after year one, a number he knew by heart, and he had answered in Korean without realizing it.",
+            "ko": "바로 지난달 운영위원회에서도 고객사 CFO가 1년 차 이후 시스템 운영 비용이 얼마냐고 물었는데, 줄줄 외우던 숫자였는데도 자기도 모르게 한국어로 답해 버렸다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 493,
+      "paragraphs": [
+        {
+          "en": "The message landed at 7:40 on Monday morning, which was the first bad sign: \"Can you stop by my office before the team meeting?\" In eleven years at Seoro Partners, Jae-won had learned that Helen Park did not do early, did not do vague, and certainly did not do both at once unless somebody's head or somebody's account was about to roll.",
+          "ko": "메시지는 월요일 아침 7시 40분에 도착했고, 그것부터가 나쁜 징조였다. \"팀 회의 전에 제 사무실에 잠깐 들러 줄 수 있어요?\" 서로 파트너스에서 11년을 지내며 재원이 배운 것이 있었다. 헬렌 박은 이른 시간을 잡지 않고, 애매하게 말하지 않으며, 누군가의 목이나 어느 계약이 날아가기 직전이 아니고서야 그 둘을 동시에 하는 법은 결코 없다는 것이었다."
+        },
+        {
+          "en": "She shut the door with her heel and skipped the pleasantries altogether. \"I'm not going to dress this up. My mother's going under the knife in Seattle, the surgeon's calendar is the only calendar in this story that doesn't move, and I'll be over there for three weeks at the very least,\" she said. \"Which means I'm out of Singapore. It also means the Asia Enterprise AI Summit has an empty seat on its main stage with this firm's name still printed under it.\"",
+          "ko": "그녀는 발뒤꿈치로 문을 닫고 인사치레는 아예 건너뛰었다. \"포장하지 않고 말할게요. 어머니가 시애틀에서 수술을 받으세요. 이 이야기에서 꿈쩍도 안 하는 일정은 집도의 일정 하나뿐이고, 저는 적어도 3주는 거기 가 있을 거예요.\" 그녀가 말했다. \"그러니 저는 싱가포르에 못 가고, 그 말은 곧 아시아 엔터프라이즈 AI 서밋 메인 무대에 빈자리가 하나 생겼다는 뜻이죠. 그 밑에는 아직 우리 회사 이름이 박혀 있고요.\""
+        },
+        {
+          "en": "Jae-won made the sympathetic noises the moment called for, and he meant them, right up until she kept looking at him a beat too long. \"You're not suggesting—\" he began, and she cut across him without raising her voice. \"I'm not suggesting, I'm asking: the keynote, in English, eight hundred people, and before you say it, yes, I can count.\"",
+          "ko": "재원은 상황에 걸맞게 위로의 말을 건넸고 진심이기도 했다. 그녀가 그를 한 박자 너무 오래 바라보기 전까지는. \"설마 지금—\" 그가 말을 꺼내자 그녀는 목소리도 높이지 않은 채 말을 잘랐다. \"설마가 아니라 부탁하는 거예요. 기조연설, 영어로, 800명 앞에서. 말하기 전에 미리 얘기하는데, 네, 숫자는 저도 셀 줄 알아요.\""
+        },
+        {
+          "en": "He fell back on the one reflex that had never got him into trouble, which was to demand the terms before reacting to the deal. \"What exactly would that involve?\" \"Twenty minutes solo, then forty-five on a panel that afternoon with whichever sharp-elbowed luminaries Singapore decides to wheel out,\" Helen said. \"I spent eight months lobbying for that slot, and two prospects we've been courting for a year have already registered. If we bow out now, we'll be the firm that got the invitation and blinked.\"",
+          "ko": "그는 한 번도 자신을 곤란하게 만든 적 없는 유일한 반사 신경에 기댔다. 거래에 반응하기 전에 조건부터 따지는 것이었다. \"구체적으로 어떤 일을 하게 되는 건가요?\" \"혼자 20분, 그리고 그날 오후에 싱가포르가 내세울 팔꿈치 날카로운 거물들과 패널 45분이요.\" 헬렌이 말했다. \"저 자리 따내려고 8개월을 로비했고, 1년째 공들여 온 잠재 고객 두 곳은 벌써 등록했어요. 지금 발을 빼면 우리는 초대받고도 겁먹고 물러선 회사가 되는 거예요.\""
+        },
+        {
+          "en": "\"There are six partners upstairs who'd kill for this, so why on earth come down a floor?\" Jae-won said. \"Because Kwon would have the sales deck out before they'd finished clipping on his microphone, and the organizers would quietly lose our number the following morning,\" she said dryly. \"You've run our last six AI engagements, and you've been in the room when the pilots came apart at the seams. Frankly, you're the only person in this building who knows where the bodies are buried.\"",
+          "ko": "\"위층에 이 자리라면 뭐든 할 파트너가 여섯 분이나 있는데, 대체 왜 한 층 내려오신 거죠?\" 재원이 말했다. \"권 파트너는 마이크를 채 달기도 전에 영업 자료부터 꺼낼 테고, 주최측은 다음 날 아침 조용히 우리 번호를 지워 버릴 테니까요.\" 그녀가 건조하게 말했다. \"당신은 우리 AI 프로젝트 최근 여섯 건을 이끌었고, 파일럿이 산산이 무너질 때 그 방에 있었어요. 솔직히 이 건물에서 어디에 뭐가 묻혀 있는지 아는 사람은 당신뿐이에요.\""
+        },
+        {
+          "en": "\"To be honest, the subject matter isn't what's keeping me in this chair with my mouth open,\" he said, and the sentence came out more bitterly than he intended. On paper he was bulletproof, capable of a forty-page English report without a misplaced comma. Put him in a live meeting, though, lob him one unscripted question, and his mind simply went white.",
+          "ko": "\"솔직히 말씀드리면, 제가 입을 벌린 채 이 의자에 앉아 있는 이유는 주제 때문이 아니에요.\" 그가 말했고, 그 말은 의도보다 씁쓸하게 나왔다. 글에서라면 그는 빈틈이 없어서, 40쪽짜리 영어 보고서를 쉼표 하나 틀리지 않고 써낼 수 있었다. 하지만 실시간 회의에 앉혀 놓고 각본에 없는 질문을 하나 툭 던지면 머릿속이 그냥 하얘졌다."
+        },
+        {
+          "en": "They both knew the exhibit in question. Last month, at a steering committee, a visiting CFO had asked in passing what the platform would cost to run after year one, a figure Jae-won could have recited in his sleep, and he had delivered it, fluently and in full, in Korean, to a man from Melbourne.",
+          "ko": "문제의 증거물은 둘 다 알고 있었다. 지난달 운영위원회에서 방문한 CFO가 지나가듯 1년 차 이후 플랫폼 운영 비용이 얼마냐고 물었다. 재원이 잠결에도 읊을 수 있는 숫자였다. 그리고 그는 그 숫자를 유창하고 빠짐없이, 한국어로, 멜버른에서 온 사람에게 전달했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What exactly would that involve",
+        "To be honest"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dress up",
+          "surface": "dress this up",
+          "meaningKo": "(나쁜 소식 등을) 포장하다, 그럴싸하게 꾸미다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "I'm not going to dress this up.",
+            "ko": "포장하지 않고 말할게요."
+          }
+        },
+        {
+          "term": "go under the knife",
+          "surface": "going under the knife",
+          "meaningKo": "수술을 받다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "My mother's going under the knife in Seattle, the surgeon's calendar is the only calendar in this story that doesn't move, and I'll be over there for three weeks at the very least,\" she said.",
+            "ko": "어머니가 시애틀에서 수술을 받으세요. 이 이야기에서 꿈쩍도 안 하는 일정은 집도의 일정 하나뿐이고, 저는 적어도 3주는 거기 가 있을 거예요."
+          }
+        },
+        {
+          "term": "cut across",
+          "surface": "cut across",
+          "meaningKo": "(남의 말을) 자르다, 가로막다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"You're not suggesting—\" he began, and she cut across him without raising her voice.",
+            "ko": "\"설마 지금—\" 그가 말을 꺼내자 그녀는 목소리도 높이지 않은 채 말을 잘랐다."
+          }
+        },
+        {
+          "term": "luminary",
+          "surface": "luminaries",
+          "meaningKo": "(업계의) 거물, 권위자",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Twenty minutes solo, then forty-five on a panel that afternoon with whichever sharp-elbowed luminaries Singapore decides to wheel out,\" Helen said.",
+            "ko": "혼자 20분, 그리고 그날 오후에 싱가포르가 내세울 팔꿈치 날카로운 거물들과 패널 45분이요."
+          }
+        },
+        {
+          "term": "court",
+          "surface": "courting",
+          "meaningKo": "(고객·지지 등을) 공들여 얻으려 하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "I spent eight months lobbying for that slot, and two prospects we've been courting for a year have already registered.",
+            "ko": "저 자리 따내려고 8개월을 로비했고, 1년째 공들여 온 잠재 고객 두 곳은 벌써 등록했어요."
+          }
+        },
+        {
+          "term": "come apart at the seams",
+          "surface": "came apart at the seams",
+          "meaningKo": "산산이 무너지다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "You've run our last six AI engagements, and you've been in the room when the pilots came apart at the seams.",
+            "ko": "당신은 우리 AI 프로젝트 최근 여섯 건을 이끌었고, 파일럿이 산산이 무너질 때 그 방에 있었어요."
+          }
+        },
+        {
+          "term": "know where the bodies are buried",
+          "surface": "knows where the bodies are buried",
+          "meaningKo": "조직의 숨은 내막을 훤히 알다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Frankly, you're the only person in this building who knows where the bodies are buried.",
+            "ko": "솔직히 이 건물에서 어디에 뭐가 묻혀 있는지 아는 사람은 당신뿐이에요."
+          }
+        },
+        {
+          "term": "lob",
+          "surface": "lob him",
+          "meaningKo": "(질문 등을) 툭 던지다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Put him in a live meeting, though, lob him one unscripted question, and his mind simply went white.",
+            "ko": "실시간 회의에 앉혀 놓고 각본에 없는 질문을 하나 툭 던지면 머릿속이 그냥 하얘졌다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Why can't Helen give the keynote herself?",
+      "options": [
+        "The organizers want a younger speaker.",
+        "Her mother is having surgery in Seattle on a date that can't be moved.",
+        "She has to lead a client project in Seoul that week.",
+        "The firm's partners voted to send someone else."
+      ],
+      "answerIndex": 1,
+      "evidence": "My mother's having surgery in Seattle, the date can't be moved"
+    },
+    {
+      "question": "Why does Jae-won ask \"What exactly would that involve?\" at that moment?",
+      "options": [
+        "He honestly has no idea what a keynote is.",
+        "He wants Helen to raise his pay for the extra work.",
+        "He is buying himself time with a safe question instead of reacting to the offer.",
+        "He is already planning to accept and wants to start preparing."
+      ],
+      "answerIndex": 2,
+      "evidence": "He reached for the only safe move he had, which was to ask for details."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "You mean your keynote, in English, in front of eight hundred people?",
+      "What exactly would that involve?",
+      "To be honest, the topic isn't what worries me."
+    ],
+    "summaryPromptKo": "헬렌이 무엇을 왜 부탁했는지, 재원이 어떤 조건을 확인했는지, 그가 정말 걱정하는 것이 무엇인지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "You've run our last six AI engagements, and you know this topic. So what is it that worries you?",
+      "ko": "최근 AI 프로젝트 여섯 건을 이끌었고 이 주제도 잘 알잖아요. 그런데 걱정되는 게 뭐예요?"
+    },
+    "modelAnswer": "To be honest, the topic isn't what worries me. I've run these AI projects, so I know where they go wrong. What worries me is the live questions. When someone asks me something in a meeting, my mind goes blank. Last month a CFO asked me about cost, a number I knew by heart, and I answered in Korean. So eight hundred people, in English, is a real worry for me."
+  },
+  "nextTeaserKo": "헬렌은 그 일을 기억한다고 말한다. 하지만 그녀가 기억하는 건 그것만이 아니다. 그날 밤 재원은 회계사답게 스프레드시트를 열어 이 제안을 따져 보기 시작한다.",
+  "roleplay": {
+    "title": "이른 아침, Helen의 사무실에서",
+    "situationKo": "Helen이 사무실 문을 닫고 키노트를 대신 맡아 달라고 합니다. 이번에는 내가 재원이 되어 제안을 자세히 묻고, 정말 걱정되는 것을 털어놓아 봅니다. 틀려도 괜찮고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "My mother's having surgery in Seattle, the date can't be moved, and I'll be there for at least three weeks. I have to pull out of Singapore, and I'd like you to take the keynote.",
+        "ko": "어머니가 시애틀에서 수술을 받으시는데 날짜를 옮길 수가 없고, 저는 적어도 3주는 거기 있어야 해요. 싱가포르는 빠져야 하니, 재원 씨가 키노트를 맡아 줬으면 해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You mean your keynote, in English, in front of eight hundred people?",
+        "ko": "그러니까 파트너님 키노트를, 영어로, 800명 앞에서 하라는 말씀이세요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That's the one. Here's the program, and my name's at the top of the opening morning.",
+        "ko": "바로 그거예요. 여기 프로그램인데, 첫날 오전 맨 위에 제 이름이 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What exactly would that involve?",
+        "ko": "구체적으로 어떤 일을 하게 되는 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Twenty minutes on the main stage, then a forty-five-minute panel that afternoon. It took me eight months to land that slot, and two prospects have already registered.",
+        "ko": "메인 무대에서 20분, 그리고 그날 오후에 45분짜리 패널이에요. 그 자리를 따는 데 8개월이 걸렸고, 잠재 고객 두 곳도 이미 등록했어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Couldn't one of the other partners step in and take this over?",
+        "ko": "다른 파트너분 중 한 분이 대신 맡으실 수는 없을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "They could, but they'd turn it into a sales pitch, and the organizers would never invite us back. You've run our last six AI engagements.",
+        "ko": "그럴 수는 있죠. 하지만 영업 발표로 만들어 버릴 거고, 주최측은 다시는 우리를 부르지 않을 거예요. 최근 AI 프로젝트 여섯 건을 이끈 건 재원 씨잖아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "To be honest, the topic isn't what worries me. It's the live questions.",
+        "ko": "솔직히 말씀드리면 걱정되는 건 주제가 아닙니다. 현장 질문이에요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Go on. What happens?",
+        "ko": "계속해 봐요. 어떻게 되는데요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "My mind goes blank. Last month a CFO asked me about cost, and I answered in Korean.",
+        "ko": "머리가 하얘집니다. 지난달에 어떤 CFO가 비용을 물었을 때 저도 모르게 한국어로 답했어요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "All right. Thank you for telling me that.",
+        "ko": "그렇군요. 말해 줘서 고마워요."
+      }
+    ]
+  }
+}

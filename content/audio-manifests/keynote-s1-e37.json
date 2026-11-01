@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s1-e37",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "legacy control": "word-legacy-control.mp3",
+    "staff": "word-staff.mp3",
+    "regulator": "word-regulator.mp3",
+    "named officer": "word-named-officer.mp3",
+    "favorite": "word-favorite.mp3",
+    "catch": "word-catch.mp3",
+    "bat back and forth": "word-bat-back-and-forth.mp3",
+    "headcount": "word-headcount.mp3",
+    "leave out": "word-leave-out.mp3",
+    "lean in": "word-lean-in.mp3",
+    "referee": "word-referee.mp3",
+    "fall over": "word-fall-over.mp3",
+    "mock surrender": "word-mock-surrender.mp3",
+    "philosophical": "word-philosophical.mp3",
+    "findable": "word-findable.mp3",
+    "movingly": "word-movingly.mp3"
+  },
+  "termClips": {
+    "legacy control": "term-legacy-control.mp3",
+    "staff": "term-staff.mp3",
+    "regulator": "term-regulator.mp3",
+    "named officer": "term-named-officer.mp3",
+    "favorite": "term-favorite.mp3",
+    "catch": "term-catch.mp3",
+    "bat back and forth": "term-bat-back-and-forth.mp3",
+    "headcount": "term-headcount.mp3",
+    "leave out": "term-leave-out.mp3",
+    "lean in": "term-lean-in.mp3",
+    "referee": "term-referee.mp3",
+    "fall over": "term-fall-over.mp3",
+    "mock surrender": "term-mock-surrender.mp3",
+    "philosophical": "term-philosophical.mp3",
+    "findable": "term-findable.mp3",
+    "movingly": "term-movingly.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3"
+  ]
+}

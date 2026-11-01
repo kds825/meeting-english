@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s1-e05",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "business development": "word-business-development.mp3",
+    "month-end close": "word-month-end-close.mp3",
+    "proof": "word-proof.mp3",
+    "research": "word-research.mp3",
+    "scare": "word-scare.mp3",
+    "hire": "word-hire.mp3",
+    "kick off": "word-kick-off.mp3",
+    "steady": "word-steady.mp3",
+    "come across as": "word-come-across-as.mp3",
+    "into production": "word-into-production.mp3",
+    "scare off": "word-scare-off.mp3",
+    "objection": "word-objection.mp3",
+    "serene": "word-serene.mp3",
+    "plaintive": "word-plaintive.mp3",
+    "hunch": "word-hunch.mp3",
+    "ominous": "word-ominous.mp3",
+    "relish": "word-relish.mp3"
+  },
+  "termClips": {
+    "business development": "term-business-development.mp3",
+    "month-end close": "term-month-end-close.mp3",
+    "proof": "term-proof.mp3",
+    "research": "term-research.mp3",
+    "scare": "term-scare.mp3",
+    "hire": "term-hire.mp3",
+    "kick off": "term-kick-off.mp3",
+    "steady": "term-steady.mp3",
+    "come across as": "term-come-across-as.mp3",
+    "into production": "term-into-production.mp3",
+    "scare off": "term-scare-off.mp3",
+    "objection": "term-objection.mp3",
+    "serene": "term-serene.mp3",
+    "plaintive": "term-plaintive.mp3",
+    "hunch": "term-hunch.mp3",
+    "ominous": "term-ominous.mp3",
+    "relish": "term-relish.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3"
+  ]
+}

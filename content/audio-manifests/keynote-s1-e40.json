@@ -1,0 +1,54 @@
+{
+  "episodeId": "keynote-s1-e40",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "contract": "word-contract.mp3",
+    "exit survey": "word-exit-survey.mp3",
+    "get used to": "word-get-used-to.mp3",
+    "gate": "word-gate.mp3",
+    "boarding": "word-boarding.mp3",
+    "commercial side": "word-commercial-side.mp3",
+    "fee": "word-fee.mp3",
+    "worth keeping": "word-worth-keeping.mp3",
+    "unplug": "word-unplug.mp3",
+    "take up with": "word-take-up-with.mp3"
+  },
+  "termClips": {
+    "contract": "term-contract.mp3",
+    "exit survey": "term-exit-survey.mp3",
+    "get used to": "term-get-used-to.mp3",
+    "gate": "term-gate.mp3",
+    "boarding": "term-boarding.mp3",
+    "commercial side": "term-commercial-side.mp3",
+    "fee": "term-fee.mp3",
+    "worth keeping": "term-worth-keeping.mp3",
+    "unplug": "term-unplug.mp3",
+    "take up with": "term-take-up-with.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

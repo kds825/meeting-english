@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e38",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "procedure": "word-procedure.mp3",
+    "signature": "word-signature.mp3",
+    "corridor": "word-corridor.mp3",
+    "lift": "word-lift.mp3",
+    "shake one's hand": "word-shake-one-s-hand.mp3",
+    "log": "word-log.mp3",
+    "fire stairs": "word-fire-stairs.mp3",
+    "permit": "word-permit.mp3",
+    "delegate": "word-delegate.mp3",
+    "opening": "word-opening.mp3",
+    "convey": "word-convey.mp3",
+    "on the grounds that": "word-on-the-grounds-that.mp3",
+    "hold off": "word-hold-off.mp3",
+    "intercept": "word-intercept.mp3",
+    "partner-elect": "word-partner-elect.mp3"
+  },
+  "termClips": {
+    "procedure": "term-procedure.mp3",
+    "signature": "term-signature.mp3",
+    "corridor": "term-corridor.mp3",
+    "lift": "term-lift.mp3",
+    "shake one's hand": "term-shake-one-s-hand.mp3",
+    "log": "term-log.mp3",
+    "fire stairs": "term-fire-stairs.mp3",
+    "permit": "term-permit.mp3",
+    "delegate": "term-delegate.mp3",
+    "opening": "term-opening.mp3",
+    "convey": "term-convey.mp3",
+    "on the grounds that": "term-on-the-grounds-that.mp3",
+    "hold off": "term-hold-off.mp3",
+    "intercept": "term-intercept.mp3",
+    "partner-elect": "term-partner-elect.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

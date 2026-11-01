@@ -1,0 +1,421 @@
+{
+  "id": "keynote-s1-e32",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 32,
+  "title": "No Agenda",
+  "recapKo": "화요일 환영회에서 재원은 은행가에게 90초를 쏟아 냈다가, 대니얼에게 한 문장만 말하고 되물으라는 조언을 들었다. 그 뒤 연필을 든 여성에게 5분 동안 통관 서류에 관해 질문만 하고 대니얼을 소개했다. 그녀는 말 나눠서 좋았다며 자리를 떠났다.",
+  "keyExpressions": [
+    {
+      "phrase": "I'd love to hear more about ~",
+      "meaningKo": "~에 대해 더 듣고 싶어요",
+      "usage": "I'd love to hear more about your new warehouse."
+    },
+    {
+      "phrase": "It's been great talking to you.",
+      "meaningKo": "말씀 나눠서 정말 좋았어요.",
+      "usage": "It's been great talking to you. Let's stay in touch."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 227,
+      "paragraphs": [
+        {
+          "en": "Daniel checked Yuna's list of prospects. \"That's Grace Lim, the COO of Straits Meridian, and she's one of our two prospects,\" he said. \"To be honest, I forgot to mention our firm,\" Jae-won said.",
+          "ko": "대니얼이 유나의 잠재 고객 명단을 확인했다. \"저분이 스트레이츠 메리디안의 COO 그레이스 림이에요. 우리 잠재 고객 두 곳 중 하나고요.\" 그가 말했다. \"솔직히 우리 회사 얘기를 깜빡했어.\" 재원이 말했다."
+        },
+        {
+          "en": "At eight on Wednesday morning, Ethan Wolfe sat in the hotel cafe with two coffees. \"No agenda,\" he said, and he talked about the weather for four minutes. \"Three of my customers stalled at month-end last year,\" he said then. \"How many of your thirty-one ran on Corvane?\"",
+          "ko": "수요일 아침 8시, 이선 울프가 커피 두 잔을 앞에 두고 호텔 카페에 앉아 있었다. \"안건은 없어요.\" 그는 그렇게 말하고 4분 동안 날씨 이야기를 했다. \"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요.\" 그러더니 그가 말했다. \"당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+        },
+        {
+          "en": "\"I can't give you names, but what I can tell you is that the model was never the reason,\" Jae-won said. \"I'd love to hear more about what their finance people said. What would it take?\" Ethan asked. \"They'd have to say yes,\" Jae-won said, and Ethan laughed.",
+          "ko": "\"이름은 드릴 수 없지만, 말씀드릴 수 있는 건 이유가 모델이었던 적은 없다는 겁니다.\" 재원이 말했다. \"그 회사 재무 담당자들이 뭐라고 했는지 더 듣고 싶네요. 뭐가 필요할까요?\" 이선이 물었다. \"그분들이 허락해야죠.\" 재원의 말에 이선이 웃었다."
+        },
+        {
+          "en": "\"So what do they say when they refuse?\" Ethan asked. \"They ask where a number came from, and nobody can show them,\" Jae-won said. Ethan nodded and said, \"It's been great talking to you, but that stays at this table.\" \"On Thursday, I'm still coming after you, and I'm going after the signature itself.\"",
+          "ko": "\"그럼 그 사람들이 거부할 때 뭐라고 하나요?\" 이선이 물었다. \"숫자가 어디서 왔느냐고 묻는데, 아무도 보여 주지 못합니다.\" 재원이 말했다. 이선이 고개를 끄덕였다. \"말씀 나눠서 정말 좋았지만, 이 얘기는 이 테이블에만 남기죠.\" 그가 말했다. \"목요일에 저는 여전히 당신을 공격할 겁니다. 서명 자체를 칠 거예요.\""
+        },
+        {
+          "en": "At noon, Priya landed and sent one line: \"Don't tell me what Wolfe said, tell me what he wanted.\" Then Marcus wrote, \"Four o'clock. The crew found something in the playback system this morning. Probably nothing.\" Jae-won read the last two words twice.",
+          "ko": "정오에 프리야가 도착해 한 줄을 보냈다. \"울프가 뭐라고 했는지 말고, 뭘 원했는지 말해요.\" 그때 마커스의 메시지가 왔다. \"4시입니다. 오늘 아침 기술팀이 재생 시스템에서 뭔가를 발견했습니다. 아마 별것 아닐 겁니다.\" 재원은 마지막 말을 두 번 읽었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd love to hear more about",
+        "It's been great talking to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "prospect",
+          "surface": "prospects",
+          "meaningKo": "잠재 고객",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Daniel checked Yuna's list of prospects.",
+            "ko": "대니얼이 유나의 잠재 고객 명단을 확인했다."
+          }
+        },
+        {
+          "term": "firm",
+          "surface": "firm",
+          "meaningKo": "회사",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"To be honest, I forgot to mention our firm,\" Jae-won said.",
+            "ko": "\"솔직히 우리 회사 얘기를 깜빡했어.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stalled",
+          "meaningKo": "멈춰 서다, 진척이 없다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Three of my customers stalled at month-end last year,\" he said then. \"How many of your thirty-one ran on Corvane?\"",
+            "ko": "\"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요.\" 그러더니 그가 말했다. \"당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+          }
+        },
+        {
+          "term": "refuse",
+          "surface": "refuse",
+          "meaningKo": "거부하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So what do they say when they refuse?\" Ethan asked.",
+            "ko": "\"그럼 그 사람들이 거부할 때 뭐라고 하나요?\" 이선이 물었다."
+          }
+        },
+        {
+          "term": "come after",
+          "surface": "coming after",
+          "meaningKo": "~를 공격하다, 쫓다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"On Thursday, I'm still coming after you, and I'm going after the signature itself.\"",
+            "ko": "\"목요일에 저는 여전히 당신을 공격할 겁니다. 서명 자체를 칠 거예요.\""
+          }
+        },
+        {
+          "term": "crew",
+          "surface": "crew",
+          "meaningKo": "기술팀, 작업팀",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Four o'clock. The crew found something in the playback system this morning. Probably nothing.\"",
+            "ko": "\"4시입니다. 오늘 아침 기술팀이 재생 시스템에서 뭔가를 발견했습니다. 아마 별것 아닐 겁니다.\""
+          }
+        },
+        {
+          "term": "playback system",
+          "surface": "playback system",
+          "meaningKo": "재생 시스템",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Four o'clock. The crew found something in the playback system this morning. Probably nothing.\"",
+            "ko": "\"4시입니다. 오늘 아침 기술팀이 재생 시스템에서 뭔가를 발견했습니다. 아마 별것 아닐 겁니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 363,
+      "paragraphs": [
+        {
+          "en": "Daniel pulled up Yuna's list of prospects and looked from his phone to the woman walking away. \"That's Grace Lim, the COO of Straits Meridian, and she's one of the two prospects Yuna's been chasing for a year,\" he said. \"To be honest, I forgot to mention the firm,\" Jae-won said, and Daniel said that it might be the best pitch Seoro had ever made.",
+          "ko": "대니얼은 유나가 준 잠재 고객 명단을 띄우고는 휴대폰과 걸어가는 여성을 번갈아 보았다. \"저분이 스트레이츠 메리디안의 COO 그레이스 림이에요. 유나 님이 1년째 쫓고 있는 잠재 고객 두 곳 중 하나고요.\" 그가 말했다. \"솔직히 회사 얘기를 깜빡했어.\" 재원이 말하자, 대니얼은 그게 서로 역사상 최고의 영업일지도 모른다고 했다."
+        },
+        {
+          "en": "At eight on Wednesday morning, Ethan Wolfe was already at a corner table in the hotel cafe, in a T-shirt, with two coffees in front of him. \"No agenda,\" he said, and he spent four perfectly pleasant minutes on the weather and the flight. Then he put down his cup and said, \"Three of my customers stalled at month-end last year, so how many of your thirty-one ran on Corvane?\"",
+          "ko": "수요일 아침 8시, 이선 울프는 티셔츠 차림으로 커피 두 잔을 앞에 두고 벌써 호텔 카페 구석 테이블에 앉아 있었다. \"안건은 없어요.\" 그는 그렇게 말하고 날씨와 비행 이야기로 더없이 유쾌한 4분을 보냈다. 그러더니 컵을 내려놓고 말했다. \"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 그래서 묻는데, 당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+        },
+        {
+          "en": "So there was the agenda, delivered by a man who told rooms full of CFOs that sign-off was finished, and Jae-won took his three seconds. \"I can't give you client names, but what I can tell you is that the model was never the reason they stopped,\" he said. \"I'd love to hear more about what their finance people said, so what would it take for you to tell me?\" Ethan asked. \"They'd have to say yes, and knowing them, they'd want to sign something first,\" Jae-won said, and Ethan laughed loud enough to turn heads.",
+          "ko": "그러니까 그게 안건이었다. CFO들로 가득한 방에서 승인은 끝났다고 말해 온 사람이 꺼낸 안건이었다. 재원은 3초를 썼다. \"고객 이름은 드릴 수 없습니다. 하지만 말씀드릴 수 있는 건, 멈춘 이유가 모델이었던 적은 한 번도 없다는 겁니다.\" 그가 말했다. \"그 회사 재무 담당자들이 뭐라고 했는지 더 듣고 싶은데, 알려 주려면 뭐가 필요할까요?\" 이선이 물었다. \"그분들이 허락해야죠. 제가 아는 분들이라면 먼저 뭔가에 서명부터 하고 싶어 할 겁니다.\" 재원의 말에 이선은 주변 사람들이 돌아볼 만큼 크게 웃었다."
+        },
+        {
+          "en": "\"So what do they actually say when they refuse?\" Ethan asked. \"They ask where a number came from, and nobody in the room can show them,\" Jae-won said. Ethan nodded and drained his cup, and he said, \"That stays at this table, and on Thursday I'm still coming after you. I'll leave your data alone, though, because I'm going after the signature itself. It's been great talking to you.\"",
+          "ko": "\"그럼 그 사람들이 거부할 때 실제로 뭐라고 하나요?\" 이선이 물었다. \"숫자가 어디서 왔느냐고 묻는데, 그 자리의 누구도 보여 주지 못합니다.\" 재원이 말했다. 이선은 고개를 끄덕이고 잔을 비운 뒤 말했다. \"이 얘기는 이 테이블에만 남기죠. 목요일에 저는 여전히 당신을 공격할 겁니다. 다만 데이터는 건드리지 않아요. 서명 자체를 칠 거니까요. 말씀 나눠서 정말 좋았어요.\""
+        },
+        {
+          "en": "Priya landed at noon and sent one line: \"Don't tell me what Wolfe said, tell me what he wanted.\" Then another message came in, this one from Marcus. \"Four o'clock. The crew found something in the playback system this morning. Probably nothing.\" He read the last two words twice, because two weeks with Daniel's spreadsheet had taught him exactly what \"probably\" was worth.",
+          "ko": "프리야는 정오에 도착해 한 줄을 보냈다. \"울프가 뭐라고 했는지 말고, 뭘 원했는지 말해요.\" 그때 또 메시지가 왔다. 이번에는 마커스였다. \"4시입니다. 오늘 아침 기술팀이 재생 시스템에서 뭔가를 발견했습니다. 아마 별것 아닐 겁니다.\" 그는 마지막 말을 두 번 읽었다. 대니얼의 스프레드시트와 보낸 2주 덕분에 '아마'가 정확히 얼마짜리 말인지 배웠기 때문이다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd love to hear more about",
+        "It's been great talking to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "chase",
+          "surface": "chasing",
+          "meaningKo": "(고객 등을) 쫓다, 공들이다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's Grace Lim, the COO of Straits Meridian, and she's one of the two prospects Yuna's been chasing for a year,\" he said.",
+            "ko": "\"저분이 스트레이츠 메리디안의 COO 그레이스 림이에요. 유나 님이 1년째 쫓고 있는 잠재 고객 두 곳 중 하나고요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "pitch",
+          "surface": "pitch",
+          "meaningKo": "영업 제안, 홍보",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"To be honest, I forgot to mention the firm,\" Jae-won said, and Daniel said that it might be the best pitch Seoro had ever made.",
+            "ko": "\"솔직히 회사 얘기를 깜빡했어.\" 재원이 말하자, 대니얼은 그게 서로 역사상 최고의 영업일지도 모른다고 했다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stalled",
+          "meaningKo": "멈춰 서다, 진척이 없다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then he put down his cup and said, \"Three of my customers stalled at month-end last year, so how many of your thirty-one ran on Corvane?\"",
+            "ko": "그러더니 컵을 내려놓고 말했다. \"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 그래서 묻는데, 당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+          }
+        },
+        {
+          "term": "sign-off",
+          "surface": "sign-off",
+          "meaningKo": "승인, 결재",
+          "paragraph": 2,
+          "sentence": {
+            "en": "So there was the agenda, delivered by a man who told rooms full of CFOs that sign-off was finished, and Jae-won took his three seconds.",
+            "ko": "그러니까 그게 안건이었다. CFO들로 가득한 방에서 승인은 끝났다고 말해 온 사람이 꺼낸 안건이었다. 재원은 3초를 썼다."
+          }
+        },
+        {
+          "term": "drain",
+          "surface": "drained",
+          "meaningKo": "(잔을) 비우다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan nodded and drained his cup, and he said, \"That stays at this table, and on Thursday I'm still coming after you.",
+            "ko": "이선은 고개를 끄덕이고 잔을 비운 뒤 말했다. \"이 얘기는 이 테이블에만 남기죠. 목요일에 저는 여전히 당신을 공격할 겁니다."
+          }
+        },
+        {
+          "term": "pull up",
+          "surface": "pulled up",
+          "meaningKo": "(화면에) 띄우다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Daniel pulled up Yuna's list of prospects and looked from his phone to the woman walking away.",
+            "ko": "대니얼은 유나가 준 잠재 고객 명단을 띄우고는 휴대폰과 걸어가는 여성을 번갈아 보았다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 463,
+      "paragraphs": [
+        {
+          "en": "Daniel, chewing, pulled up Yuna's list of prospects and looked from his phone to the woman making her way toward the door. \"That's Grace Lim, the COO of Straits Meridian, and she's one of the two prospects Yuna's been chasing for a year without getting past her assistant,\" he said. \"To be honest, I forgot to mention the firm,\" Jae-won said, feeling his stomach sink. Daniel said it might well be the most effective pitch in the history of Seoro Partners.",
+          "ko": "대니얼은 우물거리며 유나가 준 잠재 고객 명단을 띄우고는 휴대폰과 문 쪽으로 걸어가는 여성을 번갈아 보았다. \"저분이 스트레이츠 메리디안의 COO 그레이스 림이에요. 유나 님이 1년째 쫓으면서 비서 선도 못 넘은 잠재 고객 두 곳 중 하나고요.\" 그가 말했다. \"솔직히 회사 얘기를 깜빡했어.\" 재원이 속이 내려앉는 기분으로 말했다. 대니얼은 서로 파트너스 역사상 가장 효과적인 영업일 수도 있다고 했다."
+        },
+        {
+          "en": "At eight on Wednesday morning, Ethan Wolfe was already settled at a corner table in the hotel cafe, in a T-shirt that had cost more than it looked, with two coffees in front of him. \"No agenda,\" he said, and he proceeded to spend four perfectly charming minutes on the humidity, the red-eye and the correct order for kaya toast. Then he set down his cup and said, in precisely the same voice, \"Three of my customers stalled at month-end last year, so how many of your thirty-one ran on Corvane?\"",
+          "ko": "수요일 아침 8시, 이선 울프는 보기보다 비쌌을 티셔츠 차림으로 커피 두 잔을 앞에 두고 벌써 호텔 카페 구석 테이블에 자리 잡고 있었다. \"안건은 없어요.\" 그는 그렇게 말하고 습도와 야간 비행, 카야 토스트를 제대로 주문하는 법으로 더없이 매력적인 4분을 보냈다. 그러더니 컵을 내려놓고 정확히 같은 목소리로 말했다. \"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 그래서 묻는데, 당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+        },
+        {
+          "en": "So there it was, from a man whose clip had told a room full of CFOs that sign-off was a legacy bottleneck. Jae-won took his three seconds, mostly to enjoy them. \"I can't give you client names, but what I can tell you is that the model was never the reason they stopped,\" he said. \"I'd love to hear more about what their finance people said, so what would it take for you to tell me?\" Ethan asked, as though inquiring about a parking fee. \"They'd have to say yes, and knowing them, they'd insist on signing something first,\" Jae-won said, and Ethan laughed loudly enough to turn heads at the buffet.",
+          "ko": "그러니까 그게 안건이었다. 영상 속에서 CFO들로 가득한 방에 승인은 낡은 병목이라고 말한 사람이 꺼낸 안건이었다. 재원은 3초를 썼는데, 주로 그 3초를 즐기기 위해서였다. \"고객 이름은 드릴 수 없습니다. 하지만 말씀드릴 수 있는 건, 멈춘 이유가 모델이었던 적은 한 번도 없다는 겁니다.\" 그가 말했다. \"그 회사 재무 담당자들이 뭐라고 했는지 더 듣고 싶은데, 알려 주려면 뭐가 필요할까요?\" 이선은 주차비라도 묻듯이 물었다. \"그분들이 허락해야죠. 제가 아는 분들이라면 먼저 뭔가에 서명부터 하겠다고 고집할 겁니다.\" 재원의 말에 이선은 뷔페의 사람들이 돌아볼 만큼 크게 웃었다."
+        },
+        {
+          "en": "\"Fair enough, because I've read the post-mortems and they're useless, so what do they actually say when they refuse?\" Ethan asked. \"They ask where a number came from, and nobody in the room can show them, however good the number is,\" Jae-won said. Ethan nodded slowly and drained his cup, and he said, \"That stays at this table, and on Thursday I'm still coming after you with everything I've got. I'll leave your data alone, though, since you've already done that to yourself, and I'm going after the signature itself. It's been great talking to you.\"",
+          "ko": "\"좋아요, 사후 분석 보고서는 다 읽어 봤는데 쓸모가 없더군요. 그 사람들이 거부할 때 실제로 뭐라고 하나요?\" 이선이 물었다. \"숫자가 어디서 왔느냐고 묻는데, 숫자가 아무리 좋아도 그 자리의 누구도 보여 주지 못합니다.\" 재원이 말했다. 이선은 천천히 고개를 끄덕이고 잔을 비운 뒤 말했다. \"이 얘기는 이 테이블에만 남기죠. 목요일에 저는 여전히 가진 걸 다 동원해 당신을 공격할 겁니다. 다만 데이터는 건드리지 않아요. 그건 이미 스스로 하셨으니까. 서명 자체를 칠 겁니다. 말씀 나눠서 정말 좋았어요.\""
+        },
+        {
+          "en": "Priya landed at noon and sent one line from the taxi queue: \"Don't tell me what Wolfe said, tell me what he wanted.\" Jae-won was still working out how to answer that when another message arrived, this one from Marcus and no longer than usual. \"Four o'clock. The crew found something in the playback system this morning. Probably nothing.\" He read the last two words twice, because two weeks with Daniel's spreadsheet had taught him to the decimal exactly what \"probably\" was worth.",
+          "ko": "프리야는 정오에 도착해 택시 줄에서 한 줄을 보냈다. \"울프가 뭐라고 했는지 말고, 뭘 원했는지 말해요.\" 재원이 그 말에 어떻게 답할지 아직 궁리하고 있을 때 또 메시지가 왔다. 이번에는 마커스였고, 길이는 평소와 다르지 않았다. \"4시입니다. 오늘 아침 기술팀이 재생 시스템에서 뭔가를 발견했습니다. 아마 별것 아닐 겁니다.\" 그는 마지막 말을 두 번 읽었다. 대니얼의 스프레드시트와 보낸 2주 덕분에 '아마'가 소수점까지 정확히 얼마짜리 말인지 배웠기 때문이다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd love to hear more about",
+        "It's been great talking to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "settled",
+          "surface": "settled",
+          "meaningKo": "자리 잡은",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At eight on Wednesday morning, Ethan Wolfe was already settled at a corner table in the hotel cafe, in a T-shirt that had cost more than it looked, with two coffees in front of him.",
+            "ko": "수요일 아침 8시, 이선 울프는 보기보다 비쌌을 티셔츠 차림으로 커피 두 잔을 앞에 두고 벌써 호텔 카페 구석 테이블에 자리 잡고 있었다."
+          }
+        },
+        {
+          "term": "red-eye",
+          "surface": "red-eye",
+          "meaningKo": "야간 비행편",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"No agenda,\" he said, and he proceeded to spend four perfectly charming minutes on the humidity, the red-eye and the correct order for kaya toast.",
+            "ko": "\"안건은 없어요.\" 그는 그렇게 말하고 습도와 야간 비행, 카야 토스트를 제대로 주문하는 법으로 더없이 매력적인 4분을 보냈다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stalled",
+          "meaningKo": "멈춰 서다, 진척이 없다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then he set down his cup and said, in precisely the same voice, \"Three of my customers stalled at month-end last year, so how many of your thirty-one ran on Corvane?\"",
+            "ko": "그러더니 컵을 내려놓고 정확히 같은 목소리로 말했다. \"작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 그래서 묻는데, 당신의 31곳 중 몇 곳이 코르베인을 썼나요?\""
+          }
+        },
+        {
+          "term": "legacy bottleneck",
+          "surface": "legacy bottleneck",
+          "meaningKo": "낡은 병목",
+          "paragraph": 2,
+          "sentence": {
+            "en": "So there it was, from a man whose clip had told a room full of CFOs that sign-off was a legacy bottleneck.",
+            "ko": "그러니까 그게 안건이었다. 영상 속에서 CFO들로 가득한 방에 승인은 낡은 병목이라고 말한 사람이 꺼낸 안건이었다."
+          }
+        },
+        {
+          "term": "post-mortem",
+          "surface": "post-mortems",
+          "meaningKo": "사후 분석 보고서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Fair enough, because I've read the post-mortems and they're useless, so what do they actually say when they refuse?\" Ethan asked.",
+            "ko": "\"좋아요, 사후 분석 보고서는 다 읽어 봤는데 쓸모가 없더군요. 그 사람들이 거부할 때 실제로 뭐라고 하나요?\" 이선이 물었다."
+          }
+        },
+        {
+          "term": "drain",
+          "surface": "drained",
+          "meaningKo": "(잔을) 비우다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan nodded slowly and drained his cup, and he said, \"That stays at this table, and on Thursday I'm still coming after you with everything I've got.",
+            "ko": "이선은 천천히 고개를 끄덕이고 잔을 비운 뒤 말했다. \"이 얘기는 이 테이블에만 남기죠. 목요일에 저는 여전히 가진 걸 다 동원해 당신을 공격할 겁니다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Ethan's customers do last year, according to him?",
+      "options": [
+        "Three of them hired Seoro Partners.",
+        "Thirty-one of them left Corvane.",
+        "Three of them stalled at month-end.",
+        "Three of them refused to pay Corvane."
+      ],
+      "answerIndex": 2,
+      "evidence": "Three of my customers stalled at month-end last year"
+    },
+    {
+      "question": "What does Ethan's question at the cafe suggest?",
+      "options": [
+        "He wants to cancel the panel.",
+        "Privately, he takes the month-end problem more seriously than his public claims suggest.",
+        "He wants Jae-won to work for Corvane.",
+        "He has already changed his public position."
+      ],
+      "answerIndex": 1,
+      "evidence": "That stays at this table"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I can't give you client names, but what I can tell you is that the model was never the reason they stopped.",
+      "They ask where a number came from, and nobody in the room can show them.",
+      "It's been great talking to you."
+    ],
+    "summaryPromptKo": "그레이스가 누구였는지, 이선이 커피 자리에서 무엇을 물었는지, 재원이 무엇을 알려 주고 무엇을 지켰는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "Three of my customers stalled at month-end last year. How many of your thirty-one ran on Corvane?",
+      "ko": "작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 당신의 31곳 중 몇 곳이 코르베인을 썼나요?"
+    },
+    "modelAnswer": "I can't give you client names, but what I can tell you is that the model was never the reason they stopped. When a pilot stalls at month-end, the finance people ask where a number came from, and nobody in the room can show them. I'd love to hear more about your three customers, though. What did their finance people say when they refused?"
+  },
+  "nextTeaserKo": "수요일 오후 4시, 무대 점검이 시작된다. 재생 시스템에서 나온 '아마 별것 아닌' 문제는 정말 별것 아닐까. 바닥의 시계는 고장이 나도 멈추지 않는다.",
+  "roleplay": {
+    "title": "안건 없는 커피",
+    "situationKo": "수요일 아침 8시, 호텔 카페 구석 테이블에서 이선 울프를 만납니다. 내가 재원이 되어 고객 이름은 지키면서 할 수 있는 말만 해 봅니다. 잠시 생각하고 답해도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "No agenda. But three of my customers stalled at month-end last year, so how many of your thirty-one ran on Corvane?",
+        "ko": "안건은 없어요. 그런데 작년에 우리 고객 세 곳이 월말 결산에서 멈췄어요. 당신의 31곳 중 몇 곳이 코르베인을 썼나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I can't give you client names, but I can tell you the model was never the reason they stopped.",
+        "ko": "고객 이름은 드릴 수 없지만, 멈춘 이유가 모델이었던 적은 한 번도 없다는 건 말씀드릴 수 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "What would it take for you to tell me what their finance people said?",
+        "ko": "그 회사 재무 담당자들이 뭐라고 했는지 알려 주려면 뭐가 필요할까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "They'd have to say yes, and knowing them, they'd want to sign something first.",
+        "ko": "그분들이 허락해야죠. 제가 아는 분들이라면 먼저 뭔가에 서명부터 하고 싶어 할 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "So what do they actually say when they refuse?",
+        "ko": "그럼 그 사람들이 거부할 때 실제로 뭐라고 하나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "They ask where a number came from, and nobody in the room can show them.",
+        "ko": "숫자가 어디서 왔느냐고 묻는데, 그 자리의 누구도 보여 주지 못합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "That stays at this table, and on Thursday I'm still coming after you.",
+        "ko": "이 얘기는 이 테이블에만 남기죠. 목요일에 저는 여전히 당신을 공격할 겁니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'd love to hear more about that. Are you coming after our data?",
+        "ko": "그 얘기를 더 듣고 싶네요. 우리 데이터를 공격하실 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "No. I'll leave your data alone. I'm going after the signature itself.",
+        "ko": "아뇨. 데이터는 건드리지 않아요. 서명 자체를 칠 겁니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I'll see you on Thursday. It's been great talking to you.",
+        "ko": "그럼 목요일에 뵙겠습니다. 말씀 나눠서 정말 좋았어요.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Likewise. Good coffee, too.",
+        "ko": "저도요. 커피도 좋았고요."
+      }
+    ]
+  }
+}

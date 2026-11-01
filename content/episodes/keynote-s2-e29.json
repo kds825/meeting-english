@@ -1,0 +1,412 @@
+{
+  "id": "keynote-s2-e29",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 29,
+  "title": "The Rival",
+  "recapKo": "재원은 복도에서 백준호를 넘어서 숫자를 말했다. 서로 파트너스 15만 달러(고정 수수료에서 공제), 코르베인 30만, 스트레이츠 메리디안 16만 달러로 손실 61만 달러가 나뉘었다. 고정 수수료는 아르준이 처음 제시한 110만 달러가 되었다. 그때 그레이스의 메시지가 왔다. 금요일 위원회에 앤더스 버그라는 사람이 16쪽을 보냈다고.",
+  "keyExpressions": [
+    {
+      "phrase": "With respect, ~",
+      "meaningKo": "외람되지만, ~",
+      "usage": "With respect, that figure leaves out the setup cost."
+    },
+    {
+      "phrase": "What that leaves out is ~",
+      "meaningKo": "거기서 빠진 것은 ~입니다",
+      "usage": "What that leaves out is the night shift."
+    },
+    {
+      "phrase": "You don't have to take my word for it.",
+      "meaningKo": "제 말만 믿으실 필요는 없습니다.",
+      "usage": "You don't have to take my word for it. The logs are on your server."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 226,
+      "paragraphs": [
+        {
+          "en": "On Friday of week twelve, Rahim came for his phase two decision, but Anders Berg stood up first. He was a tall, relaxed partner at a firm called Aldermoor, and he began by praising Jae-won. \"You found the real problem here, and I'd hire you,\" he said.",
+          "ko": "12주 차 금요일, 라힘은 2단계 결정을 들으러 왔지만 앤더스 버그가 먼저 일어섰다. 그는 올더무어라는 회사의 키 크고 여유로운 파트너였고, 재원을 칭찬하며 시작했다. \"이곳의 진짜 문제를 찾으셨더군요. 저라면 채용하겠습니다.\" 그가 말했다."
+        },
+        {
+          "en": "His offer was sixteen pages long. Aldermoor would take over for nine hundred thousand dollars, replace Corvane with Ostrel and include Port Klang. Arjun said that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won.",
+          "ko": "그의 제안은 16쪽이었다. 올더무어가 90만 달러로 넘겨받아 코르베인을 오스트렐로 바꾸고 포트 클랑도 포함한다는 것이었다. 아르준은 이 회사가 수수료 협상 때 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 재원을 봤다."
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked. \"With respect, your first quote assumed clean data on page four. What that leaves out is the night forms, which add twenty-four hundred documents a month.\" Anders smiled and turned to page four himself.",
+          "ko": "\"무엇과 비교하시는 겁니까?\" 재원이 물었다. \"외람되지만, 처음 견적은 4쪽에서 데이터가 깨끗하다고 가정했습니다. 거기서 빠진 것은 야간 양식이고, 그것이 한 달에 2,400건을 더합니다.\" 앤더스가 웃더니 직접 4쪽을 펼쳤다."
+        },
+        {
+          "en": "The page was new, and it had Siti's forms and the number eighty a night on it. \"You don't have to take my word for it,\" Anders said. \"I was on your dock on Tuesday night, with my own boots.\" Jae-won looked at Wei Ling, who didn't look away.",
+          "ko": "그 쪽은 새로 쓴 것이었고, 거기에는 시티의 양식과 하룻밤 80장이라는 숫자가 있었다. \"제 말만 믿으실 필요는 없습니다.\" 앤더스가 말했다. \"화요일 밤에 제 안전화를 신고 그 도크에 있었으니까요.\" 재원이 웨이링을 봤고, 그녀는 눈길을 피하지 않았다."
+        },
+        {
+          "en": "\"He asked, I let him in, and they fit,\" she said. Anders closed his folder and asked one last question: \"Without her name, nothing can run, so has her name come back?\" Grace turned to Wei Ling, who said, \"No.\"",
+          "ko": "\"그가 물었고, 제가 들여보냈고, 치수도 맞았어요.\" 그녀가 말했다. 앤더스가 폴더를 덮고 마지막 질문을 했다. \"그분 이름 없이는 아무것도 못 돌리는데, 그 이름은 돌아왔습니까?\" 그레이스가 웨이링을 돌아봤고, 웨이링이 말했다. \"아니요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "With respect",
+        "What that leaves out is",
+        "You don't have to take my word for it"
+      ],
+      "wordCandidates": [
+        {
+          "term": "relaxed",
+          "surface": "relaxed",
+          "meaningKo": "여유로운",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He was a tall, relaxed partner at a firm called Aldermoor, and he began by praising Jae-won.",
+            "ko": "그는 올더무어라는 회사의 키 크고 여유로운 파트너였고, 재원을 칭찬하며 시작했다."
+          }
+        },
+        {
+          "term": "praise",
+          "surface": "praising",
+          "meaningKo": "칭찬하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He was a tall, relaxed partner at a firm called Aldermoor, and he began by praising Jae-won.",
+            "ko": "그는 올더무어라는 회사의 키 크고 여유로운 파트너였고, 재원을 칭찬하며 시작했다."
+          }
+        },
+        {
+          "term": "take over",
+          "surface": "take over",
+          "meaningKo": "넘겨받다, 인수하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Aldermoor would take over for nine hundred thousand dollars, replace Corvane with Ostrel and include Port Klang.",
+            "ko": "올더무어가 90만 달러로 넘겨받아 코르베인을 오스트렐로 바꾸고 포트 클랑도 포함한다는 것이었다."
+          }
+        },
+        {
+          "term": "quote",
+          "surface": "quote",
+          "meaningKo": "견적",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Arjun said that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won.",
+            "ko": "아르준은 이 회사가 수수료 협상 때 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 재원을 봤다."
+          }
+        },
+        {
+          "term": "look away",
+          "surface": "look away",
+          "meaningKo": "눈길을 돌리다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won looked at Wei Ling, who didn't look away.",
+            "ko": "재원이 웨이링을 봤고, 그녀는 눈길을 피하지 않았다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 338,
+      "paragraphs": [
+        {
+          "en": "On Friday of week twelve, Rahim came for his phase two decision with a folder of his own, but Anders Berg stood up first. He was a tall, relaxed partner at a firm called Aldermoor, and he began, to Jae-won's alarm, by praising him. \"You found the real problem here, and most people in our business never go downstairs,\" he said. \"I'd hire you.\"",
+          "ko": "12주 차 금요일, 라힘은 자기 폴더를 들고 2단계 결정을 들으러 왔지만 앤더스 버그가 먼저 일어섰다. 그는 올더무어라는 회사의 키 크고 여유로운 파트너였고, 재원으로서는 놀랍게도 그를 칭찬하며 시작했다. \"이곳의 진짜 문제를 찾으셨더군요. 이 업계 사람들은 대부분 아래층에 내려가지 않습니다.\" 그가 말했다. \"저라면 채용하겠습니다.\""
+        },
+        {
+          "en": "His offer ran to sixteen pages. Aldermoor would take over the remaining work for nine hundred thousand dollars, replace Corvane with Ostrel, and include Port Klang from the start, and Rahim sat up as if someone had called his name. Arjun remarked that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won to see what he would do about it.",
+          "ko": "그의 제안은 16쪽에 달했다. 올더무어가 90만 달러로 남은 일을 넘겨받아 코르베인을 오스트렐로 바꾸고 처음부터 포트 클랑을 포함한다는 것이었고, 라힘은 누가 이름을 부른 듯 자세를 고쳐 앉았다. 아르준은 이 회사가 수수료 협상 때의 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 재원이 어떻게 할지 보려고 그를 봤다."
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked, because it had worked before. \"With respect, your first quote assumed clean data on page four, and Ostrel takes twelve weeks to install. What that leaves out is the night forms, which add twenty-four hundred documents a month.\" Anders smiled, as if a student had finally reached the right chapter, and he turned to page four himself.",
+          "ko": "\"무엇과 비교하시는 겁니까?\" 재원이 물었다. 전에 통했던 말이었다. \"외람되지만, 처음 견적은 4쪽에서 데이터가 깨끗하다고 가정했고, 오스트렐은 설치에 12주가 걸립니다. 거기서 빠진 것은 야간 양식이고, 그것이 한 달에 2,400건을 더합니다.\" 앤더스는 학생이 드디어 맞는 장에 도달했다는 듯 웃더니 직접 4쪽을 펼쳤다."
+        },
+        {
+          "en": "The page was new, and it had Siti's forms on it, her three-letter codes, and the number eighty a night. \"You don't have to take my word for it,\" Anders said. \"I was on your dock on Tuesday night until three, in my own boots, and I'm told only three people can read those margins.\" Jae-won looked down the table at Wei Ling, who didn't look away.",
+          "ko": "그 쪽은 새로 쓴 것이었고, 거기에는 시티의 양식과 글자 셋짜리 코드, 하룻밤 80장이라는 숫자가 있었다. \"제 말만 믿으실 필요는 없습니다.\" 앤더스가 말했다. \"화요일 밤 3시까지 제 안전화를 신고 그 도크에 있었고, 그 여백을 읽을 수 있는 사람이 셋뿐이라고 들었습니다.\" 재원이 테이블 건너 웨이링을 봤고, 그녀는 눈길을 피하지 않았다."
+        },
+        {
+          "en": "\"He asked, I let him in, and they fit,\" she said, and that was the whole of her statement. Anders closed his folder and didn't raise his voice at all. \"There's only one question I'd ask, and it isn't about price,\" he said. \"Without her name, nothing can run, so has her name come back?\" Grace put down her pencil and turned to Wei Ling. \"No,\" Wei Ling said.",
+          "ko": "\"그가 물었고, 제가 들여보냈고, 치수도 맞았어요.\" 그녀가 말했고, 그것이 발언의 전부였다. 앤더스가 폴더를 덮었고, 목소리를 전혀 높이지 않았다. \"제가 물을 건 하나뿐이고, 가격 얘기가 아닙니다.\" 그가 말했다. \"그분 이름 없이는 아무것도 못 돌리는데, 그 이름은 돌아왔습니까?\" 그레이스가 연필을 내려놓고 웨이링을 돌아봤다. \"아니요.\" 웨이링이 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "With respect",
+        "What that leaves out is",
+        "You don't have to take my word for it"
+      ],
+      "wordCandidates": [
+        {
+          "term": "alarm",
+          "surface": "alarm",
+          "meaningKo": "놀람, 불안",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He was a tall, relaxed partner at a firm called Aldermoor, and he began, to Jae-won's alarm, by praising him.",
+            "ko": "그는 올더무어라는 회사의 키 크고 여유로운 파트너였고, 재원으로서는 놀랍게도 그를 칭찬하며 시작했다."
+          }
+        },
+        {
+          "term": "run to",
+          "surface": "ran to",
+          "meaningKo": "(분량이) ~에 달하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "His offer ran to sixteen pages.",
+            "ko": "그의 제안은 16쪽에 달했다."
+          }
+        },
+        {
+          "term": "remark",
+          "surface": "remarked",
+          "meaningKo": "말하다, 언급하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Arjun remarked that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won to see what he would do about it.",
+            "ko": "아르준은 이 회사가 수수료 협상 때의 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 재원이 어떻게 할지 보려고 그를 봤다."
+          }
+        },
+        {
+          "term": "install",
+          "surface": "install",
+          "meaningKo": "설치하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"With respect, your first quote assumed clean data on page four, and Ostrel takes twelve weeks to install.",
+            "ko": "\"외람되지만, 처음 견적은 4쪽에서 데이터가 깨끗하다고 가정했고, 오스트렐은 설치에 12주가 걸립니다."
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margins",
+          "meaningKo": "여백",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I was on your dock on Tuesday night until three, in my own boots, and I'm told only three people can read those margins.\"",
+            "ko": "\"화요일 밤 3시까지 제 안전화를 신고 그 도크에 있었고, 그 여백을 읽을 수 있는 사람이 셋뿐이라고 들었습니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 425,
+      "paragraphs": [
+        {
+          "en": "On Friday of week twelve, Rahim came for his phase two decision with a folder of his own, but Anders Berg stood up first. He was a tall, unhurried partner at a firm called Aldermoor, with the manner of someone who had never needed to win an argument twice, and he began, to Jae-won's considerable alarm, by praising him. \"You found the real problem here, and most people in our business never go downstairs,\" he said. \"I'd hire you, and I still might.\"",
+          "ko": "12주 차 금요일, 라힘은 자기 폴더를 들고 2단계 결정을 들으러 왔지만 앤더스 버그가 먼저 일어섰다. 그는 올더무어라는 회사의 키 크고 서두르지 않는 파트너로, 논쟁을 두 번 이길 필요가 없었던 사람의 태도를 지녔고, 재원으로서는 상당히 불안하게도 그를 칭찬하며 시작했다. \"이곳의 진짜 문제를 찾으셨더군요. 이 업계 사람들은 대부분 아래층에 내려가지 않습니다.\" 그가 말했다. \"저라면 채용하겠고, 아직 그럴지도 모릅니다.\""
+        },
+        {
+          "en": "His offer ran to sixteen pages, and it was disagreeably well written. Aldermoor would take over the remaining work for nine hundred thousand dollars, replace Corvane with Ostrel, and include Port Klang from the start, and Rahim sat up as if someone had called his name in a waiting room. Arjun remarked, to nobody in particular, that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won with polite curiosity.",
+          "ko": "그의 제안은 16쪽에 달했고, 불쾌할 만큼 잘 쓰여 있었다. 올더무어가 90만 달러로 남은 일을 넘겨받아 코르베인을 오스트렐로 바꾸고 처음부터 포트 클랑을 포함한다는 것이었고, 라힘은 대기실에서 누가 이름을 부른 듯 자세를 고쳐 앉았다. 아르준은 누구에게랄 것도 없이 이 회사가 수수료 협상 때의 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 정중한 호기심으로 재원을 봤다."
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked, since it had served him well in this building before. \"With respect, your first quote assumed clean data on page four, and Ostrel takes twelve weeks to install, which from today takes us to week twenty-four. What that leaves out is the night forms, which add twenty-four hundred documents a month.\" Anders smiled, as if a promising student had finally reached the right chapter, and he turned to page four himself.",
+          "ko": "\"무엇과 비교하시는 겁니까?\" 재원이 물었다. 이 건물에서 전에 쏠쏠히 통했던 말이었다. \"외람되지만, 처음 견적은 4쪽에서 데이터가 깨끗하다고 가정했고, 오스트렐은 설치에 12주가 걸리니 오늘부터면 24주 차가 됩니다. 거기서 빠진 것은 야간 양식이고, 그것이 한 달에 2,400건을 더합니다.\" 앤더스는 유망한 학생이 드디어 맞는 장에 도달했다는 듯 웃더니 직접 4쪽을 펼쳤다."
+        },
+        {
+          "en": "The page was new, and it had Siti's forms on it, her three-letter codes, and the number eighty a night, none of which had been in any document that had left the building. \"You don't have to take my word for it,\" Anders said. \"I was on your dock on Tuesday night until three, in my own boots, and I'm told only three people can read those margins, one of whom retires next year.\" Jae-won looked down the table at Wei Ling, who met his eye without any apparent discomfort.",
+          "ko": "그 쪽은 새로 쓴 것이었고, 거기에는 시티의 양식과 글자 셋짜리 코드, 하룻밤 80장이라는 숫자가 있었는데, 건물 밖으로 나간 어떤 문서에도 없던 것들이었다. \"제 말만 믿으실 필요는 없습니다.\" 앤더스가 말했다. \"화요일 밤 3시까지 제 안전화를 신고 그 도크에 있었고, 그 여백을 읽을 수 있는 사람이 셋뿐인데 그중 한 명은 내년에 은퇴한다고 들었습니다.\" 재원이 테이블 건너 웨이링을 봤고, 그녀는 아무런 불편한 기색 없이 그의 눈을 마주 봤다."
+        },
+        {
+          "en": "\"He asked, I let him in, and they fit,\" she said, and that was the whole of her statement. Anders closed his folder and, without raising his voice, chose the one thing in the room that he had not been told and did not need to be. \"There's only one question I'd ask, and it isn't about price,\" he said. \"Without her name, nothing can run, so has her name come back?\" Grace put down her pencil and turned to Wei Ling, and Rahim's folder stayed shut. \"No,\" Wei Ling said.",
+          "ko": "\"그가 물었고, 제가 들여보냈고, 치수도 맞았어요.\" 그녀가 말했고, 그것이 발언의 전부였다. 앤더스는 폴더를 덮고, 목소리를 높이지 않은 채, 그 방에서 들은 적도 없고 들을 필요도 없던 단 하나를 골랐다. \"제가 물을 건 하나뿐이고, 가격 얘기가 아닙니다.\" 그가 말했다. \"그분 이름 없이는 아무것도 못 돌리는데, 그 이름은 돌아왔습니까?\" 그레이스가 연필을 내려놓고 웨이링을 돌아봤고, 라힘의 폴더는 닫힌 채였다. \"아니요.\" 웨이링이 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "With respect",
+        "What that leaves out is",
+        "You don't have to take my word for it"
+      ],
+      "wordCandidates": [
+        {
+          "term": "unhurried",
+          "surface": "unhurried",
+          "meaningKo": "서두르지 않는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He was a tall, unhurried partner at a firm called Aldermoor, with the manner of someone who had never needed to win an argument twice, and he began, to Jae-won's considerable alarm, by praising him.",
+            "ko": "그는 올더무어라는 회사의 키 크고 서두르지 않는 파트너로, 논쟁을 두 번 이길 필요가 없었던 사람의 태도를 지녔고, 재원으로서는 상당히 불안하게도 그를 칭찬하며 시작했다."
+          }
+        },
+        {
+          "term": "disagreeably",
+          "surface": "disagreeably",
+          "meaningKo": "불쾌할 만큼",
+          "paragraph": 1,
+          "sentence": {
+            "en": "His offer ran to sixteen pages, and it was disagreeably well written.",
+            "ko": "그의 제안은 16쪽에 달했고, 불쾌할 만큼 잘 쓰여 있었다."
+          }
+        },
+        {
+          "term": "curiosity",
+          "surface": "curiosity",
+          "meaningKo": "호기심",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Arjun remarked, to nobody in particular, that this was the firm behind the one point one million quote from the fee talks, and the whole room looked at Jae-won with polite curiosity.",
+            "ko": "아르준은 누구에게랄 것도 없이 이 회사가 수수료 협상 때의 110만 달러 견적을 낸 곳이라고 말했고, 방 안의 모두가 정중한 호기심으로 재원을 봤다."
+          }
+        },
+        {
+          "term": "promising",
+          "surface": "promising",
+          "meaningKo": "유망한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Anders smiled, as if a promising student had finally reached the right chapter, and he turned to page four himself.",
+            "ko": "앤더스는 유망한 학생이 드디어 맞는 장에 도달했다는 듯 웃더니 직접 4쪽을 펼쳤다."
+          }
+        },
+        {
+          "term": "meet someone's eye",
+          "surface": "met his eye",
+          "meaningKo": "눈을 마주 보다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won looked down the table at Wei Ling, who met his eye without any apparent discomfort.",
+            "ko": "재원이 테이블 건너 웨이링을 봤고, 그녀는 아무런 불편한 기색 없이 그의 눈을 마주 봤다."
+          }
+        },
+        {
+          "term": "discomfort",
+          "surface": "discomfort",
+          "meaningKo": "불편함",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won looked down the table at Wei Ling, who met his eye without any apparent discomfort.",
+            "ko": "재원이 테이블 건너 웨이링을 봤고, 그녀는 아무런 불편한 기색 없이 그의 눈을 마주 봤다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How much does Aldermoor offer to take over the work for?",
+      "options": [
+        "Nine hundred thousand dollars",
+        "One point one million dollars",
+        "One point four million dollars",
+        "Two hundred and twenty thousand dollars"
+      ],
+      "answerIndex": 0,
+      "evidence": "nine hundred thousand dollars"
+    },
+    {
+      "question": "Why is Jae-won's question about page four no longer a strong attack?",
+      "options": [
+        "Anders has already gone to the dock and rewritten the page with the real forms",
+        "Arjun has told him not to ask it",
+        "Page four has been removed from the offer",
+        "Corvane has agreed with Anders"
+      ],
+      "answerIndex": 0,
+      "evidence": "on your dock on Tuesday night"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "With respect, your first quote assumed clean data on page four.",
+      "What that leaves out is the night forms.",
+      "You don't have to take my word for it."
+    ],
+    "summaryPromptKo": "앤더스가 무엇을 제안했는지, 재원이 어떻게 반박했는지, 앤더스의 마지막 질문이 왜 치명적이었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Anders Berg",
+      "en": "I've offered nine hundred thousand and Port Klang from the start. Why should Grace stay with a team that has just cost her a hundred and sixty thousand dollars?",
+      "ko": "저는 90만 달러에 처음부터 포트 클랑까지 제안했습니다. 왜 그레이스가 방금 16만 달러를 쓰게 만든 팀과 계속해야 합니까?"
+    },
+    "modelAnswer": "With respect, that's a good question, and she may not. But Ostrel takes twelve weeks to install, which takes you to week twenty-four. What that leaves out is the fact that one night on the dock doesn't teach you those margins. You don't have to take my word for it. Ask Siti how long it took Cole. We made a mistake, we told Grace first, and we paid our share."
+  },
+  "nextTeaserKo": "그레이스는 양쪽에게 점심 뒤 10분씩 준다. 재원은 자기 방어를 포기하고 앤더스가 옳은 대목부터 말한다. 그러면 재원에게 남은 것은 무엇일까. 그레이스의 결정은, 그리고 웨이링은 뭐라고 할까.",
+  "roleplay": {
+    "title": "4쪽을 펼친 사람",
+    "situationKo": "12주 차 운영위원회입니다. 재원이 준비한 반박을 앤더스가 이미 알고 있어요. 그래도 정중하게 수치를 묻고, 흔들려도 괜찮으니 끝까지 말해 보세요.",
+    "lines": [
+      {
+        "speaker": "Anders Berg",
+        "voice": "male",
+        "en": "I'd hire you. Aldermoor would take over for nine hundred thousand dollars, replace Corvane with Ostrel, and include Port Klang.",
+        "ko": "저라면 채용하겠습니다. 올더무어가 90만 달러로 넘겨받아 코르베인을 오스트렐로 바꾸고 포트 클랑도 포함합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. What are you comparing that to?",
+        "ko": "고맙습니다. 무엇과 비교하시는 겁니까?",
+        "you": true
+      },
+      {
+        "speaker": "Anders Berg",
+        "voice": "male",
+        "en": "Your fee, and your results so far.",
+        "ko": "당신의 수수료와 지금까지의 결과요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "With respect, your first quote assumed clean data on page four.",
+        "ko": "외람되지만, 처음 견적은 4쪽에서 데이터가 깨끗하다고 가정했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Is that still true?",
+        "ko": "지금도 그렇습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What that leaves out is the night forms, which add twenty-four hundred documents a month.",
+        "ko": "거기서 빠진 것은 야간 양식이고, 그것이 한 달에 2,400건을 더합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Anders Berg",
+        "voice": "male",
+        "en": "Page four has changed. I was on your dock on Tuesday night, in my own boots.",
+        "ko": "4쪽은 바뀌었습니다. 화요일 밤에 제 안전화를 신고 그 도크에 있었어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Wei Ling, is that right?",
+        "ko": "웨이링, 맞습니까?",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "He asked, I let him in, and they fit.",
+        "ko": "그가 물었고, 제가 들여보냈고, 치수도 맞았어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "All right. Then Ostrel still takes twelve weeks to install. You don't have to take my word for it.",
+        "ko": "알겠습니다. 그래도 오스트렐은 설치에 12주가 걸립니다. 제 말만 믿으실 필요는 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Anders Berg",
+        "voice": "male",
+        "en": "There's only one question I'd ask. Without her name, nothing can run. Has her name come back?",
+        "ko": "제가 물을 건 하나뿐입니다. 그분 이름 없이는 아무것도 못 돌립니다. 그 이름은 돌아왔습니까?"
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "No.",
+        "ko": "아니요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, it hasn't, and I'm not going to argue with her.",
+        "ko": "네, 안 돌아왔고, 저는 그분과 따지지 않겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

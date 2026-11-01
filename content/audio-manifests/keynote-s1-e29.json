@@ -1,0 +1,69 @@
+{
+  "episodeId": "keynote-s1-e29",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "freeze": "word-freeze.mp3",
+    "audit trail": "word-audit-trail.mp3",
+    "keep going": "word-keep-going.mp3",
+    "client": "word-client.mp3",
+    "play": "word-play.mp3",
+    "process": "word-process.mp3",
+    "duplicate": "word-duplicate.mp3",
+    "tripod": "word-tripod.mp3",
+    "to the hour": "word-to-the-hour.mp3",
+    "impression": "word-impression.mp3",
+    "signature": "word-signature.mp3",
+    "forced to": "word-forced-to.mp3",
+    "crooked": "word-crooked.mp3",
+    "under budget": "word-under-budget.mp3",
+    "predate": "word-predate.mp3",
+    "get to one's feet": "word-get-to-one-s-feet.mp3",
+    "by all means": "word-by-all-means.mp3"
+  },
+  "termClips": {
+    "freeze": "term-freeze.mp3",
+    "audit trail": "term-audit-trail.mp3",
+    "keep going": "term-keep-going.mp3",
+    "client": "term-client.mp3",
+    "play": "term-play.mp3",
+    "process": "term-process.mp3",
+    "duplicate": "term-duplicate.mp3",
+    "tripod": "term-tripod.mp3",
+    "to the hour": "term-to-the-hour.mp3",
+    "impression": "term-impression.mp3",
+    "signature": "term-signature.mp3",
+    "forced to": "term-forced-to.mp3",
+    "crooked": "term-crooked.mp3",
+    "under budget": "term-under-budget.mp3",
+    "predate": "term-predate.mp3",
+    "get to one's feet": "term-get-to-one-s-feet.mp3",
+    "by all means": "term-by-all-means.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3"
+  ]
+}

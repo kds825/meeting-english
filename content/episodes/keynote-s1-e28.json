@@ -1,0 +1,422 @@
+{
+  "id": "keynote-s1-e28",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 28,
+  "title": "Fifteen Seconds",
+  "recapKo": "목요일 아침, 재원은 시애틀 병원 복도의 헬렌과 부딪혔다. 헬렌은 첫 1분을 사과에 쓰면 안 된다고 했고, 재원은 이선이 먼저 꺼내면 안 된다고 맞섰다. 그러다 \"그 홀에 계시진 않잖아요\"라는 말이 나왔고, 긴 침묵 끝에 헬렌이 천천히 입을 열었다.",
+  "keyExpressions": [
+    {
+      "phrase": "What would it take for you to ~?",
+      "meaningKo": "어떻게 하면 ~해 주실 수 있을까요?",
+      "usage": "What would it take for you to approve this by Friday?"
+    },
+    {
+      "phrase": "Could we meet in the middle?",
+      "meaningKo": "중간 지점에서 합의할 수 있을까요?",
+      "usage": "Could we meet in the middle and launch in two markets first?"
+    },
+    {
+      "phrase": "Can you live with that?",
+      "meaningKo": "그 정도면 받아들일 수 있겠어요?",
+      "usage": "We'd pay half now and half on delivery. Can you live with that?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "Helen went on. \"You're protecting the number, and I'm protecting your first minute. Where we differ is when you say it, because I never said never.\"",
+          "ko": "헬렌이 말을 이었다. \"당신은 숫자를 지키려 하고, 저는 당신의 첫 1분을 지키려 해요. 우리 생각이 다른 부분은 언제 말하느냐예요. 절대 안 된다고 한 적은 없어요.\""
+        },
+        {
+          "en": "\"What would it take for you to keep it in the talk?\" he asked. She counted on her fingers: it could not come first, it could not be an apology, and it had to support one of the three messages.",
+          "ko": "\"어떻게 하면 발표에 넣게 해 주실 수 있을까요?\" 그가 물었다. 그녀가 손가락을 꼽았다. 맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해야 한다."
+        },
+        {
+          "en": "\"What if we put it right after the number?\" Daniel said. Jae-won nodded. \"Could we meet in the middle? The kitchen table stays first, and then I say that your program says forty-two, that we counted one company twice, and that my initials were on it, which is why you build the audit trail first. It takes fifteen seconds, with no new slide.\"",
+          "ko": "\"숫자 바로 다음에 넣으면 어떨까요?\" 대니얼이 말했다. 재원이 고개를 끄덕였다. \"중간 지점에서 합의할 수 있을까요? 식탁 이야기는 그대로 맨 앞에 두고, 그다음에 말하는 겁니다. 프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었다, 그래서 감사 추적을 먼저 만들어야 한다고요. 15초면 되고, 새 슬라이드는 없습니다.\""
+        },
+        {
+          "en": "\"Don't say sorry, and you clear it with Kwon yourself,\" Helen said. \"Can you live with that?\" He said yes. \"You were right to fight me, and you were wrong about the hall,\" she said. \"I know, and I'm sorry,\" he said. At eleven, Kwon agreed, though he didn't like it.",
+          "ko": "\"죄송하다는 말은 하지 말고, 권 파트너에게는 직접 승인받아요.\" 헬렌이 말했다. \"그 정도면 받아들일 수 있겠어요?\" 그는 그러겠다고 했다. \"저와 싸운 건 옳았고, 홀 얘기는 틀렸어요.\" 그녀가 말했다. \"압니다. 죄송합니다.\" 그가 말했다. 11시에 권 파트너는 탐탁지 않아 하면서도 동의했다."
+        },
+        {
+          "en": "At 6:52, Daniel uploaded the twelve slides. Marcus replied, \"Received. Locked.\" Then Priya sent a text: \"You've written fifteen seconds that you've never said to anyone who can hurt you. Monday at six, fourteenth floor, same twelve people. I gave Daniel a list of questions, and you won't see it.\"",
+          "ko": "저녁 6시 52분, 대니얼이 슬라이드 12장을 올렸다. 마커스가 답했다. \"받았습니다. 확정.\" 곧 프리야의 문자가 왔다. \"당신에게 상처 줄 수 있는 사람 앞에서 한 번도 말해 보지 않은 15초를 쓴 거예요. 월요일 6시, 14층, 같은 열두 명. 대니얼에게 질문 목록을 줬는데, 당신은 못 봐요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would it take for you to",
+        "Could we meet in the middle",
+        "Can you live with that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "protect",
+          "surface": "protecting",
+          "meaningKo": "지키다, 보호하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "You're protecting the number, and I'm protecting your first minute.",
+            "ko": "당신은 숫자를 지키려 하고, 저는 당신의 첫 1분을 지키려 해요."
+          }
+        },
+        {
+          "term": "count on one's fingers",
+          "surface": "counted on her fingers",
+          "meaningKo": "손가락을 꼽다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She counted on her fingers: it could not come first, it could not be an apology, and it had to support one of the three messages.",
+            "ko": "그녀가 손가락을 꼽았다. 맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해야 한다."
+          }
+        },
+        {
+          "term": "support",
+          "surface": "support one of",
+          "meaningKo": "뒷받침하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She counted on her fingers: it could not come first, it could not be an apology, and it had to support one of the three messages.",
+            "ko": "그녀가 손가락을 꼽았다. 맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해야 한다."
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The kitchen table stays first, and then I say that your program says forty-two, that we counted one company twice, and that my initials were on it, which is why you build the audit trail first.",
+            "ko": "식탁 이야기는 그대로 맨 앞에 두고, 그다음에 말하는 겁니다. 프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었다, 그래서 감사 추적을 먼저 만들어야 한다고요."
+          }
+        },
+        {
+          "term": "clear with",
+          "surface": "clear it with",
+          "meaningKo": "~의 승인을 받다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Don't say sorry, and you clear it with Kwon yourself,\" Helen said.",
+            "ko": "\"죄송하다는 말은 하지 말고, 권 파트너에게는 직접 승인받아요.\" 헬렌이 말했다."
+          }
+        },
+        {
+          "term": "upload",
+          "surface": "uploaded",
+          "meaningKo": "올리다, 업로드하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "At 6:52, Daniel uploaded the twelve slides.",
+            "ko": "저녁 6시 52분, 대니얼이 슬라이드 12장을 올렸다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 354,
+      "paragraphs": [
+        {
+          "en": "Helen went on. \"You're protecting the number, and I'm protecting your first minute, and both of those are worth protecting. Where we differ is when and how you say it, because if you read what I wrote, I said not that opening, and I never said never.\"",
+          "ko": "헬렌이 말을 이었다. \"당신은 숫자를 지키려 하고 저는 당신의 첫 1분을 지키려 하는데, 둘 다 지킬 가치가 있어요. 우리 생각이 다른 부분은 언제 어떻게 말하느냐예요. 제가 쓴 걸 읽어 보면 그 도입부는 안 된다고 했지, 절대 안 된다고 한 적은 없어요.\""
+        },
+        {
+          "en": "He went back and read her message, and she was right. \"What would it take for you to keep it in the talk, then?\" he asked. She counted on her fingers. \"It can't come first, it can't be an apology, and it has to support one of the three messages, which is the same rule I gave you on Monday,\" she said. \"I'm not making an exception because you feel bad.\"",
+          "ko": "그가 그녀의 메시지를 다시 읽어 보니 그녀 말이 맞았다. \"그럼 어떻게 하면 발표에 넣게 해 주실 수 있을까요?\" 그가 물었다. 그녀가 손가락을 꼽았다. \"맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해야 해요. 월요일에 준 규칙 그대로예요.\" 그녀가 말했다. \"당신 마음이 불편하다고 예외를 두진 않을 거예요.\""
+        },
+        {
+          "en": "\"What if we put it right after the number, when the slide's already up?\" Daniel said, speaking for the first time. Jae-won looked at slide three. \"Could we meet in the middle? The kitchen table stays first, and then, on the number, I say this: your program says forty-two, we counted one company twice, and my initials were on it, which is why you build the audit trail first. It takes fifteen seconds, with no new slide.\"",
+          "ko": "\"슬라이드가 이미 올라와 있을 때, 숫자 바로 다음에 넣으면 어떨까요?\" 대니얼이 처음으로 입을 열었다. 재원은 3번 슬라이드를 바라봤다. \"중간 지점에서 합의할 수 있을까요? 식탁 이야기는 그대로 맨 앞에 두고, 숫자에서 이렇게 말하는 겁니다. 프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었다, 그래서 감사 추적을 먼저 만들어야 한다. 15초면 되고, 새 슬라이드는 없습니다.\""
+        },
+        {
+          "en": "Helen wrote it on the back of a hospital form. \"Don't say sorry anywhere in it, and you clear it with Kwon yourself, today. Can you live with that?\" He said that he could. \"You were right to fight me, and you were wrong about the hall,\" she said. \"I know, and I'm sorry,\" he said. At eleven, Kwon heard him out on the fourteenth floor, asked who would handle the prospects if they raised it, and signed off without enthusiasm once Yuna said that she would.",
+          "ko": "헬렌은 병원 서류 뒷면에 받아 적었다. \"어디에도 죄송하다는 말은 넣지 말고, 권 파트너에게는 오늘 직접 승인받아요. 그 정도면 받아들일 수 있겠어요?\" 그는 그러겠다고 했다. \"저와 싸운 건 옳았고, 홀 얘기는 틀렸어요.\" 그녀가 말했다. \"압니다. 죄송합니다.\" 그가 말했다. 11시, 14층에서 권 파트너는 그의 말을 끝까지 듣고, 잠재 고객이 문제 삼으면 누가 대응하느냐고 물었고, 유나가 맡겠다고 하자 시큰둥하게 승인했다."
+        },
+        {
+          "en": "At 6:52 that evening, Daniel uploaded the twelve slides under the new title, and Marcus replied within a minute: \"Received. Locked.\" Jae-won was still looking at that when a text came in from Priya. \"You've written fifteen seconds that you've never said out loud to anyone who can hurt you. Monday at six, fourteenth floor, same room, same twelve people. I've given Daniel a list of questions, and you won't see it.\"",
+          "ko": "그날 저녁 6시 52분, 대니얼이 새 제목으로 슬라이드 12장을 올렸고, 마커스는 1분 안에 답했다. \"받았습니다. 확정.\" 재원이 그 문구를 아직 보고 있을 때 프리야의 문자가 왔다. \"당신에게 상처 줄 수 있는 사람 앞에서 한 번도 소리 내어 말해 보지 않은 15초를 쓴 거예요. 월요일 6시, 14층, 같은 방, 같은 열두 명. 대니얼에게 질문 목록을 줬는데, 당신은 못 봐요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would it take for you to",
+        "Could we meet in the middle",
+        "Can you live with that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "make an exception",
+          "surface": "making an exception",
+          "meaningKo": "예외를 두다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"I'm not making an exception because you feel bad.\"",
+            "ko": "\"당신 마음이 불편하다고 예외를 두진 않을 거예요.\""
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The kitchen table stays first, and then, on the number, I say this: your program says forty-two, we counted one company twice, and my initials were on it, which is why you build the audit trail first.",
+            "ko": "식탁 이야기는 그대로 맨 앞에 두고, 숫자에서 이렇게 말하는 겁니다. 프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었다, 그래서 감사 추적을 먼저 만들어야 한다."
+          }
+        },
+        {
+          "term": "hear someone out",
+          "surface": "heard him out",
+          "meaningKo": "끝까지 들어 주다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At eleven, Kwon heard him out on the fourteenth floor, asked who would handle the prospects if they raised it, and signed off without enthusiasm once Yuna said that she would.",
+            "ko": "11시, 14층에서 권 파트너는 그의 말을 끝까지 듣고, 잠재 고객이 문제 삼으면 누가 대응하느냐고 물었고, 유나가 맡겠다고 하자 시큰둥하게 승인했다."
+          }
+        },
+        {
+          "term": "without enthusiasm",
+          "surface": "without enthusiasm",
+          "meaningKo": "마지못해, 시큰둥하게",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At eleven, Kwon heard him out on the fourteenth floor, asked who would handle the prospects if they raised it, and signed off without enthusiasm once Yuna said that she would.",
+            "ko": "11시, 14층에서 권 파트너는 그의 말을 끝까지 듣고, 잠재 고객이 문제 삼으면 누가 대응하느냐고 물었고, 유나가 맡겠다고 하자 시큰둥하게 승인했다."
+          }
+        },
+        {
+          "term": "out loud",
+          "surface": "out loud",
+          "meaningKo": "소리 내어",
+          "paragraph": 4,
+          "sentence": {
+            "en": "You've written fifteen seconds that you've never said out loud to anyone who can hurt you.",
+            "ko": "당신에게 상처 줄 수 있는 사람 앞에서 한 번도 소리 내어 말해 보지 않은 15초를 쓴 거예요."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 464,
+      "paragraphs": [
+        {
+          "en": "Helen went on. \"You're protecting the number, I'm protecting your first minute, and both of those are worth protecting, which is why this is annoying. Where we differ is when and how you say it, because if you go back and read what I wrote, I said not that opening, and I never said never.\"",
+          "ko": "헬렌이 말을 이었다. \"당신은 숫자를 지키려 하고 저는 당신의 첫 1분을 지키려 하는데, 둘 다 지킬 가치가 있어서 이렇게 짜증이 나는 거예요. 우리 생각이 다른 부분은 언제 어떻게 말하느냐예요. 제가 쓴 걸 다시 읽어 보면 그 도입부는 안 된다고 했지, 절대 안 된다고 한 적은 없어요.\""
+        },
+        {
+          "en": "He went back and read her message, and annoyingly, she was right. \"What would it take for you to keep it in the talk, then, in any form at all?\" he asked. She counted the conditions off on her fingers, like someone reading out covenants. \"It can't come first, it can't be an apology, and it has to earn its place by supporting one of the three messages, which is the same rule I gave you on Monday in front of that wall,\" she said. \"I'm not carving out an exception because you feel bad, since feeling bad isn't a message.\"",
+          "ko": "그가 그녀의 메시지를 다시 읽어 보니 짜증스럽게도 그녀 말이 맞았다. \"그럼 어떤 형태로든 발표에 넣게 해 주시려면 어떻게 하면 될까요?\" 그가 물었다. 그녀는 계약 조항을 읽어 주듯 조건을 손가락으로 꼽았다. \"맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해서 자기 자리를 얻어야 해요. 월요일에 그 벽 앞에서 준 규칙 그대로예요.\" 그녀가 말했다. \"당신 마음이 불편하다고 예외를 만들진 않을 거예요. 마음이 불편한 건 메시지가 아니니까요.\""
+        },
+        {
+          "en": "\"What if we put it right after the number, when the slide's already up and they've got the program open in their laps anyway?\" Daniel said, speaking for the first time and looking as if he regretted it. Jae-won turned to slide three. \"Could we meet in the middle? The kitchen table stays first, untouched, and then, on the number, I say this: your program says forty-two, we counted one company twice, and my initials were on it, which is why you build the audit trail first. It runs fifteen seconds, there's no new slide, and it's evidence for message three instead of an apology for message nothing.\"",
+          "ko": "\"슬라이드가 이미 올라와 있고 어차피 다들 무릎에 프로그램을 펴 놓고 있을 때, 숫자 바로 다음에 넣으면 어떨까요?\" 대니얼이 처음으로 입을 열었고, 후회하는 표정이었다. 재원은 3번 슬라이드로 돌아갔다. \"중간 지점에서 합의할 수 있을까요? 식탁 이야기는 손대지 않고 맨 앞에 두고, 숫자에서 이렇게 말하는 겁니다. 프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었다, 그래서 감사 추적을 먼저 만들어야 한다. 15초면 되고, 새 슬라이드도 없고, 아무 메시지도 아닌 사과가 아니라 세 번째 메시지의 증거가 됩니다.\""
+        },
+        {
+          "en": "Helen wrote it on the back of a hospital form and read it back to him. \"You don't say sorry anywhere in it, you don't explain the tracker, and you clear it with Kwon yourself, today, to his face. Can you live with that?\" He said that he could. \"You were right to fight me, and you were wrong about the hall,\" she said. \"I know, and I'm sorry,\" he said. At eleven, Kwon heard him out on the fourteenth floor, asked who would be handling the prospects if they raised it over coffee, and signed off with all the enthusiasm of a man paying a parking fine once Yuna said that she would.",
+          "ko": "헬렌은 병원 서류 뒷면에 받아 적고 그에게 다시 읽어 주었다. \"어디에도 죄송하다는 말은 넣지 말고, 트래커 설명도 하지 말고, 권 파트너에게는 오늘 직접 얼굴 보고 승인받아요. 그 정도면 받아들일 수 있겠어요?\" 그는 그러겠다고 했다. \"저와 싸운 건 옳았고, 홀 얘기는 틀렸어요.\" 그녀가 말했다. \"압니다. 죄송합니다.\" 그가 말했다. 11시, 14층에서 권 파트너는 그의 말을 끝까지 듣고, 잠재 고객이 커피 시간에 문제 삼으면 누가 대응하느냐고 물었으며, 유나가 맡겠다고 하자 주차 과태료를 내는 사람 같은 열의로 승인했다."
+        },
+        {
+          "en": "At 6:52 that evening, Daniel uploaded the twelve slides under the new title, with eight minutes in hand. Marcus replied inside a minute: \"Received. Locked.\" Jae-won was still looking at those two words when a text came in from Priya, who had apparently been told everything by someone. \"You've written fifteen seconds that you've never said out loud to anyone who can hurt you. Monday at six, fourteenth floor, same room, same twelve people. I've given Daniel a list of questions, and you won't see it.\"",
+          "ko": "그날 저녁 6시 52분, 대니얼이 8분을 남기고 새 제목으로 슬라이드 12장을 올렸다. 마커스는 1분 안에 답했다. \"받았습니다. 확정.\" 재원이 그 두 단어를 아직 보고 있을 때, 누군가에게 모든 걸 들은 듯한 프리야의 문자가 왔다. \"당신에게 상처 줄 수 있는 사람 앞에서 한 번도 소리 내어 말해 보지 않은 15초를 쓴 거예요. 월요일 6시, 14층, 같은 방, 같은 열두 명. 대니얼에게 질문 목록을 줬는데, 당신은 못 봐요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would it take for you to",
+        "Could we meet in the middle",
+        "Can you live with that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "covenant",
+          "surface": "covenants",
+          "meaningKo": "(계약의) 약정, 조항",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She counted the conditions off on her fingers, like someone reading out covenants.",
+            "ko": "그녀는 계약 조항을 읽어 주듯 조건을 손가락으로 꼽았다."
+          }
+        },
+        {
+          "term": "earn one's place",
+          "surface": "earn its place",
+          "meaningKo": "자기 자리를 얻다, 있을 자격을 갖추다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"It can't come first, it can't be an apology, and it has to earn its place by supporting one of the three messages, which is the same rule I gave you on Monday in front of that wall,\" she said.",
+            "ko": "\"맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 세 개 중 하나를 뒷받침해서 자기 자리를 얻어야 해요. 월요일에 그 벽 앞에서 준 규칙 그대로예요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "carve out",
+          "surface": "carving out",
+          "meaningKo": "(예외를) 따로 만들다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"I'm not carving out an exception because you feel bad, since feeling bad isn't a message.\"",
+            "ko": "\"당신 마음이 불편하다고 예외를 만들진 않을 거예요. 마음이 불편한 건 메시지가 아니니까요.\""
+          }
+        },
+        {
+          "term": "read back",
+          "surface": "read it back",
+          "meaningKo": "다시 읽어 주다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen wrote it on the back of a hospital form and read it back to him.",
+            "ko": "헬렌은 병원 서류 뒷면에 받아 적고 그에게 다시 읽어 주었다."
+          }
+        },
+        {
+          "term": "parking fine",
+          "surface": "parking fine",
+          "meaningKo": "주차 과태료",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At eleven, Kwon heard him out on the fourteenth floor, asked who would be handling the prospects if they raised it over coffee, and signed off with all the enthusiasm of a man paying a parking fine once Yuna said that she would.",
+            "ko": "11시, 14층에서 권 파트너는 그의 말을 끝까지 듣고, 잠재 고객이 커피 시간에 문제 삼으면 누가 대응하느냐고 물었으며, 유나가 맡겠다고 하자 주차 과태료를 내는 사람 같은 열의로 승인했다."
+          }
+        },
+        {
+          "term": "in hand",
+          "surface": "in hand",
+          "meaningKo": "(시간이) 남아 있는, 여유로",
+          "paragraph": 4,
+          "sentence": {
+            "en": "At 6:52 that evening, Daniel uploaded the twelve slides under the new title, with eight minutes in hand.",
+            "ko": "그날 저녁 6시 52분, 대니얼이 8분을 남기고 새 제목으로 슬라이드 12장을 올렸다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What condition does Helen set about the words in the correction?",
+      "options": [
+        "It must not contain the word sorry, and Jae-won must clear it with Kwon himself.",
+        "It must be cleared with Marcus before anyone else.",
+        "It must appear on a new slide of its own.",
+        "It must be delivered at the very start of the talk."
+      ],
+      "answerIndex": 0,
+      "evidence": "\"Don't say sorry anywhere in it, and you clear it with Kwon yourself, today."
+    },
+    {
+      "question": "What does Helen mean by \"I never said never\"?",
+      "options": [
+        "She has forgotten what she wrote.",
+        "She wants Jae-won to wait until after Singapore.",
+        "She thinks the correction should be kept from Kwon.",
+        "She objects to that opening, not to telling the audience, so a compromise is possible."
+      ],
+      "answerIndex": 3,
+      "evidence": "Where we differ is when and how you say it, because if you read what I wrote, I said not that opening, and I never said never."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What would it take for you to keep it in the talk?",
+      "Could we meet in the middle?",
+      "You clear it with Kwon yourself, today. Can you live with that?"
+    ],
+    "summaryPromptKo": "헬렌이 어떤 조건을 걸었는지, 어떤 타협안에 합의했는지, 슬라이드 확정 뒤 프리야가 무슨 문자를 보냈는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "You want to tell eight hundred buyers about your own mistake, and I want to protect your first minute. What's your compromise?",
+      "ko": "당신은 구매자 800명에게 자기 실수를 말하고 싶어 하고, 저는 당신의 첫 1분을 지키고 싶어요. 타협안이 뭐죠?"
+    },
+    "modelAnswer": "We're coming at this from different angles, and both of us have a point. Where we differ is timing, because you want the first minute clean and I want the number corrected in the room. Could we meet in the middle? The kitchen table stays first, and right after the number, I take fifteen seconds to correct it, with no apology and no new slide. Can you live with that?"
+  },
+  "nextTeaserKo": "월요일 6시, 2주 전 19초 동안 얼어붙었던 바로 그 14층 회의실. 같은 열두 명, 같은 카메라, 그리고 재원이 볼 수 없는 질문 목록. 처음으로 끝까지 답할 수 있을까.",
+  "roleplay": {
+    "title": "중간 지점을 찾아서",
+    "situationKo": "통화가 이어집니다. 내가 재원이 되어 헬렌의 조건을 듣고 중간 지점을 찾아갑니다. 어색해도 괜찮아요. 말해 보는 것만으로 충분합니다.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "You're protecting the number, I'm protecting your first minute. Where we differ is when and how you say it. I said not that opening. I never said never.",
+        "ko": "재원 씨는 숫자를, 나는 재원 씨의 첫 1분을 지키려는 거예요. 우리 생각이 다른 부분은 언제, 어떻게 말하느냐예요. 나는 그 도입부는 안 된다고 했지, 절대 안 된다고 한 적 없어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You're right, that's what you wrote. What would it take for you to keep it in the talk?",
+        "ko": "맞아요, 그렇게 쓰셨네요. 어떻게 하면 발표에 넣게 해 주실 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "It can't come first, it can't be an apology, and it has to support one of the three messages.",
+        "ko": "맨 앞에 오면 안 되고, 사과여도 안 되고, 메시지 셋 중 하나를 뒷받침해야 해요."
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "What if we put it right after the number, when the slide's already up?",
+        "ko": "숫자 바로 뒤에, 슬라이드가 이미 떠 있을 때 넣으면 어떨까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Could we meet in the middle? The kitchen table stays first, and the correction goes right after the number.",
+        "ko": "중간 지점에서 합의할 수 있을까요? 식탁 이야기는 맨 앞에 두고, 정정은 숫자 바로 뒤에 넣는 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Say it to me.",
+        "ko": "나한테 말해 봐요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Your program says forty-two, we counted one company twice, and my initials were on it.",
+        "ko": "프로그램에는 42라고 되어 있지만, 저희가 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And?",
+        "ko": "그리고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Which is why you build the audit trail first. Fifteen seconds, with no new slide.",
+        "ko": "그래서 감사 추적을 먼저 만들어야 합니다. 15초, 새 슬라이드는 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Don't say sorry anywhere in it, and you clear it with Kwon yourself, today. Can you live with that?",
+        "ko": "어디에도 \"sorry\"는 넣지 말고, 권 파트너 승인은 오늘 직접 받아요. 그 정도면 받아들일 수 있겠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I can live with that.",
+        "ko": "받아들일 수 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "You were right to fight me, and you were wrong about the hall.",
+        "ko": "나와 맞선 건 옳았고, 그 홀 얘기는 틀렸어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I know, and I'm sorry.",
+        "ko": "압니다. 죄송합니다.",
+        "you": true
+      }
+    ]
+  }
+}

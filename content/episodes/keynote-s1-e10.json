@@ -1,0 +1,456 @@
+{
+  "id": "keynote-s1-e10",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 10,
+  "title": "Nineteen Seconds",
+  "recapKo": "토요일에 한미래는 이름을 써도 좋지만 자기가 옳았다고 꼭 말해 달라고 했다. 월요일 6시, 동료 12명 앞 첫 리허설 발표는 예상보다 잘 풀렸지만, 이어진 질문 시간에 유나가 31곳 중 우리 고객이 몇 곳이냐고 물었다. 답은 아홉 곳이었고, 재원은 알면서도 입을 떼지 못했다.",
+  "keyExpressions": [
+    {
+      "phrase": "So you're asking whether ~",
+      "meaningKo": "그러니까 ~인지 묻고 계신 거죠",
+      "usage": "So you're asking whether we can finish before the audit?"
+    },
+    {
+      "phrase": "The short answer is ~",
+      "meaningKo": "짧게 답하면 ~입니다",
+      "usage": "The short answer is yes, but it will cost us two weeks."
+    },
+    {
+      "phrase": "Let me come back to that.",
+      "meaningKo": "그 부분은 잠시 뒤에 다시 말씀드릴게요.",
+      "usage": "Let me come back to that after I check the figures."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "Finally he heard his own voice say the number, but in Korean. Nobody laughed, and that felt even worse.",
+          "ko": "마침내 자기 목소리가 숫자를 말하는 것이 들렸지만, 한국어였다. 아무도 웃지 않았고, 그게 더 괴로웠다."
+        },
+        {
+          "en": "After the room emptied, Daniel showed him the timer and said quietly, \"Nineteen seconds.\" Helen picked up a marker. \"Five seconds is a pause, but nineteen is a problem,\" she said. \"You don't need a perfect answer, you need a way to start.\"",
+          "ko": "방이 비자 대니얼이 타이머를 보여 주며 조용히 말했다. \"19초예요.\" 헬렌이 마커를 집어 들었다. \"5초는 멈춤이지만 19초는 문제예요.\" 그녀가 말했다. \"완벽한 답이 필요한 게 아니라 시작할 방법이 필요해요.\""
+        },
+        {
+          "en": "She wrote on the board. \"First, repeat the question: 'So you're asking whether those were our clients.' Then say, 'Let me think about that for a second,' or 'Bear with me.' Then start with 'The short answer is,' and give the number.\"",
+          "ko": "그녀는 보드에 적었다. \"먼저 질문을 되풀이해요. '그러니까 그곳들이 우리 고객이었는지 묻고 계신 거죠.' 그다음 '잠깐 생각해 볼게요'나 '잠시만 기다려 주세요'라고 말해요. 그러고 나서 '짧게 답하면'으로 시작해 숫자를 말하는 거예요.\""
+        },
+        {
+          "en": "\"If you really don't know, say 'Let me come back to that,' and then do it,\" she said. She asked Yuna's question again, and he used every line. It took eight seconds, and he sounded like a robot, but his answer was in English.",
+          "ko": "\"정말 모르면 '그 부분은 잠시 뒤에 다시 말씀드릴게요'라고 하고, 실제로 그렇게 해요.\" 그녀가 말했다. 그녀가 유나의 질문을 다시 던졌고 그는 모든 문장을 썼다. 8초가 걸렸고 로봇 같았지만 답은 영어였다."
+        },
+        {
+          "en": "He got home at nine, tired and ashamed, and found an email from someone named Priya Nair. Helen had sent her the video. \"I watched your nineteen seconds,\" she wrote. \"The silence is not your problem. Come tomorrow at seven, and bring no slides.\"",
+          "ko": "그는 지치고 부끄러운 마음으로 9시에 집에 돌아왔고, 프리야 네어라는 사람이 보낸 메일을 발견했다. 헬렌이 그녀에게 영상을 보낸 것이었다. \"당신의 19초를 봤습니다.\" 그녀는 이렇게 썼다. \"침묵은 당신의 문제가 아닙니다. 내일 7시에 오세요. 슬라이드는 가져오지 마시고요.\""
+        },
+        {
+          "en": "Below her name there was one more line: \"While you were silent, what were you afraid they would find out?\" He read the question three times, and then he noticed that he was holding his breath again.",
+          "ko": "그녀의 이름 아래에 한 줄이 더 있었다. \"침묵하는 동안, 사람들이 무엇을 알아낼까 봐 두려웠습니까?\" 그는 그 질문을 세 번 읽었고, 자신이 또 숨을 참고 있다는 것을 알아차렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So you're asking whether",
+        "The short answer is",
+        "Let me come back to that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pause",
+          "surface": "pause",
+          "meaningKo": "멈춤, 잠깐의 침묵",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Five seconds is a pause, but nineteen is a problem,\" she said.",
+            "ko": "5초는 멈춤이지만 19초는 문제예요."
+          }
+        },
+        {
+          "term": "perfect",
+          "surface": "perfect answer",
+          "meaningKo": "완벽한 (답)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"You don't need a perfect answer, you need a way to start.\"",
+            "ko": "완벽한 답이 필요한 게 아니라 시작할 방법이 필요해요."
+          }
+        },
+        {
+          "term": "repeat",
+          "surface": "repeat the question",
+          "meaningKo": "(질문을) 되풀이하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "First, repeat the question: 'So you're asking whether those were our clients.'",
+            "ko": "먼저 질문을 되풀이해요. '그러니까 그곳들이 우리 고객이었는지 묻고 계신 거죠.'"
+          }
+        },
+        {
+          "term": "ashamed",
+          "surface": "ashamed",
+          "meaningKo": "부끄러운",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He got home at nine, tired and ashamed, and found an email from someone named Priya Nair.",
+            "ko": "그는 지치고 부끄러운 마음으로 9시에 집에 돌아왔고, 프리야 네어라는 사람이 보낸 메일을 발견했다."
+          }
+        },
+        {
+          "term": "hold one's breath",
+          "surface": "holding his breath",
+          "meaningKo": "숨을 참다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "He read the question three times, and then he noticed that he was holding his breath again.",
+            "ko": "그는 그 질문을 세 번 읽었고, 자신이 또 숨을 참고 있다는 것을 알아차렸다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 373,
+      "paragraphs": [
+        {
+          "en": "The silence stretched out until someone shifted in a chair and the air conditioner seemed to get louder. Then he heard his own voice finally give the number, and with a slow, sick feeling he realized it had come out in Korean. Nobody laughed, and he would have preferred it if they had.",
+          "ko": "침묵이 길어지다 누군가 의자에서 몸을 움직였고 에어컨 소리가 커진 듯했다. 그때 마침내 자기 목소리가 숫자를 말하는 것이 들렸고, 그는 서서히 메스꺼움을 느끼며 그 말이 한국어로 나왔음을 깨달았다. 아무도 웃지 않았고, 차라리 웃어 줬으면 했다."
+        },
+        {
+          "en": "When the room had cleared, Daniel turned his phone around without saying anything: nineteen seconds. Helen picked up a marker and went over to the whiteboard. \"Five seconds is a pause, and people respect it,\" she said. \"Nineteen is an obituary. You don't need a perfect answer in that moment, you just need a way to get your mouth moving while your brain catches up.\"",
+          "ko": "방이 빠지자 대니얼이 말없이 휴대폰을 돌려 보여 주었다. 19초. 헬렌이 마커를 집어 화이트보드로 갔다. \"5초는 멈춤이고 사람들은 그걸 존중해요.\" 그녀가 말했다. \"19초는 부고예요. 그 순간 필요한 건 완벽한 답이 아니에요. 머리가 따라올 때까지 입을 움직이게 할 방법이 필요한 거죠.\""
+        },
+        {
+          "en": "She wrote as she talked. \"First, you say it back: 'So you're asking whether those failures were ours.' Then you buy a beat, with 'Let me think about that for a second,' or 'Bear with me.' And then you lead with 'The short answer is,' you give them the nine, and you stop.\" He copied it all down, as if it were a tax rule.",
+          "ko": "그녀는 말하면서 적었다. \"먼저 되받아 말해요. '그러니까 그 실패가 우리 것이었는지 묻고 계신 거죠.' 그다음 '잠깐 생각해 볼게요'나 '잠시만 기다려 주세요'로 한 박자를 벌어요. 그리고 '짧게 답하면'으로 시작해 아홉 곳이라고 말하고 멈춰요.\" 그는 세법 조항이라도 되는 듯 전부 받아 적었다."
+        },
+        {
+          "en": "\"And if you honestly don't have it, you say 'Let me come back to that,' and then you actually do, because they'll notice if you don't,\" she added. She asked Yuna's question again in a flat voice, and he went through every line in order. It took eight seconds and he sounded like an airline announcement, but it was an answer, and it was in English.",
+          "ko": "\"정말 답이 없으면 '그 부분은 잠시 뒤에 다시 말씀드릴게요'라고 하고 실제로 그렇게 해요. 안 하면 사람들이 알아차리니까요.\" 그녀가 덧붙였다. 그녀가 무미건조한 목소리로 유나의 질문을 다시 던졌고 그는 모든 문장을 순서대로 썼다. 8초가 걸렸고 기내 방송 같았지만, 어쨌든 답이었고 영어였다."
+        },
+        {
+          "en": "He got home a little after nine, and the apartment felt too quiet. There was an email waiting from someone he'd never heard of, a Priya Nair, copying Helen, under the subject line \"19 seconds.\" \"Helen sent me your video,\" it said. \"The silence isn't the problem, whatever you've been told tonight. Tomorrow, seven o'clock, and bring no slides.\"",
+          "ko": "그는 9시가 조금 넘어 집에 돌아왔고, 아파트는 너무 조용했다. 처음 듣는 이름인 프리야 네어라는 사람이 헬렌을 참조로 넣어 보낸 메일이 기다리고 있었다. 제목은 \"19초\"였다. \"헬렌이 영상을 보내 줬습니다.\" 메일에 적혀 있었다. \"오늘 밤 무슨 말을 들었든 침묵은 문제가 아닙니다. 내일 7시, 슬라이드는 가져오지 마세요.\""
+        },
+        {
+          "en": "Underneath her name, there was one more line, and he read it standing up with his coat still on: \"While you were silent, what were you afraid they'd find out?\" He started typing a reply, deleted it, and started again. It occurred to him, some time later, that nobody had actually asked him to answer by email, and that he was still holding his breath.",
+          "ko": "그녀의 이름 아래에 한 줄이 더 있었고, 그는 코트도 벗지 않은 채 선 자리에서 읽었다. \"침묵하는 동안, 사람들이 무엇을 알아낼까 봐 두려웠습니까?\" 그는 답장을 쓰다 지우고 다시 쓰기 시작했다. 한참 뒤에야 그는 아무도 메일로 답하라고 하지 않았다는 것을, 그리고 자신이 아직 숨을 참고 있다는 것을 깨달았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So you're asking whether",
+        "The short answer is",
+        "Let me come back to that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "stretch out",
+          "surface": "stretched out",
+          "meaningKo": "길게 늘어지다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The silence stretched out until someone shifted in a chair and the air conditioner seemed to get louder.",
+            "ko": "침묵이 길어지다 누군가 의자에서 몸을 움직였고 에어컨 소리가 커진 듯했다."
+          }
+        },
+        {
+          "term": "obituary",
+          "surface": "obituary",
+          "meaningKo": "부고, 사망 기사",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Nineteen is an obituary.",
+            "ko": "19초는 부고예요."
+          }
+        },
+        {
+          "term": "catch up",
+          "surface": "catches up",
+          "meaningKo": "따라잡다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "You don't need a perfect answer in that moment, you just need a way to get your mouth moving while your brain catches up.",
+            "ko": "그 순간 필요한 건 완벽한 답이 아니에요. 머리가 따라올 때까지 입을 움직이게 할 방법이 필요한 거죠."
+          }
+        },
+        {
+          "term": "buy a beat",
+          "surface": "buy a beat",
+          "meaningKo": "한 박자 시간을 벌다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then you buy a beat, with 'Let me think about that for a second,' or 'Bear with me.'",
+            "ko": "그다음 '잠깐 생각해 볼게요'나 '잠시만 기다려 주세요'로 한 박자를 벌어요."
+          }
+        },
+        {
+          "term": "flat",
+          "surface": "flat voice",
+          "meaningKo": "무미건조한 (목소리)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She asked Yuna's question again in a flat voice, and he went through every line in order.",
+            "ko": "그녀가 무미건조한 목소리로 유나의 질문을 다시 던졌고 그는 모든 문장을 순서대로 썼다."
+          }
+        },
+        {
+          "term": "subject line",
+          "surface": "subject line",
+          "meaningKo": "(메일의) 제목 줄",
+          "paragraph": 4,
+          "sentence": {
+            "en": "There was an email waiting from someone he'd never heard of, a Priya Nair, copying Helen, under the subject line \"19 seconds.\"",
+            "ko": "처음 듣는 이름인 프리야 네어라는 사람이 헬렌을 참조로 넣어 보낸 메일이 기다리고 있었다. 제목은 \"19초\"였다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 517,
+      "paragraphs": [
+        {
+          "en": "The silence stopped being a pause and became an event. Somebody shifted in a chair, the air conditioner seemed to have been turned up to a roar, and out of the corner of his eye he watched Daniel glance at the timer and then, with terrible tact, away. When his voice finally arrived, it delivered the number in a clear and carrying tone. It took him a full second, with a sickening lurch, to register that it had done so in Korean. Nobody laughed, and he would have paid good money if they had.",
+          "ko": "침묵은 멈춤이기를 그치고 사건이 되었다. 누군가 의자에서 몸을 움직였고, 에어컨은 굉음을 내는 듯했으며, 그는 곁눈으로 대니얼이 타이머를 힐끗 보고 끔찍할 만큼 눈치 있게 시선을 돌리는 것을 지켜봤다. 마침내 도착한 그의 목소리는 또렷하고 멀리까지 들리는 어조로 숫자를 전달했고, 그는 속이 뒤집히는 느낌과 함께 꼬박 1초가 지나서야 그것이 한국어였음을 알아차렸다. 아무도 웃지 않았고, 웃어만 준다면 돈이라도 냈을 것이다."
+        },
+        {
+          "en": "Once the room had emptied, Daniel turned his phone around without a word: nineteen seconds. Helen had already picked up a marker and was heading for the whiteboard. \"Five seconds is a pause, and people will respect you for it,\" she said. \"Nineteen is an obituary. You're not short of an answer, you've got six of them and you're trying to pick the one nobody can sue you over. What you need isn't more thinking, it's a way of getting your mouth moving while your brain catches up.\"",
+          "ko": "방이 비자 대니얼이 말없이 휴대폰을 돌려 보여 주었다. 19초. 헬렌은 벌써 마커를 집어 화이트보드로 가고 있었다. \"5초는 멈춤이고 사람들은 그걸 존중해 줄 거예요.\" 그녀가 말했다. \"19초는 부고예요. 답이 모자란 게 아니에요. 여섯 개나 있으면서 아무도 소송을 못 걸 답을 고르려는 거죠. 그러니 필요한 건 더 많은 생각이 아니라, 머리가 따라올 때까지 입을 움직이게 하는 방법이에요.\""
+        },
+        {
+          "en": "She wrote as she talked, in capitals. \"You start by saying it back: 'So you're asking whether those failures were ours.' Then you buy yourself a beat, with 'Let me think about that for a second,' or 'Bear with me,' neither of which has ever killed anyone. And then you lead with 'The short answer is,' you hand them the nine, and you shut up, which for you will be the hard part.\" He copied it all down as if it were a tax rule, which was, he suspected, part of the problem.",
+          "ko": "그녀는 말하면서 대문자로 적었다. \"우선 되받아 말해요. '그러니까 그 실패가 우리 것이었는지 묻고 계신 거죠.' 그다음 '잠깐 생각해 볼게요'나 '잠시만 기다려 주세요'로 한 박자를 버는데, 그런 말 때문에 죽은 사람은 없어요. 그리고 '짧게 답하면'으로 시작해 아홉 곳이라고 건네주고 입을 닫아요. 당신에겐 그게 어려운 부분일 거예요.\" 그는 세법 조항이라도 되는 듯 전부 받아 적었고, 그것도 문제의 일부일 거라고 짐작했다."
+        },
+        {
+          "en": "\"And if you genuinely haven't got it, you say 'Let me come back to that,' and then you damn well do, because eight hundred people will notice if you don't,\" she added, capping the marker. She put Yuna's question to him in a voice as flat as a departure board, and he went through the lines in order like a man defusing something from a manual. It took eight seconds, and he sounded like an airline announcing a delay, but it was an answer, and it was, by some distance, in English.",
+          "ko": "\"그리고 정말 답이 없으면 '그 부분은 잠시 뒤에 다시 말씀드릴게요'라고 하고 반드시 그렇게 해요. 안 하면 800명이 알아차리니까요.\" 그녀가 마커 뚜껑을 닫으며 덧붙였다. 그녀는 출발 안내판처럼 무미건조한 목소리로 유나의 질문을 던졌고, 그는 설명서를 보며 폭탄을 해체하는 사람처럼 문장을 순서대로 썼다. 8초가 걸렸고 항공사의 지연 안내 방송 같았지만, 어쨌든 답이었고, 누가 뭐래도 영어였다."
+        },
+        {
+          "en": "He got home a little after nine to an apartment that felt overfurnished with quiet. Waiting in his inbox, copied to Helen, was an email from someone he had never heard of, a Priya Nair, under the subject line \"19 seconds.\" \"Helen sent me your video, and I've now watched it more often than is polite,\" it said. \"The silence isn't your problem, whatever they told you tonight, because that was only the part you could see. Tomorrow, seven o'clock, and bring no slides.\"",
+          "ko": "그는 9시가 조금 넘어, 고요로 가득 찬 듯한 아파트에 돌아왔다. 메일함에는 헬렌을 참조로 넣은, 처음 듣는 이름의 프리야 네어가 보낸 메일이 \"19초\"라는 제목으로 기다리고 있었다. \"헬렌이 영상을 보내 줬고, 저는 예의에 어긋날 만큼 여러 번 봤습니다.\" 메일에 적혀 있었다. \"오늘 밤 무슨 말을 들었든 침묵은 당신의 문제가 아닙니다. 그건 눈에 보이는 부분일 뿐이니까요. 내일 7시, 슬라이드는 가져오지 마세요.\""
+        },
+        {
+          "en": "Beneath her name was one further line, which he read standing in the hallway with his coat still on: \"While you were silent, what were you afraid they'd find out?\" He started typing a reply, deleted it, and started another. It occurred to him, some considerable time later, that nobody had actually asked him to answer by email, and that he had, once again, stopped breathing.",
+          "ko": "그녀의 이름 아래에 한 줄이 더 있었고, 그는 코트도 벗지 않은 채 복도에 서서 읽었다. \"침묵하는 동안, 사람들이 무엇을 알아낼까 봐 두려웠습니까?\" 그는 답장을 쓰다 지우고 다른 답장을 쓰기 시작했다. 꽤 한참 뒤에야 그는 아무도 메일로 답하라고 하지 않았다는 것을, 그리고 자신이 또다시 숨을 멈췄다는 것을 깨달았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "So you're asking whether",
+        "The short answer is",
+        "Let me come back to that"
+      ],
+      "wordCandidates": [
+        {
+          "term": "tact",
+          "surface": "tact",
+          "meaningKo": "눈치, 요령 있는 배려",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Somebody shifted in a chair, the air conditioner seemed to have been turned up to a roar, and out of the corner of his eye he watched Daniel glance at the timer and then, with terrible tact, away.",
+            "ko": "누군가 의자에서 몸을 움직였고, 에어컨은 굉음을 내는 듯했으며, 그는 곁눈으로 대니얼이 타이머를 힐끗 보고 끔찍할 만큼 눈치 있게 시선을 돌리는 것을 지켜봤다."
+          }
+        },
+        {
+          "term": "lurch",
+          "surface": "lurch",
+          "meaningKo": "(속이) 울렁거림, 휘청거림",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It took him a full second, with a sickening lurch, to register that it had done so in Korean.",
+            "ko": "그는 속이 뒤집히는 느낌과 함께 꼬박 1초가 지나서야 그것이 한국어였음을 알아차렸다."
+          }
+        },
+        {
+          "term": "short of",
+          "surface": "short of an answer",
+          "meaningKo": "~이 모자라는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "You're not short of an answer, you've got six of them and you're trying to pick the one nobody can sue you over.",
+            "ko": "답이 모자란 게 아니에요. 여섯 개나 있으면서 아무도 소송을 못 걸 답을 고르려는 거죠."
+          }
+        },
+        {
+          "term": "defuse",
+          "surface": "defusing",
+          "meaningKo": "(폭탄을) 해체하다, (위기를) 진정시키다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She put Yuna's question to him in a voice as flat as a departure board, and he went through the lines in order like a man defusing something from a manual.",
+            "ko": "그녀는 출발 안내판처럼 무미건조한 목소리로 유나의 질문을 던졌고, 그는 설명서를 보며 폭탄을 해체하는 사람처럼 문장을 순서대로 썼다."
+          }
+        },
+        {
+          "term": "by some distance",
+          "surface": "by some distance",
+          "meaningKo": "누가 뭐래도, 단연코",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It took eight seconds, and he sounded like an airline announcing a delay, but it was an answer, and it was, by some distance, in English.",
+            "ko": "8초가 걸렸고 항공사의 지연 안내 방송 같았지만, 어쨌든 답이었고, 누가 뭐래도 영어였다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How long was Jae-won silent before answering Yuna's question?",
+      "options": [
+        "Five seconds",
+        "Eight seconds",
+        "Nineteen seconds",
+        "Twenty-two seconds"
+      ],
+      "answerIndex": 2,
+      "evidence": "nineteen seconds"
+    },
+    {
+      "question": "What is Priya Nair suggesting with \"While you were silent, what were you afraid they'd find out?\"",
+      "options": [
+        "That he should write his answers down in email before speaking",
+        "That the real issue is a deeper fear, not the length of the pause",
+        "That his colleagues were spying on him",
+        "That his English needs more grammar practice"
+      ],
+      "answerIndex": 1,
+      "evidence": "The silence isn't the problem, whatever you've been told tonight."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "So you're asking whether those failures were ours.",
+      "The short answer is nine.",
+      "Let me come back to that."
+    ],
+    "summaryPromptKo": "재원의 대답이 어떻게 나왔는지, 헬렌이 어떤 대처법을 가르쳐 주었는지, 프리야가 메일에서 무엇을 물었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Yuna Seo",
+      "en": "Your numbers say thirty-one pilots failed. How many of those were our own clients, and doesn't that hurt our credibility?",
+      "ko": "숫자로는 파일럿 31건이 실패했다고 하셨죠. 그중 우리 고객이 몇 곳이었고, 그게 우리 신뢰도에 타격을 주지는 않나요?"
+    },
+    "modelAnswer": "So you're asking whether our own failures hurt our credibility. Let me think about that for a second. The short answer is nine, and no, I don't think it hurts us. Nine of those thirty-one pilots were ours, and I'd rather say that out loud than have someone find it later. We were in the room when they stalled, which is exactly why we know what went wrong and what to change."
+  },
+  "nextTeaserKo": "다음 날 아침 7시, 슬라이드 없이 찾아간 재원 앞에 전직 기자 프리야 네어가 앉는다. 그녀는 칭찬을 하지 않는다. 대신 대답하기 싫은 질문을 계속 던진다.",
+  "roleplay": {
+    "title": "그 질문을 다시 받는다면",
+    "situationKo": "월요일 리허설의 5분 질의응답을 다시 합니다. 이번에는 내가 재원입니다. 얼어붙었던 바로 그 질문부터 시작합니다. 틀려도 괜찮고, 점수도 없어요.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "All right, five minutes. No notes, no mercy. Yuna, go ahead.",
+        "ko": "좋아요, 5분입니다. 메모도 자비도 없어요. 유나 씨, 시작하세요."
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Of those thirty-one companies, how many were our own clients?",
+        "ko": "그 31개 회사 중 우리 고객은 몇 곳이었나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So you're asking whether some of these failures were ours.",
+        "ko": "그러니까 이 실패 중 일부가 우리 것인지 묻고 계신 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "That's exactly what I'm asking.",
+        "ko": "바로 그걸 묻는 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The short answer is nine. Nine of the thirty-one were our clients.",
+        "ko": "짧게 답하면 아홉 곳입니다. 31곳 중 아홉 곳이 우리 고객이었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Nine. And you still want to stand on that stage and tell people what went wrong?",
+        "ko": "아홉 곳이라. 그런데도 무대에 서서 뭐가 잘못됐는지 말하겠다고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Yes, because we were in the room when those pilots stalled.",
+        "ko": "네, 그 파일럿들이 멈췄을 때 우리가 그 자리에 있었으니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "An investor is going to ask what you've changed since then. What's your answer?",
+        "ko": "투자자라면 그 후로 뭘 바꿨냐고 물을 거예요. 뭐라고 답하실 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me think about that for a second.",
+        "ko": "잠깐 생각해 볼게요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Take your time.",
+        "ko": "천천히 하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "At Norim, we rebuilt the audit trail first, and the close went from eleven days to six.",
+        "ko": "노림에서는 감사 추적부터 다시 만들었고, 결산이 11일에서 6일로 줄었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "How many of your other clients have done the same?",
+        "ko": "다른 고객 중에서는 몇 곳이나 똑같이 했나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me come back to that. I want to check the exact number first.",
+        "ko": "그 부분은 잠시 뒤에 다시 말씀드릴게요. 정확한 숫자부터 확인하고 싶습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Fine. How did you define a failure in the first place?",
+        "ko": "좋아요. 애초에 실패를 어떻게 정의하셨죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Bear with me, it is a simple test. A failed pilot never got into production.",
+        "ko": "잠시만요, 기준은 간단합니다. 실패한 파일럿은 실제 운영까지 가지 못한 경우입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Last one. What are you most afraid of up there?",
+        "ko": "마지막 질문이에요. 무대에서 뭐가 제일 두려워요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "To be honest, I'm afraid of going quiet. But I'd rather pause than guess.",
+        "ko": "솔직히 말이 끊길까 봐 두렵습니다. 하지만 추측하느니 차라리 잠시 멈추겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Good. That's the first time you've answered me without a footnote.",
+        "ko": "좋아요. 각주 없이 답한 건 이번이 처음이네요."
+      }
+    ]
+  }
+}

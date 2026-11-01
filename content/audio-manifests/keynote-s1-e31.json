@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s1-e31",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "land": "word-land.mp3",
+    "reception": "word-reception.mp3",
+    "banker": "word-banker.mp3",
+    "countdown clock": "word-countdown-clock.mp3",
+    "customs form": "word-customs-form.mp3",
+    "launch into": "word-launch-into.mp3",
+    "drift": "word-drift.mp3",
+    "murmur": "word-murmur.mp3",
+    "materialize": "word-materialize.mp3",
+    "service corridor": "word-service-corridor.mp3",
+    "re-key": "word-re-key.mp3",
+    "pleasantry": "word-pleasantry.mp3",
+    "canape": "word-canape.mp3",
+    "with the air of": "word-with-the-air-of.mp3"
+  },
+  "termClips": {
+    "land": "term-land.mp3",
+    "reception": "term-reception.mp3",
+    "banker": "term-banker.mp3",
+    "countdown clock": "term-countdown-clock.mp3",
+    "customs form": "term-customs-form.mp3",
+    "launch into": "term-launch-into.mp3",
+    "drift": "term-drift.mp3",
+    "murmur": "term-murmur.mp3",
+    "materialize": "term-materialize.mp3",
+    "service corridor": "term-service-corridor.mp3",
+    "re-key": "term-re-key.mp3",
+    "pleasantry": "term-pleasantry.mp3",
+    "canape": "term-canape.mp3",
+    "with the air of": "term-with-the-air-of.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3",
+    "roleplay-16.mp3"
+  ]
+}

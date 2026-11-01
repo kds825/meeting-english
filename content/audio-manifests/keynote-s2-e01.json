@@ -1,0 +1,61 @@
+{
+  "episodeId": "keynote-s2-e01",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "crossed out": "word-crossed-out.mp3",
+    "steering committee": "word-steering-committee.mp3",
+    "on site": "word-on-site.mp3",
+    "re-key": "word-re-key.mp3",
+    "scope": "word-scope.mp3",
+    "floor": "word-floor.mp3",
+    "get around to": "word-get-around-to.mp3",
+    "put off": "word-put-off.mp3",
+    "customs paperwork": "word-customs-paperwork.mp3",
+    "for better or worse": "word-for-better-or-worse.mp3",
+    "carton": "word-carton.mp3",
+    "uncap": "word-uncap.mp3",
+    "out loud": "word-out-loud.mp3",
+    "auditor": "word-auditor.mp3",
+    "footnote": "word-footnote.mp3"
+  },
+  "termClips": {
+    "crossed out": "term-crossed-out.mp3",
+    "steering committee": "term-steering-committee.mp3",
+    "on site": "term-on-site.mp3",
+    "re-key": "term-re-key.mp3",
+    "scope": "term-scope.mp3",
+    "floor": "term-floor.mp3",
+    "get around to": "term-get-around-to.mp3",
+    "put off": "term-put-off.mp3",
+    "customs paperwork": "term-customs-paperwork.mp3",
+    "for better or worse": "term-for-better-or-worse.mp3",
+    "carton": "term-carton.mp3",
+    "uncap": "term-uncap.mp3",
+    "out loud": "term-out-loud.mp3",
+    "auditor": "term-auditor.mp3",
+    "footnote": "term-footnote.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3"
+  ]
+}

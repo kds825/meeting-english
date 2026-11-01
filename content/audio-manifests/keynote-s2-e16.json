@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e16",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "load": "word-load.mp3",
+    "bad habit": "word-bad-habit.mp3",
+    "honest": "word-honest.mp3",
+    "terms": "word-terms.mp3",
+    "condition": "word-condition.mp3",
+    "hang up": "word-hang-up.mp3",
+    "carrier name": "word-carrier-name.mp3",
+    "judgment": "word-judgment.mp3",
+    "drop": "word-drop.mp3",
+    "abruptness": "word-abruptness.mp3",
+    "hardly": "word-hardly.mp3",
+    "make a career of": "word-make-a-career-of.mp3",
+    "without heat": "word-without-heat.mp3",
+    "dread": "word-dread.mp3",
+    "dictate": "word-dictate.mp3"
+  },
+  "termClips": {
+    "load": "term-load.mp3",
+    "bad habit": "term-bad-habit.mp3",
+    "honest": "term-honest.mp3",
+    "terms": "term-terms.mp3",
+    "condition": "term-condition.mp3",
+    "hang up": "term-hang-up.mp3",
+    "carrier name": "term-carrier-name.mp3",
+    "judgment": "term-judgment.mp3",
+    "drop": "term-drop.mp3",
+    "abruptness": "term-abruptness.mp3",
+    "hardly": "term-hardly.mp3",
+    "make a career of": "term-make-a-career-of.mp3",
+    "without heat": "term-without-heat.mp3",
+    "dread": "term-dread.mp3",
+    "dictate": "term-dictate.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

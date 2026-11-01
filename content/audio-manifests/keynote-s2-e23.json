@@ -1,0 +1,67 @@
+{
+  "episodeId": "keynote-s2-e23",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "percent": "word-percent.mp3",
+    "count": "word-count.mp3",
+    "button": "word-button.mp3",
+    "flat": "word-flat.mp3",
+    "come off": "word-come-off.mp3",
+    "unseen": "word-unseen.mp3",
+    "forward": "word-forward.mp3",
+    "error": "word-error.mp3",
+    "canteen": "word-canteen.mp3",
+    "pull": "word-pull.mp3",
+    "punctuality": "word-punctuality.mp3",
+    "voluntarily": "word-voluntarily.mp3",
+    "sensation": "word-sensation.mp3",
+    "genuinely": "word-genuinely.mp3",
+    "concession": "word-concession.mp3",
+    "statement": "word-statement.mp3",
+    "abandon": "word-abandon.mp3"
+  },
+  "termClips": {
+    "percent": "term-percent.mp3",
+    "count": "term-count.mp3",
+    "button": "term-button.mp3",
+    "flat": "term-flat.mp3",
+    "come off": "term-come-off.mp3",
+    "unseen": "term-unseen.mp3",
+    "forward": "term-forward.mp3",
+    "error": "term-error.mp3",
+    "canteen": "term-canteen.mp3",
+    "pull": "term-pull.mp3",
+    "punctuality": "term-punctuality.mp3",
+    "voluntarily": "term-voluntarily.mp3",
+    "sensation": "term-sensation.mp3",
+    "genuinely": "term-genuinely.mp3",
+    "concession": "term-concession.mp3",
+    "statement": "term-statement.mp3",
+    "abandon": "term-abandon.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e40",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "third-year": "word-third-year.mp3",
+    "handwriting": "word-handwriting.mp3",
+    "margin": "word-margin.mp3",
+    "damaged": "word-damaged.mp3",
+    "handbook": "word-handbook.mp3",
+    "holdback": "word-holdback.mp3",
+    "compliment": "word-compliment.mp3",
+    "pile": "word-pile.mp3",
+    "exit": "word-exit.mp3",
+    "publication": "word-publication.mp3",
+    "prospective": "word-prospective.mp3",
+    "arrangement": "word-arrangement.mp3",
+    "under the impression": "word-under-the-impression.mp3",
+    "reserve the right": "word-reserve-the-right.mp3",
+    "flattering": "word-flattering.mp3"
+  },
+  "termClips": {
+    "third-year": "term-third-year.mp3",
+    "handwriting": "term-handwriting.mp3",
+    "margin": "term-margin.mp3",
+    "damaged": "term-damaged.mp3",
+    "handbook": "term-handbook.mp3",
+    "holdback": "term-holdback.mp3",
+    "compliment": "term-compliment.mp3",
+    "pile": "term-pile.mp3",
+    "exit": "term-exit.mp3",
+    "publication": "term-publication.mp3",
+    "prospective": "term-prospective.mp3",
+    "arrangement": "term-arrangement.mp3",
+    "under the impression": "term-under-the-impression.mp3",
+    "reserve the right": "term-reserve-the-right.mp3",
+    "flattering": "term-flattering.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

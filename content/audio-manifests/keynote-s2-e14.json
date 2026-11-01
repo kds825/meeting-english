@@ -1,0 +1,63 @@
+{
+  "episodeId": "keynote-s2-e14",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "high praise": "word-high-praise.mp3",
+    "month-end": "word-month-end.mp3",
+    "test": "word-test.mp3",
+    "by accident": "word-by-accident.mp3",
+    "lift": "word-lift.mp3",
+    "routine": "word-routine.mp3",
+    "read out": "word-read-out.mp3",
+    "sign": "word-sign.mp3",
+    "press": "word-press.mp3",
+    "run": "word-run.mp3",
+    "procurement": "word-procurement.mp3",
+    "uptime": "word-uptime.mp3",
+    "graceful": "word-graceful.mp3",
+    "miracle": "word-miracle.mp3",
+    "rancor": "word-rancor.mp3"
+  },
+  "termClips": {
+    "high praise": "term-high-praise.mp3",
+    "month-end": "term-month-end.mp3",
+    "test": "term-test.mp3",
+    "by accident": "term-by-accident.mp3",
+    "lift": "term-lift.mp3",
+    "routine": "term-routine.mp3",
+    "read out": "term-read-out.mp3",
+    "sign": "term-sign.mp3",
+    "press": "term-press.mp3",
+    "run": "term-run.mp3",
+    "procurement": "term-procurement.mp3",
+    "uptime": "term-uptime.mp3",
+    "graceful": "term-graceful.mp3",
+    "miracle": "term-miracle.mp3",
+    "rancor": "term-rancor.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

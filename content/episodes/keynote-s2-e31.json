@@ -1,0 +1,397 @@
+{
+  "id": "keynote-s2-e31",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 31,
+  "title": "Wei Ling's Terms",
+  "recapKo": "재원은 빈손으로 일어서서 앤더스가 옳은 대목부터 인정하고 16주 차로 평가해 달라고 했다. 그레이스는 2단계를 미루고 앤더스의 제안서를 14주 차 금요일까지 서랍에 넣었으며, 시스템은 웨이링의 이름이 돌아올 때까지 꺼 두기로 했다. 웨이링은 말했다. \"월요일 밤 10시, 6번 도크요. 종이는 호텔에 두고 오세요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "Let me make sure I've got this right: ~",
+      "meaningKo": "제가 제대로 이해했는지 확인하겠습니다. ~",
+      "usage": "Let me make sure I've got this right: you need the numbers by Thursday, not Friday."
+    },
+    {
+      "phrase": "What am I missing?",
+      "meaningKo": "제가 놓치고 있는 게 뭘까요?",
+      "usage": "The plan looks fine to me, but you've done this for years. What am I missing?"
+    },
+    {
+      "phrase": "Where would you start?",
+      "meaningKo": "어디서부터 시작하시겠어요?",
+      "usage": "If this were your project, where would you start?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 204,
+      "paragraphs": [
+        {
+          "en": "On Monday night at ten, Jae-won walked onto dock six with nothing in his hands. \"You'll work until three,\" Wei Ling said. So he carried cartons and counted them for Siti, and nobody asked his opinion.",
+          "ko": "월요일 밤 10시, 재원은 빈손으로 6번 도크에 들어섰다. \"3시까지 일하세요.\" 웨이링이 말했다. 그래서 그는 시티를 위해 상자를 나르고 세었고, 아무도 그의 의견을 묻지 않았다."
+        },
+        {
+          "en": "At one, he stopped next to Wei Ling. \"I've asked what you'd sign, and that was wrong,\" he said. \"What am I missing?\" She pointed at Siti. \"On the Tuesday before the failure, I saw a wrong origin code,\" Siti said. \"Walk me through it,\" he said. \"There's nothing to walk through. Who was I supposed to tell?\"",
+          "ko": "1시에 그는 웨이링 옆에 멈춰 섰다. \"저는 무엇에 서명하실지를 물었고, 그게 틀렸습니다.\" 그가 말했다. \"제가 놓치고 있는 게 뭘까요?\" 그녀가 시티를 가리켰다. \"사고 전 화요일에 틀린 원산지 코드를 봤어요.\" 시티가 말했다. \"차근차근 말씀해 주세요.\" 그가 말했다. \"차근차근 말할 것도 없어요. 제가 누구한테 말해야 했죠?\""
+        },
+        {
+          "en": "At three, they sat on a pallet, and Wei Ling held up one finger. \"First, the floor picks the order, and nothing starts until the people using it say yes. Second, anyone here can stop the system, with no form and no permission. Third, Grace comes to the canteen before I sign, and she tells my people what happens after week sixteen.\"",
+          "ko": "3시에 그들은 팔레트에 앉았고, 웨이링이 손가락 하나를 들었다. \"첫째, 순서는 현장이 정하고, 그걸 쓰는 사람들이 좋다고 할 때까지 아무것도 시작하지 않아요. 둘째, 여기 있는 누구든 서류도 허락도 없이 시스템을 멈출 수 있어요. 셋째, 제가 서명하기 전에 그레이스가 구내식당에 와서 16주 차 이후에 어떻게 되는지 우리 직원들에게 말하는 거예요.\""
+        },
+        {
+          "en": "\"Let me make sure I've got this right: the floor picks the order, anyone can stop it, and Grace speaks first,\" he said. \"Where would you start?\" \"Nights,\" she said, \"because they're the hardest.\" He did the sum in his head and went quiet. \"Say it,\" she said.",
+          "ko": "\"제가 제대로 이해했는지 확인하겠습니다. 순서는 현장이 정하고, 누구든 멈출 수 있고, 그레이스가 먼저 말하는 거군요.\" 그가 말했다. \"어디서부터 시작하시겠어요?\" \"야간조요.\" 그녀가 말했다. \"제일 어려우니까요.\" 그는 머릿속으로 계산을 하고는 말이 없어졌다. \"말해 보세요.\" 그녀가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I've got this right",
+        "What am I missing?",
+        "Where would you start?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "carton",
+          "surface": "cartons",
+          "meaningKo": "(포장) 상자",
+          "paragraph": 0,
+          "sentence": {
+            "en": "So he carried cartons and counted them for Siti, and nobody asked his opinion.",
+            "ko": "그래서 그는 시티를 위해 상자를 나르고 세었고, 아무도 그의 의견을 묻지 않았다."
+          }
+        },
+        {
+          "term": "origin code",
+          "surface": "origin code",
+          "meaningKo": "원산지 코드",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"On the Tuesday before the failure, I saw a wrong origin code,\" Siti said.",
+            "ko": "\"사고 전 화요일에 틀린 원산지 코드를 봤어요.\" 시티가 말했다."
+          }
+        },
+        {
+          "term": "pallet",
+          "surface": "pallet",
+          "meaningKo": "팔레트, 화물 받침대",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At three, they sat on a pallet, and Wei Ling held up one finger.",
+            "ko": "3시에 그들은 팔레트에 앉았고, 웨이링이 손가락 하나를 들었다."
+          }
+        },
+        {
+          "term": "permission",
+          "surface": "permission",
+          "meaningKo": "허락",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Second, anyone here can stop the system, with no form and no permission.",
+            "ko": "둘째, 여기 있는 누구든 서류도 허락도 없이 시스템을 멈출 수 있어요."
+          }
+        },
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Third, Grace comes to the canteen before I sign, and she tells my people what happens after week sixteen.\"",
+            "ko": "셋째, 제가 서명하기 전에 그레이스가 구내식당에 와서 16주 차 이후에 어떻게 되는지 우리 직원들에게 말하는 거예요.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 333,
+      "paragraphs": [
+        {
+          "en": "On Monday night at ten, Jae-won walked onto dock six with nothing in his hands, and it felt stranger than the boots, which still didn't fit. For three hours he carried cartons and called out counts for Siti, and nobody asked for his opinion on anything.",
+          "ko": "월요일 밤 10시, 재원은 빈손으로 6번 도크에 들어섰고, 그 느낌은 여전히 맞지 않는 안전화보다 더 낯설었다. 세 시간 동안 그는 상자를 나르고 시티에게 수량을 불러 주었으며, 아무도 무엇에 대해서도 그의 의견을 묻지 않았다."
+        },
+        {
+          "en": "At one o'clock, he stopped next to Wei Ling at the end of the dock. \"I've spent twelve weeks asking what you'd sign, and that was the wrong question,\" he said. \"What am I missing?\" She tipped her head toward Siti, who kept writing. \"Walk me through it,\" Wei Ling told her. \"On the Tuesday before the failure, I saw an origin code on my screen that didn't match the carton,\" Siti said. \"I thought the machine must know better, and anyway, who was I supposed to tell?\" The containers had been held two days after that, and Jae-won found that he had no answer.",
+          "ko": "1시에 그는 도크 끝에서 웨이링 옆에 멈춰 섰다. \"12주 동안 무엇에 서명하실지를 물었는데, 그게 틀린 질문이었습니다.\" 그가 말했다. \"제가 놓치고 있는 게 뭘까요?\" 그녀가 고개로 시티를 가리켰고, 시티는 계속 쓰고 있었다. \"차근차근 말해 줘요.\" 웨이링이 시티에게 말했다. \"사고 전 화요일에 제 화면에서 상자와 맞지 않는 원산지 코드를 봤어요.\" 시티가 말했다. \"기계가 더 잘 알겠거니 했고, 어차피 제가 누구한테 말해야 했죠?\" 컨테이너가 억류된 것은 그로부터 이틀 뒤였고, 재원은 자신에게 답이 없다는 것을 알았다."
+        },
+        {
+          "en": "At three, they sat down on a pallet, and Wei Ling held up one finger. \"First, the floor picks the order, and nothing starts until the people using it have read a week of it and said yes. Second, anyone on this floor can stop the system, with no form and no permission, and they explain in the morning. Third, Grace comes to the canteen before I sign, and she tells my people herself what happens after week sixteen.\"",
+          "ko": "3시에 그들은 팔레트에 앉았고, 웨이링이 손가락 하나를 들었다. \"첫째, 순서는 현장이 정하고, 그걸 쓰는 사람들이 일주일 치를 읽어 보고 좋다고 할 때까지 아무것도 시작하지 않아요. 둘째, 이 현장의 누구든 서류도 허락도 없이 시스템을 멈출 수 있고, 설명은 아침에 해요. 셋째, 제가 서명하기 전에 그레이스가 구내식당에 와서 16주 차 이후에 어떻게 되는지 우리 직원들에게 직접 말하는 거예요.\""
+        },
+        {
+          "en": "His hand went to his empty pocket and came back. \"Let me make sure I've got this right: the floor sets the order after a week of reading, anyone can stop it without asking, and Grace speaks before you sign,\" he said. \"Where would you start?\" he asked. \"Nights, because they're the hardest, and if it can't do nights, I don't want it anywhere.\" He did the sum in his head, a week of reading and then each shift in turn, and on Friday he had told a full room to judge him on week sixteen. \"You've gone quiet,\" she said. \"Say it.\"",
+          "ko": "그의 손이 빈 주머니로 갔다가 돌아왔다. \"제가 제대로 이해했는지 확인하겠습니다. 일주일 읽어 본 뒤 순서는 현장이 정하고, 누구든 묻지 않고 멈출 수 있으며, 서명 전에 그레이스가 말하는 거군요.\" 그가 말했다. \"어디서부터 시작하시겠어요?\" 그가 물었다. \"야간조요. 제일 어려우니까요. 야간을 못 하면 어디에도 들이고 싶지 않아요.\" 그는 머릿속으로 계산했다. 일주일 읽기, 이어서 교대조 차례로. 그리고 금요일에 그는 가득 찬 회의실에서 16주 차로 평가해 달라고 말했다. \"말이 없어졌네요.\" 그녀가 말했다. \"말해 보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I've got this right",
+        "What am I missing?",
+        "Where would you start?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "call out",
+          "surface": "called out",
+          "meaningKo": "큰 소리로 알리다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "For three hours he carried cartons and called out counts for Siti, and nobody asked for his opinion on anything.",
+            "ko": "세 시간 동안 그는 상자를 나르고 시티에게 수량을 불러 주었으며, 아무도 무엇에 대해서도 그의 의견을 묻지 않았다."
+          }
+        },
+        {
+          "term": "tip",
+          "surface": "tipped",
+          "meaningKo": "(머리를) 기울이다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She tipped her head toward Siti, who kept writing.",
+            "ko": "그녀가 고개로 시티를 가리켰고, 시티는 계속 쓰고 있었다."
+          }
+        },
+        {
+          "term": "match",
+          "surface": "match",
+          "meaningKo": "일치하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"On the Tuesday before the failure, I saw an origin code on my screen that didn't match the carton,\" Siti said.",
+            "ko": "\"사고 전 화요일에 제 화면에서 상자와 맞지 않는 원산지 코드를 봤어요.\" 시티가 말했다."
+          }
+        },
+        {
+          "term": "be held",
+          "surface": "been held",
+          "meaningKo": "억류되다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "The containers had been held two days after that, and Jae-won found that he had no answer.",
+            "ko": "컨테이너가 억류된 것은 그로부터 이틀 뒤였고, 재원은 자신에게 답이 없다는 것을 알았다."
+          }
+        },
+        {
+          "term": "pallet",
+          "surface": "pallet",
+          "meaningKo": "팔레트, 화물 받침대",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At three, they sat down on a pallet, and Wei Ling held up one finger.",
+            "ko": "3시에 그들은 팔레트에 앉았고, 웨이링이 손가락 하나를 들었다."
+          }
+        },
+        {
+          "term": "permission",
+          "surface": "permission",
+          "meaningKo": "허락",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Second, anyone on this floor can stop the system, with no form and no permission, and they explain in the morning.",
+            "ko": "둘째, 이 현장의 누구든 서류도 허락도 없이 시스템을 멈출 수 있고, 설명은 아침에 해요."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 458,
+      "paragraphs": [
+        {
+          "en": "On Monday night at ten, Jae-won walked onto dock six with nothing in his hands, and he found it considerably stranger than the boots, which after twelve weeks still didn't fit. Wei Ling inspected his pockets with her eyes, as a customs officer might, and informed him that he would be working until three and that his views were not required. For three hours he carried cartons and called out counts for Siti, who corrected two of them without comment.",
+          "ko": "월요일 밤 10시, 재원은 빈손으로 6번 도크에 들어섰고, 12주가 지나도 여전히 맞지 않는 안전화보다 그쪽이 훨씬 낯설게 느껴졌다. 웨이링은 세관원이 그러듯 눈으로 그의 주머니를 살피더니, 3시까지 일할 것이며 그의 견해는 필요 없다고 알렸다. 세 시간 동안 그는 상자를 나르고 시티에게 수량을 불러 주었으며, 시티는 그중 두 개를 말없이 고쳤다."
+        },
+        {
+          "en": "At one o'clock, he stopped beside Wei Ling at the end of the dock. \"I've spent twelve weeks asking what you'd sign, which I gather was the wrong question,\" he said. \"What am I missing?\" She tipped her head toward Siti, who went on writing and addressed the form rather than him. \"On the Tuesday before the failure, I saw an origin code on my screen that couldn't have been right for the carton in front of me,\" she said. \"I assumed the machine knew better, since everyone upstairs seemed to think so, and anyway, who was I supposed to tell?\" The containers had been held two days later, and Jae-won, who had a written root cause in three parts, understood that it had a fourth.",
+          "ko": "1시에 그는 도크 끝에서 웨이링 옆에 멈춰 섰다. \"12주 동안 무엇에 서명하실지를 물었는데, 그게 틀린 질문이었던 모양입니다.\" 그가 말했다. \"제가 놓치고 있는 게 뭘까요?\" 그녀가 고개로 시티를 가리켰고, 시티는 계속 쓰면서 그가 아니라 양식에 대고 말했다. \"사고 전 화요일에 제 화면에서, 눈앞의 상자에 맞을 리 없는 원산지 코드를 봤어요.\" 그녀가 말했다. \"위층 사람들이 다 그렇게 생각하는 것 같아서 기계가 더 잘 알겠거니 했고, 어차피 제가 누구한테 말해야 했죠?\" 컨테이너가 억류된 것은 이틀 뒤였고, 세 부분으로 된 근본 원인을 문서로 써 둔 재원은 네 번째가 있었음을 알았다."
+        },
+        {
+          "en": "At three, they sat down on a pallet with terrible coffee, and Wei Ling, who had evidently been drafting this since Friday, held up one finger. \"First, the floor picks the order, and nothing starts until the people who'll be using it have read a full week of it and said yes. Second, anyone on this floor can stop the system, with no form, no permission and no conversation with you, and they explain themselves in the morning. Third, Grace comes to the canteen before I sign, and she tells my people herself what happens after week sixteen, because she told them she would, and I've been counting.\"",
+          "ko": "3시에 그들은 끔찍한 커피를 들고 팔레트에 앉았고, 금요일부터 이것을 다듬어 온 것이 분명한 웨이링이 손가락 하나를 들었다. \"첫째, 순서는 현장이 정하고, 그걸 쓸 사람들이 꼬박 일주일 치를 읽어 보고 좋다고 할 때까지 아무것도 시작하지 않아요. 둘째, 이 현장의 누구든 서류도, 허락도, 당신과의 대화도 없이 시스템을 멈출 수 있고, 설명은 아침에 해요. 셋째, 제가 서명하기 전에 그레이스가 구내식당에 와서 16주 차 이후에 어떻게 되는지 우리 직원들에게 직접 말하는 거예요. 그러겠다고 했고, 저는 날을 세고 있었으니까요.\""
+        },
+        {
+          "en": "His hand went to his empty pocket out of long habit and came back with nothing. \"Let me make sure I've got this right: the floor sets the order after a week of reading, anyone can stop it without asking me, and Grace speaks before you sign,\" he said. She nodded a little grudgingly, having apparently assumed that without his page he would lose at least one of them. \"Where would you start?\" he asked. \"Nights, because they're the hardest, and if it can't do nights, I don't want it anywhere near my days.\" He ran the calendar in his head, a week of reading and then each shift in turn, and he arrived at the sentence he had delivered to a full room on Friday with such composure: judge us on week sixteen. \"You've gone quiet,\" she said, without any sympathy. \"Say it.\"",
+          "ko": "오랜 습관대로 그의 손이 빈 주머니로 갔다가 아무것도 없이 돌아왔다. \"제가 제대로 이해했는지 확인하겠습니다. 일주일 읽어 본 뒤 순서는 현장이 정하고, 누구든 제게 묻지 않고 멈출 수 있으며, 서명 전에 그레이스가 말하는 거군요.\" 그가 말했다. 그녀는 약간 마지못해 고개를 끄덕였다. 종이가 없으면 적어도 하나는 놓치리라 여긴 모양이었다. \"어디서부터 시작하시겠어요?\" 그가 물었다. \"야간조요. 제일 어려우니까요. 야간을 못 하면 주간 근처에도 오게 하고 싶지 않아요.\" 그는 머릿속으로 달력을 돌렸다. 일주일 읽기, 이어서 교대조 차례로. 그러다 금요일에 가득 찬 회의실에서 그토록 침착하게 내놓은 문장에 이르렀다. 16주 차로 저희를 평가해 주십시오. \"말이 없어졌네요.\" 그녀가 동정심 없이 말했다. \"말해 보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I've got this right",
+        "What am I missing?",
+        "Where would you start?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "inspect",
+          "surface": "inspected",
+          "meaningKo": "살피다, 검사하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Wei Ling inspected his pockets with her eyes, as a customs officer might, and informed him that he would be working until three and that his views were not required.",
+            "ko": "웨이링은 세관원이 그러듯 눈으로 그의 주머니를 살피더니, 3시까지 일할 것이며 그의 견해는 필요 없다고 알렸다."
+          }
+        },
+        {
+          "term": "address",
+          "surface": "addressed",
+          "meaningKo": "~에 대고 말하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She tipped her head toward Siti, who went on writing and addressed the form rather than him.",
+            "ko": "그녀가 고개로 시티를 가리켰고, 시티는 계속 쓰면서 그가 아니라 양식에 대고 말했다."
+          }
+        },
+        {
+          "term": "root cause",
+          "surface": "root cause",
+          "meaningKo": "근본 원인",
+          "paragraph": 1,
+          "sentence": {
+            "en": "The containers had been held two days later, and Jae-won, who had a written root cause in three parts, understood that it had a fourth.",
+            "ko": "컨테이너가 억류된 것은 이틀 뒤였고, 세 부분으로 된 근본 원인을 문서로 써 둔 재원은 네 번째가 있었음을 알았다."
+          }
+        },
+        {
+          "term": "evidently",
+          "surface": "evidently",
+          "meaningKo": "분명히",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At three, they sat down on a pallet with terrible coffee, and Wei Ling, who had evidently been drafting this since Friday, held up one finger.",
+            "ko": "3시에 그들은 끔찍한 커피를 들고 팔레트에 앉았고, 금요일부터 이것을 다듬어 온 것이 분명한 웨이링이 손가락 하나를 들었다."
+          }
+        },
+        {
+          "term": "grudgingly",
+          "surface": "grudgingly",
+          "meaningKo": "마지못해",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She nodded a little grudgingly, having apparently assumed that without his page he would lose at least one of them.",
+            "ko": "그녀는 약간 마지못해 고개를 끄덕였다. 종이가 없으면 적어도 하나는 놓치리라 여긴 모양이었다."
+          }
+        },
+        {
+          "term": "composure",
+          "surface": "composure",
+          "meaningKo": "침착함",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He ran the calendar in his head, a week of reading and then each shift in turn, and he arrived at the sentence he had delivered to a full room on Friday with such composure: judge us on week sixteen.",
+            "ko": "그는 머릿속으로 달력을 돌렸다. 일주일 읽기, 이어서 교대조 차례로. 그러다 금요일에 가득 찬 회의실에서 그토록 침착하게 내놓은 문장에 이르렀다. 16주 차로 저희를 평가해 주십시오."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "When does Wei Ling want Grace to speak to the floor?",
+      "options": [
+        "After week sixteen",
+        "Before Wei Ling signs",
+        "After the system restarts",
+        "At the next committee"
+      ],
+      "answerIndex": 1,
+      "evidence": "before I sign"
+    },
+    {
+      "question": "Why does Jae-won go quiet at the end?",
+      "options": [
+        "He has forgotten the second term",
+        "He thinks Siti should have spoken sooner",
+        "He sees that the floor's terms can't fit the promise he made about week sixteen",
+        "He wants to go back and fetch his page"
+      ],
+      "answerIndex": 2,
+      "evidence": "Say it"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I've asked what you'd sign, and that was wrong.",
+      "Let me make sure I've got this right: the floor picks the order, anyone can stop it, and Grace speaks first.",
+      "Where would you start?"
+    ],
+    "summaryPromptKo": "시티가 사고 전에 무엇을 봤는지, 웨이링의 조건 세 가지가 무엇인지, 재원이 왜 말이 없어졌는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Wei Ling Tan",
+      "en": "You came without your page. So what did you hear tonight?",
+      "ko": "종이 없이 오셨죠. 그래서 오늘 밤 뭘 들었습니까?"
+    },
+    "modelAnswer": "Let me make sure I've got this right. The floor picks the order, and nothing starts until the people using it say yes. Anyone can stop the system, with no form and no permission. And Grace comes to the canteen before you sign. I also heard Siti. She saw a wrong code two days before the containers were held, and she had nobody to tell. That part is on me."
+  },
+  "nextTeaserKo": "재원은 말한다. 이 조건이면 16주 차는 없다고. 그리고 해가 뜨기 전 구내식당에서 시티, 하피즈, 콜과 함께 새 방식을 그린다. 그런데 펜을 든 사람은 재원이 아니다. 금요일 아침 그레이스는 뭐라고 할까.",
+  "roleplay": {
+    "title": "받아 적지 않고 듣기",
+    "situationKo": "새벽 3시, 도크의 팔레트 위입니다. 재원의 손에는 종이가 없어요. 여기서는 설득하지 말고, 묻고 듣고 들은 대로 다시 말해 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You've carried cartons for three hours. Why did you stop?",
+        "ko": "세 시간 동안 상자를 날랐죠. 왜 멈췄어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I've asked what you'd sign for twelve weeks, and that was wrong. What am I missing?",
+        "ko": "12주 동안 무엇에 서명하실지를 물었는데, 그게 틀렸습니다. 제가 놓치고 있는 게 뭘까요?",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "On the Tuesday before the failure, I saw a wrong origin code. Who was I supposed to tell?",
+        "ko": "사고 전 화요일에 틀린 원산지 코드를 봤어요. 제가 누구한테 말해야 했죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nobody. There wasn't anyone, and that's not your fault.",
+        "ko": "아무도 없었죠. 말할 사람이 없었고, 그건 시티 씨 잘못이 아닙니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "First, the floor picks the order. Second, anyone can stop the system, no form. Third, Grace comes to the canteen before I sign.",
+        "ko": "첫째, 순서는 현장이 정해요. 둘째, 누구든 서류 없이 시스템을 멈출 수 있어요. 셋째, 제가 서명하기 전에 그레이스가 구내식당에 와요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me make sure I've got this right: the floor picks the order, anyone can stop it, and Grace speaks first.",
+        "ko": "제가 제대로 이해했는지 확인하겠습니다. 순서는 현장이 정하고, 누구든 멈출 수 있고, 그레이스가 먼저 말하는 거군요.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You didn't write that down.",
+        "ko": "받아 적지 않았네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You told me not to bring a page. Where would you start?",
+        "ko": "종이를 가져오지 말라고 하셨으니까요. 어디서부터 시작하시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Nights, because they're the hardest.",
+        "ko": "야간조요. 제일 어려우니까요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I have a problem with week sixteen, and I'd rather say it now.",
+        "ko": "그러면 16주 차에 문제가 생깁니다. 지금 말씀드리는 게 낫겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "I know. Say it.",
+        "ko": "알아요. 말해 보세요."
+      }
+    ]
+  }
+}

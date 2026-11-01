@@ -1,0 +1,57 @@
+{
+  "episodeId": "keynote-s2-e10",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "signature": "word-signature.mp3",
+    "comfort": "word-comfort.mp3",
+    "goods receipt": "word-goods-receipt.mp3",
+    "steel-toed boots": "word-steel-toed-boots.mp3",
+    "notebook": "word-notebook.mp3",
+    "target": "word-target.mp3",
+    "humor": "word-humor.mp3",
+    "whistle": "word-whistle.mp3",
+    "baseline": "word-baseline.mp3",
+    "hint at": "word-hint-at.mp3",
+    "memo": "word-memo.mp3",
+    "used up": "word-used-up.mp3",
+    "flatly": "word-flatly.mp3"
+  },
+  "termClips": {
+    "signature": "term-signature.mp3",
+    "comfort": "term-comfort.mp3",
+    "goods receipt": "term-goods-receipt.mp3",
+    "steel-toed boots": "term-steel-toed-boots.mp3",
+    "notebook": "term-notebook.mp3",
+    "target": "term-target.mp3",
+    "humor": "term-humor.mp3",
+    "whistle": "term-whistle.mp3",
+    "baseline": "term-baseline.mp3",
+    "hint at": "term-hint-at.mp3",
+    "memo": "term-memo.mp3",
+    "used up": "term-used-up.mp3",
+    "flatly": "term-flatly.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3"
+  ]
+}

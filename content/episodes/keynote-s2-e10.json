@@ -1,0 +1,393 @@
+{
+  "id": "keynote-s2-e10",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 10,
+  "title": "Seven Thousand",
+  "recapKo": "월요일 2시, 투아스 구내식당. 재원은 64명 앞에서 프로젝트의 범위를 말했고, 웨이링은 왜 묻지도 않고 자기 이름을 계약서에 넣었느냐고 물었다. 재원은 \"제 잘못입니다\"라고 인정했다. 웨이링은 아직 안 끝났다며 64명 중 몇 명이 일자리를 잃느냐고 물었다.",
+  "keyExpressions": [
+    {
+      "phrase": "I won't pretend ~",
+      "meaningKo": "~인 척하지는 않겠습니다",
+      "usage": "I won't pretend this will be easy."
+    },
+    {
+      "phrase": "Here's what I can promise: ~",
+      "meaningKo": "제가 약속할 수 있는 것은 이렇습니다. ~",
+      "usage": "Here's what I can promise: you'll see the numbers first."
+    },
+    {
+      "phrase": "Tell me where I've got this wrong.",
+      "meaningKo": "제가 틀린 부분을 말씀해 주세요.",
+      "usage": "This is how I understand your process. Tell me where I've got this wrong."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 196,
+      "paragraphs": [
+        {
+          "en": "\"I won't pretend the work stays the same,\" he said. \"Here's what I can promise: nothing goes live without your signature, you'll see every number when Grace sees it, and I'll be on your night shift from tonight.\" Wei Ling turned around and looked at Grace.",
+          "ko": "\"일이 그대로일 거라고 하는 척하지는 않겠습니다.\" 그가 말했다. \"제가 약속할 수 있는 것은 이렇습니다. 서명 없이는 아무것도 가동되지 않고, 그레이스가 보는 모든 숫자를 같은 때에 보시게 되고, 오늘 밤부터 제가 야간 근무에 나옵니다.\" 웨이링이 돌아서서 그레이스를 보았다."
+        },
+        {
+          "en": "\"Nobody loses a job because of this during the sixteen weeks,\" Grace said. \"After that, I decide, and you'll hear it from me.\" It wasn't comfort, but several people wrote it down.",
+          "ko": "\"16주 동안은 이 일 때문에 일자리를 잃는 사람은 없습니다.\" 그레이스가 말했다. \"그 뒤는 제가 결정하고, 제 입으로 말씀드릴 겁니다.\" 위로는 아니었지만 몇 사람이 그것을 적어 두었다."
+        },
+        {
+          "en": "\"Tell me where I've got this wrong,\" Jae-won said to the room. A woman named Siti from the night shift held up his page. \"Your seven thousand is wrong,\" she said. \"Night shift's goods receipts get keyed again on days, because days can't read them, and you've counted them once.\"",
+          "ko": "\"제가 틀린 부분을 말씀해 주세요.\" 재원이 모두에게 말했다. 야간 근무조의 시티라는 여자가 그의 인쇄물을 들어 보였다. \"7천 건이 틀렸어요.\" 그녀가 말했다. \"야간조의 입고 확인서를 주간조가 못 읽어서 다시 입력하는데, 한 번으로 세셨어요.\""
+        },
+        {
+          "en": "When the canteen emptied, Wei Ling put a pair of steel-toed boots on his table. \"Night shift starts at ten, and I haven't decided about page thirty-one, so don't ask me,\" she said.",
+          "ko": "구내식당이 비자 웨이링이 안전화 한 켤레를 그의 테이블에 올려놓았다. \"야간 근무는 10시에 시작해요. 31쪽은 아직 결정 안 했으니 묻지 마세요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Daniel turned his notebook around. If Siti was right, nobody knew the real number under the target or the fee at risk. \"How wrong is it?\" Jae-won asked. \"I'd rather show you,\" Daniel said. \"Tonight.\"",
+          "ko": "대니얼이 수첩을 돌렸다. 시티의 말이 맞다면, 목표와 걸어 둔 수수료 밑에 있는 진짜 숫자를 아무도 모르는 것이었다. \"얼마나 틀렸어요?\" 재원이 물었다. \"보여 드리는 게 낫겠어요.\" 대니얼이 말했다. \"오늘 밤에요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I won't pretend",
+        "Here's what I can promise",
+        "Tell me where I've got this wrong"
+      ],
+      "wordCandidates": [
+        {
+          "term": "signature",
+          "surface": "signature",
+          "meaningKo": "서명",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Here's what I can promise: nothing goes live without your signature, you'll see every number when Grace sees it, and I'll be on your night shift from tonight.\"",
+            "ko": "\"제가 약속할 수 있는 것은 이렇습니다. 서명 없이는 아무것도 가동되지 않고, 그레이스가 보는 모든 숫자를 같은 때에 보시게 되고, 오늘 밤부터 제가 야간 근무에 나옵니다.\""
+          }
+        },
+        {
+          "term": "comfort",
+          "surface": "comfort",
+          "meaningKo": "위로",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It wasn't comfort, but several people wrote it down.",
+            "ko": "위로는 아니었지만 몇 사람이 그것을 적어 두었다."
+          }
+        },
+        {
+          "term": "goods receipt",
+          "surface": "goods receipts",
+          "meaningKo": "입고 확인서",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Night shift's goods receipts get keyed again on days, because days can't read them, and you've counted them once.\"",
+            "ko": "\"야간조의 입고 확인서를 주간조가 못 읽어서 다시 입력하는데, 한 번으로 세셨어요.\""
+          }
+        },
+        {
+          "term": "steel-toed boots",
+          "surface": "steel-toed boots",
+          "meaningKo": "앞코에 철심이 든 안전화",
+          "paragraph": 3,
+          "sentence": {
+            "en": "When the canteen emptied, Wei Ling put a pair of steel-toed boots on his table.",
+            "ko": "구내식당이 비자 웨이링이 안전화 한 켤레를 그의 테이블에 올려놓았다."
+          }
+        },
+        {
+          "term": "notebook",
+          "surface": "notebook",
+          "meaningKo": "수첩",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Daniel turned his notebook around.",
+            "ko": "대니얼이 수첩을 돌렸다."
+          }
+        },
+        {
+          "term": "target",
+          "surface": "target",
+          "meaningKo": "목표",
+          "paragraph": 4,
+          "sentence": {
+            "en": "If Siti was right, nobody knew the real number under the target or the fee at risk.",
+            "ko": "시티의 말이 맞다면, 목표와 걸어 둔 수수료 밑에 있는 진짜 숫자를 아무도 모르는 것이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 298,
+      "paragraphs": [
+        {
+          "en": "\"I won't pretend the work stays the same,\" he said. \"If we hit that number, fewer hours of keying will be needed, and what happens after that isn't my decision. Here's what I can promise: nothing goes live without your signature, you'll see every number when Grace sees it, and I'll be on your night shift from tonight.\" Someone at the back laughed without much humor, and Wei Ling turned around and said, \"Grace?\"",
+          "ko": "\"일이 그대로일 거라고 하는 척하지는 않겠습니다.\" 그가 말했다. \"그 숫자에 도달하면 입력 시간은 줄어들 것이고, 그 뒤 일은 제 결정이 아닙니다. 제가 약속할 수 있는 것은 이렇습니다. 서명 없이는 아무것도 가동되지 않고, 그레이스가 보는 모든 숫자를 같은 때에 보시게 되고, 오늘 밤부터 제가 야간 근무에 나옵니다.\" 뒤쪽에서 누군가 그다지 즐겁지 않게 웃었고, 웨이링이 돌아서서 말했다. \"그레이스?\""
+        },
+        {
+          "en": "Grace didn't move from the vending machine. \"Nobody loses a job because of this during the sixteen weeks,\" she said. \"After that, I decide, and you'll hear it from me, not from him.\" It wasn't comfort, and nobody in the room took it for comfort, but several people wrote it down on the page he'd given them.",
+          "ko": "그레이스는 자판기에서 움직이지 않았다. \"16주 동안은 이 일 때문에 일자리를 잃는 사람은 없습니다.\" 그녀가 말했다. \"그 뒤는 제가 결정하고, 이분이 아니라 제 입으로 말씀드릴 겁니다.\" 위로가 아니었고 방 안의 누구도 위로로 듣지 않았지만, 몇 사람이 그가 준 인쇄물에 그것을 적어 두었다."
+        },
+        {
+          "en": "\"Tell me where I've got this wrong,\" Jae-won said to the room, and for a long time no one did. Then a woman in the third row, who introduced herself as Siti from the night shift, held up his page. \"Your seven thousand is wrong,\" she said. \"Night shift's goods receipts get keyed again on days, because days can't read them, and you've counted them once.\" Daniel stopped writing and then started writing faster.",
+          "ko": "\"제가 틀린 부분을 말씀해 주세요.\" 재원이 모두에게 말했고, 한참 동안 아무도 입을 열지 않았다. 그러다 셋째 줄의 여자가 야간조의 시티라고 자신을 소개하며 그의 인쇄물을 들어 보였다. \"7천 건이 틀렸어요.\" 그녀가 말했다. \"야간조의 입고 확인서를 주간조가 못 읽어서 다시 입력하는데, 한 번으로 세셨어요.\" 대니얼이 쓰기를 멈췄다가 더 빨리 쓰기 시작했다."
+        },
+        {
+          "en": "The canteen emptied at 2:40, when the whistle went. Wei Ling stopped at his table and set down a pair of steel-toed boots, still in the plastic. \"Night shift starts at ten, and I haven't decided about page thirty-one, so don't ask me,\" she said.",
+          "ko": "2시 40분에 호각이 울리자 구내식당이 비었다. 웨이링이 그의 테이블에 멈춰 서서 비닐도 뜯지 않은 안전화 한 켤레를 내려놓았다. \"야간 근무는 10시에 시작해요. 31쪽은 아직 결정 안 했으니 묻지 마세요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Daniel turned his notebook around. If Siti was right, the baseline under the target, the fee at risk and the slide on Grace's board had never been counted by anyone who'd stood on that floor. \"How wrong is it?\" Jae-won asked. \"I'd rather show you tonight,\" Daniel said.",
+          "ko": "대니얼이 수첩을 돌렸다. 시티의 말이 맞다면, 목표와 걸어 둔 수수료와 그레이스의 이사회 슬라이드 밑에 있는 기준치를 그 현장에 서 본 사람이 센 적은 한 번도 없는 것이었다. \"얼마나 틀렸어요?\" 재원이 물었다. \"오늘 밤에 보여 드리는 게 낫겠어요.\" 대니얼이 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I won't pretend",
+        "Here's what I can promise",
+        "Tell me where I've got this wrong"
+      ],
+      "wordCandidates": [
+        {
+          "term": "humor",
+          "surface": "humor",
+          "meaningKo": "즐거움, 유머",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Someone at the back laughed without much humor, and Wei Ling turned around and said, \"Grace?\"",
+            "ko": "뒤쪽에서 누군가 그다지 즐겁지 않게 웃었고, 웨이링이 돌아서서 말했다. \"그레이스?\""
+          }
+        },
+        {
+          "term": "comfort",
+          "surface": "comfort",
+          "meaningKo": "위로",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It wasn't comfort, and nobody in the room took it for comfort, but several people wrote it down on the page he'd given them.",
+            "ko": "위로가 아니었고 방 안의 누구도 위로로 듣지 않았지만, 몇 사람이 그가 준 인쇄물에 그것을 적어 두었다."
+          }
+        },
+        {
+          "term": "whistle",
+          "surface": "whistle",
+          "meaningKo": "호각",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The canteen emptied at 2:40, when the whistle went.",
+            "ko": "2시 40분에 호각이 울리자 구내식당이 비었다."
+          }
+        },
+        {
+          "term": "baseline",
+          "surface": "baseline",
+          "meaningKo": "기준치",
+          "paragraph": 4,
+          "sentence": {
+            "en": "If Siti was right, the baseline under the target, the fee at risk and the slide on Grace's board had never been counted by anyone who'd stood on that floor.",
+            "ko": "시티의 말이 맞다면, 목표와 걸어 둔 수수료와 그레이스의 이사회 슬라이드 밑에 있는 기준치를 그 현장에 서 본 사람이 센 적은 한 번도 없는 것이었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 447,
+      "paragraphs": [
+        {
+          "en": "\"I won't pretend the work stays the same, because you'd know I was lying before I finished the sentence,\" he said. \"If we hit that number, fewer hours of keying will be needed, and what happens after that isn't my decision to make or to hint at. Here's what I can promise: nothing goes live without your signature, you'll see every number when Grace sees it, and I'll be on your night shift from tonight, for as long as you'll have me.\" Someone at the back laughed without much humor, and Wei Ling turned around and said, in the same pleasant voice, \"Grace?\"",
+          "ko": "\"일이 그대로일 거라고 하는 척하지는 않겠습니다. 문장을 끝내기도 전에 거짓말인 걸 아실 테니까요.\" 그가 말했다. \"그 숫자에 도달하면 입력 시간은 줄어들 것이고, 그 뒤 일은 제가 결정하거나 넌지시 말할 일이 아닙니다. 제가 약속할 수 있는 것은 이렇습니다. 서명 없이는 아무것도 가동되지 않고, 그레이스가 보는 모든 숫자를 같은 때에 보시게 되고, 오늘 밤부터 받아 주시는 동안 제가 야간 근무에 나옵니다.\" 뒤쪽에서 누군가 그다지 즐겁지 않게 웃었고, 웨이링이 돌아서서 같은 상냥한 목소리로 말했다. \"그레이스?\""
+        },
+        {
+          "en": "Grace didn't move from the vending machine, and she didn't raise her voice either, so that the back rows had to go quiet to hear her. \"Nobody loses a job because of this during the sixteen weeks,\" she said. \"After that, I decide, and you'll hear it from me, not from him, and not from a memo.\" It wasn't comfort, and nobody in the room took it for comfort, but several people wrote it down on the page he'd given them, which he supposed was how trust began in places where it had been used up.",
+          "ko": "그레이스는 자판기에서 움직이지 않았고 목소리도 높이지 않아서, 뒷줄이 조용해져야 들을 수 있었다. \"16주 동안은 이 일 때문에 일자리를 잃는 사람은 없습니다.\" 그녀가 말했다. \"그 뒤는 제가 결정하고, 이분도 공문도 아니라 제 입으로 말씀드릴 겁니다.\" 위로가 아니었고 방 안의 누구도 위로로 듣지 않았지만, 몇 사람이 그가 준 인쇄물에 그것을 적어 두었다. 신뢰가 바닥난 곳에서는 아마 그렇게 시작되는 모양이라고 그는 생각했다."
+        },
+        {
+          "en": "\"Tell me where I've got this wrong,\" Jae-won said to the room, and for a long time no one did. Nobody who valued their afternoon ever went first. Then a woman in the third row, who introduced herself as Siti from the night shift and who ought to have been asleep, held up his page. \"Your seven thousand is wrong,\" she said flatly. \"Night shift's goods receipts get keyed again on days, because days can't read them, and you've counted them once, because nobody at head office knows that.\" Daniel stopped writing and then started writing faster.",
+          "ko": "\"제가 틀린 부분을 말씀해 주세요.\" 재원이 모두에게 말했고, 한참 동안 아무도 입을 열지 않았다. 오후가 소중한 사람은 먼저 나서지 않는 법이었다. 그러다 셋째 줄의 여자가 야간조의 시티라고 자신을 소개하며 그의 인쇄물을 들어 보였다. 지금쯤 자고 있어야 할 사람이었다. \"7천 건이 틀렸어요.\" 그녀가 단조롭게 말했다. \"야간조의 입고 확인서를 주간조가 못 읽어서 다시 입력하는데, 본사에서 그걸 모르니까 한 번으로 세셨어요.\" 대니얼이 쓰기를 멈췄다가 더 빨리 쓰기 시작했다."
+        },
+        {
+          "en": "The canteen emptied at 2:40, when the whistle went, and it emptied without anyone appearing to hurry. Wei Ling stopped at his table and set down a pair of steel-toed boots, still in the plastic, in what he hoped was his size and suspected was not. \"Night shift starts at ten, and I haven't decided about page thirty-one, so don't ask me, and don't send anyone to ask me,\" she said.",
+          "ko": "2시 40분에 호각이 울리자 구내식당이 비었는데, 아무도 서두르는 것 같지 않았다. 웨이링이 그의 테이블에 멈춰 서서 비닐도 뜯지 않은 안전화 한 켤레를 내려놓았다. 그의 치수이기를 바랐지만 아닐 것 같았다. \"야간 근무는 10시에 시작해요. 31쪽은 아직 결정 안 했으니 묻지 마세요. 누굴 보내서 묻지도 말고요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Daniel turned his notebook around and kept one finger on the line that mattered. If Siti was right, the baseline under the target, the fee at risk and the slide on Grace's board had never been counted by anyone who'd stood on that floor, and all of them had been signed on Friday. \"How wrong is it?\" Jae-won asked. \"I'd rather show you,\" Daniel said, in a voice that Jae-won had last heard on the ninth floor in Seoul. \"Tonight.\"",
+          "ko": "대니얼이 수첩을 돌리고 중요한 줄에 손가락 하나를 올려 두었다. 시티의 말이 맞다면, 목표와 걸어 둔 수수료와 그레이스의 이사회 슬라이드 밑에 있는 기준치를 그 현장에 서 본 사람이 센 적은 한 번도 없었고, 그 모두가 금요일에 서명된 것이었다. \"얼마나 틀렸어요?\" 재원이 물었다. \"보여 드리는 게 낫겠어요.\" 대니얼이 재원이 서울 9층에서 마지막으로 들었던 목소리로 말했다. \"오늘 밤에요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I won't pretend",
+        "Here's what I can promise",
+        "Tell me where I've got this wrong"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hint at",
+          "surface": "hint at",
+          "meaningKo": "넌지시 말하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"If we hit that number, fewer hours of keying will be needed, and what happens after that isn't my decision to make or to hint at.",
+            "ko": "\"그 숫자에 도달하면 입력 시간은 줄어들 것이고, 그 뒤 일은 제가 결정하거나 넌지시 말할 일이 아닙니다."
+          }
+        },
+        {
+          "term": "memo",
+          "surface": "memo",
+          "meaningKo": "공문, 메모",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"After that, I decide, and you'll hear it from me, not from him, and not from a memo.\"",
+            "ko": "\"그 뒤는 제가 결정하고, 이분도 공문도 아니라 제 입으로 말씀드릴 겁니다.\""
+          }
+        },
+        {
+          "term": "used up",
+          "surface": "used up",
+          "meaningKo": "바닥난, 다 써 버린",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It wasn't comfort, and nobody in the room took it for comfort, but several people wrote it down on the page he'd given them, which he supposed was how trust began in places where it had been used up.",
+            "ko": "위로가 아니었고 방 안의 누구도 위로로 듣지 않았지만, 몇 사람이 그가 준 인쇄물에 그것을 적어 두었다. 신뢰가 바닥난 곳에서는 아마 그렇게 시작되는 모양이라고 그는 생각했다."
+          }
+        },
+        {
+          "term": "flatly",
+          "surface": "flatly",
+          "meaningKo": "단조롭게, 단호하게",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Your seven thousand is wrong,\" she said flatly.",
+            "ko": "\"7천 건이 틀렸어요.\" 그녀가 단조롭게 말했다."
+          }
+        },
+        {
+          "term": "whistle",
+          "surface": "whistle",
+          "meaningKo": "호각",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The canteen emptied at 2:40, when the whistle went, and it emptied without anyone appearing to hurry.",
+            "ko": "2시 40분에 호각이 울리자 구내식당이 비었는데, 아무도 서두르는 것 같지 않았다."
+          }
+        },
+        {
+          "term": "baseline",
+          "surface": "baseline",
+          "meaningKo": "기준치",
+          "paragraph": 4,
+          "sentence": {
+            "en": "If Siti was right, the baseline under the target, the fee at risk and the slide on Grace's board had never been counted by anyone who'd stood on that floor, and all of them had been signed on Friday.",
+            "ko": "시티의 말이 맞다면, 목표와 걸어 둔 수수료와 그레이스의 이사회 슬라이드 밑에 있는 기준치를 그 현장에 서 본 사람이 센 적은 한 번도 없었고, 그 모두가 금요일에 서명된 것이었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "According to Siti, why is the seven thousand wrong?",
+      "options": [
+        "Grace invented the number",
+        "Night shift's goods receipts get keyed again on days and were counted once",
+        "Port Klang's documents were added by mistake",
+        "The day shift counted them three times"
+      ],
+      "answerIndex": 1,
+      "evidence": "Night shift's goods receipts get keyed again on days, because days can't read them, and you've counted them once."
+    },
+    {
+      "question": "What does Wei Ling's gift of the boots suggest?",
+      "options": [
+        "She has agreed to sign page thirty-one",
+        "She wants him to leave Tuas",
+        "She is thanking him for his apology",
+        "She is giving him a chance to prove himself on the floor, without promising anything"
+      ],
+      "answerIndex": 3,
+      "evidence": "Night shift starts at ten, and I haven't decided about page thirty-one, so don't ask me"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I won't pretend the work stays the same.",
+      "Here's what I can promise: nothing goes live without your signature.",
+      "Tell me where I've got this wrong."
+    ],
+    "summaryPromptKo": "재원이 무엇을 약속했는지, 그레이스가 무엇을 말했는지, 시티의 말이 왜 문제인지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Wei Ling Tan",
+      "en": "You've told my people you won't pretend. So tell me directly: why should any of them help you, when helping you may cost them their jobs?",
+      "ko": "척하지 않겠다고 우리 직원들에게 말했죠. 그럼 바로 말해 보세요. 당신을 돕는 게 일자리를 잃는 일일 수도 있는데, 왜 도와야 하죠?"
+    },
+    "modelAnswer": "You have every reason to ask that, and I won't pretend I've got a perfect answer. Your people key these documents twice because the system fails them, and they know things nobody at head office knows. Here's what I can promise: if they tell me where I've got this wrong, those facts will decide the design, and nothing runs without your signature. What happens after sixteen weeks is Grace's decision, and she's said so."
+  },
+  "nextTeaserKo": "밤 10시, 투아스 창고. 재원은 치수가 맞지 않는 안전화를 신고 야간 근무조 옆에 선다. 시티가 입고 확인서를 쓰는 동안 대니얼은 숫자를 다시 센다. 7천 건은 얼마나 틀렸을까.",
+  "roleplay": {
+    "title": "구내식당의 질문",
+    "situationKo": "구내식당에 웨이링의 질문이 남아 있습니다. 할 수 없는 약속은 하지 말고, 할 수 있는 약속만 말해 보세요. 그런 다음 직원들에게 내가 틀린 곳을 물어봅니다. 정답은 없어요.",
+    "lines": [
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Seven thousand down to two thousand. How many of the sixty-four lose their jobs?",
+        "ko": "7천 건에서 2천 건이면, 64명 중 몇 명이 일자리를 잃나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I won't pretend the work stays the same. And what happens after that isn't my decision.",
+        "ko": "일이 그대로일 거라고 하는 척하지는 않겠습니다. 그리고 그 뒤 일은 제 결정이 아닙니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "That's not an answer.",
+        "ko": "그건 답이 아니에요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No. Here's what I can promise: nothing goes live without your signature, and you see every number when Grace does.",
+        "ko": "네. 제가 약속할 수 있는 것은 이렇습니다. 서명 없이는 아무것도 가동되지 않고, 그레이스가 보는 모든 숫자를 같은 때에 보시게 됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Nobody loses a job because of this during the sixteen weeks. After that, I decide, and you'll hear it from me.",
+        "ko": "16주 동안은 이 일 때문에 일자리를 잃는 사람은 없습니다. 그 뒤는 제가 결정하고, 제 입으로 말씀드리겠습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. Now, you know this floor better than I do. Tell me where I've got this wrong.",
+        "ko": "감사합니다. 이제 이 현장은 여러분이 저보다 잘 아십니다. 제가 틀린 부분을 말씀해 주세요.",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Your seven thousand is wrong. Night shift's goods receipts get keyed again on days, and you've counted them once.",
+        "ko": "7천 건이 틀렸어요. 야간조의 입고 확인서를 주간조가 다시 입력하는데, 한 번으로 세셨어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I didn't know that. Could you show me? I'll be on your night shift tonight.",
+        "ko": "그건 몰랐습니다. 보여 주실 수 있나요? 오늘 밤 야간 근무에 나가겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Night shift starts at ten. I haven't decided about page thirty-one, so don't ask me.",
+        "ko": "야간 근무는 10시에 시작해요. 31쪽은 아직 결정 안 했으니 묻지 마세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I won't. I'll see you at ten, Wei Ling.",
+        "ko": "묻지 않겠습니다. 10시에 뵙겠습니다, 웨이링.",
+        "you": true
+      }
+    ]
+  }
+}

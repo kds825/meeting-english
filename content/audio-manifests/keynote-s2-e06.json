@@ -1,0 +1,56 @@
+{
+  "episodeId": "keynote-s2-e06",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "fixed": "word-fixed.mp3",
+    "at risk": "word-at-risk.mp3",
+    "data owner": "word-data-owner.mp3",
+    "draft": "word-draft.mp3",
+    "clause": "word-clause.mp3",
+    "contract": "word-contract.mp3",
+    "pride": "word-pride.mp3",
+    "initial": "word-initial.mp3",
+    "general counsel": "word-general-counsel.mp3",
+    "tempting": "word-tempting.mp3",
+    "vandalism": "word-vandalism.mp3",
+    "personal record": "word-personal-record.mp3"
+  },
+  "termClips": {
+    "fixed": "term-fixed.mp3",
+    "at risk": "term-at-risk.mp3",
+    "data owner": "term-data-owner.mp3",
+    "draft": "term-draft.mp3",
+    "clause": "term-clause.mp3",
+    "contract": "term-contract.mp3",
+    "pride": "term-pride.mp3",
+    "initial": "term-initial.mp3",
+    "general counsel": "term-general-counsel.mp3",
+    "tempting": "term-tempting.mp3",
+    "vandalism": "term-vandalism.mp3",
+    "personal record": "term-personal-record.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

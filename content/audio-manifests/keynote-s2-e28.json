@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s2-e28",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "corridor": "word-corridor.mp3",
+    "fee": "word-fee.mp3",
+    "go to court": "word-go-to-court.mp3",
+    "lift": "word-lift.mp3",
+    "sum": "word-sum.mp3",
+    "follow around": "word-follow-around.mp3",
+    "credit": "word-credit.mp3",
+    "admission": "word-admission.mp3",
+    "retest": "word-retest.mp3",
+    "margin": "word-margin.mp3",
+    "extract": "word-extract.mp3",
+    "compose": "word-compose.mp3",
+    "liability": "word-liability.mp3",
+    "audible": "word-audible.mp3",
+    "texture": "word-texture.mp3",
+    "unfamiliar": "word-unfamiliar.mp3"
+  },
+  "termClips": {
+    "corridor": "term-corridor.mp3",
+    "fee": "term-fee.mp3",
+    "go to court": "term-go-to-court.mp3",
+    "lift": "term-lift.mp3",
+    "sum": "term-sum.mp3",
+    "follow around": "term-follow-around.mp3",
+    "credit": "term-credit.mp3",
+    "admission": "term-admission.mp3",
+    "retest": "term-retest.mp3",
+    "margin": "term-margin.mp3",
+    "extract": "term-extract.mp3",
+    "compose": "term-compose.mp3",
+    "liability": "term-liability.mp3",
+    "audible": "term-audible.mp3",
+    "texture": "term-texture.mp3",
+    "unfamiliar": "term-unfamiliar.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

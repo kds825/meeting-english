@@ -1,0 +1,65 @@
+{
+  "episodeId": "keynote-s2-e11",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "carrier": "word-carrier.mp3",
+    "margin": "word-margin.mp3",
+    "receipt": "word-receipt.mp3",
+    "pallet": "word-pallet.mp3",
+    "vendor": "word-vendor.mp3",
+    "forklift": "word-forklift.mp3",
+    "seal": "word-seal.mp3",
+    "damaged": "word-damaged.mp3",
+    "type over": "word-type-over.mp3",
+    "printout": "word-printout.mp3",
+    "crate": "word-crate.mp3",
+    "carton": "word-carton.mp3",
+    "decipher": "word-decipher.mp3",
+    "formally": "word-formally.mp3",
+    "reconcile": "word-reconcile.mp3",
+    "resent": "word-resent.mp3"
+  },
+  "termClips": {
+    "carrier": "term-carrier.mp3",
+    "margin": "term-margin.mp3",
+    "receipt": "term-receipt.mp3",
+    "pallet": "term-pallet.mp3",
+    "vendor": "term-vendor.mp3",
+    "forklift": "term-forklift.mp3",
+    "seal": "term-seal.mp3",
+    "damaged": "term-damaged.mp3",
+    "type over": "term-type-over.mp3",
+    "printout": "term-printout.mp3",
+    "crate": "term-crate.mp3",
+    "carton": "term-carton.mp3",
+    "decipher": "term-decipher.mp3",
+    "formally": "term-formally.mp3",
+    "reconcile": "term-reconcile.mp3",
+    "resent": "term-resent.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

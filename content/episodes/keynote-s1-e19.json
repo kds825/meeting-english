@@ -1,0 +1,474 @@
+{
+  "id": "keynote-s1-e19",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 19,
+  "title": "Less Is More",
+  "recapKo": "내부 리뷰에서 재원은 권 파트너와 대니얼, 헬렌의 공격을 모두 5초 안에 받아쳤고, 유나의 \"31은 어디서 나왔죠?\"에는 \"29건 확인, 2건 미확인, 화요일까지\"라고 솔직히 답했다. 하지만 프리야는 그가 공격받을 때마다 화면을 돌아본 횟수가 열네 번이라고 짚었다. \"슬라이드 30장은 숨을 곳 30개예요.\" 헬렌은 보드에 12라고 썼다.",
+  "keyExpressions": [
+    {
+      "phrase": "The priority here is ~",
+      "meaningKo": "여기서 우선순위는 ~입니다",
+      "usage": "The priority here is getting the data right, not the design."
+    },
+    {
+      "phrase": "Let's park that.",
+      "meaningKo": "그건 잠시 미뤄 둡시다.",
+      "usage": "Let's park that for now and come back to it on Friday."
+    },
+    {
+      "phrase": "That's out of scope.",
+      "meaningKo": "그건 이번 범위 밖입니다.",
+      "usage": "That's out of scope for this phase, but we can quote it separately."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 224,
+      "paragraphs": [
+        {
+          "en": "At six on Monday, thirty printed slides covered the wall of the ninth-floor room. Jae-won had tried all weekend and reached nineteen, but he could not go lower. Helen was flying to Seattle on Wednesday, so this was her last meeting.",
+          "ko": "월요일 6시, 인쇄된 슬라이드 30장이 9층 회의실 벽을 덮고 있었다. 재원은 주말 내내 줄여 봐서 19장까지 갔지만 더는 줄이지 못했다. 헬렌은 수요일에 시애틀로 떠나므로, 이번이 마지막 회의였다."
+        },
+        {
+          "en": "Daniel gave the data news first. \"The merged company is confirmed, so thirty are done and one is open,\" he said. Yuna asked about the last row, but Helen shook her head. \"Let's park that until tomorrow night,\" she said.",
+          "ko": "대니얼이 데이터 소식을 먼저 전했다. \"합병된 회사가 확인돼서 30건은 끝났고 1건이 남았어요.\" 그가 말했다. 유나가 마지막 행에 관해 물었지만 헬렌이 고개를 저었다. \"그건 내일 밤까지 미뤄 둡시다.\" 그녀가 말했다."
+        },
+        {
+          "en": "She gave them one rule: every slide must support one of the three messages, or it comes down. Then she looked at Jae-won. \"You asked me this once, so now I'm asking you. What would you cut first?\"",
+          "ko": "그녀는 규칙을 하나 주었다. 모든 슬라이드는 메시지 세 개 중 하나를 뒷받침해야 하고, 아니면 내려온다. 그러고는 재원을 바라봤다. \"전에 저한테 물었으니 이제 제가 묻죠. 무엇부터 덜어 내시겠어요?\""
+        },
+        {
+          "en": "He looked at his four methodology slides. \"Someone will ask how we chose the companies,\" he said. \"That's a nice-to-have, and we can give a one-page note to anyone who asks,\" Daniel said gently. \"The priority here is the person in row twenty,\" Helen said. He took all four down himself.",
+          "ko": "그는 방법론 슬라이드 네 장을 바라봤다. \"회사를 어떻게 골랐는지 누군가 물을 거예요.\" 그가 말했다. \"그건 있으면 좋은 정도예요. 묻는 분에게 한 장짜리 메모를 드리면 돼요.\" 대니얼이 부드럽게 말했다. \"여기서 우선순위는 20번째 줄에 앉은 사람이에요.\" 헬렌이 말했다. 그는 네 장을 직접 떼어 냈다."
+        },
+        {
+          "en": "Yuna stood in front of her two slides, one on Norim's savings and one on how Seoro works with clients. \"We have two prospects in that hall,\" she said. Jae-won took a breath. \"The second one has our logo on it, and Marcus doesn't allow that. That's out of scope.\" Yuna did not move.",
+          "ko": "유나는 자기 슬라이드 두 장 앞에 섰다. 하나는 노림의 절감액, 하나는 서로가 고객과 일하는 방식이었다. \"그 홀에 잠재 고객이 두 곳 있어요.\" 그녀가 말했다. 재원은 숨을 들이쉬었다. \"두 번째 장에는 우리 로고가 있고, 마커스는 그걸 허용하지 않아요. 그건 이번 범위 밖입니다.\" 유나는 꿈쩍도 하지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "The priority here is",
+        "Let's park that",
+        "That's out of scope"
+      ],
+      "wordCandidates": [
+        {
+          "term": "cover",
+          "surface": "covered",
+          "meaningKo": "덮다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At six on Monday, thirty printed slides covered the wall of the ninth-floor room.",
+            "ko": "월요일 6시, 인쇄된 슬라이드 30장이 9층 회의실 벽을 덮고 있었다."
+          }
+        },
+        {
+          "term": "shake one's head",
+          "surface": "shook her head",
+          "meaningKo": "고개를 젓다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Yuna asked about the last row, but Helen shook her head.",
+            "ko": "유나가 마지막 행에 관해 물었지만 헬렌이 고개를 저었다."
+          }
+        },
+        {
+          "term": "rule",
+          "surface": "one rule",
+          "meaningKo": "규칙",
+          "paragraph": 2,
+          "sentence": {
+            "en": "She gave them one rule: every slide must support one of the three messages, or it comes down.",
+            "ko": "그녀는 규칙을 하나 주었다. 모든 슬라이드는 메시지 세 개 중 하나를 뒷받침해야 하고, 아니면 내려온다."
+          }
+        },
+        {
+          "term": "methodology",
+          "surface": "methodology",
+          "meaningKo": "방법론",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He looked at his four methodology slides.",
+            "ko": "그는 방법론 슬라이드 네 장을 바라봤다."
+          }
+        },
+        {
+          "term": "gently",
+          "surface": "gently",
+          "meaningKo": "부드럽게",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"That's a nice-to-have, and we can give a one-page note to anyone who asks,\" Daniel said gently.",
+            "ko": "\"그건 있으면 좋은 정도예요. 묻는 분에게 한 장짜리 메모를 드리면 돼요.\" 대니얼이 부드럽게 말했다."
+          }
+        },
+        {
+          "term": "savings",
+          "surface": "savings",
+          "meaningKo": "절감액",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Yuna stood in front of her two slides, one on Norim's savings and one on how Seoro works with clients.",
+            "ko": "유나는 자기 슬라이드 두 장 앞에 섰다. 하나는 노림의 절감액, 하나는 서로가 고객과 일하는 방식이었다."
+          }
+        },
+        {
+          "term": "logo",
+          "surface": "logo",
+          "meaningKo": "로고",
+          "paragraph": 4,
+          "sentence": {
+            "en": "The second one has our logo on it, and Marcus doesn't allow that.",
+            "ko": "두 번째 장에는 우리 로고가 있고, 마커스는 그걸 허용하지 않아요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 356,
+      "paragraphs": [
+        {
+          "en": "At six on Monday evening, thirty printed slides were taped along the wall of the ninth-floor room. Jae-won had spent the weekend trying to get to twelve on his laptop and had stalled at nineteen, because every slide he looked at seemed to have a good reason to be there. Helen was flying to Seattle on Wednesday morning, so this was her last meeting in the room.",
+          "ko": "월요일 저녁 6시, 인쇄된 슬라이드 30장이 9층 회의실 벽을 따라 붙어 있었다. 재원은 주말 내내 노트북으로 12장까지 줄이려 했지만 19장에서 멈췄다. 살펴보는 슬라이드마다 있어야 할 그럴듯한 이유가 있는 것 같았기 때문이다. 헬렌은 수요일 아침 시애틀로 떠나므로, 이번이 그 방에서 하는 마지막 회의였다."
+        },
+        {
+          "en": "Daniel got the data update out of the way first. \"The merged company came through this afternoon, so thirty are confirmed and one is still open, which is row twenty-seven,\" he said. Yuna started to ask what happened if it stayed open, but Helen held up a hand. \"Let's park that until tomorrow night, because you've got the deadline and it won't change anything in this room,\" she said.",
+          "ko": "대니얼이 데이터 소식부터 정리했다. \"합병된 회사가 오늘 오후에 확인돼서 30건이 확정됐고 1건이 아직 미확인이에요. 27번 행이요.\" 그가 말했다. 유나가 계속 미확인이면 어떻게 되느냐고 물으려 하자 헬렌이 손을 들었다. \"그건 내일 밤까지 미뤄 둡시다. 마감도 정해졌고, 이 방에서 달라질 건 없으니까요.\" 그녀가 말했다."
+        },
+        {
+          "en": "She walked along the wall with a pen. \"There's one rule tonight: every slide has to point to one of the three messages on that board, or it comes down, whoever made it,\" she said. Then she turned to Jae-won. \"You asked me this ten days ago, so it's your turn to answer it. What would you cut first?\"",
+          "ko": "그녀가 펜을 들고 벽을 따라 걸었다. \"오늘 밤 규칙은 하나예요. 모든 슬라이드는 저 보드의 메시지 세 개 중 하나를 가리켜야 하고, 아니면 누가 만들었든 내려와요.\" 그녀가 말했다. 그러고는 재원을 돌아봤다. \"열흘 전에 저한테 물었으니 이제 당신이 답할 차례예요. 무엇부터 덜어 내시겠어요?\""
+        },
+        {
+          "en": "He looked at his four methodology slides and felt personally attacked. \"Somebody's going to ask how we selected the companies, and I'd like to have an answer on the screen,\" he said. Daniel said gently, \"That's a nice-to-have, and we can give a one-page note to anyone who asks.\" Helen tapped the wall. \"The priority here is the person in row twenty, and she doesn't care about your sampling,\" she said. He took all four down himself.",
+          "ko": "그는 자기 방법론 슬라이드 네 장을 보며 개인적으로 공격받는 기분이 들었다. \"회사를 어떻게 선정했는지 누군가 물을 텐데, 화면에 답이 있으면 좋겠어요.\" 그가 말했다. 대니얼이 부드럽게 말했다. \"그건 있으면 좋은 정도예요. 묻는 분에게 한 장짜리 메모를 드리면 돼요.\" 헬렌이 벽을 톡톡 쳤다. \"여기서 우선순위는 20번째 줄에 앉은 사람이고, 그 사람은 당신의 표본 추출에 관심이 없어요.\" 그녀가 말했다. 그는 네 장을 직접 떼어 냈다."
+        },
+        {
+          "en": "Yuna had moved to stand in front of her two slides, one on Norim's savings and one on how Seoro works with its clients. \"We've got two prospects in that hall, and I'm not giving up both of these without a fight,\" she said. Jae-won took a breath, because a month ago he wouldn't have said it. \"The second one has our logo on it, and you know Marcus's rule. That's out of scope, and I don't think it's even close.\" Yuna didn't move.",
+          "ko": "유나는 자기 슬라이드 두 장 앞으로 옮겨 가 있었다. 하나는 노림의 절감액, 하나는 서로가 고객과 일하는 방식이었다. \"그 홀에 잠재 고객이 두 곳 있으니, 이 두 장을 싸움 없이 포기하진 않을 거예요.\" 그녀가 말했다. 재원은 숨을 들이쉬었다. 한 달 전이라면 하지 않았을 말이었기 때문이다. \"두 번째 장에는 우리 로고가 있고 마커스의 규칙은 아시잖아요. 그건 이번 범위 밖이고, 고민할 것도 없어요.\" 유나는 꿈쩍도 하지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "The priority here is",
+        "Let's park that",
+        "That's out of scope"
+      ],
+      "wordCandidates": [
+        {
+          "term": "tape",
+          "surface": "taped",
+          "meaningKo": "테이프로 붙이다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At six on Monday evening, thirty printed slides were taped along the wall of the ninth-floor room.",
+            "ko": "월요일 저녁 6시, 인쇄된 슬라이드 30장이 9층 회의실 벽을 따라 붙어 있었다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stalled",
+          "meaningKo": "멈춰 서다, 진척이 없다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won had spent the weekend trying to get to twelve on his laptop and had stalled at nineteen, because every slide he looked at seemed to have a good reason to be there.",
+            "ko": "재원은 주말 내내 노트북으로 12장까지 줄이려 했지만 19장에서 멈췄다. 살펴보는 슬라이드마다 있어야 할 그럴듯한 이유가 있는 것 같았기 때문이다."
+          }
+        },
+        {
+          "term": "get out of the way",
+          "surface": "out of the way",
+          "meaningKo": "먼저 처리해 치우다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel got the data update out of the way first.",
+            "ko": "대니얼이 데이터 소식부터 정리했다."
+          }
+        },
+        {
+          "term": "come through",
+          "surface": "came through",
+          "meaningKo": "(결과·확인이) 들어오다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The merged company came through this afternoon, so thirty are confirmed and one is still open, which is row twenty-seven,\" he said.",
+            "ko": "\"합병된 회사가 오늘 오후에 확인돼서 30건이 확정됐고 1건이 아직 미확인이에요. 27번 행이요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "come down",
+          "surface": "comes down",
+          "meaningKo": "(게시물이) 내려오다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"There's one rule tonight: every slide has to point to one of the three messages on that board, or it comes down, whoever made it,\" she said.",
+            "ko": "\"오늘 밤 규칙은 하나예요. 모든 슬라이드는 저 보드의 메시지 세 개 중 하나를 가리켜야 하고, 아니면 누가 만들었든 내려와요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "personally",
+          "surface": "personally attacked",
+          "meaningKo": "개인적으로 (공격받는)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He looked at his four methodology slides and felt personally attacked.",
+            "ko": "그는 자기 방법론 슬라이드 네 장을 보며 개인적으로 공격받는 기분이 들었다."
+          }
+        },
+        {
+          "term": "sampling",
+          "surface": "sampling",
+          "meaningKo": "표본 추출",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"The priority here is the person in row twenty, and she doesn't care about your sampling,\" she said.",
+            "ko": "\"여기서 우선순위는 20번째 줄에 앉은 사람이고, 그 사람은 당신의 표본 추출에 관심이 없어요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "without a fight",
+          "surface": "without a fight",
+          "meaningKo": "싸움 없이, 순순히",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"We've got two prospects in that hall, and I'm not giving up both of these without a fight,\" she said.",
+            "ko": "\"그 홀에 잠재 고객이 두 곳 있으니, 이 두 장을 싸움 없이 포기하진 않을 거예요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 483,
+      "paragraphs": [
+        {
+          "en": "At six on Monday evening, thirty printed slides were taped along the wall of the ninth-floor room, in running order, and the place looked like the incident room in a police drama. Jae-won had spent the weekend trying to get to twelve on his laptop and had stalled at nineteen, because every slide he looked at seemed to have a defensible reason to exist. That, he was starting to suspect, was the problem. Helen was flying to Seattle on Wednesday morning, so this would be her last meeting in the room, and she had the air of someone who intended to get her money's worth.",
+          "ko": "월요일 저녁 6시, 인쇄된 슬라이드 30장이 진행 순서대로 9층 회의실 벽을 따라 붙어 있어서, 방은 형사 드라마의 수사 본부 같았다. 재원은 주말 내내 노트북으로 12장까지 줄이려 했지만 19장에서 멈췄다. 살펴보는 슬라이드마다 존재할 만한 그럴듯한 이유가 있는 것 같았다. 그게 바로 문제라는 의심이 들기 시작했다. 헬렌은 수요일 아침 시애틀로 떠나므로 이번이 그 방에서 하는 마지막 회의였고, 그녀는 본전을 뽑을 작정인 사람의 분위기를 풍겼다."
+        },
+        {
+          "en": "Daniel got the data update out of the way first. \"The merged company came through this afternoon from the acquirer's finance team, so thirty are confirmed and one's still open, which is row twenty-seven, the contact who vanished,\" he said. Yuna started to ask what the fallback was if it stayed open, but Helen held up a hand. \"Let's park that until tomorrow night, because you've got a deadline and a plan, and nothing about it changes what's on this wall,\" she said.",
+          "ko": "대니얼이 데이터 소식부터 정리했다. \"합병된 회사가 오늘 오후 인수 회사 재무팀을 통해 확인돼서 30건이 확정됐고 1건이 아직 미확인이에요. 담당자가 사라진 27번 행이요.\" 그가 말했다. 유나가 계속 미확인이면 대안이 뭐냐고 물으려 하자 헬렌이 손을 들었다. \"그건 내일 밤까지 미뤄 둡시다. 마감도 계획도 있고, 어느 쪽이든 이 벽에 있는 건 달라지지 않으니까요.\" 그녀가 말했다."
+        },
+        {
+          "en": "She walked along the wall with a pen, in no particular hurry. \"One rule tonight, and it applies to everybody, including me: every slide has to point to one of the three messages on that board, or it comes down, regardless of who made it or how long it took,\" she said. Then she turned around. \"You asked me this ten days ago, in my office, looking very brave, so now it's your turn to answer it. What would you cut first?\"",
+          "ko": "그녀는 펜을 들고 별로 서두르지 않으며 벽을 따라 걸었다. \"오늘 밤 규칙은 하나고, 저를 포함해 모두에게 적용돼요. 모든 슬라이드는 저 보드의 메시지 세 개 중 하나를 가리켜야 하고, 아니면 누가 만들었든 얼마나 걸렸든 내려와요.\" 그녀가 말했다. 그러고는 돌아섰다. \"열흘 전 제 사무실에서 아주 용감한 표정으로 저한테 물었으니, 이제 당신이 답할 차례예요. 무엇부터 덜어 내시겠어요?\""
+        },
+        {
+          "en": "He looked at his four methodology slides and felt personally attacked. \"Somebody's going to ask how we selected the companies, particularly now, and I'd like to have the answer on the screen where—\" Daniel cut across him gently. \"That's a nice-to-have, and we can give a one-page note to anyone who asks, which I'll write tonight.\" Helen tapped the wall twice. \"The priority here is the person in row twenty, who has been up since five and doesn't care about your sampling frame,\" she said. He took all four down himself, and it was less painful than he'd expected.",
+          "ko": "그는 자기 방법론 슬라이드 네 장을 보며 개인적으로 공격받는 기분이 들었다. \"회사를 어떻게 선정했는지 누군가 물을 거예요. 특히 지금은요. 그래서 화면에 답이—\" 대니얼이 부드럽게 말을 끊었다. \"그건 있으면 좋은 정도예요. 묻는 분에게 한 장짜리 메모를 드리면 되고, 제가 오늘 밤 쓸게요.\" 헬렌이 벽을 두 번 톡톡 쳤다. \"여기서 우선순위는 20번째 줄에 앉은 사람이에요. 새벽 5시부터 깨어 있었고 당신의 표본 추출 틀에는 관심이 없죠.\" 그녀가 말했다. 그는 네 장을 직접 떼어 냈고, 생각보다 덜 아팠다."
+        },
+        {
+          "en": "Yuna had by now taken up a position in front of her two slides, one on Norim's savings and one on how Seoro works with its clients. \"Before anyone gets ideas, we've got two prospects in that hall and a partner who's asking me about pipeline every Monday, so I'm not giving up both of these without a fight,\" she said. Jae-won took a breath, because a month ago he would have let this go and fixed it in a footnote. \"The second one has our logo on it, and you know what Marcus did to the last guy. That's out of scope, and frankly I don't think it's even close.\" Yuna didn't move.",
+          "ko": "유나는 이제 자기 슬라이드 두 장 앞에 진을 치고 있었다. 하나는 노림의 절감액, 하나는 서로가 고객과 일하는 방식이었다. \"혹시 누가 딴생각할까 봐 말해 두는데, 그 홀에 잠재 고객이 두 곳 있고 파트너는 월요일마다 영업 파이프라인을 물어요. 그러니 이 두 장을 싸움 없이 포기하진 않을 거예요.\" 그녀가 말했다. 재원은 숨을 들이쉬었다. 한 달 전이라면 넘어가고 각주로 때웠을 일이었다. \"두 번째 장에는 우리 로고가 있고, 마커스가 지난번 그 사람에게 어떻게 했는지 아시잖아요. 그건 이번 범위 밖이고, 솔직히 고민할 것도 없어요.\" 유나는 꿈쩍도 하지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "The priority here is",
+        "Let's park that",
+        "That's out of scope"
+      ],
+      "wordCandidates": [
+        {
+          "term": "running order",
+          "surface": "running order",
+          "meaningKo": "진행 순서",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At six on Monday evening, thirty printed slides were taped along the wall of the ninth-floor room, in running order, and the place looked like the incident room in a police drama.",
+            "ko": "월요일 저녁 6시, 인쇄된 슬라이드 30장이 진행 순서대로 9층 회의실 벽을 따라 붙어 있어서, 방은 형사 드라마의 수사 본부 같았다."
+          }
+        },
+        {
+          "term": "defensible",
+          "surface": "defensible",
+          "meaningKo": "옹호할 만한, 그럴듯한",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won had spent the weekend trying to get to twelve on his laptop and had stalled at nineteen, because every slide he looked at seemed to have a defensible reason to exist.",
+            "ko": "재원은 주말 내내 노트북으로 12장까지 줄이려 했지만 19장에서 멈췄다. 살펴보는 슬라이드마다 존재할 만한 그럴듯한 이유가 있는 것 같았기 때문이다."
+          }
+        },
+        {
+          "term": "get one's money's worth",
+          "surface": "get her money's worth",
+          "meaningKo": "본전을 뽑다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Helen was flying to Seattle on Wednesday morning, so this would be her last meeting in the room, and she had the air of someone who intended to get her money's worth.",
+            "ko": "헬렌은 수요일 아침 시애틀로 떠나므로 이번이 그 방에서 하는 마지막 회의였고, 그녀는 본전을 뽑을 작정인 사람의 분위기를 풍겼다."
+          }
+        },
+        {
+          "term": "acquirer",
+          "surface": "acquirer",
+          "meaningKo": "인수 회사",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The merged company came through this afternoon from the acquirer's finance team, so thirty are confirmed and one's still open, which is row twenty-seven, the contact who vanished,\" he said.",
+            "ko": "\"합병된 회사가 오늘 오후 인수 회사 재무팀을 통해 확인돼서 30건이 확정됐고 1건이 아직 미확인이에요. 담당자가 사라진 27번 행이요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "fallback",
+          "surface": "fallback",
+          "meaningKo": "대안, 차선책",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Yuna started to ask what the fallback was if it stayed open, but Helen held up a hand.",
+            "ko": "유나가 계속 미확인이면 대안이 뭐냐고 물으려 하자 헬렌이 손을 들었다."
+          }
+        },
+        {
+          "term": "cut across",
+          "surface": "cut across him",
+          "meaningKo": "(남의 말을) 끊다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Somebody's going to ask how we selected the companies, particularly now, and I'd like to have the answer on the screen where—\" Daniel cut across him gently.",
+            "ko": "\"회사를 어떻게 선정했는지 누군가 물을 거예요. 특히 지금은요. 그래서 화면에 답이—\" 대니얼이 부드럽게 말을 끊었다."
+          }
+        },
+        {
+          "term": "sampling frame",
+          "surface": "sampling frame",
+          "meaningKo": "표본 추출 틀",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"The priority here is the person in row twenty, who has been up since five and doesn't care about your sampling frame,\" she said.",
+            "ko": "\"여기서 우선순위는 20번째 줄에 앉은 사람이에요. 새벽 5시부터 깨어 있었고 당신의 표본 추출 틀에는 관심이 없죠.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "pipeline",
+          "surface": "pipeline",
+          "meaningKo": "영업 파이프라인, 잠재 거래 현황",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Before anyone gets ideas, we've got two prospects in that hall and a partner who's asking me about pipeline every Monday, so I'm not giving up both of these without a fight,\" she said.",
+            "ko": "\"혹시 누가 딴생각할까 봐 말해 두는데, 그 홀에 잠재 고객이 두 곳 있고 파트너는 월요일마다 영업 파이프라인을 물어요. 그러니 이 두 장을 싸움 없이 포기하진 않을 거예요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many of his methodology slides did Jae-won take down?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "All four"
+      ],
+      "answerIndex": 3,
+      "evidence": "He took all four down himself."
+    },
+    {
+      "question": "Why does Helen say \"You asked me this ten days ago, so it's your turn to answer it\"?",
+      "options": [
+        "She has forgotten what he asked her.",
+        "She is turning his own question back on him so that he must cut his own favorite slides.",
+        "She wants him to stop asking her questions before she leaves.",
+        "She thinks ten days is too long to have kept the slides."
+      ],
+      "answerIndex": 1,
+      "evidence": "\"You asked me this ten days ago, so it's your turn to answer it. What would you cut first?\""
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let's park that until tomorrow night.",
+      "The priority here is the person in row twenty.",
+      "That's out of scope, and I don't think it's even close."
+    ],
+    "summaryPromptKo": "헬렌이 어떤 규칙을 세웠는지, 재원이 자기 슬라이드를 어떻게 했는지, 유나에게 무슨 말을 했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "You asked me this ten days ago, so it's your turn to answer it. What would you cut first?",
+      "ko": "열흘 전에 저한테 물었으니 이제 당신이 답할 차례예요. 무엇부터 덜어 내시겠어요?"
+    },
+    "modelAnswer": "The priority here is the person in row twenty, so I'd cut my own methodology first. All four slides come down, and Daniel can write a one-page note for anyone who asks. Then I'd look at Yuna's second slide. It has our logo on it, and you know Marcus's rule, so that's out of scope. The last row can wait, so let's park that until tomorrow night."
+  },
+  "nextTeaserKo": "유나는 이대로 물러설까. 노림의 200만 달러를 두고 두 사람은 어떤 거래를 하게 될까. 벽에는 아직 너무 많은 장이 남아 있고, 이틀 걸려 만든 대니얼의 차트 차례가 다가온다.",
+  "roleplay": {
+    "title": "무엇부터 뗄 것인가",
+    "situationKo": "벽에 슬라이드 30장이 붙은 월요일 저녁입니다. 내가 재원이 되어 내 슬라이드와 유나의 슬라이드를 두고 이야기해 봅니다. 정답은 없으니 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Quick update. The merged company came through, so thirty are confirmed and one is open. Row twenty-seven.",
+        "ko": "간단히 보고할게요. 합병된 회사가 확인돼서 30건 확인, 1건 미확인입니다. 27번 행이에요."
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "And what happens if it stays open?",
+        "ko": "그게 계속 미확인이면 어떻게 되죠?"
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Let's park that until tomorrow night. One rule tonight: every slide points to one of the three messages, or it comes down. Jae-won, what would you cut first?",
+        "ko": "그건 내일 밤까지 미뤄 둡시다. 오늘 규칙은 하나예요. 모든 슬라이드는 메시지 셋 중 하나를 가리켜야 하고, 아니면 떼어 냅니다. 재원 씨, 뭘 먼저 자르겠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Somebody's going to ask how we selected the companies. I'd like to have an answer on the screen.",
+        "ko": "누군가는 회사를 어떻게 골랐는지 물을 겁니다. 화면에 답을 띄워 두고 싶어요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "That's a nice-to-have. We can give a one-page note to anyone who asks.",
+        "ko": "그건 있으면 좋은 정도예요. 묻는 분께는 한 장짜리 메모를 드리면 됩니다."
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Think about the person in row twenty. Does she care about your sampling?",
+        "ko": "스무 번째 줄에 앉은 사람을 생각해 봐요. 그 사람이 표본 추출에 관심이 있을까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, she doesn't. The priority here is her, so all four methodology slides come down.",
+        "ko": "아니요, 없겠죠. 여기서 우선순위는 그분이니, 방법론 슬라이드 네 장은 모두 뗍니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "We've got two prospects in that hall. I'm not giving up both of these without a fight.",
+        "ko": "그 홀에 잠재 고객이 두 곳이나 와요. 이 두 장을 싸움도 없이 내줄 순 없어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The second one has our logo on it, and you know Marcus's rule. That's out of scope.",
+        "ko": "두 번째 장에는 우리 로고가 있고, 마커스의 규칙은 아시잖아요. 그건 이번 범위 밖입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Out of scope? Is it really that clear to you?",
+        "ko": "범위 밖이요? 정말 그렇게 분명한가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Yes. I don't think it's even close.",
+        "ko": "네. 고민할 것도 없다고 봅니다.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "We're not done with these two slides.",
+        "ko": "이 두 장 이야기는 아직 안 끝났어요."
+      }
+    ]
+  }
+}

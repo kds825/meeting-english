@@ -1,0 +1,406 @@
+{
+  "id": "keynote-s2-e11",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 11,
+  "title": "The Floor",
+  "recapKo": "재원은 할 수 없는 약속은 하지 않았다. 서명 없이는 가동하지 않고, 그레이스가 보는 숫자를 웨이링도 같은 때에 보며, 오늘 밤부터 야간 근무에 나오겠다고만 했다. 그레이스는 16주 동안은 해고가 없다고 말했고, 시티는 7천 건이 틀렸다고 했다. 대니얼은 \"오늘 밤 보여 드리겠다\"고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Can you show me how ~?",
+      "meaningKo": "~이 어떻게 돌아가는지 보여 주시겠어요?",
+      "usage": "Can you show me how you handle a late shipment?"
+    },
+    {
+      "phrase": "What happens when ~?",
+      "meaningKo": "~할 때는 어떻게 되나요?",
+      "usage": "What happens when the system goes down during a shift?"
+    },
+    {
+      "phrase": "How often does ~?",
+      "meaningKo": "~이 얼마나 자주 일어나나요?",
+      "usage": "How often does that report get corrected by hand?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 220,
+      "paragraphs": [
+        {
+          "en": "At ten that night, Jae-won stood on Dock Six at Tuas in boots one size too small. \"Can you show me how this works?\" he asked Siti as a truck backed in. She wrote the carrier, the container number and the count by hand.",
+          "ko": "그날 밤 10시, 재원은 한 치수 작은 안전화를 신고 투아스 6번 도크에 서 있었다. \"이게 어떻게 돌아가는지 보여 주시겠어요?\" 트럭이 후진해 들어올 때 그가 시티에게 물었다. 그녀는 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+        },
+        {
+          "en": "\"What happens when the count is short?\" he asked. She pointed to three letters and a number in the margin. \"That's my code,\" she said. \"The system has no box for it, so head office never sees it.\"",
+          "ko": "\"수량이 모자랄 때는 어떻게 되나요?\" 그가 물었다. 그녀가 여백에 적힌 글자 셋과 숫자 하나를 가리켰다. \"제 코드예요.\" 그녀가 말했다. \"시스템에 그걸 넣을 칸이 없어서 본사는 절대 못 봐요.\""
+        },
+        {
+          "en": "At three, she keyed the night's receipts upstairs and left the forms in a tray. \"How often does the day shift key them again?\" he asked. \"Every morning,\" she said, \"because they can't read my sevens.\" \"You key it and they key it again, so tell me where I've got this wrong,\" he said.",
+          "ko": "새벽 3시, 그녀는 위층에서 그날 밤의 확인서를 입력하고 양식을 트레이에 두었다. \"주간조가 이걸 다시 입력하는 일이 얼마나 자주 있나요?\" 그가 물었다. \"매일 아침이요.\" 그녀가 말했다. \"제 7자를 못 읽거든요.\" \"직접 입력하고 주간조가 또 입력하는 거군요. 제가 틀린 부분을 말씀해 주세요.\" 그가 말했다."
+        },
+        {
+          "en": "Daniel spread the system printouts on a pallet. One carrier was spelled eleven ways, and the dates came in three formats. Wei Ling stopped and read for a minute with a flashlight. \"You wanted my data,\" she said, and she walked on.",
+          "ko": "대니얼이 시스템 출력물을 팔레트 위에 펼쳤다. 운송사 하나가 열한 가지 철자로 적혀 있었고, 날짜 형식은 세 가지였다. 웨이링이 멈춰 서서 손전등으로 잠시 읽었다. \"제 데이터를 원하셨죠.\" 그녀는 그렇게 말하고 걸어갔다."
+        },
+        {
+          "en": "By 4:30, Daniel had counted eighty receipts from that one night. He had also found head office's neat data pack, going to six vendors on Thursday. \"I have the number, and I have something worse,\" he said. \"Which do you want first?\"",
+          "ko": "4시 30분쯤 대니얼은 그날 밤 한 번의 확인서 80장을 다 세었다. 그는 목요일에 공급업체 6곳으로 나갈 본사의 깔끔한 데이터 묶음도 찾아냈다. \"숫자도 나왔고, 더 나쁜 것도 있어요.\" 그가 말했다. \"뭐부터 들으실래요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can you show me how",
+        "What happens when",
+        "How often does"
+      ],
+      "wordCandidates": [
+        {
+          "term": "carrier",
+          "surface": "carrier",
+          "meaningKo": "운송사",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She wrote the carrier, the container number and the count by hand.",
+            "ko": "그녀는 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margin",
+          "meaningKo": "여백",
+          "paragraph": 1,
+          "sentence": {
+            "en": "She pointed to three letters and a number in the margin.",
+            "ko": "그녀가 여백에 적힌 글자 셋과 숫자 하나를 가리켰다."
+          }
+        },
+        {
+          "term": "receipt",
+          "surface": "receipts",
+          "meaningKo": "확인서, 영수증",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At three, she keyed the night's receipts upstairs and left the forms in a tray.",
+            "ko": "새벽 3시, 그녀는 위층에서 그날 밤의 확인서를 입력하고 양식을 트레이에 두었다."
+          }
+        },
+        {
+          "term": "pallet",
+          "surface": "pallet",
+          "meaningKo": "팔레트, 화물 받침대",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel spread the system printouts on a pallet.",
+            "ko": "대니얼이 시스템 출력물을 팔레트 위에 펼쳤다."
+          }
+        },
+        {
+          "term": "vendor",
+          "surface": "vendors",
+          "meaningKo": "공급업체",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He had also found head office's neat data pack, going to six vendors on Thursday.",
+            "ko": "그는 목요일에 공급업체 6곳으로 나갈 본사의 깔끔한 데이터 묶음도 찾아냈다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 345,
+      "paragraphs": [
+        {
+          "en": "At ten that night, Jae-won stood on Dock Six at Tuas in boots one size too small, trying to stay out of the way of a forklift. Containers came in at night because the port released them late. As the first truck backed in, he asked Siti, \"Can you show me how this works?\" She checked the seal, then wrote down the carrier, the container number and the carton count by hand, with the form flat against a stack of boxes.",
+          "ko": "그날 밤 10시, 재원은 한 치수 작은 안전화를 신고 투아스 6번 도크에서 지게차를 피해 서 있었다. 항구에서 늦게 내주기 때문에 컨테이너는 밤에 들어왔다. 첫 트럭이 후진해 들어올 때 그가 시티에게 물었다. \"이게 어떻게 돌아가는지 보여 주시겠어요?\" 그녀는 봉인을 확인한 뒤, 양식을 상자 더미에 대고 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+        },
+        {
+          "en": "He asked, \"What happens when the count is short?\" She pointed to three letters and a number in the margin. \"That's my code, for short, damaged or wrong label,\" she said. \"The system has no box for it, so head office never sees it.\" Only three other people could read it, she added, and one of them was retiring next year.",
+          "ko": "그가 물었다. \"수량이 모자랄 때는 어떻게 되나요?\" 그녀가 여백에 적힌 글자 셋과 숫자 하나를 가리켰다. \"제 코드예요. 부족, 파손, 라벨 오류를 뜻하죠.\" 그녀가 말했다. \"시스템에 그걸 넣을 칸이 없어서 본사는 절대 못 봐요.\" 그걸 읽을 줄 아는 사람은 세 명뿐이고, 그중 한 명은 내년에 은퇴한다고 그녀가 덧붙였다."
+        },
+        {
+          "en": "At three in the morning, on her break, she keyed the night's receipts at the one terminal upstairs and left the forms in a tray for the day shift. He asked, \"How often does the day shift key them again?\" \"Every morning,\" she said, \"because they can't read my sevens, so they call the carrier or guess and then type the whole form over.\" \"You key it and they key it again, so tell me where I've got this wrong,\" he said.",
+          "ko": "새벽 3시, 그녀는 쉬는 시간에 위층에 하나뿐인 단말기에서 그날 밤의 확인서를 입력하고 양식을 주간조용 트레이에 두었다. 그가 물었다. \"주간조가 이걸 다시 입력하는 일이 얼마나 자주 있나요?\" \"매일 아침이요.\" 그녀가 말했다. \"제 7자를 못 읽어서 운송사에 전화하거나 짐작한 다음 양식 전체를 다시 쳐요.\" \"직접 입력하고 주간조가 또 입력하는 거군요. 제가 틀린 부분을 말씀해 주세요.\" 그가 말했다."
+        },
+        {
+          "en": "Daniel spread the system printouts on a pallet under the dock lights. One carrier was spelled eleven ways, and the dates came in three formats. Jae-won asked, \"What's the must-have here, if you could fix only one thing?\" \"A form that fits the job,\" Siti said. Wei Ling stopped and read for a minute with a flashlight. \"You wanted my data,\" she said, and she walked on.",
+          "ko": "대니얼이 도크 조명 아래 시스템 출력물을 팔레트 위에 펼쳤다. 운송사 하나가 열한 가지 철자로 적혀 있었고, 날짜 형식은 세 가지였다. 재원이 물었다. \"하나만 고칠 수 있다면 꼭 필요한 건 뭔가요?\" \"일에 맞는 양식이요.\" 시티가 말했다. 웨이링이 멈춰 서서 손전등으로 잠시 읽었다. \"제 데이터를 원하셨죠.\" 그녀는 그렇게 말하고 걸어갔다."
+        },
+        {
+          "en": "By 4:30, Daniel had counted eighty receipts from that one night, and he was sitting on an upturned crate. He had also found a neat file from head office, the data pack going to six vendors on Thursday. \"I have the number, and I have something worse,\" he said. \"Which do you want first?\"",
+          "ko": "4시 30분쯤 대니얼은 그날 밤 한 번의 확인서 80장을 다 세고, 뒤집은 나무 상자에 앉아 있었다. 그는 본사에서 온 깔끔한 파일도 찾아냈다. 목요일에 공급업체 6곳으로 나갈 데이터 묶음이었다. \"숫자도 나왔고, 더 나쁜 것도 있어요.\" 그가 말했다. \"뭐부터 들으실래요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can you show me how",
+        "What happens when",
+        "How often does"
+      ],
+      "wordCandidates": [
+        {
+          "term": "forklift",
+          "surface": "forklift",
+          "meaningKo": "지게차",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At ten that night, Jae-won stood on Dock Six at Tuas in boots one size too small, trying to stay out of the way of a forklift.",
+            "ko": "그날 밤 10시, 재원은 한 치수 작은 안전화를 신고 투아스 6번 도크에서 지게차를 피해 서 있었다."
+          }
+        },
+        {
+          "term": "seal",
+          "surface": "seal",
+          "meaningKo": "(컨테이너) 봉인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She checked the seal, then wrote down the carrier, the container number and the carton count by hand, with the form flat against a stack of boxes.",
+            "ko": "그녀는 봉인을 확인한 뒤, 양식을 상자 더미에 대고 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+          }
+        },
+        {
+          "term": "damaged",
+          "surface": "damaged",
+          "meaningKo": "파손된",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That's my code, for short, damaged or wrong label,\" she said.",
+            "ko": "\"제 코드예요. 부족, 파손, 라벨 오류를 뜻하죠.\""
+          }
+        },
+        {
+          "term": "type over",
+          "surface": "type the whole form over",
+          "meaningKo": "처음부터 다시 입력하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Every morning,\" she said, \"because they can't read my sevens, so they call the carrier or guess and then type the whole form over.\"",
+            "ko": "\"매일 아침이요.\" 그녀가 말했다. \"제 7자를 못 읽어서 운송사에 전화하거나 짐작한 다음 양식 전체를 다시 쳐요.\""
+          }
+        },
+        {
+          "term": "printout",
+          "surface": "printouts",
+          "meaningKo": "출력물",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel spread the system printouts on a pallet under the dock lights.",
+            "ko": "대니얼이 도크 조명 아래 시스템 출력물을 팔레트 위에 펼쳤다."
+          }
+        },
+        {
+          "term": "crate",
+          "surface": "crate",
+          "meaningKo": "나무 상자",
+          "paragraph": 4,
+          "sentence": {
+            "en": "By 4:30, Daniel had counted eighty receipts from that one night, and he was sitting on an upturned crate.",
+            "ko": "4시 30분쯤 대니얼은 그날 밤 한 번의 확인서 80장을 다 세고, 뒤집은 나무 상자에 앉아 있었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 457,
+      "paragraphs": [
+        {
+          "en": "At ten that night, Jae-won stood on Dock Six at Tuas in boots one size too small, trying to stay out of the way of a forklift whose driver had clearly been told nothing about him. Containers came in at night because the port released them late. \"Can you show me how this works?\" he asked Siti as the first truck backed in, keeping his own pen in his pocket, because nobody talks freely to a man taking notes. She checked the seal, then wrote down the carrier, the container number and the carton count by hand, with the form flat against a stack of boxes.",
+          "ko": "그날 밤 10시, 재원은 한 치수 작은 안전화를 신고 투아스 6번 도크에서 지게차를 피해 서 있었다. 운전자는 그에 대해 아무 말도 듣지 못한 게 분명했다. 항구에서 늦게 내주기 때문에 컨테이너는 밤에 들어왔다. \"이게 어떻게 돌아가는지 보여 주시겠어요?\" 첫 트럭이 후진해 들어올 때 그가 시티에게 물었다. 메모하는 사람 앞에서는 아무도 편하게 말하지 않으니 자기 펜은 주머니에 넣어 두었다. 그녀는 봉인을 확인한 뒤, 양식을 상자 더미에 대고 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+        },
+        {
+          "en": "He asked, \"What happens when the count is short?\" She pointed to three letters and a number in the margin. \"That's my code, for short, damaged or wrong label,\" she said. \"The system has no box for it, so head office never sees it.\" Only three other people could decipher it, she added, and one of them was retiring next year and had declined, more than once, to write anything down.",
+          "ko": "그가 물었다. \"수량이 모자랄 때는 어떻게 되나요?\" 그녀가 여백에 적힌 글자 셋과 숫자 하나를 가리켰다. \"제 코드예요. 부족, 파손, 라벨 오류를 뜻하죠.\" 그녀가 말했다. \"시스템에 그걸 넣을 칸이 없어서 본사는 절대 못 봐요.\" 그걸 해독할 줄 아는 사람은 세 명뿐이고, 그중 한 명은 내년에 은퇴하는데 무엇이든 적어 두라는 부탁을 여러 번 거절했다고 그녀가 덧붙였다."
+        },
+        {
+          "en": "At three in the morning, on a break nobody had ever formally granted her, she keyed the night's receipts at the one terminal upstairs and left the forms in a tray for the day shift. He asked, \"How often does the day shift key them again?\" \"Every morning,\" she said, \"because they can't read my sevens, so they call the carrier or guess and then type the whole form over, since the screen won't let them correct one line.\" \"You key it and they key it again, so tell me where I've got this wrong,\" he said. She shook her head and told him that he was merely the first one to stay until three.",
+          "ko": "새벽 3시, 아무도 공식적으로 허락한 적 없는 쉬는 시간에, 그녀는 위층에 하나뿐인 단말기에서 그날 밤의 확인서를 입력하고 양식을 주간조용 트레이에 두었다. 그가 물었다. \"주간조가 이걸 다시 입력하는 일이 얼마나 자주 있나요?\" \"매일 아침이요.\" 그녀가 말했다. \"제 7자를 못 읽어서 운송사에 전화하거나 짐작한 다음 양식 전체를 다시 쳐요. 화면에서 한 줄만 고칠 수가 없거든요.\" \"직접 입력하고 주간조가 또 입력하는 거군요. 제가 틀린 부분을 말씀해 주세요.\" 그가 말했다. 그녀는 고개를 젓더니, 3시까지 남아 있는 사람이 처음일 뿐이라고 했다."
+        },
+        {
+          "en": "Daniel spread the system printouts on a pallet under the dock lights. One carrier was spelled eleven ways, and the dates came in three formats, which meant that somebody had been quietly reconciling all of this from memory. \"What's the must-have here, if you could fix only one thing?\" Jae-won asked. \"A form that fits the job,\" Siti said, as though he had asked what water was for. Wei Ling read for a minute with a flashlight, tapped the worst page once with her finger, and said, \"You wanted my data,\" before she walked on.",
+          "ko": "대니얼이 도크 조명 아래 시스템 출력물을 팔레트 위에 펼쳤다. 운송사 하나가 열한 가지 철자로 적혀 있었고 날짜 형식은 세 가지였는데, 그렇다면 누군가가 이 모든 것을 기억에 의지해 조용히 맞춰 왔다는 뜻이었다. \"하나만 고칠 수 있다면 꼭 필요한 건 뭔가요?\" 재원이 물었다. \"일에 맞는 양식이요.\" 시티가 물은 왜 마시느냐는 질문을 받은 사람처럼 말했다. 웨이링은 손전등으로 잠시 읽더니 가장 심한 장을 손가락으로 한 번 두드리고, \"제 데이터를 원하셨죠.\"라고 말한 뒤 걸어갔다."
+        },
+        {
+          "en": "By 4:30, Daniel had counted eighty receipts from that one night, and he was sitting on an upturned crate with the expression of someone who has checked his arithmetic twice and resented it both times. He had also found a neat file from head office, the data pack going to six vendors on Thursday. \"I have the number, and I have something worse,\" he said. \"Which do you want first?\"",
+          "ko": "4시 30분쯤 대니얼은 그날 밤 한 번의 확인서 80장을 다 세고, 뒤집은 나무 상자에 앉아 있었다. 계산을 두 번 확인하고 두 번 다 언짢아진 사람의 표정이었다. 그는 본사에서 온 깔끔한 파일도 찾아냈다. 목요일에 공급업체 6곳으로 나갈 데이터 묶음이었다. \"숫자도 나왔고, 더 나쁜 것도 있어요.\" 그가 말했다. \"뭐부터 들으실래요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can you show me how",
+        "What happens when",
+        "How often does"
+      ],
+      "wordCandidates": [
+        {
+          "term": "carton",
+          "surface": "carton",
+          "meaningKo": "판지 상자",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She checked the seal, then wrote down the carrier, the container number and the carton count by hand, with the form flat against a stack of boxes.",
+            "ko": "그녀는 봉인을 확인한 뒤, 양식을 상자 더미에 대고 운송사, 컨테이너 번호, 상자 수를 손으로 적었다."
+          }
+        },
+        {
+          "term": "decipher",
+          "surface": "decipher",
+          "meaningKo": "해독하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Only three other people could decipher it, she added, and one of them was retiring next year and had declined, more than once, to write anything down.",
+            "ko": "그걸 해독할 줄 아는 사람은 세 명뿐이고, 그중 한 명은 내년에 은퇴하는데 무엇이든 적어 두라는 부탁을 여러 번 거절했다고 그녀가 덧붙였다."
+          }
+        },
+        {
+          "term": "formally",
+          "surface": "formally",
+          "meaningKo": "공식적으로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "At three in the morning, on a break nobody had ever formally granted her, she keyed the night's receipts at the one terminal upstairs and left the forms in a tray for the day shift.",
+            "ko": "새벽 3시, 아무도 공식적으로 허락한 적 없는 쉬는 시간에, 그녀는 위층에 하나뿐인 단말기에서 그날 밤의 확인서를 입력하고 양식을 주간조용 트레이에 두었다."
+          }
+        },
+        {
+          "term": "reconcile",
+          "surface": "reconciling",
+          "meaningKo": "(서로 다른 기록을) 맞추다, 대조하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "One carrier was spelled eleven ways, and the dates came in three formats, which meant that somebody had been quietly reconciling all of this from memory.",
+            "ko": "운송사 하나가 열한 가지 철자로 적혀 있었고 날짜 형식은 세 가지였는데, 그렇다면 누군가가 이 모든 것을 기억에 의지해 조용히 맞춰 왔다는 뜻이었다."
+          }
+        },
+        {
+          "term": "resent",
+          "surface": "resented",
+          "meaningKo": "언짢아하다, 못마땅해하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "By 4:30, Daniel had counted eighty receipts from that one night, and he was sitting on an upturned crate with the expression of someone who has checked his arithmetic twice and resented it both times.",
+            "ko": "4시 30분쯤 대니얼은 그날 밤 한 번의 확인서 80장을 다 세고, 뒤집은 나무 상자에 앉아 있었다. 계산을 두 번 확인하고 두 번 다 언짢아진 사람의 표정이었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Daniel find in the system printouts?",
+      "options": [
+        "Every date was in the same format",
+        "One carrier was spelled eleven ways",
+        "Six vendors had already replied",
+        "The night shift had keyed nothing"
+      ],
+      "answerIndex": 1,
+      "evidence": "One carrier was spelled eleven ways, and the dates came in three formats"
+    },
+    {
+      "question": "What does Siti's margin code suggest about the system's records?",
+      "options": [
+        "They are more complete than the paper forms",
+        "Head office has already reviewed the code",
+        "Important facts about shipments never reach the records",
+        "The code will soon be added to a screen"
+      ],
+      "answerIndex": 2,
+      "evidence": "The system has no box for it, so head office never sees it."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Can you show me how this works?",
+      "What happens when the count is short?",
+      "How often does the day shift key them again?"
+    ],
+    "summaryPromptKo": "시티가 야간에 입고 확인서를 어떻게 처리하는지, 주간조가 왜 다시 입력하는지, 대니얼이 무엇을 찾았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Siti",
+      "en": "You've watched one night. So what do you think you've learned that head office doesn't know?",
+      "ko": "하룻밤 봤잖아요. 본사가 모르는 걸 뭘 알게 됐다고 생각해요?"
+    },
+    "modelAnswer": "One night isn't much, so tell me where I've got this wrong. You write each receipt by hand, you key it at three, and the day shift keys it again because they can't read it. Your margin code holds the facts that matter, and the system has no box for it. So head office thinks it's looking at the work, but it's only looking at what fits on the screen."
+  },
+  "nextTeaserKo": "새벽 4시 30분, 뒤집은 상자에 앉은 대니얼. 하룻밤 80장을 한 달로 곱하면 7천 건은 얼마가 될까. 그리고 본사의 깔끔한 데이터 묶음에는 무엇이 잘못되어 있을까.",
+  "roleplay": {
+    "title": "6번 도크의 밤",
+    "situationKo": "밤 10시, 야간 근무조 옆에 섰습니다. 설명하려 하지 말고 시티의 일을 물어보기만 하면 돼요. 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Stay behind the yellow line. This truck's the first of the night.",
+        "ko": "노란 선 뒤에 계세요. 이 트럭이 오늘 밤 첫 번째예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thanks. Can you show me how this works, from the moment it backs in?",
+        "ko": "고맙습니다. 후진해 들어오는 순간부터 어떻게 돌아가는지 보여 주시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Watch. Seal, carrier, container number, carton count. All by hand.",
+        "ko": "보세요. 봉인, 운송사, 컨테이너 번호, 상자 수. 전부 손으로요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What happens when the count is short?",
+        "ko": "수량이 모자랄 때는 어떻게 되나요?",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "I write it in the margin. Three letters and a number. It's my code. The system has no box for it.",
+        "ko": "여백에 적어요. 글자 셋에 숫자 하나. 제 코드예요. 시스템에 칸이 없거든요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So head office never sees it. And you key the form yourself later?",
+        "ko": "그럼 본사는 절대 못 보겠네요. 양식은 나중에 직접 입력하시고요?",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "At three, on my break. Then the paper goes in the tray for days.",
+        "ko": "3시에 쉬는 시간에요. 그다음 종이는 주간조 트레이로 가요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "How often does the day shift key them again?",
+        "ko": "주간조가 이걸 다시 입력하는 일이 얼마나 자주 있나요?",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Every morning. They can't read my sevens.",
+        "ko": "매일 아침이요. 제 7자를 못 읽거든요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So you write it, you key it, and they key it again. Tell me where I've got this wrong.",
+        "ko": "그러니까 직접 쓰고, 입력하고, 주간조가 또 입력하는 거군요. 제가 틀린 부분을 말씀해 주세요.",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "You haven't. Now mind the forklift.",
+        "ko": "안 틀렸어요. 이제 지게차나 조심하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I'll be back tomorrow night, if that's all right with you.",
+        "ko": "그럼 괜찮으시다면 내일 밤에도 오겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

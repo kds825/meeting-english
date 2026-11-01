@@ -1,0 +1,444 @@
+{
+  "id": "keynote-s1-e09",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 9,
+  "title": "Silence",
+  "recapKo": "금요일 아침 헬렌은 재원의 초안을 \"아주 좋은 보고서\"라고 평하며, 30분 분량이고 핵심 숫자는 11분에야 나오고 한미래는 각주에 묻혀 있다고 지적했다. 그리고 온갖 단서는 질문이 두려워 쌓은 벙커라고 짚었다. 그날 위원회는 3대 2로 재원을 승인했고, 월요일 저녁 동료 12명 앞 첫 리허설이 잡혔다.",
+  "keyExpressions": [
+    {
+      "phrase": "Let me think about that for a second.",
+      "meaningKo": "잠깐 생각해 볼게요.",
+      "usage": "Let me think about that for a second, because I want to get it right."
+    },
+    {
+      "phrase": "Bear with me.",
+      "meaningKo": "잠시만 기다려 주세요.",
+      "usage": "Bear with me, I'm just pulling up the numbers."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 213,
+      "paragraphs": [
+        {
+          "en": "On Saturday, Jae-won called Han Mi-rae at Norim and asked to use her story. \"Let me think about that for a second,\" she said. She was silent for a long time, and then she said, \"Use my name, but tell them I was right.\" He rewrote the talk all weekend and cut it to thirty slides.",
+          "ko": "토요일에 재원은 노림의 한미래에게 전화해 그녀의 이야기를 쓰게 해 달라고 부탁했다. \"잠깐 생각해 볼게요.\" 그녀가 말했다. 그녀는 한참 말이 없다가 입을 열었다. \"제 이름을 쓰세요. 하지만 제가 옳았다고 꼭 말해 주세요.\" 그는 주말 내내 발표를 다시 써서 슬라이드 30장으로 줄였다."
+        },
+        {
+          "en": "On Monday at six, twelve colleagues sat in the boardroom on the fourteenth floor. Helen sat in the back row, and Daniel held a timer. Jae-won stood up and began with a woman at a kitchen table, checking numbers at eleven at night.",
+          "ko": "월요일 6시, 동료 12명이 14층 회의실에 앉았다. 헬렌은 뒷줄에 앉았고 대니얼은 타이머를 들었다. 재원은 일어서서 밤 11시에 식탁에서 숫자를 확인하는 한 여성의 이야기로 시작했다."
+        },
+        {
+          "en": "It went better than he expected. People looked up when he said \"thirty-one out of forty-two.\" He finished in about twenty-two minutes, and Daniel gave him a small smile.",
+          "ko": "예상보다 잘 풀렸다. 그가 \"42곳 중 31곳\"이라고 말하자 사람들이 고개를 들었다. 그는 약 22분 만에 끝냈고, 대니얼이 살짝 웃어 주었다."
+        },
+        {
+          "en": "Helen stood up and said, \"Bear with me, everyone. Now we do the five minutes of questions, just like Singapore.\" Yuna raised her hand first and asked in simple, friendly English, \"Of those thirty-one companies, how many were our own clients?\"",
+          "ko": "헬렌이 일어나 말했다. \"잠시만 기다려 주세요, 여러분. 이제 싱가포르처럼 5분 질문 시간을 해 봅시다.\" 유나가 가장 먼저 손을 들고 쉽고 친근한 영어로 물었다. \"그 31개 회사 중 우리 고객이 몇 곳이었나요?\""
+        },
+        {
+          "en": "It was an easy question, and he knew the answer: nine. But he also knew what it meant, because nine of those failures belonged to Seoro. He began to build an answer in his head, and his mouth stayed closed. The room grew quiet.",
+          "ko": "쉬운 질문이었고 그는 답을 알았다. 아홉 곳. 하지만 그 뜻도 알았다. 그 실패 중 아홉 건은 서로의 것이었다. 그는 머릿속으로 답을 짜기 시작했고 입은 계속 닫혀 있었다. 방이 조용해졌다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me think about that for a second",
+        "Bear with me"
+      ],
+      "wordCandidates": [
+        {
+          "term": "silent",
+          "surface": "silent",
+          "meaningKo": "말이 없는, 침묵하는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She was silent for a long time, and then she said, \"Use my name, but tell them I was right.\"",
+            "ko": "그녀는 한참 말이 없다가 입을 열었다. \"제 이름을 쓰세요. 하지만 제가 옳았다고 꼭 말해 주세요.\""
+          }
+        },
+        {
+          "term": "rewrite",
+          "surface": "rewrote",
+          "meaningKo": "다시 쓰다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He rewrote the talk all weekend and cut it to thirty slides.",
+            "ko": "그는 주말 내내 발표를 다시 써서 슬라이드 30장으로 줄였다."
+          }
+        },
+        {
+          "term": "colleague",
+          "surface": "colleagues",
+          "meaningKo": "동료",
+          "paragraph": 1,
+          "sentence": {
+            "en": "On Monday at six, twelve colleagues sat in the boardroom on the fourteenth floor.",
+            "ko": "월요일 6시, 동료 12명이 14층 회의실에 앉았다."
+          }
+        },
+        {
+          "term": "expect",
+          "surface": "expected",
+          "meaningKo": "예상하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "It went better than he expected.",
+            "ko": "예상보다 잘 풀렸다."
+          }
+        },
+        {
+          "term": "raise one's hand",
+          "surface": "raised her hand",
+          "meaningKo": "손을 들다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Yuna raised her hand first and asked in simple, friendly English, \"Of those thirty-one companies, how many were our own clients?\"",
+            "ko": "유나가 가장 먼저 손을 들고 쉽고 친근한 영어로 물었다."
+          }
+        },
+        {
+          "term": "failure",
+          "surface": "failures",
+          "meaningKo": "실패, 실패 사례",
+          "paragraph": 4,
+          "sentence": {
+            "en": "But he also knew what it meant, because nine of those failures belonged to Seoro.",
+            "ko": "하지만 그 뜻도 알았다. 그 실패 중 아홉 건은 서로의 것이었다."
+          }
+        },
+        {
+          "term": "belong to",
+          "surface": "belonged to",
+          "meaningKo": "~의 것이다, ~에 속하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "But he also knew what it meant, because nine of those failures belonged to Seoro.",
+            "ko": "하지만 그 뜻도 알았다. 그 실패 중 아홉 건은 서로의 것이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 345,
+      "paragraphs": [
+        {
+          "en": "On Saturday morning, Jae-won finally called Han Mi-rae at Norim and explained what he wanted to do with her story. \"Let me think about that for a second,\" she said. She said nothing for so long that he checked the connection. \"Use my name,\" she said at last, \"but make sure you tell them I was right.\" He spent the rest of the weekend rebuilding the talk around her, and by Sunday night he had it down to thirty slides.",
+          "ko": "토요일 아침, 재원은 마침내 노림의 한미래에게 전화해 그녀의 이야기를 어떻게 쓰고 싶은지 설명했다. \"잠깐 생각해 볼게요.\" 그녀가 말했다. 그녀가 너무 오래 말이 없어서 그는 연결 상태를 확인했다. \"제 이름을 쓰세요.\" 그녀가 마침내 말했다. \"하지만 제가 옳았다고 꼭 말해 주세요.\" 그는 남은 주말 동안 그녀를 중심으로 발표를 다시 짰고, 일요일 밤에는 슬라이드 30장까지 줄였다."
+        },
+        {
+          "en": "At six on Monday, twelve colleagues filed into the fourteenth-floor boardroom, most of them still holding their dinner. Helen took a seat in the back row, Daniel set up a timer and a phone to record it, and Jae-won stood up with seventeen days left on the calendar. He started with a woman at a kitchen table at eleven at night, checking a machine's work with a ruler.",
+          "ko": "월요일 6시, 동료 12명이 대부분 저녁거리를 든 채 14층 회의실로 줄지어 들어왔다. 헬렌은 뒷줄에 자리를 잡았고, 대니얼은 타이머와 녹화용 휴대폰을 설치했으며, 재원은 달력에 17일을 남겨 두고 일어섰다. 그는 밤 11시에 식탁에서 자를 대고 기계가 한 일을 확인하는 한 여성의 이야기로 시작했다."
+        },
+        {
+          "en": "It went better than he had any right to expect. People looked up from their phones when he reached \"thirty-one out of forty-two,\" and Yuna even stopped typing. He skipped a slide by accident and rushed the ending, but he wrapped up at twenty-two minutes forty, which was over the limit but not hopeless.",
+          "ko": "기대할 자격도 없을 만큼 잘 풀렸다. 그가 \"42곳 중 31곳\"에 이르자 사람들이 휴대폰에서 고개를 들었고, 유나는 타자까지 멈췄다. 실수로 슬라이드 하나를 건너뛰고 마무리를 서둘렀지만 22분 40초에 끝냈다. 시간은 넘었어도 가망이 없진 않았다."
+        },
+        {
+          "en": "Helen got to her feet. \"Bear with me, everyone. Now we run the five minutes exactly as Marcus will, with no warning and no notes,\" she said. Yuna put up her hand before anyone else could, and she asked it in plain, friendly English, the way you'd ask someone the time: \"Of those thirty-one companies, how many were our own clients?\"",
+          "ko": "헬렌이 일어섰다. \"잠시만 기다려 주세요, 여러분. 이제 5분을 마커스가 할 그대로, 예고도 메모도 없이 돌려 봅시다.\" 그녀가 말했다. 유나가 누구보다 먼저 손을 들고, 시간을 묻듯 쉽고 친근한 영어로 물었다. \"그 31개 회사 중 우리 고객이 몇 곳이었나요?\""
+        },
+        {
+          "en": "It was the easiest question anyone could have asked, and he knew the answer: nine. But he also knew what was sitting underneath it, which was that nine of those failures had Seoro's name on them. Should he say so up front? Should he explain how they'd defined a client, or point out that most of the nine had come in before the current team? He started drafting the sentence in his head, then a better one, and his mouth stayed shut.",
+          "ko": "누구든 할 수 있는 가장 쉬운 질문이었고 그는 답을 알았다. 아홉 곳. 하지만 그 밑에 깔린 것도 알았다. 그 실패 중 아홉 건에 서로의 이름이 붙어 있다는 사실이었다. 먼저 그렇게 말해야 할까? 고객을 어떻게 정의했는지 설명하거나, 아홉 곳 대부분이 지금 팀 이전에 들어왔다고 짚어야 할까? 그는 머릿속으로 문장을 쓰기 시작했고, 더 나은 문장을 또 썼고, 입은 계속 닫혀 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me think about that for a second",
+        "Bear with me"
+      ],
+      "wordCandidates": [
+        {
+          "term": "rebuild around",
+          "surface": "rebuilding the talk around",
+          "meaningKo": "~을 중심으로 다시 짜다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He spent the rest of the weekend rebuilding the talk around her, and by Sunday night he had it down to thirty slides.",
+            "ko": "그는 남은 주말 동안 그녀를 중심으로 발표를 다시 짰고, 일요일 밤에는 슬라이드 30장까지 줄였다."
+          }
+        },
+        {
+          "term": "wrap up",
+          "surface": "wrapped up",
+          "meaningKo": "마무리하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He skipped a slide by accident and rushed the ending, but he wrapped up at twenty-two minutes forty, which was over the limit but not hopeless.",
+            "ko": "실수로 슬라이드 하나를 건너뛰고 마무리를 서둘렀지만 22분 40초에 끝냈다. 시간은 넘었어도 가망이 없진 않았다."
+          }
+        },
+        {
+          "term": "skip",
+          "surface": "skipped",
+          "meaningKo": "건너뛰다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He skipped a slide by accident and rushed the ending, but he wrapped up at twenty-two minutes forty, which was over the limit but not hopeless.",
+            "ko": "실수로 슬라이드 하나를 건너뛰고 마무리를 서둘렀지만 22분 40초에 끝냈다. 시간은 넘었어도 가망이 없진 않았다."
+          }
+        },
+        {
+          "term": "get to one's feet",
+          "surface": "got to her feet",
+          "meaningKo": "일어서다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen got to her feet.",
+            "ko": "헬렌이 일어섰다."
+          }
+        },
+        {
+          "term": "up front",
+          "surface": "up front",
+          "meaningKo": "처음부터, 미리 터놓고",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Should he say so up front?",
+            "ko": "먼저 그렇게 말해야 할까?"
+          }
+        },
+        {
+          "term": "point out",
+          "surface": "point out",
+          "meaningKo": "지적하다, 짚다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Should he explain how they'd defined a client, or point out that most of the nine had come in before the current team?",
+            "ko": "고객을 어떻게 정의했는지 설명하거나, 아홉 곳 대부분이 지금 팀 이전에 들어왔다고 짚어야 할까?"
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 462,
+      "paragraphs": [
+        {
+          "en": "On Saturday morning Jae-won finally made the call he had been finding excuses to postpone, and laid out for Han Mi-rae what he proposed to do with the worst month of her professional life. \"Let me think about that for a second,\" she said. The silence ran so long that he took the phone from his ear to check the connection. \"Use my name,\" she said at last, in the voice of someone signing under protest, \"but make damn sure you tell them I was right.\" He spent the rest of the weekend rebuilding the talk around her, and by Sunday night he had hacked it down to thirty slides and something resembling a pulse.",
+          "ko": "토요일 아침, 재원은 핑계를 대며 미뤄 온 전화를 마침내 걸어, 한미래에게 그녀의 직업 인생 최악의 한 달을 어떻게 쓰고 싶은지 설명했다. \"잠깐 생각해 볼게요.\" 그녀가 말했다. 침묵이 너무 길어져 그는 연결을 확인하려고 휴대폰을 귀에서 뗐다. \"제 이름을 쓰세요.\" 그녀가 마침내 항의 속에 서명하는 사람의 목소리로 말했다. \"하지만 제가 옳았다고 반드시 말해 주세요.\" 그는 남은 주말 동안 그녀를 중심으로 발표를 다시 짰고, 일요일 밤에는 슬라이드 30장으로 쳐내 맥박 비슷한 것이 돌게 만들었다."
+        },
+        {
+          "en": "At six on Monday, twelve colleagues straggled into the fourteenth-floor boardroom, clutching convenience-store dinners and the faint hope of entertainment. Helen installed herself in the back row with her arms folded, Daniel propped up a phone to record and set a timer going, and Jae-won got to his feet with seventeen days left on the calendar and a mouth like blotting paper. He began, as instructed, with a woman at a kitchen table at eleven at night, checking a machine's homework with a ruler.",
+          "ko": "월요일 6시, 동료 12명이 편의점 저녁거리와 구경거리에 대한 희미한 기대를 쥐고 14층 회의실로 어슬렁어슬렁 들어왔다. 헬렌은 팔짱을 낀 채 뒷줄에 자리를 틀었고, 대니얼은 녹화용 휴대폰을 세우고 타이머를 돌렸으며, 재원은 달력에 17일을 남겨 두고 압지처럼 마른 입으로 일어섰다. 그는 지시받은 대로, 밤 11시에 식탁에서 자를 대고 기계의 숙제를 검사하는 한 여성의 이야기로 시작했다."
+        },
+        {
+          "en": "It went better than he had any right to expect, which should have warned him. Thumbs stopped moving when he got to \"thirty-one out of forty-two,\" Yuna actually stopped typing. When he skipped a slide by mistake and gabbled the ending, the worst anyone could say was that he'd come in at twenty-two minutes forty, which Marcus would punish but the human race might forgive. Somewhere around the applause, thin as it was, he allowed himself to think he had got away with it.",
+          "ko": "기대할 자격도 없을 만큼 잘 풀렸는데, 그것이 경고였어야 했다. 그가 \"42곳 중 31곳\"에 이르자 엄지들이 멈췄고 유나는 타자까지 멈췄다. 실수로 슬라이드 하나를 건너뛰고 마무리를 허둥지둥 읊었지만, 최악의 평이라야 22분 40초에 끝냈다는 것이었다. 마커스는 벌하겠지만 인류는 용서할지도 모르는 수준이었다. 빈약한 박수가 나올 즈음 그는 이번은 넘겼다고 생각하도록 자신을 내버려 두었다."
+        },
+        {
+          "en": "Helen unfolded herself from the back row. \"Bear with me, everyone, because now we run the five minutes exactly the way Marcus will, no warning, no notes, no mercy,\" she said. Yuna's hand was up before the sentence was over, and she asked it in plain, friendly English, with a little smile, the way you might ask whether this seat was taken: \"Of those thirty-one companies, how many were our own clients?\"",
+          "ko": "헬렌이 뒷줄에서 몸을 폈다. \"잠시만 기다려 주세요, 여러분. 이제 5분을 마커스가 할 그대로 돌립시다. 예고 없이, 메모 없이, 자비 없이.\" 그녀가 말했다. 말이 끝나기도 전에 유나의 손이 올라갔고, 그녀는 살짝 미소 지으며 이 자리 비었느냐고 묻듯 쉽고 친근한 영어로 물었다. \"그 31개 회사 중 우리 고객이 몇 곳이었나요?\""
+        },
+        {
+          "en": "A child could have fielded it, and he knew the answer cold: nine. He also knew precisely what was lurking underneath it, namely that nine of his thirty-one corpses had Seoro's fingerprints on them. That was when the machinery seized. Ought he to volunteer that up front, or would that look like grandstanding? Should he unpack how they had defined a client, or note in passing that most of the nine predated the current team, which sounded, even inside his own skull, like a man reaching for a lawyer? He drafted a sentence, struck it, drafted a better one, and all the while his mouth stayed shut.",
+          "ko": "아이라도 받아넘길 질문이었고 그는 답을 꿰고 있었다. 아홉 곳. 그 밑에 무엇이 도사리는지도 정확히 알았다. 서른한 구의 시체 중 아홉 구에 서로의 지문이 묻어 있다는 것이었고, 바로 그때 기계가 멈춰 버렸다. 먼저 자진해서 말해야 할까, 아니면 그러면 생색내기로 보일까? 고객을 어떻게 정의했는지 풀어 설명하거나, 아홉 곳 대부분이 지금 팀 이전 일이라고 지나가듯 언급해야 할까? 그 말은 자기 머릿속에서조차 변호사를 찾는 사람처럼 들렸다. 그는 문장을 쓰고, 지우고, 더 나은 문장을 썼고, 그동안 입은 내내 닫혀 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me think about that for a second",
+        "Bear with me"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hack down",
+          "surface": "hacked it down",
+          "meaningKo": "대폭 쳐내다, 줄이다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He spent the rest of the weekend rebuilding the talk around her, and by Sunday night he had hacked it down to thirty slides and something resembling a pulse.",
+            "ko": "그는 남은 주말 동안 그녀를 중심으로 발표를 다시 짰고, 일요일 밤에는 슬라이드 30장으로 쳐내 맥박 비슷한 것이 돌게 만들었다."
+          }
+        },
+        {
+          "term": "straggle",
+          "surface": "straggled",
+          "meaningKo": "어슬렁어슬렁 들어오다, 흩어져 오다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At six on Monday, twelve colleagues straggled into the fourteenth-floor boardroom, clutching convenience-store dinners and the faint hope of entertainment.",
+            "ko": "월요일 6시, 동료 12명이 편의점 저녁거리와 구경거리에 대한 희미한 기대를 쥐고 14층 회의실로 어슬렁어슬렁 들어왔다."
+          }
+        },
+        {
+          "term": "gabble",
+          "surface": "gabbled",
+          "meaningKo": "허둥지둥 빠르게 말하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "When he skipped a slide by mistake and gabbled the ending, the worst anyone could say was that he'd come in at twenty-two minutes forty, which Marcus would punish but the human race might forgive.",
+            "ko": "실수로 슬라이드 하나를 건너뛰고 마무리를 허둥지둥 읊었지만, 최악의 평이라야 22분 40초에 끝냈다는 것이었다. 마커스는 벌하겠지만 인류는 용서할지도 모르는 수준이었다."
+          }
+        },
+        {
+          "term": "know cold",
+          "surface": "knew the answer cold",
+          "meaningKo": "완벽히 꿰고 있다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "A child could have fielded it, and he knew the answer cold: nine.",
+            "ko": "아이라도 받아넘길 질문이었고 그는 답을 꿰고 있었다. 아홉 곳."
+          }
+        },
+        {
+          "term": "lurk",
+          "surface": "lurking",
+          "meaningKo": "도사리다, 숨어 있다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He also knew precisely what was lurking underneath it, namely that nine of his thirty-one corpses had Seoro's fingerprints on them.",
+            "ko": "그 밑에 무엇이 도사리는지도 정확히 알았다. 서른한 구의 시체 중 아홉 구에 서로의 지문이 묻어 있다는 것이었다."
+          }
+        },
+        {
+          "term": "grandstanding",
+          "surface": "grandstanding",
+          "meaningKo": "보여 주기식 행동, 생색내기",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Ought he to volunteer that up front, or would that look like grandstanding?",
+            "ko": "먼저 자진해서 말해야 할까, 아니면 그러면 생색내기로 보일까?"
+          }
+        },
+        {
+          "term": "predate",
+          "surface": "predated",
+          "meaningKo": "~보다 앞서다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Should he unpack how they had defined a client, or note in passing that most of the nine predated the current team, which sounded, even inside his own skull, like a man reaching for a lawyer?",
+            "ko": "고객을 어떻게 정의했는지 풀어 설명하거나, 아홉 곳 대부분이 지금 팀 이전 일이라고 지나가듯 언급해야 할까? 그 말은 자기 머릿속에서조차 변호사를 찾는 사람처럼 들렸다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Han Mi-rae say when Jae-won asked to use her story?",
+      "options": [
+        "She refused and asked him to use a fake name.",
+        "She agreed only if the CFO approved.",
+        "She wanted to give the talk herself.",
+        "She agreed, as long as he told the audience she was right."
+      ],
+      "answerIndex": 3,
+      "evidence": "but make sure you tell them I was right"
+    },
+    {
+      "question": "Why did Jae-won fail to answer an easy question he knew the answer to?",
+      "options": [
+        "He misunderstood Yuna's English.",
+        "He had forgotten the number under pressure.",
+        "The answer was awkward for Seoro, and he kept redrafting the perfect way to say it.",
+        "Helen had told him not to answer that question."
+      ],
+      "answerIndex": 2,
+      "evidence": "He started drafting the sentence in his head, then a better one, and his mouth stayed shut."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let me think about that for a second.",
+      "Bear with me.",
+      "Of those thirty-one companies, how many were our own clients?"
+    ],
+    "summaryPromptKo": "재원이 한미래에게서 무엇을 허락받았는지, 리허설 발표가 어떻게 됐는지, 유나의 질문에서 무슨 일이 벌어졌는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Han Mi-rae",
+      "en": "That was a terrible month for me. Why should eight hundred people hear about it?",
+      "ko": "제겐 끔찍한 한 달이었어요. 왜 800명이 그 얘기를 들어야 하죠?"
+    },
+    "modelAnswer": "Bear with me, because it starts with you. Thirty-one out of forty-two pilots failed, and the number alone won't stay with anyone. A woman at a kitchen table at eleven at night, checking a machine's work with a ruler, will. You saw the problem, and that is why I want to use your name. And I'll make sure I tell them you were right."
+  },
+  "nextTeaserKo": "침묵은 얼마나 이어질까, 그리고 마침내 나온 답은 어떤 말이었을까. 방이 빈 뒤 헬렌은 마커를 집어 들고, 그날 밤 재원의 메일함에는 처음 보는 이름이 기다린다.",
+  "roleplay": {
+    "title": "토요일 아침, 한미래에게 거는 전화",
+    "situationKo": "리허설 전 토요일, 재원이 노림의 한미래에게 전화해 그녀의 이야기를 발표에 써도 되는지 묻습니다. 이번에는 내가 재원이 되어 그 이유를 설명해 봅니다. 틀려도 괜찮고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "You said this was about Singapore. What do you want to do with my story?",
+        "ko": "싱가포르 일이라고 하셨죠. 제 이야기로 뭘 하고 싶으신 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I want to start the keynote with you, at a kitchen table at eleven at night.",
+        "ko": "키노트를 한미래 님 이야기로 시작하고 싶습니다. 밤 11시, 식탁에 앉아 계신 장면으로요.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "That was a terrible month for me. Why should eight hundred people hear about it?",
+        "ko": "제겐 끔찍한 한 달이었어요. 왜 800명이 그 얘기를 들어야 하죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Bear with me. Thirty-one out of forty-two pilots failed, and your story shows why.",
+        "ko": "잠시만요. 파일럿 42곳 중 31곳이 실패했는데, 한미래 님 이야기가 그 이유를 보여 줍니다.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "And what exactly will you tell them about me?",
+        "ko": "그럼 저에 대해서는 정확히 뭐라고 말하실 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me think about that for a second. I'll say you checked the machine's work with a ruler.",
+        "ko": "잠깐 생각해 볼게요. 자를 대고 기계가 한 일을 확인하셨다고 말하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "I need a moment.",
+        "ko": "잠시만요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Of course. Take your time.",
+        "ko": "물론입니다. 천천히 생각하세요.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "Use my name, but make sure you tell them I was right.",
+        "ko": "제 이름을 쓰세요. 하지만 제가 옳았다고 꼭 말해 주세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I will. You were right, and I'll say so from the stage.",
+        "ko": "그러겠습니다. 한미래 님이 옳았고, 무대에서 그렇게 말하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "When do you try it out?",
+        "ko": "언제 시험해 보시나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Monday at six, in front of twelve colleagues.",
+        "ko": "월요일 6시에 동료 12명 앞에서요.",
+        "you": true
+      },
+      {
+        "speaker": "Han Mi-rae",
+        "voice": "female",
+        "en": "Then you have a busy weekend ahead.",
+        "ko": "그럼 바쁜 주말을 보내시겠네요."
+      }
+    ]
+  }
+}

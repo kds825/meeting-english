@@ -1,0 +1,460 @@
+{
+  "id": "keynote-s1-e11",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 11,
+  "title": "The Coach",
+  "recapKo": "월요일 저녁, 재원은 동료 12명 앞 첫 영어 리허설을 그럭저럭 해냈지만, 유나의 쉬운 질문 \"31곳 중 우리 고객은 몇 곳이죠?\"에 19초 동안 얼어붙었다가 한국어로 답했다. 헬렌은 시간 버는 표현을 가르쳐 주었다. 그날 밤 코치 프리야 네어가 메일을 보내, 침묵이 문제가 아니라며 내일 7시에 슬라이드 없이 오라고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Where I struggle is ~",
+      "meaningKo": "제가 어려워하는 부분은 ~입니다",
+      "usage": "Where I struggle is keeping my answers short when the client pushes me."
+    },
+    {
+      "phrase": "I tend to ~",
+      "meaningKo": "저는 ~하는 경향이 있어요",
+      "usage": "I tend to over-explain when I'm nervous, so stop me if I do."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 220,
+      "paragraphs": [
+        {
+          "en": "At five to seven on Tuesday morning, Jae-won climbed the stairs to a small rented room above a bakery. A woman in a gray jacket looked at his empty hands, put her phone on the table, and pressed record.",
+          "ko": "화요일 아침 7시 5분 전, 재원은 빵집 위층의 작은 임대 회의실로 계단을 올라갔다. 회색 재킷을 입은 여성이 그의 빈손을 바라보더니, 휴대폰을 테이블에 놓고 녹음 버튼을 눌렀다."
+        },
+        {
+          "en": "\"No slides, good,\" she said. \"I was a business reporter for fifteen years, and Helen was one of my first clients. So, while you were silent last night, what were you afraid they would find out?\"",
+          "ko": "\"슬라이드가 없네요, 좋아요.\" 그녀가 말했다. \"저는 15년 동안 경제 기자였고, 헬렌은 제 초기 고객 중 한 명이에요. 그래서, 어젯밤 침묵하는 동안 사람들이 무엇을 알아낼까 봐 두려웠나요?\""
+        },
+        {
+          "en": "He had prepared an answer on the subway. \"To be honest, my English isn't good enough under pressure.\" She shook her head. \"That sentence had perfect grammar, so try again and tell me what really happens.\"",
+          "ko": "그는 지하철에서 답을 준비해 왔다. \"솔직히 말하면, 압박을 받으면 제 영어가 충분하지 않습니다.\" 그녀가 고개를 저었다. \"그 문장은 문법이 완벽했어요. 그러니 다시 해 보고, 실제로 무슨 일이 일어나는지 말해 줘요.\""
+        },
+        {
+          "en": "\"Where I struggle is the first few seconds,\" he said slowly. \"I tend to write the whole answer in my head before I say anything.\" \"Better,\" she said, but it did not sound like praise.",
+          "ko": "\"제가 어려워하는 부분은 처음 몇 초입니다.\" 그가 천천히 말했다. \"저는 무슨 말이든 하기 전에 머릿속에서 답 전체를 쓰는 경향이 있어요.\" \"낫네요.\" 그녀가 말했지만 칭찬처럼 들리지는 않았다."
+        },
+        {
+          "en": "\"Yuna asked an easy question, and you knew the number,\" Priya said. \"You don't freeze when you don't know. You freeze when the answer costs you something.\"",
+          "ko": "\"유나는 쉬운 질문을 했고 당신은 그 숫자를 알았어요.\" 프리야가 말했다. \"당신은 몰라서 얼어붙는 게 아니에요. 답에 대가가 따를 때 얼어붙는 거죠.\""
+        },
+        {
+          "en": "\"You trained as an accountant, so you never sign anything before you check it,\" she went on. \"Now every sentence feels like a signature. On Monday night you were Han Mi-rae at her kitchen table, but a stage can't wait that long. So what's the real fear?\"",
+          "ko": "\"당신은 회계사 출신이라 확인하기 전에는 아무것도 서명하지 않아요.\" 그녀가 말을 이었다. \"이제 모든 문장이 서명처럼 느껴지는 거예요. 월요일 밤 당신은 식탁에 앉은 한미래였어요. 하지만 무대는 그렇게 오래 기다려 주지 않아요. 그래서 진짜 두려움이 뭐죠?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I struggle is",
+        "I tend to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "rented",
+          "surface": "rented room",
+          "meaningKo": "임대한 (방)",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At five to seven on Tuesday morning, Jae-won climbed the stairs to a small rented room above a bakery.",
+            "ko": "화요일 아침 7시 5분 전, 재원은 빵집 위층의 작은 임대 회의실로 계단을 올라갔다."
+          }
+        },
+        {
+          "term": "press record",
+          "surface": "pressed record",
+          "meaningKo": "녹음 버튼을 누르다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "A woman in a gray jacket looked at his empty hands, put her phone on the table, and pressed record.",
+            "ko": "회색 재킷을 입은 여성이 그의 빈손을 바라보더니, 휴대폰을 테이블에 놓고 녹음 버튼을 눌렀다."
+          }
+        },
+        {
+          "term": "business reporter",
+          "surface": "business reporter",
+          "meaningKo": "경제 기자",
+          "paragraph": 1,
+          "sentence": {
+            "en": "I was a business reporter for fifteen years, and Helen was one of my first clients.",
+            "ko": "저는 15년 동안 경제 기자였고, 헬렌은 제 초기 고객 중 한 명이에요."
+          }
+        },
+        {
+          "term": "under pressure",
+          "surface": "under pressure",
+          "meaningKo": "압박을 받을 때",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"To be honest, my English isn't good enough under pressure.\"",
+            "ko": "\"솔직히 말하면, 압박을 받으면 제 영어가 충분하지 않습니다.\""
+          }
+        },
+        {
+          "term": "grammar",
+          "surface": "grammar",
+          "meaningKo": "문법",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"That sentence had perfect grammar, so try again and tell me what really happens.\"",
+            "ko": "\"그 문장은 문법이 완벽했어요. 그러니 다시 해 보고, 실제로 무슨 일이 일어나는지 말해 줘요.\""
+          }
+        },
+        {
+          "term": "freeze",
+          "surface": "freeze",
+          "meaningKo": "(긴장으로) 얼어붙다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "You don't freeze when you don't know.",
+            "ko": "당신은 몰라서 얼어붙는 게 아니에요."
+          }
+        },
+        {
+          "term": "accountant",
+          "surface": "accountant",
+          "meaningKo": "회계사",
+          "paragraph": 5,
+          "sentence": {
+            "en": "\"You trained as an accountant, so you never sign anything before you check it,\" she went on.",
+            "ko": "\"당신은 회계사 출신이라 확인하기 전에는 아무것도 서명하지 않아요.\" 그녀가 말을 이었다."
+          }
+        },
+        {
+          "term": "signature",
+          "surface": "signature",
+          "meaningKo": "서명",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Now every sentence feels like a signature.",
+            "ko": "이제 모든 문장이 서명처럼 느껴지는 거예요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 373,
+      "paragraphs": [
+        {
+          "en": "At five to seven on Tuesday morning, Jae-won climbed the stairs to the address in Priya Nair's second email, a rented meeting room above a bakery. There was one table, two chairs and no whiteboard. A small woman in a gray jacket glanced at his empty hands, put her phone on the table and pressed record.",
+          "ko": "화요일 아침 7시 5분 전, 재원은 프리야 네어의 두 번째 메일에 적힌 주소로 계단을 올라갔다. 빵집 위층의 임대 회의실이었다. 테이블 하나와 의자 두 개뿐, 화이트보드도 없었다. 회색 재킷을 입은 체구가 작은 여성이 그의 빈손을 힐끗 보더니 휴대폰을 테이블에 놓고 녹음 버튼을 눌렀다."
+        },
+        {
+          "en": "\"No slides, good, and you can close the notebook as well,\" she said. \"I spent fifteen years as a business reporter before I started doing this, and Helen was one of my first clients, so she knows I don't do compliments. While you were silent, what were you afraid they'd find out?\"",
+          "ko": "\"슬라이드가 없네요, 좋아요. 공책도 덮어도 돼요.\" 그녀가 말했다. \"이 일을 시작하기 전에 15년 동안 경제 기자로 일했고, 헬렌은 제 초기 고객 중 한 명이라 제가 칭찬을 안 한다는 걸 알아요. 침묵하는 동안 사람들이 무엇을 알아낼까 봐 두려웠나요?\""
+        },
+        {
+          "en": "He had worked out an answer on the subway, and he delivered it carefully. \"To be honest, my English lets me down under pressure, so I need to build up my vocabulary and my confidence.\" \"That was a grammatically perfect sentence about how bad your English is,\" she said. \"Try again, and this time tell me what actually goes on in your head when somebody asks you something.\"",
+          "ko": "그는 지하철에서 답을 짜 두었고, 그것을 조심스럽게 내놓았다. \"솔직히 말하면, 압박을 받으면 영어가 제 발목을 잡아서 어휘와 자신감을 키워야 합니다.\" \"자기 영어가 얼마나 나쁜지에 관해 문법적으로 완벽한 문장을 말씀하셨네요.\" 그녀가 말했다. \"다시 해 봐요. 이번엔 누가 뭔가를 물을 때 머릿속에서 실제로 무슨 일이 벌어지는지 말해 줘요.\""
+        },
+        {
+          "en": "It took him a while to find the words, and she let him take it. \"Where I struggle is the first few seconds,\" he said. \"I tend to draft the whole answer before I open my mouth, and then I go back and fix it, and by the time it's ready everyone's staring at me.\" \"Better,\" she said, writing nothing down.",
+          "ko": "말을 찾는 데 시간이 좀 걸렸고, 그녀는 그 시간을 그냥 내주었다. \"제가 어려워하는 부분은 처음 몇 초입니다.\" 그가 말했다. \"저는 입을 열기 전에 답 전체를 초안으로 쓰고, 다시 돌아가 고치는 경향이 있어요. 그러다 준비가 되면 모두가 저를 빤히 보고 있죠.\" \"낫네요.\" 그녀는 아무것도 적지 않은 채 말했다."
+        },
+        {
+          "en": "\"So let's look at the evidence, since you like evidence,\" Priya said. \"Yuna asked you something you knew perfectly well, and Helen tells me a CFO once asked you about a running cost you knew by heart. You don't freeze when you don't know the answer, Jae-won, you freeze when you do know it and it's going to cost you something.\"",
+          "ko": "\"그럼 증거를 봅시다. 증거 좋아하시니까요.\" 프리야가 말했다. \"유나는 당신이 뻔히 아는 걸 물었고, 헬렌 말로는 어느 CFO가 당신이 외우고 있던 운영 비용을 물은 적도 있다더군요. 재원 씨, 당신은 답을 몰라서 얼어붙는 게 아니에요. 답을 아는데 그 답에 대가가 따를 때 얼어붙는 거죠.\""
+        },
+        {
+          "en": "\"You trained as an accountant, which means you've never signed off on anything you hadn't checked,\" she went on. \"Now every sentence feels like a signature, so you audit it before you let it out. I watched you tell that story about Han Mi-rae at her kitchen table, and on Monday night you were Han Mi-rae, except that a stage can't wait for you the way a kitchen table can. So what's the real fear?\"",
+          "ko": "\"당신은 회계사 출신이고, 그 말은 확인하지 않은 건 한 번도 승인해 본 적이 없다는 뜻이에요.\" 그녀가 말을 이었다. \"이제 모든 문장이 서명처럼 느껴지니까 내보내기 전에 감사를 하는 거죠. 식탁에 앉은 한미래 이야기를 하는 걸 봤는데, 월요일 밤에는 당신이 한미래였어요. 다만 무대는 식탁처럼 기다려 주지 않아요. 그래서 진짜 두려움이 뭐죠?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I struggle is",
+        "I tend to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "glance at",
+          "surface": "glanced at",
+          "meaningKo": "힐끗 보다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "A small woman in a gray jacket glanced at his empty hands, put her phone on the table and pressed record.",
+            "ko": "회색 재킷을 입은 체구가 작은 여성이 그의 빈손을 힐끗 보더니 휴대폰을 테이블에 놓고 녹음 버튼을 눌렀다."
+          }
+        },
+        {
+          "term": "work out",
+          "surface": "worked out",
+          "meaningKo": "(답을) 생각해 내다, 짜다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He had worked out an answer on the subway, and he delivered it carefully.",
+            "ko": "그는 지하철에서 답을 짜 두었고, 그것을 조심스럽게 내놓았다."
+          }
+        },
+        {
+          "term": "let someone down",
+          "surface": "lets me down",
+          "meaningKo": "기대를 저버리다, 발목을 잡다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"To be honest, my English lets me down under pressure, so I need to build up my vocabulary and my confidence.\"",
+            "ko": "\"솔직히 말하면, 압박을 받으면 영어가 제 발목을 잡아서 어휘와 자신감을 키워야 합니다.\""
+          }
+        },
+        {
+          "term": "draft",
+          "surface": "draft",
+          "meaningKo": "초안을 쓰다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I tend to draft the whole answer before I open my mouth, and then I go back and fix it, and by the time it's ready everyone's staring at me.\"",
+            "ko": "저는 입을 열기 전에 답 전체를 초안으로 쓰고, 다시 돌아가 고치는 경향이 있어요. 그러다 준비가 되면 모두가 저를 빤히 보고 있죠."
+          }
+        },
+        {
+          "term": "by heart",
+          "surface": "by heart",
+          "meaningKo": "외워서, 암기하여",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Yuna asked you something you knew perfectly well, and Helen tells me a CFO once asked you about a running cost you knew by heart.",
+            "ko": "유나는 당신이 뻔히 아는 걸 물었고, 헬렌 말로는 어느 CFO가 당신이 외우고 있던 운영 비용을 물은 적도 있다더군요."
+          }
+        },
+        {
+          "term": "running cost",
+          "surface": "running cost",
+          "meaningKo": "운영 비용",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Yuna asked you something you knew perfectly well, and Helen tells me a CFO once asked you about a running cost you knew by heart.",
+            "ko": "유나는 당신이 뻔히 아는 걸 물었고, 헬렌 말로는 어느 CFO가 당신이 외우고 있던 운영 비용을 물은 적도 있다더군요."
+          }
+        },
+        {
+          "term": "sign off on",
+          "surface": "signed off on",
+          "meaningKo": "~을 승인하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "\"You trained as an accountant, which means you've never signed off on anything you hadn't checked,\" she went on.",
+            "ko": "\"당신은 회계사 출신이고, 그 말은 확인하지 않은 건 한 번도 승인해 본 적이 없다는 뜻이에요.\" 그녀가 말을 이었다."
+          }
+        },
+        {
+          "term": "audit",
+          "surface": "audit",
+          "meaningKo": "감사하다, 꼼꼼히 검증하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Now every sentence feels like a signature, so you audit it before you let it out.",
+            "ko": "이제 모든 문장이 서명처럼 느껴지니까 내보내기 전에 감사를 하는 거죠."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 506,
+      "paragraphs": [
+        {
+          "en": "At five to seven on Tuesday morning, Jae-won climbed the stairs to the address in Priya Nair's second email, which turned out to be a rented meeting room above a bakery, two subway stops from the office. It had one table, two chairs and conspicuously no whiteboard. A small woman in a gray jacket took in his empty hands, set her phone on the table between them, and pressed record without asking whether he minded.",
+          "ko": "화요일 아침 7시 5분 전, 재원은 프리야 네어의 두 번째 메일에 적힌 주소로 계단을 올라갔다. 알고 보니 사무실에서 지하철로 두 정거장 떨어진 빵집 위층의 임대 회의실이었다. 테이블 하나, 의자 두 개가 있었고 화이트보드는 눈에 띄게 없었다. 회색 재킷을 입은 체구가 작은 여성이 그의 빈손을 살피더니, 둘 사이 테이블에 휴대폰을 놓고 괜찮으냐고 묻지도 않은 채 녹음 버튼을 눌렀다."
+        },
+        {
+          "en": "\"No slides, good, and you can shut the notebook while you're at it,\" she said. \"For context, I was a business reporter for fifteen years before I went into this line of work, and Helen was one of my first clients, so she can confirm I don't do compliments and I don't do warm-ups. You read my question last night, so let's not pretend you didn't prepare for it. While you were silent, what were you afraid they'd find out?\"",
+          "ko": "\"슬라이드가 없네요, 좋아요. 그 김에 공책도 덮으시고요.\" 그녀가 말했다. \"참고로 말씀드리면 저는 이 일을 하기 전에 15년 동안 경제 기자였고, 헬렌은 제 초기 고객 중 한 명이라 제가 칭찬도 몸풀기도 안 한다는 걸 확인해 줄 수 있어요. 어젯밤 제 질문을 읽으셨으니 준비 안 한 척은 하지 맙시다. 침묵하는 동안 사람들이 무엇을 알아낼까 봐 두려웠나요?\""
+        },
+        {
+          "en": "He had in fact roughed out an answer on the subway, and he walked her through it with some care. \"To be honest, my English lets me down under pressure, so the gap I need to close is really vocabulary and, I suppose, overall confidence.\" Priya let that sit for a moment. \"That was a grammatically flawless sentence on the subject of how bad your English is, which is a hard case to make,\" she said. \"Try again, and skip the executive summary this time, because I want to know what actually goes on in your head when somebody asks you something.\"",
+          "ko": "그는 실제로 지하철에서 답의 윤곽을 잡아 두었고, 꽤 신경 써서 차근차근 설명했다. \"솔직히 말하면, 압박을 받으면 영어가 제 발목을 잡아서, 제가 메워야 할 격차는 결국 어휘와, 뭐랄까, 전반적인 자신감입니다.\" 프리야는 그 말을 잠시 그대로 두었다. \"자기 영어가 얼마나 나쁜지를 문법적으로 흠잡을 데 없는 문장으로 말씀하셨는데, 그건 설득하기 어려운 주장이에요.\" 그녀가 말했다. \"다시 해 봐요. 이번엔 요약 보고는 건너뛰고요. 누가 뭔가를 물을 때 머릿속에서 실제로 무슨 일이 벌어지는지 알고 싶으니까요.\""
+        },
+        {
+          "en": "It took him a while to find the words. She made no move to help. \"Where I struggle is the first few seconds,\" he said finally. \"I tend to draft the whole answer before I open my mouth, then I go back and tighten it, then I check it for anything somebody could come after me on, and by the time it's cleared for release the entire room is staring at me.\" \"Better,\" she said, and wrote nothing down.",
+          "ko": "말을 찾는 데 시간이 좀 걸렸고, 그녀는 도와줄 기색이 없었다. \"제가 어려워하는 부분은 처음 몇 초입니다.\" 그가 마침내 말했다. \"저는 입을 열기 전에 답 전체를 초안으로 쓰고, 다시 돌아가 다듬고, 누가 물고 늘어질 만한 데가 없는지 점검하는 경향이 있어요. 그렇게 내보내도 된다는 판정이 날 때쯤이면 방 안 전체가 저를 빤히 보고 있죠.\" \"낫네요.\" 그녀는 그렇게 말하고 아무것도 적지 않았다."
+        },
+        {
+          "en": "\"So let's go to the evidence, since evidence is your comfort zone,\" Priya said. \"Yuna asked you something you could have answered in your sleep, and according to Helen a CFO once asked you about a running cost you knew by heart, and you went blank both times. So here's my read: you don't freeze when you don't have the answer, Jae-won, you freeze when you've got it and it's going to cost you something.\"",
+          "ko": "\"그럼 증거로 갑시다. 증거가 당신의 안전지대니까요.\" 프리야가 말했다. \"유나는 자면서도 답할 수 있는 걸 물었고, 헬렌 말로는 어느 CFO가 당신이 외우고 있던 운영 비용을 물은 적도 있는데, 두 번 다 머리가 하얘졌어요. 그래서 제 판단은 이래요. 재원 씨, 당신은 답이 없어서 얼어붙는 게 아니에요. 답이 있는데 그 답에 대가가 따를 때 얼어붙는 거죠.\""
+        },
+        {
+          "en": "He started to say something about context, and she talked straight over him. \"You trained as an accountant, which means your whole career you've been paid not to sign off on anything you haven't tied out, and now every sentence feels like a signature, so you run it through audit before you let it leave the building. I watched you tell that story about Han Mi-rae at her kitchen table, and on Monday night that was you, except that a stage won't give you six weeks to rebuild the trail. So what's the real fear?\"",
+          "ko": "그가 맥락에 관해 뭔가 말하려 하자 그녀는 그대로 말을 덮어 버렸다. \"당신은 회계사 출신이에요. 경력 내내 대조해 보지 않은 건 승인하지 않는 대가로 돈을 받았다는 뜻이죠. 이제 모든 문장이 서명처럼 느껴지니까, 건물 밖으로 내보내기 전에 감사를 돌리는 거예요. 식탁에 앉은 한미래 이야기를 하는 걸 봤는데, 월요일 밤엔 그게 바로 당신이었어요. 다만 무대는 기록을 다시 만들 6주를 주지 않아요. 그래서 진짜 두려움이 뭐죠?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Where I struggle is",
+        "I tend to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "rough out",
+          "surface": "roughed out",
+          "meaningKo": "대강 윤곽을 잡다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He had in fact roughed out an answer on the subway, and he walked her through it with some care.",
+            "ko": "그는 실제로 지하철에서 답의 윤곽을 잡아 두었고, 꽤 신경 써서 차근차근 설명했다."
+          }
+        },
+        {
+          "term": "close the gap",
+          "surface": "the gap I need to close",
+          "meaningKo": "격차를 메우다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"To be honest, my English lets me down under pressure, so the gap I need to close is really vocabulary and, I suppose, overall confidence.\"",
+            "ko": "\"솔직히 말하면, 압박을 받으면 영어가 제 발목을 잡아서, 제가 메워야 할 격차는 결국 어휘와, 뭐랄까, 전반적인 자신감입니다.\""
+          }
+        },
+        {
+          "term": "executive summary",
+          "surface": "executive summary",
+          "meaningKo": "임원용 요약 보고",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Try again, and skip the executive summary this time, because I want to know what actually goes on in your head when somebody asks you something.\"",
+            "ko": "다시 해 봐요. 이번엔 요약 보고는 건너뛰고요. 누가 뭔가를 물을 때 머릿속에서 실제로 무슨 일이 벌어지는지 알고 싶으니까요."
+          }
+        },
+        {
+          "term": "clear for release",
+          "surface": "cleared for release",
+          "meaningKo": "공개·배포 승인을 받다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I tend to draft the whole answer before I open my mouth, then I go back and tighten it, then I check it for anything somebody could come after me on, and by the time it's cleared for release the entire room is staring at me.\"",
+            "ko": "저는 입을 열기 전에 답 전체를 초안으로 쓰고, 다시 돌아가 다듬고, 누가 물고 늘어질 만한 데가 없는지 점검하는 경향이 있어요. 그렇게 내보내도 된다는 판정이 날 때쯤이면 방 안 전체가 저를 빤히 보고 있죠."
+          }
+        },
+        {
+          "term": "comfort zone",
+          "surface": "comfort zone",
+          "meaningKo": "안전지대, 편하게 느끼는 영역",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"So let's go to the evidence, since evidence is your comfort zone,\" Priya said.",
+            "ko": "\"그럼 증거로 갑시다. 증거가 당신의 안전지대니까요.\" 프리야가 말했다."
+          }
+        },
+        {
+          "term": "talk over",
+          "surface": "talked straight over him",
+          "meaningKo": "(남의 말을) 끊고 덮어 말하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "He started to say something about context, and she talked straight over him.",
+            "ko": "그가 맥락에 관해 뭔가 말하려 하자 그녀는 그대로 말을 덮어 버렸다."
+          }
+        },
+        {
+          "term": "tie out",
+          "surface": "tied out",
+          "meaningKo": "(장부·수치를) 대조해 맞추다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "You trained as an accountant, which means your whole career you've been paid not to sign off on anything you haven't tied out, and now every sentence feels like a signature, so you run it through audit before you let it leave the building.",
+            "ko": "당신은 회계사 출신이에요. 경력 내내 대조해 보지 않은 건 승인하지 않는 대가로 돈을 받았다는 뜻이죠. 이제 모든 문장이 서명처럼 느껴지니까, 건물 밖으로 내보내기 전에 감사를 돌리는 거예요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Priya do before she became a coach?",
+      "options": [
+        "She worked as an accountant.",
+        "She was a business reporter for fifteen years.",
+        "She was a partner at Helen's firm.",
+        "She ran a bakery below the meeting room."
+      ],
+      "answerIndex": 1,
+      "evidence": "I spent fifteen years as a business reporter before I started doing this"
+    },
+    {
+      "question": "What does Priya mean when she compares Jae-won to Han Mi-rae?",
+      "options": [
+        "He should invite Han Mi-rae to the summit as a guest speaker.",
+        "He works too late at night and needs more rest.",
+        "Like a controller who won't sign unchecked numbers, he won't speak until he has checked every sentence.",
+        "His numbers are wrong in the same way hers were."
+      ],
+      "answerIndex": 2,
+      "evidence": "Now every sentence feels like a signature, so you audit it before you let it out."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Where I struggle is the first few seconds.",
+      "I tend to draft the whole answer before I open my mouth.",
+      "Now every sentence feels like a signature, so you audit it before you let it out."
+    ],
+    "summaryPromptKo": "재원이 준비해 온 답이 왜 통하지 않았는지, 재원이 털어놓은 약점이 무엇인지, 프리야가 그 약점을 어떻게 설명했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priya Nair",
+      "en": "You told me your English lets you down. I don't buy it. What actually goes on in your head when somebody asks you something?",
+      "ko": "영어가 발목을 잡는다고 하셨죠. 저는 그 말을 안 믿어요. 누가 뭔가를 물으면 머릿속에서 실제로 무슨 일이 벌어지나요?"
+    },
+    "modelAnswer": "Where I struggle is the first few seconds. I tend to draft the whole answer before I open my mouth, and then I go back and fix it. By the time it's ready, everyone is staring at me. It isn't really about my grammar or my vocabulary, because I usually know the answer. I trained as an accountant, so every sentence feels like something I have to check before I sign it."
+  },
+  "nextTeaserKo": "진짜 두려움을 묻는 프리야에게 재원은 뭐라고 답할까. 훈련은 예고 없이 시작되고, 마지막 질문 하나가 계단을 내려가는 재원을 따라온다.",
+  "roleplay": {
+    "title": "빵집 위층, 코치와의 첫 세션",
+    "situationKo": "테이블 하나, 의자 둘, Priya의 휴대폰이 녹음 중입니다. 내가 재원이 되어 어디서 막히는지 말해 봅니다. 첫 답이 준비한 말처럼 들려도 괜찮아요. 다시 해 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "No slides, good, and you can close the notebook as well. While you were silent, what were you afraid they'd find out?",
+        "ko": "슬라이드가 없네요, 좋아요. 노트도 덮으세요. 침묵하는 동안, 사람들이 뭘 알아낼까 봐 두려웠나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "To be honest, my English lets me down under pressure.",
+        "ko": "솔직히, 압박을 받으면 영어가 저를 배신합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "That was a grammatically perfect sentence about how bad your English is. Try again. What actually goes on in your head when somebody asks you something?",
+        "ko": "영어가 얼마나 형편없는지를 문법적으로 완벽하게 말했네요. 다시 해 보세요. 누가 뭔가를 물으면 머릿속에서 실제로 무슨 일이 벌어지나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Where I struggle is the first few seconds.",
+        "ko": "제가 어려워하는 부분은 처음 몇 초입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Go on.",
+        "ko": "계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I tend to draft the whole answer first, then fix it, and by then everyone's staring at me.",
+        "ko": "저는 답 전체를 먼저 짜고 고치는 경향이 있어서, 그때쯤이면 다들 저를 쳐다보고 있어요.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Better. You don't freeze when you don't know the answer. You freeze when you do know it and it's going to cost you something.",
+        "ko": "낫네요. 답을 몰라서 얼어붙는 게 아니에요. 답을 아는데 그 답에 대가가 따를 때 얼어붙는 거죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Cost me something. Okay, keep going.",
+        "ko": "대가가 따른다라. 네, 계속해 주세요.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "You trained as an accountant, so now every sentence feels like a signature, and you audit it before you let it out. So what's the real fear?",
+        "ko": "회계사 출신이니 이제 모든 문장이 서명처럼 느껴져서, 내보내기 전에 감사를 하는 거예요. 그래서 진짜 두려움이 뭐죠?"
+      }
+    ]
+  }
+}

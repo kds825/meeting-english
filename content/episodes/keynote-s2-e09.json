@@ -1,0 +1,431 @@
+{
+  "id": "keynote-s2-e09",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 9,
+  "title": "Kickoff",
+  "recapKo": "14조 협상에서 재원은 상한 140만 달러와 공급업체 시스템 제외를 얻고, 대신 파일럿 가동 전 자신과 운영 총괄의 서명을 넣었다. 공급업체 상한이 모자랄 때 차액을 누가 낼지는 \"신의성실 협의\"로 남았다. 계약은 서명됐지만 웨이링에게 말한 사람은 없었다. \"월요일에 우리 직원들 앞에서 이유를 설명하세요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "The purpose of today is ~",
+      "meaningKo": "오늘의 목적은 ~입니다",
+      "usage": "The purpose of today is to agree on who does what."
+    },
+    {
+      "phrase": "You have every reason to ~",
+      "meaningKo": "~하시는 것도 당연합니다",
+      "usage": "You have every reason to doubt this after last year."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 215,
+      "paragraphs": [
+        {
+          "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice. Daniel carried a box of printed pages, because there was no projector. Jae-won found Wei Ling and said that he owed her an apology. \"You do,\" she said. \"In front of them.\"",
+          "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥 냄새가 났다. 프로젝터가 없어서 대니얼은 인쇄물 상자를 들고 왔다. 재원은 웨이링을 찾아가 사과할 일이 있다고 말했다. \"그렇죠.\" 그녀가 말했다. \"저 사람들 앞에서요.\""
+        },
+        {
+          "en": "At two, he stood in front of most of the sixty-four people who keyed documents at Tuas, and Grace stood at the back by a vending machine. \"The purpose of today is to tell you what this project is and what it isn't,\" he said. \"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, and seven thousand hand-keyed documents a month down to two thousand.\"",
+          "ko": "2시, 그는 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 뒤쪽 자판기 옆에 서 있었다. \"오늘의 목적은 이 프로젝트가 무엇이고 무엇이 아닌지 말씀드리는 것입니다.\" 그가 말했다. \"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 그리고 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다.\""
+        },
+        {
+          "en": "Wei Ling stood up. \"Page thirty-one of your contract says that nothing runs until I sign, and nobody asked me,\" she said. \"If your machine fails, my name is on it, so why did you do that?\"",
+          "ko": "웨이링이 일어섰다. \"계약서 31쪽에 제가 서명하기 전에는 아무것도 돌아가지 않는다고 되어 있는데, 아무도 제게 묻지 않았어요.\" 그녀가 말했다. \"그 기계가 실패하면 제 이름이 거기 있는 거죠. 왜 그러셨어요?\""
+        },
+        {
+          "en": "He took three seconds and didn't look at Grace. \"That's on me, because I should have come to you first,\" he said. \"You'll know before I do if it isn't ready. You have every reason to be suspicious of me.\"",
+          "ko": "그는 3초를 썼고 그레이스를 돌아보지 않았다. \"제 잘못입니다. 먼저 찾아뵈었어야 했습니다.\" 그가 말했다. \"준비가 안 됐다면 저보다 먼저 아실 겁니다. 저를 의심하시는 것도 당연합니다.\""
+        },
+        {
+          "en": "\"I'm not finished,\" she said. \"Five thousand documents are work that my people do today, so how many of the sixty-four lose their jobs?\"",
+          "ko": "\"아직 안 끝났어요.\" 그녀가 말했다. \"5천 건은 지금 우리 직원들이 하는 일이에요. 64명 중 몇 명이 일자리를 잃나요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The purpose of today is",
+        "You have every reason to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice.",
+            "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥 냄새가 났다."
+          }
+        },
+        {
+          "term": "projector",
+          "surface": "projector",
+          "meaningKo": "프로젝터",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Daniel carried a box of printed pages, because there was no projector.",
+            "ko": "프로젝터가 없어서 대니얼은 인쇄물 상자를 들고 왔다."
+          }
+        },
+        {
+          "term": "apology",
+          "surface": "apology",
+          "meaningKo": "사과",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won found Wei Ling and said that he owed her an apology.",
+            "ko": "재원은 웨이링을 찾아가 사과할 일이 있다고 말했다."
+          }
+        },
+        {
+          "term": "vending machine",
+          "surface": "vending machine",
+          "meaningKo": "자판기",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At two, he stood in front of most of the sixty-four people who keyed documents at Tuas, and Grace stood at the back by a vending machine.",
+            "ko": "2시, 그는 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 뒤쪽 자판기 옆에 서 있었다."
+          }
+        },
+        {
+          "term": "hand-keyed",
+          "surface": "hand-keyed",
+          "meaningKo": "손으로 입력한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, and seven thousand hand-keyed documents a month down to two thousand.\"",
+            "ko": "\"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 그리고 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다.\""
+          }
+        },
+        {
+          "term": "suspicious",
+          "surface": "suspicious",
+          "meaningKo": "의심하는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "You have every reason to be suspicious of me.\"",
+            "ko": "저를 의심하시는 것도 당연합니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 349,
+      "paragraphs": [
+        {
+          "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice and floor cleaner, and the day shift was already filling the plastic chairs. Daniel, who had moved into a rented room the night before, carried a box of printed pages, because there was no projector. Jae-won found Wei Ling by the tea urn and said that he owed her an apology before they started. \"You do,\" she said. \"In front of them.\"",
+          "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥과 바닥 세제 냄새가 났고, 주간조가 벌써 플라스틱 의자를 채우고 있었다. 전날 밤 월세방으로 옮긴 대니얼은 프로젝터가 없어서 인쇄물 상자를 들고 왔다. 재원은 찻물 통 옆에서 웨이링을 찾아 시작 전에 사과할 일이 있다고 말했다. \"그렇죠.\" 그녀가 말했다. \"저 사람들 앞에서요.\""
+        },
+        {
+          "en": "At two, he stood on the floor with no microphone in front of most of the sixty-four people who keyed documents at Tuas, while Grace leaned against a vending machine at the back. \"The purpose of today is to tell you what this project is and what it isn't,\" he said. \"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, here at Tuas, and the target is seven thousand hand-keyed documents a month down to two thousand.\" He handed the page to the front row and stopped talking.",
+          "ko": "2시, 그는 마이크도 없이 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 뒤쪽 자판기에 기대어 있었다. \"오늘의 목적은 이 프로젝트가 무엇이고 무엇이 아닌지 말씀드리는 것입니다.\" 그가 말했다. \"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 여기 투아스에서, 목표는 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다.\" 그는 인쇄물을 앞줄에 건네고 말을 멈췄다."
+        },
+        {
+          "en": "Wei Ling stood up, and the room settled. \"Page thirty-one of your contract says that nothing runs until I sign, and nobody asked me,\" she said in a pleasant voice. \"So when your machine fails, that's my name on it, and if I refuse, I'm the woman who stopped the boss's project. Why did you do that?\"",
+          "ko": "웨이링이 일어서자 방이 가라앉았다. \"계약서 31쪽에 제가 서명하기 전에는 아무것도 돌아가지 않는다고 되어 있는데, 아무도 제게 묻지 않았어요.\" 그녀가 상냥한 목소리로 말했다. \"그러니 그 기계가 실패하면 제 이름이 거기 있고, 거부하면 저는 상사의 프로젝트를 막은 여자가 되죠. 왜 그러셨어요?\""
+        },
+        {
+          "en": "He took three seconds and didn't look at the vending machine. \"That's on me, because I put your name in a contract without talking to you, and I should have come to you first,\" he said. \"I did it because you'll know before I do if it isn't ready. You have every reason to be suspicious of anyone who says otherwise. If you'd rather take your name out, I'll ask Grace to reopen it today.\"",
+          "ko": "그는 3초를 썼고 자판기 쪽을 돌아보지 않았다. \"제 잘못입니다. 말씀도 드리지 않고 계약서에 이름을 넣었고, 먼저 찾아뵈었어야 했습니다.\" 그가 말했다. \"그렇게 한 건 준비가 안 됐다면 저보다 먼저 아실 분이기 때문입니다. 그렇지 않다고 말하는 사람을 의심하시는 것도 당연합니다. 이름을 빼고 싶으시면 오늘 그레이스에게 다시 열어 달라고 하겠습니다.\""
+        },
+        {
+          "en": "\"I'm not finished,\" Wei Ling said. \"Seven thousand down to two thousand is five thousand documents that my people key every month today, so how many of the sixty-four lose their jobs?\" It was the question he had practiced on the plane, and none of his practice answers survived it.",
+          "ko": "\"아직 안 끝났어요.\" 웨이링이 말했다. \"7천 건에서 2천 건이면 지금 우리 직원들이 매달 입력하는 서류 5천 건이에요. 64명 중 몇 명이 일자리를 잃나요?\" 비행기에서 연습한 질문이었지만, 연습한 답은 하나도 살아남지 못했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "The purpose of today is",
+        "You have every reason to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "rented",
+          "surface": "rented",
+          "meaningKo": "임대한, 세 든",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Daniel, who had moved into a rented room the night before, carried a box of printed pages, because there was no projector.",
+            "ko": "전날 밤 월세방으로 옮긴 대니얼은 프로젝터가 없어서 인쇄물 상자를 들고 왔다."
+          }
+        },
+        {
+          "term": "urn",
+          "surface": "urn",
+          "meaningKo": "(큰) 찻물 통",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won found Wei Ling by the tea urn and said that he owed her an apology before they started.",
+            "ko": "재원은 찻물 통 옆에서 웨이링을 찾아 시작 전에 사과할 일이 있다고 말했다."
+          }
+        },
+        {
+          "term": "vending machine",
+          "surface": "vending machine",
+          "meaningKo": "자판기",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At two, he stood on the floor with no microphone in front of most of the sixty-four people who keyed documents at Tuas, while Grace leaned against a vending machine at the back.",
+            "ko": "2시, 그는 마이크도 없이 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 뒤쪽 자판기에 기대어 있었다."
+          }
+        },
+        {
+          "term": "hand-keyed",
+          "surface": "hand-keyed",
+          "meaningKo": "손으로 입력한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, here at Tuas, and the target is seven thousand hand-keyed documents a month down to two thousand.\"",
+            "ko": "\"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 여기 투아스에서, 목표는 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다.\""
+          }
+        },
+        {
+          "term": "settle",
+          "surface": "settled",
+          "meaningKo": "가라앉다, 조용해지다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Wei Ling stood up, and the room settled.",
+            "ko": "웨이링이 일어서자 방이 가라앉았다."
+          }
+        },
+        {
+          "term": "suspicious",
+          "surface": "suspicious",
+          "meaningKo": "의심하는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "You have every reason to be suspicious of anyone who says otherwise.",
+            "ko": "그렇지 않다고 말하는 사람을 의심하시는 것도 당연합니다."
+          }
+        },
+        {
+          "term": "reopen",
+          "surface": "reopen",
+          "meaningKo": "다시 열다, 재협상하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If you'd rather take your name out, I'll ask Grace to reopen it today.\"",
+            "ko": "이름을 빼고 싶으시면 오늘 그레이스에게 다시 열어 달라고 하겠습니다.\""
+          }
+        },
+        {
+          "term": "survive",
+          "surface": "survived",
+          "meaningKo": "살아남다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "It was the question he had practiced on the plane, and none of his practice answers survived it.",
+            "ko": "비행기에서 연습한 질문이었지만, 연습한 답은 하나도 살아남지 못했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 493,
+      "paragraphs": [
+        {
+          "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice and floor cleaner, and the day shift was already filling the plastic chairs in their orange vests, with the air of people who'd sat through several initiatives. Daniel, who had moved into a rented room the night before and looked it, carried a box of printed pages, because there was no projector and Wei Ling's office had declined to find one. Jae-won found her by the tea urn and said that he owed her an apology before they started, preferably somewhere quieter. \"You do,\" she said, without turning around. \"In front of them.\"",
+          "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥과 바닥 세제 냄새가 났고, 주황색 조끼를 입은 주간조가 이런저런 혁신 사업을 여러 번 앉아서 견뎌 본 사람들의 분위기로 벌써 플라스틱 의자를 채우고 있었다. 전날 밤 월세방으로 옮긴 티가 나는 대니얼은 인쇄물 상자를 들고 왔다. 프로젝터가 없었고 웨이링의 사무실이 구해 주기를 사양했기 때문이다. 재원은 찻물 통 옆에서 그녀를 찾아, 시작 전에 되도록 조용한 곳에서 사과할 일이 있다고 말했다. \"그렇죠.\" 그녀가 돌아보지 않고 말했다. \"저 사람들 앞에서요.\""
+        },
+        {
+          "en": "At two, he stood on the floor with no microphone in front of most of the sixty-four people who keyed documents at Tuas, while Grace leaned against a vending machine at the back as if she'd merely come for a drink. \"The purpose of today is to tell you what this project is and what it isn't. I'll need about four minutes,\" he said. \"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, here at Tuas, and the target is seven thousand hand-keyed documents a month down to two thousand, which you'll hear about until you're sick of it.\" He handed the page to the front row and stopped talking, which appeared to surprise them more than anything he had said.",
+          "ko": "2시, 그는 마이크도 없이 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 음료수나 뽑으러 온 사람처럼 뒤쪽 자판기에 기대어 있었다. \"오늘의 목적은 이 프로젝트가 무엇이고 무엇이 아닌지 말씀드리는 것입니다. 4분쯤 걸립니다.\" 그가 말했다. \"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 여기 투아스에서, 목표는 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다. 지겹도록 듣게 되실 숫자입니다.\" 그는 인쇄물을 앞줄에 건네고 말을 멈췄는데, 그들은 그가 한 어떤 말보다 그 점에 더 놀란 듯했다."
+        },
+        {
+          "en": "Wei Ling stood up, not quickly, and the room settled the way a room does when it knows what's coming. \"Page thirty-one of your contract says that nothing runs until I sign, and nobody asked me. Not you, not my own boss, not the very polite lawyer,\" she said in a pleasant voice. \"So when your machine fails, that's my name on it, and if I refuse, I'm the woman who stopped the boss's project in front of her whole board. Why did you do that?\"",
+          "ko": "웨이링이 서두르지 않고 일어섰고, 무슨 일이 벌어질지 아는 방이 그렇듯 가라앉았다. \"계약서 31쪽에 제가 서명하기 전에는 아무것도 돌아가지 않는다고 되어 있는데, 아무도 제게 묻지 않았어요. 당신도, 제 상사도, 그 아주 정중한 변호사도요.\" 그녀가 상냥한 목소리로 말했다. \"그러니 그 기계가 실패하면 제 이름이 거기 있고, 거부하면 저는 이사회 전체 앞에서 상사의 프로젝트를 막은 여자가 되죠. 왜 그러셨어요?\""
+        },
+        {
+          "en": "He took three seconds and didn't look at the vending machine, although every muscle in his neck suggested it. \"That's on me, because I put your name in a contract without talking to you, and I should have come to you first, and there isn't a clever version of that,\" he said. \"I did it because you'll know before I do if it isn't ready. You have every reason to be suspicious of anyone who says otherwise, including me. If you'd rather take your name out, I'll ask Grace to reopen it today, and I'll tell her why.\"",
+          "ko": "그는 3초를 썼고, 목의 근육이 전부 돌아보라고 했지만 자판기 쪽을 보지 않았다. \"제 잘못입니다. 말씀도 드리지 않고 계약서에 이름을 넣었고, 먼저 찾아뵈었어야 했습니다. 달리 그럴듯하게 말할 방법은 없습니다.\" 그가 말했다. \"그렇게 한 건 준비가 안 됐다면 저보다 먼저 아실 분이기 때문입니다. 그렇지 않다고 말하는 사람을 의심하시는 것도 당연합니다. 저를 포함해서요. 이름을 빼고 싶으시면 오늘 그레이스에게 다시 열어 달라고 하고, 이유도 말하겠습니다.\""
+        },
+        {
+          "en": "\"I'm not finished,\" Wei Ling said, and a few people near the front looked pleased about that. \"Seven thousand down to two thousand is five thousand documents that my people key every month today, so let's skip the slide you don't have and tell me how many of the sixty-four lose their jobs.\" It was the question he had practiced on the plane, in four versions, and none of his practice answers survived contact with the actual faces.",
+          "ko": "\"아직 안 끝났어요.\" 웨이링이 말했고, 앞쪽의 몇 사람이 그 말에 흡족해 보였다. \"7천 건에서 2천 건이면 지금 우리 직원들이 매달 입력하는 서류 5천 건이에요. 그러니 있지도 않은 슬라이드는 건너뛰고, 64명 중 몇 명이 일자리를 잃는지 말해 보세요.\" 비행기에서 네 가지로 연습한 질문이었지만, 연습한 답은 실제 얼굴들 앞에서 하나도 살아남지 못했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "The purpose of today is",
+        "You have every reason to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "vest",
+          "surface": "vests",
+          "meaningKo": "조끼",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice and floor cleaner, and the day shift was already filling the plastic chairs in their orange vests, with the air of people who'd sat through several initiatives.",
+            "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥과 바닥 세제 냄새가 났고, 주황색 조끼를 입은 주간조가 이런저런 혁신 사업을 여러 번 앉아서 견뎌 본 사람들의 분위기로 벌써 플라스틱 의자를 채우고 있었다."
+          }
+        },
+        {
+          "term": "initiative",
+          "surface": "initiatives",
+          "meaningKo": "(새) 사업, 계획",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at 1:30, the Tuas canteen smelled of fried rice and floor cleaner, and the day shift was already filling the plastic chairs in their orange vests, with the air of people who'd sat through several initiatives.",
+            "ko": "월요일 1시 30분, 투아스 구내식당에서는 볶음밥과 바닥 세제 냄새가 났고, 주황색 조끼를 입은 주간조가 이런저런 혁신 사업을 여러 번 앉아서 견뎌 본 사람들의 분위기로 벌써 플라스틱 의자를 채우고 있었다."
+          }
+        },
+        {
+          "term": "decline",
+          "surface": "declined",
+          "meaningKo": "사양하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Daniel, who had moved into a rented room the night before and looked it, carried a box of printed pages, because there was no projector and Wei Ling's office had declined to find one.",
+            "ko": "전날 밤 월세방으로 옮긴 티가 나는 대니얼은 인쇄물 상자를 들고 왔다. 프로젝터가 없었고 웨이링의 사무실이 구해 주기를 사양했기 때문이다."
+          }
+        },
+        {
+          "term": "lean against",
+          "surface": "leaned against",
+          "meaningKo": "~에 기대다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At two, he stood on the floor with no microphone in front of most of the sixty-four people who keyed documents at Tuas, while Grace leaned against a vending machine at the back as if she'd merely come for a drink.",
+            "ko": "2시, 그는 마이크도 없이 투아스에서 서류를 입력하는 64명 대부분 앞에 섰고, 그레이스는 음료수나 뽑으러 온 사람처럼 뒤쪽 자판기에 기대어 있었다."
+          }
+        },
+        {
+          "term": "hand-keyed",
+          "surface": "hand-keyed",
+          "meaningKo": "손으로 입력한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Let's be clear on what's in and what's out: it's sixteen weeks, three document types, here at Tuas, and the target is seven thousand hand-keyed documents a month down to two thousand, which you'll hear about until you're sick of it.\"",
+            "ko": "\"무엇이 포함되고 무엇이 빠지는지 분명히 하죠. 16주, 서류 세 종류, 여기 투아스에서, 목표는 손으로 입력하는 서류를 한 달 7천 건에서 2천 건으로 줄이는 것입니다. 지겹도록 듣게 되실 숫자입니다.\""
+          }
+        },
+        {
+          "term": "reopen",
+          "surface": "reopen",
+          "meaningKo": "다시 열다, 재협상하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "If you'd rather take your name out, I'll ask Grace to reopen it today, and I'll tell her why.\"",
+            "ko": "이름을 빼고 싶으시면 오늘 그레이스에게 다시 열어 달라고 하고, 이유도 말하겠습니다.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many people key documents at Tuas?",
+      "options": [
+        "Sixteen",
+        "Forty",
+        "Sixty-four",
+        "Eight hundred"
+      ],
+      "answerIndex": 2,
+      "evidence": "most of the sixty-four people who keyed documents at Tuas"
+    },
+    {
+      "question": "Why does Jae-won say \"That's on me\" at the start of his answer?",
+      "options": [
+        "He accepts the mistake directly, because excuses wouldn't work with this audience",
+        "He is trying to end the meeting early",
+        "He wants Grace to take the blame",
+        "He has been told to by his lawyer"
+      ],
+      "answerIndex": 0,
+      "evidence": "That's on me, because I put your name in a contract without talking to you"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "The purpose of today is to tell you what this project is and what it isn't.",
+      "That's on me.",
+      "You have every reason to be suspicious of anyone who says otherwise."
+    ],
+    "summaryPromptKo": "재원이 직원들에게 프로젝트를 어떻게 설명했는지, 웨이링이 어떤 질문을 던졌는지, 재원이 무엇을 인정했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Wei Ling Tan",
+      "en": "Page thirty-one of your contract says that nothing runs until I sign, and nobody asked me. Why did you do that?",
+      "ko": "계약서 31쪽에 제가 서명하기 전에는 아무것도 돌아가지 않는다고 되어 있는데, 아무도 제게 묻지 않았어요. 왜 그러셨어요?"
+    },
+    "modelAnswer": "That's on me, because I put your name in a contract without talking to you, and I should have come to you first. I did it because you'll know before I do if it isn't ready. You have every reason to be suspicious of anyone who says otherwise. If you'd rather take your name out, I'll ask Grace to reopen it today."
+  },
+  "nextTeaserKo": "64명이 지켜보는 가운데 나온 질문에 재원이 할 수 있는 약속은 많지 않다. 웨이링은 돌아서서 그레이스를 부르고, 쉬는 시간이 끝나기 전에 누군가 재원의 인쇄물을 들어 보인다.",
+  "roleplay": {
+    "title": "저 사람들 앞에서",
+    "situationKo": "월요일 2시, 투아스 구내식당입니다. 직원들과 그레이스가 지켜보는 가운데 웨이링이 일어섰어요. 오늘의 목적을 말하고, 실수는 그대로 인정해 보세요. 정답은 없습니다.",
+    "lines": [
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You wanted a word before we start?",
+        "ko": "시작 전에 할 말이 있다고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Yes. I owe you an apology.",
+        "ko": "네. 사과드릴 일이 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You do. In front of them. Go on.",
+        "ko": "그렇죠. 저 사람들 앞에서요. 하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The purpose of today is to tell you what this project is and what it isn't.",
+        "ko": "오늘의 목적은 이 프로젝트가 무엇이고 무엇이 아닌지 말씀드리는 것입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Then start with page thirty-one. It says nothing runs until I sign, and nobody asked me.",
+        "ko": "그럼 31쪽부터 시작하죠. 제가 서명하기 전에는 아무것도 돌아가지 않는다는데, 아무도 제게 묻지 않았어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's on me. I should have come to you first, and I'm sorry I didn't.",
+        "ko": "제 잘못입니다. 먼저 찾아뵈었어야 했고, 그러지 못해 죄송합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "So why is my name there?",
+        "ko": "그럼 제 이름은 왜 거기 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Because you'll know before I do if it isn't ready. You have every reason to doubt that, I know.",
+        "ko": "준비가 안 됐다면 저보다 먼저 아실 테니까요. 의심하시는 것도 당연합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "And if I'd rather not have it there?",
+        "ko": "제 이름을 거기 두고 싶지 않다면요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I'll ask Grace to reopen it today.",
+        "ko": "그럼 오늘 그레이스에게 다시 열어 달라고 하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "I'm not finished. Seven thousand down to two thousand. How many of the sixty-four lose their jobs?",
+        "ko": "아직 안 끝났어요. 7천 건에서 2천 건이면, 64명 중 몇 명이 일자리를 잃나요?"
+      }
+    ]
+  }
+}

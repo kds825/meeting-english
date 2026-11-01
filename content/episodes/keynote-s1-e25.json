@@ -1,0 +1,464 @@
+{
+  "id": "keynote-s1-e25",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 25,
+  "title": "The Error",
+  "recapKo": "사전 콜에서 이선은 끼어들고 몰아붙였지만 재원은 속도를 지켰고, 가장 긴 침묵은 3초였다. 마지막 질문 \"성공한 11곳도 똑같이 확인했나요?\"에는 \"아니요\"라고 답하고 목요일까지 답을 주겠다고 했다. 마커스는 다음 소식을 재원에게서 직접 듣겠다고 했고, 대니얼은 38번 행에서 멈췄다.",
+  "keyExpressions": [
+    {
+      "phrase": "I need to flag something.",
+      "meaningKo": "말씀드려야 할 문제가 하나 있습니다.",
+      "usage": "I need to flag something before we send this to the client."
+    },
+    {
+      "phrase": "Here's what happened.",
+      "meaningKo": "경위는 이렇습니다.",
+      "usage": "Here's what happened: the file we sent was the old version."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 219,
+      "paragraphs": [
+        {
+          "en": "Row thirty-eight was SM Foodworks, a success from the old tracker. \"I need to flag something,\" Daniel said, and he scrolled up to row six, Seomun Foods, also on the success side. \"It's the same business registration number, so I think one company was counted twice,\" he said. Jae-won asked, \"Can we verify that?\"",
+          "ko": "38번 행은 예전 트래커에서 온 성공 사례 SM푸드웍스였다. \"말씀드려야 할 문제가 하나 있어요.\" 대니얼이 그렇게 말하고 역시 성공 쪽에 있는 6번 행 서문식품으로 올라갔다. \"사업자 등록 번호가 같아요. 한 회사를 두 번 센 것 같아요.\" 그가 말했다. 재원이 물었다. \"확인할 수 있나요?\""
+        },
+        {
+          "en": "While Daniel made calls, Jae-won found row fourteen's closing report. By eleven, SM's finance team had confirmed it: the company had changed its name four years ago, and both rows were the same pilot. Oh Sang-woo said he had typed it twice. \"Here's what happened: we counted one pilot twice,\" Daniel said.",
+          "ko": "대니얼이 전화를 돌리는 동안 재원은 14번 행의 종료 보고서를 찾았다. 11시쯤 SM의 재무팀이 확인해 주었다. 회사가 4년 전 이름을 바꿨고, 두 행은 같은 파일럿이었다. 오상우는 두 번 입력했다고 했다. \"경위는 이렇네요. 파일럿 하나를 두 번 센 거예요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "\"As it stands, it's thirty-one out of forty-one,\" Daniel said. Then he moved to the review column and stopped. The initials for that quarter were KJW. \"That's you,\" he said quietly. Three years ago, Jae-won had signed the quarterly summary without opening a single row.",
+          "ko": "\"현재로서는 41곳 중 31곳이에요.\" 대니얼이 말했다. 그러고는 검토란으로 옮겨 가다 멈췄다. 그 분기의 이니셜은 KJW였다. \"재원 님이네요.\" 그가 조용히 말했다. 3년 전, 재원은 행 하나 열어 보지 않고 분기 요약에 서명했던 것이다."
+        },
+        {
+          "en": "Yuna came down. \"The rate goes from seventy-four percent to seventy-six, so it helps you,\" she said. \"To be honest, I'd fix the number quietly, because who will notice one company?\" Jae-won said, \"I told Marcus he would hear it from me.\"",
+          "ko": "유나가 내려왔다. \"비율이 74%에서 76%로 올라가니 오히려 도움이 되잖아요.\" 그녀가 말했다. \"솔직히 저라면 조용히 숫자만 고치겠어요. 회사 하나 차이를 누가 알아채겠어요?\" 재원이 말했다. \"마커스에게 제게서 듣게 될 거라고 했어요.\""
+        },
+        {
+          "en": "Helen was still in the air, so there was nobody to ask. He wrote one page with four headings, and at one o'clock, he called Singapore.",
+          "ko": "헬렌은 아직 공중에 있었으므로 물어볼 사람이 없었다. 그는 항목 네 개로 한 장을 정리하고, 1시에 싱가포르로 전화했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I need to flag something",
+        "Here's what happened"
+      ],
+      "wordCandidates": [
+        {
+          "term": "registration number",
+          "surface": "registration number",
+          "meaningKo": "등록 번호",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It's the same business registration number, so I think one company was counted twice,\" he said.",
+            "ko": "\"사업자 등록 번호가 같아요. 한 회사를 두 번 센 것 같아요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "closing report",
+          "surface": "closing report",
+          "meaningKo": "종료 보고서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "While Daniel made calls, Jae-won found row fourteen's closing report.",
+            "ko": "대니얼이 전화를 돌리는 동안 재원은 14번 행의 종료 보고서를 찾았다."
+          }
+        },
+        {
+          "term": "review column",
+          "surface": "review column",
+          "meaningKo": "검토란",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then he moved to the review column and stopped.",
+            "ko": "그러고는 검토란으로 옮겨 가다 멈췄다."
+          }
+        },
+        {
+          "term": "initials",
+          "surface": "initials",
+          "meaningKo": "이니셜, 약식 서명",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The initials for that quarter were KJW.",
+            "ko": "그 분기의 이니셜은 KJW였다."
+          }
+        },
+        {
+          "term": "quarterly",
+          "surface": "quarterly summary",
+          "meaningKo": "분기 요약",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Three years ago, Jae-won had signed the quarterly summary without opening a single row.",
+            "ko": "3년 전, 재원은 행 하나 열어 보지 않고 분기 요약에 서명했던 것이다."
+          }
+        },
+        {
+          "term": "rate",
+          "surface": "The rate",
+          "meaningKo": "비율",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"The rate goes from seventy-four percent to seventy-six, so it helps you,\" she said.",
+            "ko": "\"비율이 74%에서 76%로 올라가니 오히려 도움이 되잖아요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "heading",
+          "surface": "headings",
+          "meaningKo": "(문서의) 항목, 소제목",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He wrote one page with four headings, and at one o'clock, he called Singapore.",
+            "ko": "그는 항목 네 개로 한 장을 정리하고, 1시에 싱가포르로 전화했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 367,
+      "paragraphs": [
+        {
+          "en": "Row thirty-eight was SM Foodworks, one of the two successes that had come from the old tracker, and Daniel scrolled back up to row six, Seomun Foods, which sat on the same side of the sheet with a signed closing report behind it. \"I need to flag something. It's the same business registration number. I think we've got one company under two names, and we've been counting it twice,\" he said. Jae-won's stomach dropped, and he asked, \"Can we verify that?\"",
+          "ko": "38번 행은 예전 트래커에서 온 성공 사례 두 건 중 하나인 SM푸드웍스였고, 대니얼은 시트의 같은 쪽에 서명된 종료 보고서를 달고 있는 6번 행 서문식품으로 다시 올라갔다. \"말씀드려야 할 문제가 하나 있어요. 사업자 등록 번호가 같아요. 한 회사가 이름 두 개로 들어가 있고, 그걸 두 번 세어 온 것 같아요.\" 그가 말했다. 재원은 속이 내려앉는 걸 느끼며 물었다. \"확인할 수 있나요?\""
+        },
+        {
+          "en": "Daniel spent the next hour on the phone, while Jae-won dug row fourteen's closing report out of the archive, which at least settled that one. By eleven, SM's finance team had confirmed it: the company had rebranded four years ago, and both rows described the same pilot. Oh Sang-woo, when they finally got him, laughed and said that he had probably keyed it in twice by accident. \"Here's what happened: we counted one pilot twice,\" Daniel said.",
+          "ko": "대니얼은 그 뒤 한 시간을 전화로 보냈고, 재원은 보관함에서 14번 행의 종료 보고서를 찾아냈다. 적어도 그 건은 해결됐다. 11시쯤 SM의 재무팀이 확인해 주었다. 회사가 4년 전 이름을 바꿨고, 두 행은 같은 파일럿이었다. 마침내 연락이 닿은 오상우는 웃으며 아마 실수로 두 번 입력했을 거라고 했다. \"경위는 이렇네요. 파일럿 하나를 두 번 센 거예요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "\"As it stands, it's thirty-one out of forty-one, not forty-two,\" Daniel said. Then he moved across to the review column, which nobody had ever looked at, and his hand stopped on the mouse. For that quarter, the reviewer's initials were KJW. \"That's you,\" he said quietly. The worst part was that Jae-won remembered nothing, because he had signed off on the quarterly roll-up three years ago without opening a single row.",
+          "ko": "\"현재로서는 42곳이 아니라 41곳 중 31곳이에요.\" 대니얼이 말했다. 그러고는 아무도 본 적 없는 검토란으로 옮겨 갔는데, 마우스 위의 손이 멈췄다. 그 분기 검토자의 이니셜은 KJW였다. \"재원 님이네요.\" 그가 조용히 말했다. 최악은 재원이 아무것도 기억하지 못한다는 것이었다. 3년 전 그는 행 하나 열어 보지 않고 분기 취합본을 승인했던 것이다."
+        },
+        {
+          "en": "Yuna came down from the fourteenth floor as soon as she heard, and she did the math standing up. \"The rate goes from seventy-four percent to seventy-six, so if anything, it helps you,\" she said. \"To be honest, I'd fix the number and not make a production of it, because who exactly is going to notice one company?\" Jae-won looked at the initials. \"I told Marcus he'd hear it from me, and I'm the guy telling eight hundred people to build for the person who signs,\" he said.",
+          "ko": "소식을 듣자마자 유나가 14층에서 내려와 선 채로 계산을 했다. \"비율이 74%에서 76%로 올라가니, 굳이 따지면 도움이 되잖아요.\" 그녀가 말했다. \"솔직히 저라면 숫자만 고치고 일을 키우지 않겠어요. 회사 하나 차이를 대체 누가 알아채겠어요?\" 재원은 이니셜을 바라봤다. \"마커스에게 제게서 듣게 될 거라고 했어요. 그리고 800명에게 서명하는 사람을 위해 만들라고 말하는 사람이 저잖아요.\" 그가 말했다."
+        },
+        {
+          "en": "Helen was somewhere over the Pacific, so there was nobody to ask and nobody to hide behind. He took one sheet of paper and wrote four headings on it, what happened, the impact, the fix and the timing, and at one o'clock, after reading it through twice, he called Singapore.",
+          "ko": "헬렌은 태평양 위 어딘가에 있었으니, 물어볼 사람도 뒤에 숨을 사람도 없었다. 그는 종이 한 장에 경위, 영향, 해결책, 일정이라는 항목 네 개를 썼고, 두 번 읽어 본 뒤 1시에 싱가포르로 전화했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I need to flag something",
+        "Here's what happened"
+      ],
+      "wordCandidates": [
+        {
+          "term": "sit",
+          "surface": "sat on the same side",
+          "meaningKo": "(자료상) ~에 들어 있다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Row thirty-eight was SM Foodworks, one of the two successes that had come from the old tracker, and Daniel scrolled back up to row six, Seomun Foods, which sat on the same side of the sheet with a signed closing report behind it.",
+            "ko": "38번 행은 예전 트래커에서 온 성공 사례 두 건 중 하나인 SM푸드웍스였고, 대니얼은 시트의 같은 쪽에 서명된 종료 보고서를 달고 있는 6번 행 서문식품으로 다시 올라갔다."
+          }
+        },
+        {
+          "term": "dig out",
+          "surface": "dug",
+          "meaningKo": "찾아내다, 파내다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel spent the next hour on the phone, while Jae-won dug row fourteen's closing report out of the archive, which at least settled that one.",
+            "ko": "대니얼은 그 뒤 한 시간을 전화로 보냈고, 재원은 보관함에서 14번 행의 종료 보고서를 찾아냈다. 적어도 그 건은 해결됐다."
+          }
+        },
+        {
+          "term": "rebrand",
+          "surface": "rebranded",
+          "meaningKo": "회사·브랜드 이름을 바꾸다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "By eleven, SM's finance team had confirmed it: the company had rebranded four years ago, and both rows described the same pilot.",
+            "ko": "11시쯤 SM의 재무팀이 확인해 주었다. 회사가 4년 전 이름을 바꿨고, 두 행은 같은 파일럿이었다."
+          }
+        },
+        {
+          "term": "key in",
+          "surface": "keyed it in",
+          "meaningKo": "입력하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Oh Sang-woo, when they finally got him, laughed and said that he had probably keyed it in twice by accident.",
+            "ko": "마침내 연락이 닿은 오상우는 웃으며 아마 실수로 두 번 입력했을 거라고 했다."
+          }
+        },
+        {
+          "term": "roll-up",
+          "surface": "roll-up",
+          "meaningKo": "취합본, 집계 보고",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The worst part was that Jae-won remembered nothing, because he had signed off on the quarterly roll-up three years ago without opening a single row.",
+            "ko": "최악은 재원이 아무것도 기억하지 못한다는 것이었다. 3년 전 그는 행 하나 열어 보지 않고 분기 취합본을 승인했던 것이다."
+          }
+        },
+        {
+          "term": "do the math",
+          "surface": "did the math",
+          "meaningKo": "계산해 보다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Yuna came down from the fourteenth floor as soon as she heard, and she did the math standing up.",
+            "ko": "소식을 듣자마자 유나가 14층에서 내려와 선 채로 계산을 했다."
+          }
+        },
+        {
+          "term": "make a production of",
+          "surface": "make a production of",
+          "meaningKo": "~을 일부러 크게 만들다, 일을 키우다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"To be honest, I'd fix the number and not make a production of it, because who exactly is going to notice one company?\"",
+            "ko": "\"솔직히 저라면 숫자만 고치고 일을 키우지 않겠어요. 회사 하나 차이를 대체 누가 알아채겠어요?\""
+          }
+        },
+        {
+          "term": "hide behind",
+          "surface": "hide behind",
+          "meaningKo": "~ 뒤에 숨다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Helen was somewhere over the Pacific, so there was nobody to ask and nobody to hide behind.",
+            "ko": "헬렌은 태평양 위 어딘가에 있었으니, 물어볼 사람도 뒤에 숨을 사람도 없었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 497,
+      "paragraphs": [
+        {
+          "en": "Row thirty-eight was SM Foodworks, one of the two successes that had come in off the old tracker, and Daniel scrolled back up to row six, Seomun Foods, which sat on the same side of the sheet with a perfectly respectable signed closing report behind it. \"I need to flag something. It's the same business registration number. Unless two food companies have somehow been issued one number, we've got a single company under two names, and we've been counting it twice since before I got here,\" he said. Jae-won felt his stomach drop through the ninth floor, and he asked, \"Can we verify that?\"",
+          "ko": "38번 행은 예전 트래커에서 들어온 성공 사례 두 건 중 하나인 SM푸드웍스였고, 대니얼은 시트의 같은 쪽에 번듯하게 서명된 종료 보고서를 달고 있는 6번 행 서문식품으로 다시 올라갔다. \"말씀드려야 할 문제가 하나 있어요. 사업자 등록 번호가 같아요. 식품 회사 두 곳이 번호 하나를 받은 게 아니라면, 한 회사가 이름 두 개로 들어가 있고, 제가 오기 전부터 그걸 두 번 세어 온 거죠.\" 그가 말했다. 재원은 속이 9층 바닥 아래로 꺼지는 듯했고, 이렇게 물었다. \"확인할 수 있나요?\""
+        },
+        {
+          "en": "Daniel spent the next hour working the phones, while Jae-won dug row fourteen's closing report out of an archive folder that had been mislabeled with some care, which at least put that one to bed. By eleven, SM's finance team had confirmed the rest: the company had rebranded four years ago, and both rows described the same pilot at the same plant. Oh Sang-woo, when they finally got him on the line, laughed for rather longer than the situation called for. He said that he had probably keyed it in twice by accident, once from each business card. \"Here's what happened: we counted one pilot twice,\" Daniel said.",
+          "ko": "대니얼은 그 뒤 한 시간 동안 전화를 돌렸고, 재원은 정성껏 이름을 잘못 붙여 놓은 보관 폴더에서 14번 행의 종료 보고서를 찾아냈다. 적어도 그 건은 마무리됐다. 11시쯤 SM의 재무팀이 나머지를 확인해 주었다. 회사가 4년 전 이름을 바꿨고, 두 행은 같은 공장의 같은 파일럿이었다. 마침내 전화로 연결된 오상우는 상황에 어울리지 않게 한참을 웃더니, 명함 한 장에 한 번씩, 아마 실수로 두 번 입력했을 거라고 했다. \"경위는 이렇네요. 파일럿 하나를 두 번 센 거예요.\" 대니얼이 말했다."
+        },
+        {
+          "en": "\"As it stands, it's thirty-one out of forty-one, not forty-two, and your title has a typo with eight hundred witnesses,\" Daniel said. Then he tabbed across to the review column, which nobody had ever bothered to look at, and his hand stopped on the mouse. For that quarter, the reviewer's initials were KJW. \"That's you,\" he said quietly. The worst part was that Jae-won remembered nothing whatsoever about it, because three years ago he had signed off on the quarterly roll-up in the time it took to drink a coffee, without opening a single row.",
+          "ko": "\"현재로서는 42곳이 아니라 41곳 중 31곳이고, 제목에 증인 800명짜리 오타가 있는 셈이에요.\" 대니얼이 말했다. 그러고는 아무도 굳이 본 적 없는 검토란으로 탭을 옮겼는데, 마우스 위의 손이 멈췄다. 그 분기 검토자의 이니셜은 KJW였다. \"재원 님이네요.\" 그가 조용히 말했다. 최악은 재원이 아무것도 기억하지 못한다는 것이었다. 3년 전 그는 커피 한 잔 마실 시간에 행 하나 열어 보지 않고 분기 취합본을 승인했던 것이다."
+        },
+        {
+          "en": "Yuna came down from the fourteenth floor as soon as she heard, and she ran the numbers standing up, in her coat. \"The rate goes from seventy-four percent to seventy-six, so if anything, the correction flatters you,\" she said. \"To be honest, I'd fix the number, keep the methodology note tidy and not make a production of it, because who exactly is going to audit one company in a keynote?\" Jae-won looked at the initials for a while. \"I told Marcus he'd hear it from me. I'm also the guy about to tell eight hundred people to build for the person who signs, so I think we both know how that plays if it comes out later,\" he said.",
+          "ko": "소식을 듣자마자 유나가 14층에서 내려와 코트 차림으로 선 채 숫자를 돌려 봤다. \"비율이 74%에서 76%로 올라가니, 굳이 따지면 이번 수정은 재원 님한테 유리해요.\" 그녀가 말했다. \"솔직히 저라면 숫자만 고치고 방법론 메모를 깔끔히 하고 일을 키우지 않겠어요. 키노트에서 회사 하나를 대체 누가 감사하겠어요?\" 재원은 한참 이니셜을 바라봤다. \"마커스에게 제게서 듣게 될 거라고 했어요. 그리고 800명에게 서명하는 사람을 위해 만들라고 말하려는 사람이 저니까, 나중에 드러나면 어떻게 보일지 우리 둘 다 알잖아요.\" 그가 말했다."
+        },
+        {
+          "en": "Helen was somewhere over the Pacific with her phone in airplane mode, so there was nobody to ask and, he noticed, nobody to hide behind. He took one sheet of paper and wrote four headings on it, what happened, the impact, the fix and the timing, the way he had once taught junior auditors to write up a finding, and at one o'clock, after reading it through twice, he called Singapore.",
+          "ko": "헬렌은 비행기 모드로 태평양 위 어딘가에 있었으니, 물어볼 사람도, 그가 깨달았듯 뒤에 숨을 사람도 없었다. 그는 예전에 후배 감사인들에게 지적 사항 작성법을 가르치던 방식 그대로 종이 한 장에 경위, 영향, 해결책, 일정이라는 항목 네 개를 썼고, 두 번 읽어 본 뒤 1시에 싱가포르로 전화했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I need to flag something",
+        "Here's what happened"
+      ],
+      "wordCandidates": [
+        {
+          "term": "respectable",
+          "surface": "respectable",
+          "meaningKo": "번듯한, 제대로 된",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Row thirty-eight was SM Foodworks, one of the two successes that had come in off the old tracker, and Daniel scrolled back up to row six, Seomun Foods, which sat on the same side of the sheet with a perfectly respectable signed closing report behind it.",
+            "ko": "38번 행은 예전 트래커에서 들어온 성공 사례 두 건 중 하나인 SM푸드웍스였고, 대니얼은 시트의 같은 쪽에 번듯하게 서명된 종료 보고서를 달고 있는 6번 행 서문식품으로 다시 올라갔다."
+          }
+        },
+        {
+          "term": "work the phones",
+          "surface": "working the phones",
+          "meaningKo": "여기저기 전화를 돌리다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel spent the next hour working the phones, while Jae-won dug row fourteen's closing report out of an archive folder that had been mislabeled with some care, which at least put that one to bed.",
+            "ko": "대니얼은 그 뒤 한 시간 동안 전화를 돌렸고, 재원은 정성껏 이름을 잘못 붙여 놓은 보관 폴더에서 14번 행의 종료 보고서를 찾아냈다. 적어도 그 건은 마무리됐다."
+          }
+        },
+        {
+          "term": "put to bed",
+          "surface": "put that one to bed",
+          "meaningKo": "(일을) 마무리 짓다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel spent the next hour working the phones, while Jae-won dug row fourteen's closing report out of an archive folder that had been mislabeled with some care, which at least put that one to bed.",
+            "ko": "대니얼은 그 뒤 한 시간 동안 전화를 돌렸고, 재원은 정성껏 이름을 잘못 붙여 놓은 보관 폴더에서 14번 행의 종료 보고서를 찾아냈다. 적어도 그 건은 마무리됐다."
+          }
+        },
+        {
+          "term": "witness",
+          "surface": "witnesses",
+          "meaningKo": "증인, 목격자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"As it stands, it's thirty-one out of forty-one, not forty-two, and your title has a typo with eight hundred witnesses,\" Daniel said.",
+            "ko": "\"현재로서는 42곳이 아니라 41곳 중 31곳이고, 제목에 증인 800명짜리 오타가 있는 셈이에요.\" 대니얼이 말했다."
+          }
+        },
+        {
+          "term": "roll-up",
+          "surface": "roll-up",
+          "meaningKo": "취합본, 집계 보고",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The worst part was that Jae-won remembered nothing whatsoever about it, because three years ago he had signed off on the quarterly roll-up in the time it took to drink a coffee, without opening a single row.",
+            "ko": "최악은 재원이 아무것도 기억하지 못한다는 것이었다. 3년 전 그는 커피 한 잔 마실 시간에 행 하나 열어 보지 않고 분기 취합본을 승인했던 것이다."
+          }
+        },
+        {
+          "term": "flatter",
+          "surface": "flatters",
+          "meaningKo": "(수치 등이) 실제보다 좋아 보이게 하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"The rate goes from seventy-four percent to seventy-six, so if anything, the correction flatters you,\" she said.",
+            "ko": "\"비율이 74%에서 76%로 올라가니, 굳이 따지면 이번 수정은 재원 님한테 유리해요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "write up a finding",
+          "surface": "write up a finding",
+          "meaningKo": "감사 지적 사항을 작성하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He took one sheet of paper and wrote four headings on it, what happened, the impact, the fix and the timing, the way he had once taught junior auditors to write up a finding, and at one o'clock, after reading it through twice, he called Singapore.",
+            "ko": "그는 예전에 후배 감사인들에게 지적 사항 작성법을 가르치던 방식 그대로 종이 한 장에 경위, 영향, 해결책, 일정이라는 항목 네 개를 썼고, 두 번 읽어 본 뒤 1시에 싱가포르로 전화했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was wrong with rows six and thirty-eight?",
+      "options": [
+        "They recorded the same company under two names, counted twice.",
+        "They were failures listed as successes.",
+        "Neither had a registration number.",
+        "Both companies had gone out of business."
+      ],
+      "answerIndex": 0,
+      "evidence": "I think we've got one company under two names, and we've been counting it twice"
+    },
+    {
+      "question": "Why does Jae-won reject Yuna's suggestion to fix the number quietly?",
+      "options": [
+        "He thinks the new rate is worse for his argument.",
+        "He thinks Yuna is trying to take over the keynote.",
+        "Helen ordered him to report every change.",
+        "He promised Marcus, and hiding it would contradict his own message about the person who signs."
+      ],
+      "answerIndex": 3,
+      "evidence": "\"I told Marcus he'd hear it from me, and I'm the guy telling eight hundred people to build for the person who signs,\" he said."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I need to flag something.",
+      "Here's what happened: we counted one pilot twice.",
+      "I told Marcus he'd hear it from me."
+    ],
+    "summaryPromptKo": "어떤 오류가 발견됐는지, 검토란에서 무엇이 나왔는지, 유나의 제안에 재원이 어떻게 답했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Yuna Seo",
+      "en": "The rate goes from seventy-four percent to seventy-six, so it helps you. Why not just fix the number and not make a production of it?",
+      "ko": "비율이 74%에서 76%로 올라가니 도움이 되잖아요. 그냥 숫자만 고치고 일을 키우지 않으면 안 돼요?"
+    },
+    "modelAnswer": "I need to flag something, and I'd rather do it now. Here's what happened: we counted one company twice, and my initials are on the review. You're right that the rate goes up, but that's not the point. I told Marcus he'd hear it from me, and I'm the guy telling eight hundred people to build for the person who signs. So I'm calling him."
+  },
+  "nextTeaserKo": "수화기 너머의 마커스는 \"보고할 것 없습니다\"라는 문자를 받은 사람이다. 그는 재원의 전화를 어떻게 받을까. 이미 세상에 나간 숫자 42는 어떻게 되는 걸까.",
+  "roleplay": {
+    "title": "조용히 고칠 수도 있었다",
+    "situationKo": "숫자에서 오류가 나왔고, 유나는 조용히 고치자고 합니다. 내가 재원이 되어 무슨 일이 있었는지 말하고 어떻게 할지 답해 봅니다. 말이 꼬여도 괜찮아요. 편하게 한 줄씩 해 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "It's the same business registration number. I think we've got one company under two names.",
+        "ko": "사업자 등록 번호가 같아요. 한 회사가 이름 두 개로 들어가 있는 것 같아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Can we verify that?",
+        "ko": "확인할 수 있나요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "It's thirty-one out of forty-one, not forty-two. And look at the review column. The initials are KJW. That's you.",
+        "ko": "42곳이 아니라 41곳 중 31곳이에요. 그리고 검토란을 보세요. 이니셜이 KJW예요. 재원 님이네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's me. I signed the roll-up three years ago without opening a single row.",
+        "ko": "제 이니셜 맞아요. 3년 전에 행을 하나도 열어 보지 않고 취합본에 서명했어요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "I just heard. What exactly is going on?",
+        "ko": "방금 들었어요. 정확히 무슨 일이에요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Here's what happened. SM rebranded four years ago, and both rows describe the same pilot.",
+        "ko": "경위는 이렇습니다. SM이 4년 전 이름을 바꿨고, 두 행은 같은 파일럿이에요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "The rate goes from seventy-four percent to seventy-six, so if anything, it helps you. I'd fix the number and not make a production of it.",
+        "ko": "비율은 74%에서 76%로 오르니 오히려 도움이 돼요. 저라면 숫자만 고치고 일을 키우지 않겠어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I told Marcus he'd hear it from me.",
+        "ko": "마커스에게 저한테서 듣게 될 거라고 말했어요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Who exactly is going to notice one company?",
+        "ko": "회사 하나를 대체 누가 알아채겠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'm the guy telling eight hundred people to build for the person who signs.",
+        "ko": "저는 800명에게 서명하는 사람을 위해 만들라고 말할 사람이에요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "And Helen's in the air, so you can't ask her. What are you going to do?",
+        "ko": "헬렌은 비행기에 있으니 물어볼 수도 없어요. 어떻게 하실 건데요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll call Singapore at one. I need to flag something, and he should get it from me.",
+        "ko": "1시에 싱가포르로 전화할게요. 말씀드려야 할 문제가 있고, 저한테서 들으셔야 하니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "It's your call.",
+        "ko": "재원 님 판단이에요."
+      }
+    ]
+  }
+}

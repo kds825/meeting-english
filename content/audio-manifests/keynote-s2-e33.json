@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s2-e33",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "target": "word-target.mp3",
+    "replace": "word-replace.mp3",
+    "carrier": "word-carrier.mp3",
+    "press": "word-press.mp3",
+    "count": "word-count.mp3",
+    "bonus": "word-bonus.mp3",
+    "output": "word-output.mp3",
+    "declaration": "word-declaration.mp3",
+    "release note": "word-release-note.mp3",
+    "staging": "word-staging.mp3",
+    "imply": "word-imply.mp3",
+    "set out": "word-set-out.mp3",
+    "extend a loan": "word-extend-a-loan.mp3",
+    "redesign": "word-redesign.mp3",
+    "grumble": "word-grumble.mp3",
+    "tidy": "word-tidy.mp3"
+  },
+  "termClips": {
+    "target": "term-target.mp3",
+    "replace": "term-replace.mp3",
+    "carrier": "term-carrier.mp3",
+    "press": "term-press.mp3",
+    "count": "term-count.mp3",
+    "bonus": "term-bonus.mp3",
+    "output": "term-output.mp3",
+    "declaration": "term-declaration.mp3",
+    "release note": "term-release-note.mp3",
+    "staging": "term-staging.mp3",
+    "imply": "term-imply.mp3",
+    "set out": "term-set-out.mp3",
+    "extend a loan": "term-extend-a-loan.mp3",
+    "redesign": "term-redesign.mp3",
+    "grumble": "term-grumble.mp3",
+    "tidy": "term-tidy.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

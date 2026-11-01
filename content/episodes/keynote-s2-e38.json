@@ -1,0 +1,417 @@
+{
+  "id": "keynote-s2-e38",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 38,
+  "title": "Whose Word",
+  "recapKo": "재원은 파트너 다섯 명 앞에서 답했다. 이선과의 약속을 지키느라 고객을 희생한 것, 대니얼 메모를 방치한 것은 자기 잘못이라 했고, 15만 달러는 옹호했으며, 추가 4주는 실수라고 했다. 헬렌은 금요일 숫자가 나오기 전에 투표한다고 했다. 그리고 커피숍의 그 질문을 꺼냈다. \"믿었던 말이 틀리면, 어떻게 합니까?\"",
+  "keyExpressions": [
+    {
+      "phrase": "What I've learned is ~",
+      "meaningKo": "제가 배운 것은 ~입니다",
+      "usage": "What I've learned is that the first number is never the real one."
+    },
+    {
+      "phrase": "If I'm wrong, ~",
+      "meaningKo": "제가 틀리면 ~",
+      "usage": "If I'm wrong, you'll hear it from me first."
+    },
+    {
+      "phrase": "Here's what I'd do differently: ~",
+      "meaningKo": "저라면 이렇게 다르게 하겠습니다. ~",
+      "usage": "Here's what I'd do differently: I'd test it on real data first."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 202,
+      "paragraphs": [
+        {
+          "en": "He began within three seconds. \"If I'm wrong, you hear it from me before anyone else, I stop the work, and I pay my part,\" he said. \"That's a procedure,\" Helen said. \"What I've learned is that a signature is a phone number,\" he said. \"When it goes wrong, someone has to answer that phone, and it has to be me.\"",
+          "ko": "그는 3초 안에 말을 시작했다. \"제가 틀리면, 누구보다 먼저 제게서 들으시고, 저는 일을 멈추고, 제 몫을 냅니다.\" 그가 말했다. \"그건 절차네요.\" 헬렌이 말했다. \"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 그가 말했다. \"일이 잘못되면 누군가 그 전화를 받아야 하고, 그건 저여야 합니다.\""
+        },
+        {
+          "en": "\"Next time you'll sign on Daniel's word, from another city,\" Kwon said. \"Here's what I'd do differently: I'd ask who has read it, and who can stop it,\" Jae-won said. \"And if Daniel is still wrong?\" Helen asked. \"Then it's his word and my phone.\"",
+          "ko": "\"다음에는 다른 도시에서 대니얼의 말을 믿고 서명하겠죠.\" 권 파트너가 말했다. \"저라면 이렇게 다르게 하겠습니다. 누가 읽었는지, 누가 멈출 수 있는지를 묻겠습니다.\" 재원이 말했다. \"그래도 대니얼이 틀리면요?\" 헬렌이 물었다. \"그러면 말은 그의 것이고, 전화는 제 것입니다.\""
+        },
+        {
+          "en": "He waited in the corridor for forty minutes. Then Helen came out and took him to the stairs. \"How are you holding up?\" she asked. \"Three votes to two, so you'll be a partner from January, and the five o'clock calls are yours now.\" Kwon stopped on his way to the lift. \"I was one of the two,\" he said, and he shook Jae-won's hand.",
+          "ko": "그는 복도에서 40분을 기다렸다. 그러고는 헬렌이 나와 그를 계단으로 데려갔다. \"어떻게 버티고 있어요?\" 그녀가 물었다. \"3대 2이니 1월부터 파트너이고, 이제 새벽 5시 전화는 당신 겁니다.\" 권 파트너가 엘리베이터로 가다가 멈췄다. \"저는 그 둘 중 하나였습니다.\" 그가 말하고는 재원과 악수했다."
+        },
+        {
+          "en": "On Thursday night, he was back in Singapore when Daniel's message came. \"Week twenty has been read, there are two numbers, and you should see this before Arjun does,\" it said.",
+          "ko": "목요일 밤, 싱가포르로 돌아온 그에게 대니얼의 메시지가 왔다. \"20주 차를 다 읽었는데 숫자가 두 개이고, 아르준보다 먼저 보셔야 해요.\" 메시지에 적혀 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I've learned is",
+        "If I'm wrong",
+        "Here's what I'd do differently"
+      ],
+      "wordCandidates": [
+        {
+          "term": "procedure",
+          "surface": "procedure",
+          "meaningKo": "절차",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's a procedure,\" Helen said.",
+            "ko": "\"그건 절차네요.\" 헬렌이 말했다."
+          }
+        },
+        {
+          "term": "signature",
+          "surface": "signature",
+          "meaningKo": "서명",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"What I've learned is that a signature is a phone number,\" he said.",
+            "ko": "\"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "corridor",
+          "surface": "corridor",
+          "meaningKo": "복도",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He waited in the corridor for forty minutes.",
+            "ko": "그는 복도에서 40분을 기다렸다."
+          }
+        },
+        {
+          "term": "lift",
+          "surface": "lift",
+          "meaningKo": "엘리베이터",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Kwon stopped on his way to the lift.",
+            "ko": "권 파트너가 엘리베이터로 가다가 멈췄다."
+          }
+        },
+        {
+          "term": "shake one's hand",
+          "surface": "shook Jae-won's hand",
+          "meaningKo": "악수하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I was one of the two,\" he said, and he shook Jae-won's hand.",
+            "ko": "\"저는 그 둘 중 하나였습니다.\" 그가 말하고는 재원과 악수했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 326,
+      "paragraphs": [
+        {
+          "en": "He began within three seconds, and the first sentence wasn't pretty. \"If I'm wrong, you hear it from me before anyone else, I stop the work, I put a number on it, and I pay my part,\" he said. \"That's a procedure, and you've written that one down already,\" Helen said. He pushed the page a little further away. \"What I've learned is that a signature is a phone number,\" he said. \"Priscilla asked me before week one who picks up when the log can't, and for twenty weeks I thought she meant the contract.\" \"When it goes wrong, someone has to answer that phone at five in the morning without knowing yet, and it has to be the person who signed.\"",
+          "ko": "그는 3초 안에 말을 시작했고, 첫 문장은 예쁘지 않았다. \"제가 틀리면, 누구보다 먼저 제게서 들으시고, 저는 일을 멈추고, 거기에 숫자를 붙이고, 제 몫을 냅니다.\" 그가 말했다. \"그건 절차고, 이미 적어 둔 것이네요.\" 헬렌이 말했다. 그는 종이를 조금 더 멀리 밀어 놓았다. \"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 그가 말했다. \"프리실라가 1주 차 전에 로그가 못 받으면 누가 받느냐고 물었는데, 저는 20주 동안 계약서 얘기인 줄 알았습니다.\" \"일이 잘못되면 누군가 아직 아무것도 모르는 채로 새벽 5시에 그 전화를 받아야 하고, 그건 서명한 사람이어야 합니다.\""
+        },
+        {
+          "en": "Kwon looked up from his folder. \"Next time you'll be signing on Daniel's word, from another city, on a floor you've never stood on,\" he said. \"Here's what I'd do differently: I'd ask who has read it, who can stop it, and what they put down to do that,\" Jae-won said. \"And if Daniel is still wrong?\" Helen asked. \"Then it's his word and my phone,\" he said, and she closed her notebook.",
+          "ko": "권 파트너가 폴더에서 고개를 들었다. \"다음에는 가 본 적도 없는 현장을, 다른 도시에서 대니얼의 말만 믿고 서명하겠죠.\" 그가 말했다. \"저라면 이렇게 다르게 하겠습니다. 누가 읽었는지, 누가 멈출 수 있는지, 그러려고 뭘 내려놓았는지를 묻겠습니다.\" 재원이 말했다. \"그래도 대니얼이 틀리면요?\" 헬렌이 물었다. \"그러면 말은 그의 것이고, 전화는 제 것입니다.\" 그가 말했고, 그녀는 공책을 덮었다."
+        },
+        {
+          "en": "He waited in the corridor for forty minutes, and Yuna brought him coffee and told him nothing. Then Helen came out and took him to the fire stairs, where nobody could see his face. \"How are you holding up?\" she asked. \"Three votes to two, and you're a partner from January. The five o'clock calls are yours now, so don't thank me.\" When they came back, Kwon stopped on his way to the lift and told him that he had been one of the two. Then he shook Jae-won's hand and asked what Port Klang was worth.",
+          "ko": "그는 복도에서 40분을 기다렸고, 유나가 커피를 가져다주며 아무 말도 해 주지 않았다. 그러고는 헬렌이 나와 아무도 그의 얼굴을 볼 수 없는 비상계단으로 그를 데려갔다. \"어떻게 버티고 있어요?\" 그녀가 물었다. \"3대 2이고, 1월부터 파트너입니다. 이제 새벽 5시 전화는 당신 거니까, 고맙다는 말은 하지 마세요.\" 그들이 돌아오자 권 파트너가 엘리베이터로 가다가 멈춰서, 자기가 그 둘 중 하나였다고 말했다. 그러고는 재원과 악수하고 포트 클랑의 가치가 얼마냐고 물었다."
+        },
+        {
+          "en": "On Thursday night, he was back in Singapore when Daniel's message came. \"Week twenty has been read, by both readers, there are two numbers, and you should see this before Arjun does,\" it said.",
+          "ko": "목요일 밤, 싱가포르로 돌아온 그에게 대니얼의 메시지가 왔다. \"20주 차를 두 사람이 다 읽었는데 숫자가 두 개이고, 아르준보다 먼저 보셔야 해요.\" 메시지에 적혀 있었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I've learned is",
+        "If I'm wrong",
+        "Here's what I'd do differently"
+      ],
+      "wordCandidates": [
+        {
+          "term": "procedure",
+          "surface": "procedure",
+          "meaningKo": "절차",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's a procedure, and you've written that one down already,\" Helen said.",
+            "ko": "\"그건 절차고, 이미 적어 둔 것이네요.\" 헬렌이 말했다."
+          }
+        },
+        {
+          "term": "signature",
+          "surface": "signature",
+          "meaningKo": "서명",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"What I've learned is that a signature is a phone number,\" he said.",
+            "ko": "\"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "log",
+          "surface": "log",
+          "meaningKo": "로그, 기록",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Priscilla asked me before week one who picks up when the log can't, and for twenty weeks I thought she meant the contract.\"",
+            "ko": "\"프리실라가 1주 차 전에 로그가 못 받으면 누가 받느냐고 물었는데, 저는 20주 동안 계약서 얘기인 줄 알았습니다.\""
+          }
+        },
+        {
+          "term": "corridor",
+          "surface": "corridor",
+          "meaningKo": "복도",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He waited in the corridor for forty minutes, and Yuna brought him coffee and told him nothing.",
+            "ko": "그는 복도에서 40분을 기다렸고, 유나가 커피를 가져다주며 아무 말도 해 주지 않았다."
+          }
+        },
+        {
+          "term": "fire stairs",
+          "surface": "fire stairs",
+          "meaningKo": "비상계단",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then Helen came out and took him to the fire stairs, where nobody could see his face.",
+            "ko": "그러고는 헬렌이 나와 아무도 그의 얼굴을 볼 수 없는 비상계단으로 그를 데려갔다."
+          }
+        },
+        {
+          "term": "lift",
+          "surface": "lift",
+          "meaningKo": "엘리베이터",
+          "paragraph": 2,
+          "sentence": {
+            "en": "When they came back, Kwon stopped on his way to the lift and told him that he had been one of the two.",
+            "ko": "그들이 돌아오자 권 파트너가 엘리베이터로 가다가 멈춰서, 자기가 그 둘 중 하나였다고 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 442,
+      "paragraphs": [
+        {
+          "en": "He began within three seconds, and the first sentence, as permitted, was not pretty. \"If I'm wrong, you hear it from me before anyone else, I stop the work, I put a number on it, and I pay my part,\" he said. \"That's a procedure, and I believe you've already written it on a page,\" Helen said, nodding at the one on the table. He pushed the page a little further away, and for a moment the only sound was the air conditioning. \"What I've learned is that a signature is a phone number,\" he said. \"Priscilla asked me before week one who picks up when the log can't, and for twenty weeks I took that to be a question about the contract.\" \"When it goes wrong, somebody has to answer that phone at five in the morning, before anybody knows anything, and it can't be delegated to whoever happens to have read the release note.\"",
+          "ko": "그는 3초 안에 말을 시작했고, 첫 문장은 허용된 대로 예쁘지 않았다. \"제가 틀리면, 누구보다 먼저 제게서 들으시고, 저는 일을 멈추고, 거기에 숫자를 붙이고, 제 몫을 냅니다.\" 그가 말했다. \"그건 절차고, 이미 종이에 적어 두었을 텐데요.\" 헬렌이 탁자 위의 종이를 가리키며 말했다. 그는 종이를 조금 더 멀리 밀어 놓았고, 잠시 에어컨 소리만 들렸다. \"제가 배운 것은 서명이 곧 전화번호라는 것입니다.\" 그가 말했다. \"프리실라가 1주 차 전에 로그가 못 받으면 누가 받느냐고 물었는데, 저는 20주 동안 그걸 계약서에 관한 질문으로 여겼습니다.\" \"일이 잘못되면 누군가 아무도 아무것도 모르는 새벽 5시에 그 전화를 받아야 하고, 그건 어쩌다 출시 노트를 읽은 사람에게 맡길 수 없습니다.\""
+        },
+        {
+          "en": "Kwon looked up from his folder with the air of a man who had been waiting for an opening. \"Next time you'll be signing on Daniel's word, from another city, about a floor you've never stood on, so how exactly does that work?\" he said. \"Here's what I'd do differently: I'd ask who has read it, who can stop it, and what they had to put down in order to do that,\" Jae-won said. \"And if, having asked all that, Daniel is still wrong?\" Helen asked. \"Then it's his word and my phone,\" he said, and she closed her notebook without writing anything down.",
+          "ko": "권 파트너가 기회를 기다려 온 사람의 태도로 폴더에서 고개를 들었다. \"다음에는 가 본 적도 없는 현장을, 다른 도시에서 대니얼의 말만 믿고 서명할 텐데, 그게 정확히 어떻게 됩니까?\" 그가 말했다. \"저라면 이렇게 다르게 하겠습니다. 누가 읽었는지, 누가 멈출 수 있는지, 그러려고 뭘 내려놓아야 했는지를 묻겠습니다.\" 재원이 말했다. \"그걸 다 물었는데도 대니얼이 틀리면요?\" 헬렌이 물었다. \"그러면 말은 그의 것이고, 전화는 제 것입니다.\" 그가 말했고, 그녀는 아무것도 적지 않고 공책을 덮었다."
+        },
+        {
+          "en": "He waited in the corridor for forty minutes, during which Yuna brought him coffee and an expression that conveyed nothing whatsoever, presumably with considerable effort. Then Helen came out and took him to the fire stairs, on the reasonable grounds that nobody should see his face. \"How are you holding up?\" she asked, as if inquiring about a shipment. \"Three votes to two, and you're a partner from January, and the five o'clock calls are yours now, so I'd hold off on thanking me,\" she said. He asked how she had voted, and she said that she had asked the questions, which was all he was going to get. Kwon intercepted him on the way to the lift, announced without embarrassment that he had been one of the two, shook his hand, and asked what Port Klang was worth.",
+          "ko": "그는 복도에서 40분을 기다렸고, 그동안 유나가 커피와 함께, 아마 꽤 애써서, 아무것도 전하지 않는 표정을 가져왔다. 그러고는 헬렌이 나와, 아무도 그의 얼굴을 보지 않는 편이 낫다는 합당한 이유로 그를 비상계단으로 데려갔다. \"어떻게 버티고 있어요?\" 그녀가 화물을 묻듯 물었다. \"3대 2이고, 1월부터 파트너이며, 이제 새벽 5시 전화는 당신 거니까, 고맙다는 말은 미뤄 두세요.\" 그녀가 말했다. 그가 어떻게 투표했느냐고 묻자 그녀는 자기는 질문을 했다고 답했고, 그가 얻을 수 있는 건 그게 전부였다. 권 파트너가 엘리베이터로 가는 그를 가로막고, 부끄러운 기색 없이 자기가 그 둘 중 하나였다고 밝히고는 악수를 하고 포트 클랑의 가치가 얼마냐고 물었다."
+        },
+        {
+          "en": "On Thursday night, he was back in Singapore, and he had been a partner-elect for two days, when Daniel's message came. \"Week twenty has been read, by both readers, and there are two numbers,\" it said. \"You should see this before Arjun does.\"",
+          "ko": "목요일 밤, 파트너로 뽑힌 지 이틀이 된 그가 싱가포르로 돌아와 있을 때 대니얼의 메시지가 왔다. \"20주 차를 두 사람이 다 읽었는데, 숫자가 두 개입니다.\" 메시지에 적혀 있었다. \"아르준보다 먼저 보셔야 해요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I've learned is",
+        "If I'm wrong",
+        "Here's what I'd do differently"
+      ],
+      "wordCandidates": [
+        {
+          "term": "permit",
+          "surface": "permitted",
+          "meaningKo": "허용하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He began within three seconds, and the first sentence, as permitted, was not pretty.",
+            "ko": "그는 3초 안에 말을 시작했고, 첫 문장은 허용된 대로 예쁘지 않았다."
+          }
+        },
+        {
+          "term": "delegate",
+          "surface": "delegated",
+          "meaningKo": "위임하다, 맡기다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"When it goes wrong, somebody has to answer that phone at five in the morning, before anybody knows anything, and it can't be delegated to whoever happens to have read the release note.\"",
+            "ko": "\"일이 잘못되면 누군가 아무도 아무것도 모르는 새벽 5시에 그 전화를 받아야 하고, 그건 어쩌다 출시 노트를 읽은 사람에게 맡길 수 없습니다.\""
+          }
+        },
+        {
+          "term": "opening",
+          "surface": "opening",
+          "meaningKo": "기회, 틈",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Kwon looked up from his folder with the air of a man who had been waiting for an opening.",
+            "ko": "권 파트너가 기회를 기다려 온 사람의 태도로 폴더에서 고개를 들었다."
+          }
+        },
+        {
+          "term": "convey",
+          "surface": "conveyed",
+          "meaningKo": "전달하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He waited in the corridor for forty minutes, during which Yuna brought him coffee and an expression that conveyed nothing whatsoever, presumably with considerable effort.",
+            "ko": "그는 복도에서 40분을 기다렸고, 그동안 유나가 커피와 함께, 아마 꽤 애써서, 아무것도 전하지 않는 표정을 가져왔다."
+          }
+        },
+        {
+          "term": "on the grounds that",
+          "surface": "on the reasonable grounds",
+          "meaningKo": "~라는 이유로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then Helen came out and took him to the fire stairs, on the reasonable grounds that nobody should see his face.",
+            "ko": "그러고는 헬렌이 나와, 아무도 그의 얼굴을 보지 않는 편이 낫다는 합당한 이유로 그를 비상계단으로 데려갔다."
+          }
+        },
+        {
+          "term": "hold off",
+          "surface": "hold off",
+          "meaningKo": "미루다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Three votes to two, and you're a partner from January, and the five o'clock calls are yours now, so I'd hold off on thanking me,\" she said.",
+            "ko": "\"3대 2이고, 1월부터 파트너이며, 이제 새벽 5시 전화는 당신 거니까, 고맙다는 말은 미뤄 두세요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "intercept",
+          "surface": "intercepted",
+          "meaningKo": "가로막다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Kwon intercepted him on the way to the lift, announced without embarrassment that he had been one of the two, shook his hand, and asked what Port Klang was worth.",
+            "ko": "권 파트너가 엘리베이터로 가는 그를 가로막고, 부끄러운 기색 없이 자기가 그 둘 중 하나였다고 밝히고는 악수를 하고 포트 클랑의 가치가 얼마냐고 물었다."
+          }
+        },
+        {
+          "term": "partner-elect",
+          "surface": "partner-elect",
+          "meaningKo": "파트너 당선자",
+          "paragraph": 3,
+          "sentence": {
+            "en": "On Thursday night, he was back in Singapore, and he had been a partner-elect for two days, when Daniel's message came.",
+            "ko": "목요일 밤, 파트너로 뽑힌 지 이틀이 된 그가 싱가포르로 돌아와 있을 때 대니얼의 메시지가 왔다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does Helen tell Jae-won about the vote?",
+      "options": [
+        "It was unanimous",
+        "It was delayed until January",
+        "It was three votes to two",
+        "Kwon had the final say"
+      ],
+      "answerIndex": 2,
+      "evidence": "Three votes to two"
+    },
+    {
+      "question": "What does Jae-won mean by \"his word and my phone\"?",
+      "options": [
+        "Daniel will be blamed if anything goes wrong",
+        "He will trust the person who has read the work, but he alone answers for it when it fails",
+        "He wants a new phone number",
+        "Daniel should call clients himself"
+      ],
+      "answerIndex": 1,
+      "evidence": "his word and my phone"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "If I'm wrong, you hear it from me before anyone else.",
+      "What I've learned is that a signature is a phone number.",
+      "Here's what I'd do differently: I'd ask who has read it, and who can stop it."
+    ],
+    "summaryPromptKo": "재원이 \"틀리면 어떻게 하는가\"에 뭐라고 답했는지, 권 파트너의 질문에 어떻게 답했는지, 투표 결과가 어땠는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "Five months ago you told me you didn't know. So whose word do you trust when you sign, and what happens when it's wrong?",
+      "ko": "다섯 달 전에는 모르겠다고 했죠. 서명할 때 누구의 말을 믿고, 그게 틀리면 어떻게 됩니까?"
+    },
+    "modelAnswer": "I trust the word of someone who has read it and who can stop it. Here's what I'd do differently: I'd ask them what they put down to do that. If I'm wrong, you hear it from me before anyone else, I stop the work, and I pay my part. What I've learned is that a signature is a phone number. It's their word, and it's my phone."
+  },
+  "nextTeaserKo": "숫자는 둘이다. 계약 정의로는 목표를 넘겼고, 시티의 목록까지 세면 넘기지 못한다. 15만 달러가 그 사이에 걸려 있다. 백준호는 한 숫자만 보내라고 한다. 재원은 무엇을 아르준에게 보낼까. 그리고 라힘이 드디어 폴더를 연다.",
+  "roleplay": {
+    "title": "그의 말, 내 전화",
+    "situationKo": "헬렌의 마지막 질문에 답하는 자리입니다. 시즌 내내 남겨 둔 질문이에요. 정답은 없으니, 재원의 말을 빌려 본인 말처럼 천천히 해 보세요.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "When the word you trusted is wrong, what do you do?",
+        "ko": "믿었던 말이 틀리면, 어떻게 합니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "If I'm wrong, you hear it from me before anyone else. I stop the work and pay my part.",
+        "ko": "제가 틀리면 누구보다 먼저 제게서 들으십니다. 저는 일을 멈추고 제 몫을 냅니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That's a procedure.",
+        "ko": "그건 절차네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You're right. What I've learned is that a signature is a phone number.",
+        "ko": "맞습니다. 제가 배운 것은 서명이 곧 전화번호라는 것입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Go on.",
+        "ko": "계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "When it goes wrong, someone has to answer at five in the morning. It has to be the person who signed.",
+        "ko": "일이 잘못되면 누군가 새벽 5시에 전화를 받아야 합니다. 서명한 사람이어야 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Kwon",
+        "voice": "male",
+        "en": "Next time you'll be signing on Daniel's word, from another city.",
+        "ko": "다음에는 다른 도시에서 대니얼의 말만 믿고 서명하겠죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Here's what I'd do differently: I'd ask who has read it, and who can stop it.",
+        "ko": "저라면 이렇게 다르게 하겠습니다. 누가 읽었는지, 누가 멈출 수 있는지를 묻겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And if Daniel is still wrong?",
+        "ko": "그래도 대니얼이 틀리면요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then it's his word and my phone.",
+        "ko": "그러면 말은 그의 것이고, 전화는 제 것입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Three votes to two. The five o'clock calls are yours now.",
+        "ko": "3대 2입니다. 이제 새벽 5시 전화는 당신 겁니다."
+      }
+    ]
+  }
+}

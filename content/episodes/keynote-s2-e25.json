@@ -1,0 +1,422 @@
+{
+  "id": "keynote-s2-e25",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 25,
+  "title": "Pilot Failure",
+  "recapKo": "재원은 대니얼에게 4주 차에 집에 보냈어야 했다고 사과했다. 앞으로는 아무도 읽지 않은 숫자는 보내지 않기로 했고, 대니얼은 나흘 쉰 뒤 프로젝트에 남았다. 69는 74가 되었다. 웨이링이 메시지를 보냈다. \"월요일부터 월말이에요. 금요일에 물어보세요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "I wanted you to hear this from me.",
+      "meaningKo": "이건 제게서 직접 들으셨으면 했습니다.",
+      "usage": "I wanted you to hear this from me before the report goes out."
+    },
+    {
+      "phrase": "What we know so far is ~",
+      "meaningKo": "지금까지 파악한 것은 ~입니다",
+      "usage": "What we know so far is that one server failed at midnight."
+    },
+    {
+      "phrase": "What we don't know yet is ~",
+      "meaningKo": "아직 모르는 것은 ~입니다",
+      "usage": "What we don't know yet is how many customers were affected."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 228,
+      "paragraphs": [
+        {
+          "en": "Week nine was the one that everybody feared. At month-end, the volume tripled and the queue held. On Friday, Jae-won took page thirty-one to Wei Ling. \"Before I say yes, who reads the customs box?\" she said. \"Hafiz's team, on every declaration, for four weeks,\" he said, and she signed.",
+          "ko": "9주 차는 모두가 두려워한 주였다. 월말에 물량이 세 배로 뛰었지만 대기열은 버텼다. 금요일에 재원은 31쪽을 웨이링에게 가져갔다. \"승낙하기 전에, 통관 칸은 누가 읽죠?\" 그녀가 말했다. \"하피즈의 팀이 4주 동안 모든 신고서를 읽습니다.\" 그가 말했고, 그녀는 서명했다."
+        },
+        {
+          "en": "In week ten, Corvane reached eighty-six percent on new forms, and the test on two hundred documents passed. They went live on Wednesday. On the Monday of week eleven, the new box was switched on, and for three days nothing went wrong.",
+          "ko": "10주 차에 코르베인은 새 양식에서 86퍼센트에 이르렀고, 서류 200건 시험도 통과했다. 수요일에 가동했다. 11주 차 월요일에 새 칸이 켜졌고, 사흘 동안 아무 문제도 없었다."
+        },
+        {
+          "en": "On Thursday at five in the morning, Hafiz called. \"The authority is holding thirty-eight containers at Tuas, and two hundred and fourteen declarations since Monday have the wrong origin code,\" he said. Eleven of the containers held chilled food for a customer, Tern Bay Foods.",
+          "ko": "목요일 새벽 5시, 하피즈가 전화했다. \"당국이 투아스에서 컨테이너 38개를 잡아 두고 있고, 월요일 이후 신고서 214건의 원산지 코드가 틀렸습니다.\" 그가 말했다. 컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었다."
+        },
+        {
+          "en": "Jae-won called Grace at twelve minutes past five and sent Wei Ling the same words. \"I wanted you to hear this from me,\" he said. \"What we know so far is thirty-eight containers and two hundred and fourteen declarations. What we don't know yet is why.\"",
+          "ko": "재원은 5시 12분에 그레이스에게 전화하면서 웨이링에게 같은 말을 보냈다. \"이건 제게서 직접 들으셨으면 했습니다.\" 그가 말했다. \"지금까지 파악한 것은 컨테이너 38개와 신고서 214건입니다. 아직 모르는 것은 이유입니다.\""
+        },
+        {
+          "en": "Wei Ling's answer about the system came in two words: \"Pull it.\" By seven, the night shift was back to doing everything by hand. Then Daniel called from the terminal upstairs. \"You'd better come and look,\" he said. \"It isn't reading the code at all.\"",
+          "ko": "시스템에 대한 웨이링의 답은 두 단어로 왔다. \"끄세요.\" 7시쯤 야간조는 다시 모든 것을 손으로 하고 있었다. 그때 대니얼이 위층 단말기에서 전화했다. \"와서 보시는 게 좋겠어요.\" 그가 말했다. \"코드를 아예 읽지 않고 있어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I wanted you to hear this from me",
+        "What we know so far is",
+        "What we don't know yet is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "volume",
+          "surface": "volume",
+          "meaningKo": "물량",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At month-end, the volume tripled and the queue held.",
+            "ko": "월말에 물량이 세 배로 뛰었지만 대기열은 버텼다."
+          }
+        },
+        {
+          "term": "pass",
+          "surface": "passed",
+          "meaningKo": "통과하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "In week ten, Corvane reached eighty-six percent on new forms, and the test on two hundred documents passed.",
+            "ko": "10주 차에 코르베인은 새 양식에서 86퍼센트에 이르렀고, 서류 200건 시험도 통과했다."
+          }
+        },
+        {
+          "term": "hold",
+          "surface": "holding",
+          "meaningKo": "잡아 두다, 억류하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The authority is holding thirty-eight containers at Tuas, and two hundred and fourteen declarations since Monday have the wrong origin code,\" he said.",
+            "ko": "\"당국이 투아스에서 컨테이너 38개를 잡아 두고 있고, 월요일 이후 신고서 214건의 원산지 코드가 틀렸습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "chilled",
+          "surface": "chilled",
+          "meaningKo": "냉장한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Eleven of the containers held chilled food for a customer, Tern Bay Foods.",
+            "ko": "컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었다."
+          }
+        },
+        {
+          "term": "terminal",
+          "surface": "terminal",
+          "meaningKo": "단말기",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Then Daniel called from the terminal upstairs.",
+            "ko": "그때 대니얼이 위층 단말기에서 전화했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 366,
+      "paragraphs": [
+        {
+          "en": "Week nine was the one that everybody had been afraid of, and it turned out to be almost dull. At month-end, the volume tripled, the queue held, and Cole slept on a chair by the dock with his boots on. On Friday, Jae-won took page thirty-one to Wei Ling, as agreed. \"Before I say yes, who reads the customs box?\" she said. \"Hafiz's team, on every declaration, for four weeks,\" he said, and she read that line on his page again and signed.",
+          "ko": "9주 차는 모두가 두려워한 주였는데, 거의 지루할 정도였다. 월말에 물량이 세 배로 뛰었지만 대기열은 버텼고, 콜은 안전화를 신은 채 도크 옆 의자에서 잤다. 금요일에 재원은 약속대로 31쪽을 웨이링에게 가져갔다. \"승낙하기 전에, 통관 칸은 누가 읽죠?\" 그녀가 말했다. \"하피즈의 팀이 4주 동안 모든 신고서를 읽습니다.\" 그가 말했고, 그녀는 그의 종이에서 그 줄을 다시 읽고 서명했다."
+        },
+        {
+          "en": "In week ten, Corvane reached eighty-six percent on forms it had never seen, one point over the line, and the test on two hundred documents came back nearly perfect. They went live on Wednesday. On the Monday of week eleven, the new box was switched on, and for three days nothing went wrong.",
+          "ko": "10주 차에 코르베인은 처음 보는 양식에서 기준을 1포인트 넘긴 86퍼센트에 이르렀고, 서류 200건 시험은 거의 완벽하게 나왔다. 수요일에 가동했다. 11주 차 월요일에 새 칸이 켜졌고, 사흘 동안 아무 문제도 없었다."
+        },
+        {
+          "en": "On Thursday at five in the morning, Hafiz called, and he sounded as if he had been awake for some time. \"The authority is holding thirty-eight containers at Tuas, and two hundred and fourteen declarations since Monday have the wrong origin code,\" he said. Eleven of the containers held chilled food for a customer, Tern Bay Foods, and Jae-won asked how that many had got past a second check, and Hafiz said that they would talk about it later.",
+          "ko": "목요일 새벽 5시, 하피즈가 전화했고, 한참 전부터 깨어 있던 목소리였다. \"당국이 투아스에서 컨테이너 38개를 잡아 두고 있고, 월요일 이후 신고서 214건의 원산지 코드가 틀렸습니다.\" 그가 말했다. 컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었다. 재원이 그렇게 많은 건이 어떻게 2차 확인을 통과했느냐고 묻자, 하피즈는 그건 나중에 얘기하자고 했다."
+        },
+        {
+          "en": "Jae-won called Grace at twelve minutes past five and sent Wei Ling the same words in the same minute. \"I wanted you to hear this from me, before anyone else calls you,\" he said. \"What we know so far is thirty-eight containers, two hundred and fourteen declarations and one new box. What we don't know yet is why, and I won't guess.\"",
+          "ko": "재원은 5시 12분에 그레이스에게 전화하면서 같은 분에 웨이링에게 같은 말을 보냈다. \"다른 사람이 전화하기 전에, 이건 제게서 직접 들으셨으면 했습니다.\" 그가 말했다. \"지금까지 파악한 것은 컨테이너 38개, 신고서 214건, 새 칸 하나입니다. 아직 모르는 것은 이유이고, 짐작하지는 않겠습니다.\""
+        },
+        {
+          "en": "Grace asked if he was stopping the system, and he said that it had taken two signatures to start and that he wanted both to stop it. Wei Ling's answer came in two words: \"Pull it.\" By seven, the night shift was back to doing everything by hand, and nobody said anything to him as he walked through. Then Daniel called from the terminal upstairs, where he and Cole had been going through the logs. \"You'd better come and look,\" he said. \"It isn't reading the code at all.\"",
+          "ko": "그레이스가 시스템을 멈출 거냐고 물었고, 그는 시작할 때 서명이 둘이었으니 멈출 때도 둘을 원한다고 말했다. 웨이링의 답은 두 단어로 왔다. \"끄세요.\" 7시쯤 야간조는 다시 모든 것을 손으로 하고 있었고, 그가 지나가는 동안 아무도 말을 걸지 않았다. 그때 콜과 함께 로그를 살피던 대니얼이 위층 단말기에서 전화했다. \"와서 보시는 게 좋겠어요.\" 그가 말했다. \"코드를 아예 읽지 않고 있어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I wanted you to hear this from me",
+        "What we know so far is",
+        "What we don't know yet is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dull",
+          "surface": "dull",
+          "meaningKo": "지루한, 따분한",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Week nine was the one that everybody had been afraid of, and it turned out to be almost dull.",
+            "ko": "9주 차는 모두가 두려워한 주였는데, 거의 지루할 정도였다."
+          }
+        },
+        {
+          "term": "line",
+          "surface": "line",
+          "meaningKo": "기준선",
+          "paragraph": 1,
+          "sentence": {
+            "en": "In week ten, Corvane reached eighty-six percent on forms it had never seen, one point over the line, and the test on two hundred documents came back nearly perfect.",
+            "ko": "10주 차에 코르베인은 처음 보는 양식에서 기준을 1포인트 넘긴 86퍼센트에 이르렀고, 서류 200건 시험은 거의 완벽하게 나왔다."
+          }
+        },
+        {
+          "term": "chilled",
+          "surface": "chilled",
+          "meaningKo": "냉장한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Eleven of the containers held chilled food for a customer, Tern Bay Foods, and Jae-won asked how that many had got past a second check, and Hafiz said that they would talk about it later.",
+            "ko": "컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었다. 재원이 그렇게 많은 건이 어떻게 2차 확인을 통과했느냐고 묻자, 하피즈는 그건 나중에 얘기하자고 했다."
+          }
+        },
+        {
+          "term": "second check",
+          "surface": "second check",
+          "meaningKo": "2차 확인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Eleven of the containers held chilled food for a customer, Tern Bay Foods, and Jae-won asked how that many had got past a second check, and Hafiz said that they would talk about it later.",
+            "ko": "컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었다. 재원이 그렇게 많은 건이 어떻게 2차 확인을 통과했느냐고 묻자, 하피즈는 그건 나중에 얘기하자고 했다."
+          }
+        },
+        {
+          "term": "guess",
+          "surface": "guess",
+          "meaningKo": "짐작하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "What we don't know yet is why, and I won't guess.\"",
+            "ko": "아직 모르는 것은 이유이고, 짐작하지는 않겠습니다.\""
+          }
+        },
+        {
+          "term": "log",
+          "surface": "logs",
+          "meaningKo": "로그, 기록",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Then Daniel called from the terminal upstairs, where he and Cole had been going through the logs.",
+            "ko": "그때 콜과 함께 로그를 살피던 대니얼이 위층 단말기에서 전화했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 462,
+      "paragraphs": [
+        {
+          "en": "Week nine was the one that everybody had been dreading since a Friday in week three, and it turned out to be almost anticlimactic. At month-end, the volume tripled, the queue held, and Cole slept on a chair by the dock with his boots on, like a man guarding a sick relative. On Friday, Jae-won took page thirty-one to Wei Ling, as agreed, and he didn't sit down until she told him to. \"Before I say yes, who reads the customs box?\" she said. \"Hafiz's team, on every declaration, for four weeks,\" he said, and she read that line on his page again, slowly, and signed beneath his name.",
+          "ko": "9주 차는 3주 차의 그 금요일 이후 모두가 두려워한 주였는데, 거의 싱거울 정도였다. 월말에 물량이 세 배로 뛰었지만 대기열은 버텼고, 콜은 아픈 친척을 지키는 사람처럼 안전화를 신은 채 도크 옆 의자에서 잤다. 금요일에 재원은 약속대로 31쪽을 웨이링에게 가져갔고, 그녀가 앉으라고 할 때까지 앉지 않았다. \"승낙하기 전에, 통관 칸은 누가 읽죠?\" 그녀가 말했다. \"하피즈의 팀이 4주 동안 모든 신고서를 읽습니다.\" 그가 말했고, 그녀는 그의 종이에서 그 줄을 다시 천천히 읽고 그의 이름 아래에 서명했다."
+        },
+        {
+          "en": "In week ten, Corvane reached eighty-six percent on forms it had never seen, one point over the line, which Ethan reported without adjectives, and the test on two hundred documents came back suspiciously close to perfect, though nobody used that word at the time. They went live on Wednesday. On the Monday of week eleven, the new box was switched on, and for three days nothing went wrong, which Jae-won had begun to enjoy.",
+          "ko": "10주 차에 코르베인은 처음 보는 양식에서 기준을 1포인트 넘긴 86퍼센트에 이르렀고, 이선은 형용사 없이 그것을 보고했다. 서류 200건 시험은 수상할 만큼 완벽에 가깝게 나왔지만, 그때는 아무도 그 단어를 쓰지 않았다. 수요일에 가동했다. 11주 차 월요일에 새 칸이 켜졌고, 사흘 동안 아무 문제도 없었으며, 재원은 그것을 즐기기 시작한 참이었다."
+        },
+        {
+          "en": "On Thursday at five in the morning, Hafiz called, sounding as if he had been awake for some time and had rehearsed. \"The authority is holding thirty-eight containers at Tuas, and two hundred and fourteen declarations since Monday have the wrong origin code,\" he said. Eleven of the containers held chilled food for a customer, Tern Bay Foods, whose contract was not known for its forgiving clauses. When Jae-won asked how that many had got past a second check, Hafiz said, after a moment, that they would talk about it later.",
+          "ko": "목요일 새벽 5시, 하피즈가 전화했고, 한참 전부터 깨어 연습해 둔 목소리였다. \"당국이 투아스에서 컨테이너 38개를 잡아 두고 있고, 월요일 이후 신고서 214건의 원산지 코드가 틀렸습니다.\" 그가 말했다. 컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었는데, 그 회사 계약은 너그러운 조항으로 유명하지 않았다. 재원이 그렇게 많은 건이 어떻게 2차 확인을 통과했느냐고 묻자, 하피즈는 잠시 뒤 그건 나중에 얘기하자고 했다."
+        },
+        {
+          "en": "Jae-won called Grace at twelve minutes past five and sent Wei Ling the same words in the same minute, and he was aware, even then, of how much depended on who picked up first. \"I wanted you to hear this from me, before anyone else calls you,\" he said. \"What we know so far is thirty-eight containers, two hundred and fourteen declarations and one new box. What we don't know yet is why, and I won't guess.\" There was a pause, and then the sound of Grace looking for a pencil.",
+          "ko": "재원은 5시 12분에 그레이스에게 전화하면서 같은 분에 웨이링에게 같은 말을 보냈고, 그때도 누가 먼저 받느냐에 얼마나 많은 것이 달렸는지 알고 있었다. \"다른 사람이 전화하기 전에, 이건 제게서 직접 들으셨으면 했습니다.\" 그가 말했다. \"지금까지 파악한 것은 컨테이너 38개, 신고서 214건, 새 칸 하나입니다. 아직 모르는 것은 이유이고, 짐작하지는 않겠습니다.\" 잠시 침묵이 흐르더니, 그레이스가 연필을 찾는 소리가 났다."
+        },
+        {
+          "en": "She asked if he was stopping the system, and he said that it had taken two signatures to start and that he wanted both to stop it. Wei Ling's answer came in two words: \"Pull it.\" By seven, the night shift was back to doing everything by hand, with an efficiency that felt like a reproach, and nobody said anything to him as he walked through. Then Daniel called from the terminal upstairs, where he and Cole had been going through the logs. \"You'd better come and look,\" he said. \"It isn't reading the code at all.\"",
+          "ko": "그녀가 시스템을 멈출 거냐고 물었고, 그는 시작할 때 서명이 둘이었으니 멈출 때도 둘을 원한다고 말했다. 웨이링의 답은 두 단어로 왔다. \"끄세요.\" 7시쯤 야간조는 질책처럼 느껴지는 능숙함으로 다시 모든 것을 손으로 하고 있었고, 그가 지나가는 동안 아무도 말을 걸지 않았다. 그때 콜과 함께 로그를 살피던 대니얼이 위층 단말기에서 전화했다. \"와서 보시는 게 좋겠어요.\" 그가 말했다. \"코드를 아예 읽지 않고 있어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I wanted you to hear this from me",
+        "What we know so far is",
+        "What we don't know yet is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dread",
+          "surface": "dreading",
+          "meaningKo": "몹시 두려워하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Week nine was the one that everybody had been dreading since a Friday in week three, and it turned out to be almost anticlimactic.",
+            "ko": "9주 차는 3주 차의 그 금요일 이후 모두가 두려워한 주였는데, 거의 싱거울 정도였다."
+          }
+        },
+        {
+          "term": "anticlimactic",
+          "surface": "anticlimactic",
+          "meaningKo": "맥 빠지는, 싱거운",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Week nine was the one that everybody had been dreading since a Friday in week three, and it turned out to be almost anticlimactic.",
+            "ko": "9주 차는 3주 차의 그 금요일 이후 모두가 두려워한 주였는데, 거의 싱거울 정도였다."
+          }
+        },
+        {
+          "term": "suspiciously",
+          "surface": "suspiciously",
+          "meaningKo": "수상할 만큼",
+          "paragraph": 1,
+          "sentence": {
+            "en": "In week ten, Corvane reached eighty-six percent on forms it had never seen, one point over the line, which Ethan reported without adjectives, and the test on two hundred documents came back suspiciously close to perfect, though nobody used that word at the time.",
+            "ko": "10주 차에 코르베인은 처음 보는 양식에서 기준을 1포인트 넘긴 86퍼센트에 이르렀고, 이선은 형용사 없이 그것을 보고했다. 서류 200건 시험은 수상할 만큼 완벽에 가깝게 나왔지만, 그때는 아무도 그 단어를 쓰지 않았다."
+          }
+        },
+        {
+          "term": "rehearse",
+          "surface": "rehearsed",
+          "meaningKo": "미리 연습하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On Thursday at five in the morning, Hafiz called, sounding as if he had been awake for some time and had rehearsed.",
+            "ko": "목요일 새벽 5시, 하피즈가 전화했고, 한참 전부터 깨어 연습해 둔 목소리였다."
+          }
+        },
+        {
+          "term": "forgiving",
+          "surface": "forgiving",
+          "meaningKo": "너그러운",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Eleven of the containers held chilled food for a customer, Tern Bay Foods, whose contract was not known for its forgiving clauses.",
+            "ko": "컨테이너 중 11개는 고객사 턴베이 푸드의 냉장 식품이었는데, 그 회사 계약은 너그러운 조항으로 유명하지 않았다."
+          }
+        },
+        {
+          "term": "reproach",
+          "surface": "reproach",
+          "meaningKo": "질책, 비난",
+          "paragraph": 4,
+          "sentence": {
+            "en": "By seven, the night shift was back to doing everything by hand, with an efficiency that felt like a reproach, and nobody said anything to him as he walked through.",
+            "ko": "7시쯤 야간조는 질책처럼 느껴지는 능숙함으로 다시 모든 것을 손으로 하고 있었고, 그가 지나가는 동안 아무도 말을 걸지 않았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many containers does the customs authority hold?",
+      "options": [
+        "Eleven",
+        "Thirty-eight",
+        "Two hundred and fourteen",
+        "Eighty-six"
+      ],
+      "answerIndex": 1,
+      "evidence": "thirty-eight containers"
+    },
+    {
+      "question": "Why does Jae-won call Grace at twelve minutes past five in the morning?",
+      "options": [
+        "Hafiz has told him to",
+        "He wants to ask her to sign a new contract",
+        "She must not learn about a problem second again, so he tells her before anyone else can",
+        "He thinks the problem has already been solved"
+      ],
+      "answerIndex": 2,
+      "evidence": "I wanted you to hear this from me"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I wanted you to hear this from me.",
+      "What we know so far is thirty-eight containers and two hundred and fourteen declarations.",
+      "What we don't know yet is why."
+    ],
+    "summaryPromptKo": "웨이링이 왜 서명했는지, 11주 차 목요일 새벽에 무슨 일이 일어났는지, 재원이 그레이스에게 무엇을 먼저 말했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "It's five in the morning, and you don't know why this happened. Why call me before you have an answer?",
+      "ko": "새벽 5시인데 왜 이런 일이 났는지 모르시네요. 답도 없는데 왜 제게 먼저 전화했죠?"
+    },
+    "modelAnswer": "Because you shouldn't learn this from a customs officer or from Arjun. I told you that you wouldn't hear things second again. What we know so far is thirty-eight containers and two hundred and fourteen declarations, and eleven of those containers hold chilled food. What we don't know yet is why, and I won't guess. You'll have a second call from me by nine, whatever I've found."
+  },
+  "nextTeaserKo": "코드를 읽지 않았다면 214건의 코드는 어디서 왔을까. 콜이 답을 알고 있고, 그 답은 재원도 받았던 서류 7쪽에 적혀 있다. 하피즈의 2차 확인은 왜 아무것도 잡지 못했을까. 금요일 9시, 재원은 원인을 보고해야 하고, 웨이링은 한 가지를 요구한다.",
+  "roleplay": {
+    "title": "새벽 5시 12분",
+    "situationKo": "목요일 새벽, 아직 원인을 모릅니다. 아는 것과 모르는 것을 나눠 말하는 것만으로 충분해요. 먼저 전화를 거는 것이 이 장면의 전부입니다.",
+    "lines": [
+      {
+        "speaker": "Hafiz Rahman",
+        "voice": "male",
+        "en": "The authority is holding thirty-eight containers at Tuas. Two hundred and fourteen declarations since Monday have the wrong origin code.",
+        "ko": "당국이 투아스에서 컨테이너 38개를 잡아 두고 있어요. 월요일 이후 신고서 214건의 원산지 코드가 틀렸습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "How did that many get past a second check?",
+        "ko": "그렇게 많은 건이 어떻게 2차 확인을 통과했죠?",
+        "you": true
+      },
+      {
+        "speaker": "Hafiz Rahman",
+        "voice": "male",
+        "en": "We'll talk about it later. You should call Grace.",
+        "ko": "그건 나중에 얘기하죠. 그레이스에게 전화하세요."
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "It's five in the morning, Jae-won.",
+        "ko": "새벽 5시예요, 재원."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I wanted you to hear this from me, before anyone else calls you.",
+        "ko": "다른 사람이 전화하기 전에, 이건 제게서 직접 들으셨으면 했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Go on.",
+        "ko": "말해 보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What we know so far is thirty-eight containers, two hundred and fourteen declarations and one new box.",
+        "ko": "지금까지 파악한 것은 컨테이너 38개, 신고서 214건, 새 칸 하나입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "And why?",
+        "ko": "이유는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What we don't know yet is why, and I won't guess.",
+        "ko": "아직 모르는 것은 이유이고, 짐작하지는 않겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Are you stopping the system?",
+        "ko": "시스템을 멈출 건가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It took two signatures to start. I want both to stop it, and I've asked Wei Ling.",
+        "ko": "시작할 때 서명이 둘이었어요. 멈출 때도 둘을 원하고, 웨이링에게 물었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Pull it.",
+        "ko": "끄세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We're pulling it now. You'll get my next call by nine.",
+        "ko": "지금 끕니다. 9시까지 다음 전화를 드릴게요.",
+        "you": true
+      }
+    ]
+  }
+}

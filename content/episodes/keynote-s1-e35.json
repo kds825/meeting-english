@@ -1,0 +1,437 @@
+{
+  "id": "keynote-s1-e35",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 35,
+  "title": "The Keynote",
+  "recapKo": "무대 점검 중 화면이 까맣게 꺼졌고 재원은 돌아보고 말았다. 예비 장비는 전환에 40초, 슬라이드는 1번부터 시작하므로 대니얼이 번호를 맡기로 했다. 프리야가 몰래 화면을 끈 두 번째 시도에서는 돌아보지 않았다. 유나는 그레이스 림 사무실이 약력을 요청했다며 놀랐고, 목요일 6시 31분 마커스가 전화해 질문이 벌써 140개라고만 알렸다.",
+  "keyExpressions": [
+    {
+      "phrase": "Picture this: ~",
+      "meaningKo": "이런 장면을 떠올려 보세요. ~",
+      "usage": "Picture this: it's Friday night, and the report still doesn't match."
+    },
+    {
+      "phrase": "Here's why that matters.",
+      "meaningKo": "이게 왜 중요하냐면요.",
+      "usage": "Costs rose by two percent. Here's why that matters."
+    },
+    {
+      "phrase": "Which raises the question: ~",
+      "meaningKo": "그러면 이런 질문이 나옵니다. ~",
+      "usage": "The tool works. Which raises the question: why isn't anyone using it?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 204,
+      "paragraphs": [
+        {
+          "en": "At 9:39 on Thursday, Farah clipped the microphone to his jacket. \"Our next speaker has twenty minutes,\" Marcus told the hall. Jae-won walked out, and the clock on the floor began to count down.",
+          "ko": "목요일 9시 39분, 파라가 그의 재킷에 마이크를 달았다. \"다음 연사에게는 20분이 있습니다.\" 마커스가 홀을 향해 말했다. 재원이 걸어 나가자 바닥의 시계가 줄어들기 시작했다."
+        },
+        {
+          "en": "\"Picture this,\" he said. \"It's eleven at night, and a finance manager is checking numbers by hand at her kitchen table.\" \"Her name is Han Mi-rae, the AI system is live, and she refuses to sign.\"",
+          "ko": "\"이런 장면을 떠올려 보세요.\" 그가 말했다. \"밤 11시, 재무 담당자가 식탁에서 숫자를 손으로 확인하고 있습니다.\" \"그녀의 이름은 한미래입니다. AI 시스템은 가동 중인데, 그녀는 서명을 거부합니다.\""
+        },
+        {
+          "en": "He reached slide three, and the number filled the screen: thirty-one out of forty-one. \"Your program says forty-two,\" he said. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\"",
+          "ko": "3번 슬라이드에 이르자 숫자가 화면을 채웠다. 41곳 중 31곳. \"프로그램에는 42라고 적혀 있습니다.\" 그가 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\""
+        },
+        {
+          "en": "\"Here's why that matters,\" he said. \"The model was never the reason that they stopped.\" \"I'm going to make three points.\" \"Pilots don't die in the demo, they die at month-end. Which raises the question: who was this system built for?\"",
+          "ko": "\"이게 왜 중요하냐면요.\" 그가 말했다. \"멈춘 이유가 모델이었던 적은 없습니다.\" \"세 가지를 말씀드리겠습니다.\" \"파일럿은 데모에서 죽지 않습니다. 월말 결산에서 죽습니다. 그러면 이런 질문이 나옵니다. 이 시스템은 누구를 위해 만들어졌을까요?\""
+        },
+        {
+          "en": "\"That brings me to the person who signs,\" he said. Thirteen minutes in, the screen went black, and he didn't turn around. \"We seem to have a technical issue,\" he said. \"Luckily, this slide has one line: build the audit trail first.\" People laughed, and forty seconds later, Daniel brought back slide nine.",
+          "ko": "\"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그가 말했다. 13분쯤 지나 화면이 까맣게 꺼졌고, 그는 돌아보지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그가 말했다. \"다행히 이 슬라이드는 한 줄입니다. 감사 추적을 먼저 만드세요.\" 사람들이 웃었고, 40초 뒤 대니얼이 9번 슬라이드를 되살렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Picture this",
+        "Here's why that matters",
+        "Which raises the question"
+      ],
+      "wordCandidates": [
+        {
+          "term": "clip",
+          "surface": "clipped",
+          "meaningKo": "(클립으로) 달다, 고정하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 9:39 on Thursday, Farah clipped the microphone to his jacket.",
+            "ko": "목요일 9시 39분, 파라가 그의 재킷에 마이크를 달았다."
+          }
+        },
+        {
+          "term": "count down",
+          "surface": "count down",
+          "meaningKo": "시간이 줄어들다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won walked out, and the clock on the floor began to count down.",
+            "ko": "재원이 걸어 나가자 바닥의 시계가 줄어들기 시작했다."
+          }
+        },
+        {
+          "term": "by hand",
+          "surface": "by hand",
+          "meaningKo": "손으로, 수작업으로",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Picture this,\" he said. \"It's eleven at night, and a finance manager is checking numbers by hand at her kitchen table.\"",
+            "ko": "\"이런 장면을 떠올려 보세요.\" 그가 말했다. \"밤 11시, 재무 담당자가 식탁에서 숫자를 손으로 확인하고 있습니다.\""
+          }
+        },
+        {
+          "term": "refuse",
+          "surface": "refuses",
+          "meaningKo": "거부하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Her name is Han Mi-rae, the AI system is live, and she refuses to sign.\"",
+            "ko": "\"그녀의 이름은 한미래입니다. AI 시스템은 가동 중인데, 그녀는 서명을 거부합니다.\""
+          }
+        },
+        {
+          "term": "initials",
+          "surface": "initials",
+          "meaningKo": "이니셜, 머리글자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Your program says forty-two,\" he said. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\"",
+            "ko": "\"프로그램에는 42라고 적혀 있습니다.\" 그가 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\""
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Your program says forty-two,\" he said. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\"",
+            "ko": "\"프로그램에는 42라고 적혀 있습니다.\" 그가 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\""
+          }
+        },
+        {
+          "term": "finance manager",
+          "surface": "finance manager",
+          "meaningKo": "재무 담당자",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Picture this,\" he said. \"It's eleven at night, and a finance manager is checking numbers by hand at her kitchen table.\"",
+            "ko": "\"이런 장면을 떠올려 보세요.\" 그가 말했다. \"밤 11시, 재무 담당자가 식탁에서 숫자를 손으로 확인하고 있습니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 337,
+      "paragraphs": [
+        {
+          "en": "At 9:39 on Thursday, Farah clipped the microphone to his jacket and took his notes out of his hand, because Priya had told her to. \"Our next speaker has twenty minutes, and I'll be watching the clock,\" Marcus told the hall. Jae-won walked out into the light, and the numbers in the floor began to fall.",
+          "ko": "목요일 9시 39분, 파라는 그의 재킷에 마이크를 달고 메모를 손에서 빼앗았다. 프리야가 시킨 일이었다. \"다음 연사에게는 20분이 있고, 저는 시계를 보고 있겠습니다.\" 마커스가 홀을 향해 말했다. 재원이 조명 속으로 걸어 나가자 바닥의 숫자가 줄어들기 시작했다."
+        },
+        {
+          "en": "\"Picture this,\" he said. \"It's eleven at night on the last day of the month, and a finance manager is sitting at her kitchen table, checking a machine's numbers by hand.\" \"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs is delighted, and she has just refused to sign.\" Nobody in the first ten rows was looking at a phone.",
+          "ko": "\"이런 장면을 떠올려 보세요.\" 그가 말했다. \"월말 마지막 날 밤 11시, 재무 담당자가 식탁에 앉아 기계의 숫자를 손으로 확인하고 있습니다.\" \"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 다들 기뻐하는데, 그녀는 방금 서명을 거부했습니다.\" 앞쪽 열 줄에서 휴대폰을 보는 사람은 아무도 없었다."
+        },
+        {
+          "en": "He reached slide three, and the number filled the screen: thirty-one out of forty-one. \"Your program says forty-two,\" he said. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\" A rustle of paper went across the hall as people looked it up, and in the third row a woman made a small mark with a pencil.",
+          "ko": "3번 슬라이드에 이르자 숫자가 화면을 채웠다. 41곳 중 31곳. \"프로그램에는 42라고 적혀 있습니다.\" 그가 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\" 사람들이 찾아보느라 종이 넘기는 소리가 홀을 가로질렀고, 3열에서 한 여성이 연필로 작은 표시를 했다."
+        },
+        {
+          "en": "\"Here's why that matters,\" he said. \"In not one of those cases was the model the reason that they stopped.\" \"Only six of these companies operate outside Korea, so I won't give you a rate for Asia, but I'm going to make three points.\" \"Pilots don't die in the demo, they die at month-end, when the numbers have to be real. Which raises the question: who was this system actually built for?\"",
+          "ko": "\"이게 왜 중요하냐면요.\" 그가 말했다. \"그중 어느 경우에도 멈춘 이유는 모델이 아니었습니다.\" \"이 회사들 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 아시아 비율은 드리지 않겠습니다. 다만 세 가지를 말씀드리겠습니다.\" \"파일럿은 데모에서 죽지 않습니다. 숫자가 진짜여야 하는 월말 결산에서 죽습니다. 그러면 이런 질문이 나옵니다. 이 시스템은 실제로 누구를 위해 만들어졌을까요?\""
+        },
+        {
+          "en": "\"That brings me to the person who signs,\" he said, and thirteen minutes in, in the middle of the third message, the screen behind him went black. He saw eight hundred faces look up, and he didn't turn around. \"We seem to have a technical issue,\" he said. \"Luckily, this slide has one line on it: build the audit trail first.\" People laughed, and forty seconds later, without a word from anyone, Daniel brought back slide nine.",
+          "ko": "\"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그가 말했다. 그리고 13분쯤, 세 번째 메시지 도중에 뒤의 화면이 까맣게 꺼졌다. 800개의 얼굴이 고개를 드는 것이 보였지만, 그는 돌아보지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그가 말했다. \"다행히 이 슬라이드에는 한 줄뿐입니다. 감사 추적을 먼저 만드세요.\" 사람들이 웃었고, 40초 뒤 누가 말하지 않아도 대니얼이 9번 슬라이드를 되살렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Picture this",
+        "Here's why that matters",
+        "Which raises the question"
+      ],
+      "wordCandidates": [
+        {
+          "term": "clip",
+          "surface": "clipped",
+          "meaningKo": "(클립으로) 달다, 고정하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At 9:39 on Thursday, Farah clipped the microphone to his jacket and took his notes out of his hand, because Priya had told her to.",
+            "ko": "목요일 9시 39분, 파라는 그의 재킷에 마이크를 달고 메모를 손에서 빼앗았다. 프리야가 시킨 일이었다."
+          }
+        },
+        {
+          "term": "go live",
+          "surface": "went live",
+          "meaningKo": "가동을 시작하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs is delighted, and she has just refused to sign.\"",
+            "ko": "\"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 다들 기뻐하는데, 그녀는 방금 서명을 거부했습니다.\""
+          }
+        },
+        {
+          "term": "upstairs",
+          "surface": "upstairs",
+          "meaningKo": "윗선, 경영진 쪽",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs is delighted, and she has just refused to sign.\"",
+            "ko": "\"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 다들 기뻐하는데, 그녀는 방금 서명을 거부했습니다.\""
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Your program says forty-two,\" he said. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\"",
+            "ko": "\"프로그램에는 42라고 적혀 있습니다.\" 그가 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\""
+          }
+        },
+        {
+          "term": "rustle",
+          "surface": "rustle",
+          "meaningKo": "바스락거리는 소리",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A rustle of paper went across the hall as people looked it up, and in the third row a woman made a small mark with a pencil.",
+            "ko": "사람들이 찾아보느라 종이 넘기는 소리가 홀을 가로질렀고, 3열에서 한 여성이 연필로 작은 표시를 했다."
+          }
+        },
+        {
+          "term": "operate",
+          "surface": "operate",
+          "meaningKo": "운영하다, 영업하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Only six of these companies operate outside Korea, so I won't give you a rate for Asia, but I'm going to make three points.\"",
+            "ko": "\"이 회사들 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 아시아 비율은 드리지 않겠습니다. 다만 세 가지를 말씀드리겠습니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 469,
+      "paragraphs": [
+        {
+          "en": "At 9:39 on Thursday, Farah clipped the microphone to his jacket, ran a thumb along the cable, and took the notes out of his hand without asking, because Priya had given her instructions. \"Our next speaker has twenty minutes, and I'll be watching the clock, as will he,\" Marcus told the hall, in the voice of a man announcing a platform change. Jae-won walked out into the light, found the mark, and watched the numbers in the floor begin to fall.",
+          "ko": "목요일 9시 39분, 파라는 그의 재킷에 마이크를 달고 엄지로 케이블을 훑은 뒤 묻지도 않고 메모를 손에서 빼앗았다. 프리야의 지시였다. \"다음 연사에게는 20분이 있고, 저도 그도 시계를 보고 있을 겁니다.\" 마커스는 승강장 변경을 안내하는 사람의 목소리로 홀에 말했다. 재원은 조명 속으로 걸어 나가 표시된 자리를 찾았고, 바닥의 숫자가 줄어들기 시작하는 것을 보았다."
+        },
+        {
+          "en": "\"Picture this,\" he said, and his voice came back to him a quarter of a second late from the far wall. \"It's eleven at night on the last day of the month, and a finance manager is sitting at her kitchen table, checking a machine's numbers by hand.\" \"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs has already sent the congratulatory email, and she has just refused to sign.\" Nobody in the first ten rows was looking at a phone. Priya had told him that was the only applause worth counting.",
+          "ko": "\"이런 장면을 떠올려 보세요.\" 그의 목소리가 먼 벽에서 4분의 1초 늦게 돌아왔다. \"월말 마지막 날 밤 11시, 재무 담당자가 식탁에 앉아 기계의 숫자를 손으로 확인하고 있습니다.\" \"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 벌써 축하 메일을 돌렸는데, 그녀는 방금 서명을 거부했습니다.\" 앞쪽 열 줄에서 휴대폰을 보는 사람은 아무도 없었다. 프리야 말로는 그것만이 셀 만한 박수였다."
+        },
+        {
+          "en": "He reached slide three, and the number filled a screen the size of a tennis court: thirty-one out of forty-one. \"Your program says forty-two,\" he said, without changing his pace. \"We counted one company twice, and my initials were on it, which is why you build the audit trail first.\" A rustle of paper went across the hall as eight hundred people looked it up to see whether he was serious, and in the third row a woman he recognized made a small, unhurried mark with a pencil.",
+          "ko": "3번 슬라이드에 이르자 숫자가 테니스 코트만 한 화면을 채웠다. 41곳 중 31곳. \"프로그램에는 42라고 적혀 있습니다.\" 그는 속도를 바꾸지 않고 말했다. \"한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\" 진담인지 확인하려는 800명이 찾아보느라 종이 소리가 홀을 가로질렀고, 3열에서 그가 아는 여성이 연필로 서두름 없이 작은 표시를 했다."
+        },
+        {
+          "en": "\"Here's why that matters,\" he said, while they were still turning pages. \"In not one of those thirty-one cases was the model the reason that they stopped, and you can check that too.\" \"Only six of these companies operate outside Korea, so I won't insult you with a rate for Asia, but I'm going to make three points that I'd defend anywhere.\" \"Pilots don't die in the demo, they die at month-end, when the numbers stop being impressive and have to be real. Which raises the question: who was this system actually built for?\"",
+          "ko": "\"이게 왜 중요하냐면요.\" 사람들이 아직 책장을 넘기는 사이 그가 말했다. \"그 31건 중 어느 경우에도 멈춘 이유는 모델이 아니었습니다. 그것도 확인해 보셔도 됩니다.\" \"이 회사들 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 아시아 비율을 내세우는 결례는 하지 않겠습니다. 다만 어디서든 변호할 수 있는 세 가지를 말씀드리겠습니다.\" \"파일럿은 데모에서 죽지 않습니다. 숫자가 인상적인 것을 넘어 진짜여야 하는 월말 결산에서 죽습니다. 그러면 이런 질문이 나옵니다. 이 시스템은 실제로 누구를 위해 만들어졌을까요?\""
+        },
+        {
+          "en": "\"That brings me to the person who signs,\" he said, and he got through her without incident, but thirteen minutes in, in the middle of the third message, the screen behind him went black. He saw it before he knew it, in eight hundred faces tilting up, and every muscle in his neck wanted to turn, and he didn't let it. \"We seem to have a technical issue,\" he said. \"Luckily, this slide has one line on it, so you're not missing much: build the audit trail first.\" People laughed, more than the line deserved, and forty seconds later, with nobody calling for it, Daniel brought back slide nine.",
+          "ko": "\"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그 대목을 무사히 넘겼지만, 13분쯤 세 번째 메시지 도중에 뒤의 화면이 까맣게 꺼졌다. 800개의 얼굴이 위로 기울어지는 것을 보고 알았다. 목 근육이 모두 돌아보고 싶어 했지만, 그는 그대로 두지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그가 말했다. \"다행히 이 슬라이드에는 한 줄뿐이니 놓치시는 것도 별로 없습니다. 감사 추적을 먼저 만드세요.\" 사람들이 말에 비해 과하게 웃었고, 40초 뒤 아무도 부르지 않았는데 대니얼이 9번 슬라이드를 되살렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Picture this",
+        "Here's why that matters",
+        "Which raises the question"
+      ],
+      "wordCandidates": [
+        {
+          "term": "platform change",
+          "surface": "platform change",
+          "meaningKo": "승강장 변경",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Our next speaker has twenty minutes, and I'll be watching the clock, as will he,\" Marcus told the hall, in the voice of a man announcing a platform change.",
+            "ko": "\"다음 연사에게는 20분이 있고, 저도 그도 시계를 보고 있을 겁니다.\" 마커스는 승강장 변경을 안내하는 사람의 목소리로 홀에 말했다."
+          }
+        },
+        {
+          "term": "go live",
+          "surface": "went live",
+          "meaningKo": "가동을 시작하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs has already sent the congratulatory email, and she has just refused to sign.\"",
+            "ko": "\"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 벌써 축하 메일을 돌렸는데, 그녀는 방금 서명을 거부했습니다.\""
+          }
+        },
+        {
+          "term": "congratulatory",
+          "surface": "congratulatory",
+          "meaningKo": "축하하는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Her name is Han Mi-rae, the system went live three weeks ago, everyone upstairs has already sent the congratulatory email, and she has just refused to sign.\"",
+            "ko": "\"그녀의 이름은 한미래입니다. 시스템은 3주 전에 가동됐고 윗선은 벌써 축하 메일을 돌렸는데, 그녀는 방금 서명을 거부했습니다.\""
+          }
+        },
+        {
+          "term": "rustle",
+          "surface": "rustle",
+          "meaningKo": "바스락거리는 소리",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A rustle of paper went across the hall as eight hundred people looked it up to see whether he was serious, and in the third row a woman he recognized made a small, unhurried mark with a pencil.",
+            "ko": "진담인지 확인하려는 800명이 찾아보느라 종이 소리가 홀을 가로질렀고, 3열에서 그가 아는 여성이 연필로 서두름 없이 작은 표시를 했다."
+          }
+        },
+        {
+          "term": "unhurried",
+          "surface": "unhurried",
+          "meaningKo": "서두르지 않는",
+          "paragraph": 2,
+          "sentence": {
+            "en": "A rustle of paper went across the hall as eight hundred people looked it up to see whether he was serious, and in the third row a woman he recognized made a small, unhurried mark with a pencil.",
+            "ko": "진담인지 확인하려는 800명이 찾아보느라 종이 소리가 홀을 가로질렀고, 3열에서 그가 아는 여성이 연필로 서두름 없이 작은 표시를 했다."
+          }
+        },
+        {
+          "term": "insult",
+          "surface": "insult",
+          "meaningKo": "모욕하다, 결례를 범하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Only six of these companies operate outside Korea, so I won't insult you with a rate for Asia, but I'm going to make three points that I'd defend anywhere.\"",
+            "ko": "\"이 회사들 중 한국 밖에서 운영하는 곳은 여섯 곳뿐이라 아시아 비율을 내세우는 결례는 하지 않겠습니다. 다만 어디서든 변호할 수 있는 세 가지를 말씀드리겠습니다.\""
+          }
+        },
+        {
+          "term": "without incident",
+          "surface": "without incident",
+          "meaningKo": "별일 없이, 무사히",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"That brings me to the person who signs,\" he said, and he got through her without incident, but thirteen minutes in, in the middle of the third message, the screen behind him went black.",
+            "ko": "\"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그 대목을 무사히 넘겼지만, 13분쯤 세 번째 메시지 도중에 뒤의 화면이 까맣게 꺼졌다."
+          }
+        },
+        {
+          "term": "tilt",
+          "surface": "tilting",
+          "meaningKo": "기울이다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He saw it before he knew it, in eight hundred faces tilting up, and every muscle in his neck wanted to turn, and he didn't let it.",
+            "ko": "800개의 얼굴이 위로 기울어지는 것을 보고 알았다. 목 근육이 모두 돌아보고 싶어 했지만, 그는 그대로 두지 않았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which slide does Daniel bring back after the screen goes black?",
+      "options": [
+        "Slide nine",
+        "Slide one",
+        "Slide three",
+        "Slide twelve"
+      ],
+      "answerIndex": 0,
+      "evidence": "People laughed, and forty seconds later, without a word from anyone, Daniel brought back slide nine."
+    },
+    {
+      "question": "Why does it matter that Jae-won doesn't turn around when the screen goes black?",
+      "options": [
+        "The crew told him that the screen was about to break.",
+        "He wants the audience to look at Daniel instead.",
+        "It shows that the rehearsal worked and he can stay with the audience.",
+        "He has forgotten what was on the slide."
+      ],
+      "answerIndex": 2,
+      "evidence": "He saw eight hundred faces look up, and he didn't turn around."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Picture this: it's eleven at night, and a finance manager is checking numbers by hand.",
+      "Here's why that matters.",
+      "Which raises the question: who was this system actually built for?"
+    ],
+    "summaryPromptKo": "재원이 키노트를 어떻게 시작했는지, 숫자 정정을 어떻게 했는지, 화면이 꺼졌을 때 어떻게 넘겼는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "Your program says forty-two, and you say forty-one. Why tell eight hundred people that you got it wrong?",
+      "ko": "프로그램에는 42, 발표자는 41이라고 하네요. 왜 800명 앞에서 틀렸다고 말씀하시는 거죠?"
+    },
+    "modelAnswer": "Because someone would have checked anyway, and here's why that matters. We counted one company twice, and my initials were on it, which is why you build the audit trail first. In not one of those cases was the model the reason that they stopped. Which raises the question: who was this system actually built for? I'd rather start with the person who has to sign."
+  },
+  "nextTeaserKo": "남은 시간은 7분 남짓. 재원은 시계 안에 끝낼 수 있을까. 그리고 마커스가 앱에서 표정 없이 골라 읽을 마지막 질문이 기다린다.",
+  "roleplay": {
+    "title": "시계가 움직이는 동안",
+    "situationKo": "키노트의 앞부분을 다시 합니다. 식탁 이야기와 숫자 정정, 그리고 화면이 꺼지는 순간까지예요. 발표문을 외울 필요는 없어요. 내 말로 짧게 말해도 됩니다. 800명은 상상으로만 있습니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Our next speaker has twenty minutes. The clock is running.",
+        "ko": "다음 연사에게는 20분이 있습니다. 시계가 돌아가고 있습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Picture this: it's eleven at night, and a finance manager is checking numbers at her kitchen table.",
+        "ko": "이런 장면을 떠올려 보세요. 밤 11시, 재무 담당자가 식탁에서 숫자를 확인하고 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The system's live, everyone's happy, and she's just refused to sign. Her name is Han Mi-rae.",
+        "ko": "시스템은 가동 중이고 다들 기뻐하는데, 그녀는 방금 서명을 거부했습니다. 이름은 한미래입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Slide three is up. Thirty-one out of forty-one.",
+        "ko": "3번 슬라이드 올라갔어요. 41곳 중 31곳입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Your program says forty-two. We counted one company twice, and my initials were on it.",
+        "ko": "프로그램에는 42라고 적혀 있습니다. 한 회사를 두 번 셌고, 거기에 제 이니셜이 있었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Here's why that matters. The model was never the reason they stopped.",
+        "ko": "이게 왜 중요하냐면요. 멈춘 이유가 모델이었던 적은 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Farah Aziz",
+        "voice": "female",
+        "en": "Playback's down. Forty seconds. Keep talking.",
+        "ko": "재생 장비가 멈췄어요. 40초입니다. 계속 말하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We seem to have a technical issue. Luckily, this slide has one line: build the audit trail first.",
+        "ko": "기술적인 문제가 생긴 것 같습니다. 다행히 이 슬라이드는 한 줄입니다. 감사 추적을 먼저 만드세요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Slide nine is back. You've got six minutes left.",
+        "ko": "9번 슬라이드 돌아왔어요. 6분 남았습니다."
+      }
+    ]
+  }
+}

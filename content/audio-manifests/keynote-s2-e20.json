@@ -1,0 +1,61 @@
+{
+  "episodeId": "keynote-s2-e20",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "guess": "word-guess.mp3",
+    "on one's feet": "word-on-one-s-feet.mp3",
+    "review": "word-review.mp3",
+    "forward": "word-forward.mp3",
+    "customs": "word-customs.mp3",
+    "parallel run": "word-parallel-run.mp3",
+    "replace": "word-replace.mp3",
+    "count back": "word-count-back.mp3",
+    "day off": "word-day-off.mp3",
+    "word spreads": "word-word-spreads.mp3",
+    "displeasure": "word-displeasure.mp3",
+    "practically": "word-practically.mp3",
+    "embrace": "word-embrace.mp3",
+    "skip": "word-skip.mp3"
+  },
+  "termClips": {
+    "guess": "term-guess.mp3",
+    "on one's feet": "term-on-one-s-feet.mp3",
+    "review": "term-review.mp3",
+    "forward": "term-forward.mp3",
+    "customs": "term-customs.mp3",
+    "parallel run": "term-parallel-run.mp3",
+    "replace": "term-replace.mp3",
+    "count back": "term-count-back.mp3",
+    "day off": "term-day-off.mp3",
+    "word spreads": "term-word-spreads.mp3",
+    "displeasure": "term-displeasure.mp3",
+    "practically": "term-practically.mp3",
+    "embrace": "term-embrace.mp3",
+    "skip": "term-skip.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

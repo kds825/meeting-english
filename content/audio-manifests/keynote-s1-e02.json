@@ -1,0 +1,60 @@
+{
+  "episodeId": "keynote-s1-e02",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "organizer": "word-organizer.mp3",
+    "commit": "word-commit.mp3",
+    "sit through": "word-sit-through.mp3",
+    "audit": "word-audit.mp3",
+    "handle": "word-handle.mp3",
+    "picture": "word-picture.mp3",
+    "field a question": "word-field-a-question.mp3",
+    "hostile": "word-hostile.mp3",
+    "quantify": "word-quantify.mp3",
+    "salvage": "word-salvage.mp3",
+    "silver-tongued": "word-silver-tongued.mp3",
+    "parry": "word-parry.mp3",
+    "compounding liability": "word-compounding-liability.mp3"
+  },
+  "termClips": {
+    "organizer": "term-organizer.mp3",
+    "commit": "term-commit.mp3",
+    "sit through": "term-sit-through.mp3",
+    "audit": "term-audit.mp3",
+    "handle": "term-handle.mp3",
+    "picture": "term-picture.mp3",
+    "field a question": "term-field-a-question.mp3",
+    "hostile": "term-hostile.mp3",
+    "quantify": "term-quantify.mp3",
+    "salvage": "term-salvage.mp3",
+    "silver-tongued": "term-silver-tongued.mp3",
+    "parry": "term-parry.mp3",
+    "compounding liability": "term-compounding-liability.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

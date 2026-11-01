@@ -1,0 +1,395 @@
+{
+  "id": "keynote-s2-e20",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 20,
+  "title": "Yes or No",
+  "recapKo": "프리야는 재원의 나쁜 소식을 세 번째 문단에서 맨 앞으로 옮기게 했다. 운영위원회에서 재원은 30초 만에 2주 지연, 기준치 9,400건, 목표 2,000건, 실제 서류 61퍼센트를 말했다. 가동 후 6주가 남는다. 아르준이 폴더를 덮고 한 단어로 답하라고 했다. \"16주 차까지 2,000건, 예입니까, 아니오입니까?\"",
+  "keyExpressions": [
+    {
+      "phrase": "You'll know by ~",
+      "meaningKo": "~까지는 아시게 될 겁니다",
+      "usage": "I can't say yet, but you'll know by Friday."
+    },
+    {
+      "phrase": "Here's how we get back on track: ~",
+      "meaningKo": "정상 궤도로 돌아갈 방법은 이렇습니다. ~",
+      "usage": "Here's how we get back on track: we freeze the scope and add one tester."
+    },
+    {
+      "phrase": "What I need from this group is ~",
+      "meaningKo": "이 자리에서 제가 필요한 것은 ~입니다",
+      "usage": "What I need from this group is a decision on the budget today."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 218,
+      "paragraphs": [
+        {
+          "en": "Jae-won waited three seconds. \"I won't pretend I know, and if I said yes today, I'd be guessing,\" he said. \"You'll know by the end of week ten.\" \"That isn't one word,\" Arjun said. \"No, it isn't,\" Jae-won said, and he stayed on his feet.",
+          "ko": "재원은 3초를 기다렸다. \"아는 척하지는 않겠습니다. 오늘 예라고 하면 짐작일 뿐입니다.\" 그가 말했다. \"10주 차 말까지는 아시게 될 겁니다.\" \"한 단어가 아니네요.\" 아르준이 말했다. \"네, 아닙니다.\" 재원은 그렇게 말하고 계속 서 있었다."
+        },
+        {
+          "en": "\"Here's how we get back on track: Siti's new form on nights from Monday, a parallel run at month-end in week nine, and go-live in week ten,\" he said. \"What I need from this group is the new baseline, signed on one page, and a decision from Grace today.\"",
+          "ko": "\"정상 궤도로 돌아갈 방법은 이렇습니다. 월요일부터 야간조에 시티의 새 양식을 쓰고, 9주 차 월말에 병행 운영을 하고, 10주 차에 가동합니다.\" 그가 말했다. \"이 자리에서 제가 필요한 것은 한 장에 서명된 새 기준치와 오늘 그레이스의 결정입니다.\""
+        },
+        {
+          "en": "Grace turned to Wei Ling and asked if he was right. \"He told me the number when he told you,\" Wei Ling said. \"Nobody from head office has ever done that.\" Grace asked about page thirty-one. \"Ask me in week nine,\" Wei Ling said. Grace signed the page.",
+          "ko": "그레이스가 웨이링을 돌아보며 그의 말이 맞느냐고 물었다. \"당신에게 말할 때 저한테도 숫자를 말했어요.\" 웨이링이 말했다. \"본사에서 그런 사람은 없었어요.\" 그레이스가 31쪽에 대해 물었다. \"9주 차에 물어보세요.\" 웨이링이 말했다. 그레이스가 그 장에 서명했다."
+        },
+        {
+          "en": "Afterward, Helen called. \"You answered Arjun well, but you answered Grace three weeks late,\" she said. \"Your review will ask about both.\" Downstairs, Daniel was asleep in a chair with his notebook open. He hadn't taken a day off since the kickoff.",
+          "ko": "회의가 끝나자 헬렌이 전화했다. \"아르준에게는 잘 답했지만, 그레이스에게는 3주 늦게 답했어요.\" 그녀가 말했다. \"심사에서 둘 다 물을 거예요.\" 아래층에서 대니얼이 수첩을 펼친 채 의자에서 자고 있었다. 킥오프 이후 하루도 쉬지 않았다."
+        },
+        {
+          "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang. Word had spread that a team was fixing forms. Every message began the same way: \"Just one small thing.\"",
+          "ko": "점심 전에 그레이스가 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다. 어떤 팀이 양식을 고치고 있다는 소문이 퍼진 것이었다. 모든 메시지가 똑같이 시작했다. \"작은 것 하나만요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "You'll know by",
+        "Here's how we get back on track",
+        "What I need from this group is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "guess",
+          "surface": "guessing",
+          "meaningKo": "짐작하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I won't pretend I know, and if I said yes today, I'd be guessing,\" he said.",
+            "ko": "\"아는 척하지는 않겠습니다. 오늘 예라고 하면 짐작일 뿐입니다.\""
+          }
+        },
+        {
+          "term": "on one's feet",
+          "surface": "on his feet",
+          "meaningKo": "서 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"No, it isn't,\" Jae-won said, and he stayed on his feet.",
+            "ko": "\"네, 아닙니다.\" 재원은 그렇게 말하고 계속 서 있었다."
+          }
+        },
+        {
+          "term": "review",
+          "surface": "review",
+          "meaningKo": "심사",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Your review will ask about both.\"",
+            "ko": "\"심사에서 둘 다 물을 거예요.\""
+          }
+        },
+        {
+          "term": "forward",
+          "surface": "forwarded",
+          "meaningKo": "(메시지를) 전달하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang.",
+            "ko": "점심 전에 그레이스가 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다."
+          }
+        },
+        {
+          "term": "customs",
+          "surface": "customs",
+          "meaningKo": "통관, 세관",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang.",
+            "ko": "점심 전에 그레이스가 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 330,
+      "paragraphs": [
+        {
+          "en": "Jae-won waited three seconds, and he knew which word Arjun wanted and which one Grace wanted. \"I won't pretend I know, and if I said yes today, I'd be guessing, and you'd have a number from me with nothing under it,\" he said. \"You'll know by the end of week ten, when we have real numbers.\" \"That isn't one word,\" Arjun said. \"No, it isn't,\" Jae-won said, and he stayed on his feet.",
+          "ko": "재원은 3초를 기다렸다. 아르준이 원하는 단어도, 그레이스가 원하는 단어도 알고 있었다. \"아는 척하지는 않겠습니다. 오늘 예라고 하면 짐작일 뿐이고, 밑에 아무것도 없는 숫자를 제게서 받으시는 겁니다.\" 그가 말했다. \"실제 숫자가 나오는 10주 차 말까지는 아시게 될 겁니다.\" \"한 단어가 아니네요.\" 아르준이 말했다. \"네, 아닙니다.\" 재원은 그렇게 말하고 계속 서 있었다."
+        },
+        {
+          "en": "\"Here's how we get back on track: Siti's new form on nights from Monday, with a box for her code, Cole on the dock until week six, a parallel run at month-end in week nine, and go-live in week ten,\" he said. \"What I need from this group is the new baseline, signed on one page, and a decision from Grace today.\" Joanne added that she would replace the data pack with real scans by week five.",
+          "ko": "\"정상 궤도로 돌아갈 방법은 이렇습니다. 월요일부터 야간조에 코드 칸이 있는 시티의 새 양식을 쓰고, 콜은 6주 차까지 도크에 있고, 9주 차 월말에 병행 운영을 하고, 10주 차에 가동합니다.\" 그가 말했다. \"이 자리에서 제가 필요한 것은 한 장에 서명된 새 기준치와 오늘 그레이스의 결정입니다.\" 조앤이 5주 차까지 데이터 묶음을 실제 스캔본으로 바꾸겠다고 덧붙였다."
+        },
+        {
+          "en": "Grace turned to Wei Ling and asked if he was right. \"He told me the number when he told you,\" Wei Ling said. \"Nobody from head office has ever done that.\" Grace asked about page thirty-one. \"Ask me in week nine,\" Wei Ling said. Grace signed the page and said that the slide for her board stayed as it was until someone gave her a better one.",
+          "ko": "그레이스가 웨이링을 돌아보며 그의 말이 맞느냐고 물었다. \"당신에게 말할 때 저한테도 숫자를 말했어요.\" 웨이링이 말했다. \"본사에서 그런 사람은 없었어요.\" 그레이스가 31쪽에 대해 물었다. \"9주 차에 물어보세요.\" 웨이링이 말했다. 그레이스는 그 장에 서명하고, 더 나은 슬라이드를 주는 사람이 있을 때까지 이사회 슬라이드는 그대로 둔다고 말했다."
+        },
+        {
+          "en": "Afterward, Helen called. \"You answered Arjun well, but you answered Grace three weeks late,\" she said. \"Your review will ask about both.\" Downstairs, Daniel was asleep in a chair with his notebook open, and Jae-won counted back and found that he hadn't taken a day off since the kickoff. He made a note to talk to him about it, and he let him sleep.",
+          "ko": "회의가 끝나자 헬렌이 전화했다. \"아르준에게는 잘 답했지만, 그레이스에게는 3주 늦게 답했어요.\" 그녀가 말했다. \"심사에서 둘 다 물을 거예요.\" 아래층에서 대니얼이 수첩을 펼친 채 의자에서 자고 있었고, 재원이 날짜를 거슬러 세어 보니 그는 킥오프 이후 하루도 쉬지 않았다. 재원은 그 얘기를 해 보자고 메모하고, 그를 자게 두었다."
+        },
+        {
+          "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang. Word had spread that a team was fixing forms, and nobody had read the one page about what was in and what was out. Every message began the same way: \"Just one small thing.\"",
+          "ko": "점심 전에 그레이스가 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다. 어떤 팀이 양식을 고치고 있다는 소문이 퍼졌는데, 무엇이 범위 안이고 밖인지 적은 한 장을 읽은 사람은 없었다. 모든 메시지가 똑같이 시작했다. \"작은 것 하나만요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "You'll know by",
+        "Here's how we get back on track",
+        "What I need from this group is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "parallel run",
+          "surface": "parallel run",
+          "meaningKo": "병행 운영",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Here's how we get back on track: Siti's new form on nights from Monday, with a box for her code, Cole on the dock until week six, a parallel run at month-end in week nine, and go-live in week ten,\" he said.",
+            "ko": "\"정상 궤도로 돌아갈 방법은 이렇습니다. 월요일부터 야간조에 코드 칸이 있는 시티의 새 양식을 쓰고, 콜은 6주 차까지 도크에 있고, 9주 차 월말에 병행 운영을 하고, 10주 차에 가동합니다.\""
+          }
+        },
+        {
+          "term": "replace",
+          "surface": "replace",
+          "meaningKo": "교체하다, 바꾸다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Joanne added that she would replace the data pack with real scans by week five.",
+            "ko": "조앤이 5주 차까지 데이터 묶음을 실제 스캔본으로 바꾸겠다고 덧붙였다."
+          }
+        },
+        {
+          "term": "count back",
+          "surface": "counted back",
+          "meaningKo": "거슬러 세다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Downstairs, Daniel was asleep in a chair with his notebook open, and Jae-won counted back and found that he hadn't taken a day off since the kickoff.",
+            "ko": "아래층에서 대니얼이 수첩을 펼친 채 의자에서 자고 있었고, 재원이 날짜를 거슬러 세어 보니 그는 킥오프 이후 하루도 쉬지 않았다."
+          }
+        },
+        {
+          "term": "day off",
+          "surface": "day off",
+          "meaningKo": "쉬는 날",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Downstairs, Daniel was asleep in a chair with his notebook open, and Jae-won counted back and found that he hadn't taken a day off since the kickoff.",
+            "ko": "아래층에서 대니얼이 수첩을 펼친 채 의자에서 자고 있었고, 재원이 날짜를 거슬러 세어 보니 그는 킥오프 이후 하루도 쉬지 않았다."
+          }
+        },
+        {
+          "term": "word spreads",
+          "surface": "Word had spread",
+          "meaningKo": "소문이 퍼지다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Word had spread that a team was fixing forms, and nobody had read the one page about what was in and what was out.",
+            "ko": "어떤 팀이 양식을 고치고 있다는 소문이 퍼졌는데, 무엇이 범위 안이고 밖인지 적은 한 장을 읽은 사람은 없었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 445,
+      "paragraphs": [
+        {
+          "en": "Jae-won waited three seconds, and he knew which word Arjun wanted, which one Grace wanted, and which one would get him through lunch. \"I won't pretend I know, and if I said yes today, I'd be guessing, and you'd have a number from me with nothing under it, which is how we got seven thousand,\" he said. \"You'll know by the end of week ten, when we have real numbers.\" \"That isn't one word,\" Arjun said, without any visible displeasure. \"No, it isn't,\" Jae-won said, and he stayed on his feet, because sitting down at that moment would have been an answer too.",
+          "ko": "재원은 3초를 기다렸다. 아르준이 원하는 단어도, 그레이스가 원하는 단어도, 점심까지 버티게 해 줄 단어도 알고 있었다. \"아는 척하지는 않겠습니다. 오늘 예라고 하면 짐작일 뿐이고, 밑에 아무것도 없는 숫자를 제게서 받으시는 겁니다. 7천 건이 그렇게 나왔죠.\" 그가 말했다. \"실제 숫자가 나오는 10주 차 말까지는 아시게 될 겁니다.\" \"한 단어가 아니네요.\" 아르준이 불쾌한 기색 없이 말했다. \"네, 아닙니다.\" 재원은 그렇게 말하고 계속 서 있었다. 그 순간 앉는 것도 하나의 대답이 될 터였다."
+        },
+        {
+          "en": "\"Here's how we get back on track: Siti's new form on nights from Monday, with a box for her code, Cole on the dock until week six, a parallel run at month-end in week nine, and go-live in week ten,\" he said. \"What I need from this group is the new baseline, signed on one page, and a decision from Grace today.\" Joanne, who had not been asked, added that she would replace the data pack with real scans by week five, and she kept her eyes on the table while she said it.",
+          "ko": "\"정상 궤도로 돌아갈 방법은 이렇습니다. 월요일부터 야간조에 코드 칸이 있는 시티의 새 양식을 쓰고, 콜은 6주 차까지 도크에 있고, 9주 차 월말에 병행 운영을 하고, 10주 차에 가동합니다.\" 그가 말했다. \"이 자리에서 제가 필요한 것은 한 장에 서명된 새 기준치와 오늘 그레이스의 결정입니다.\" 아무도 묻지 않았는데 조앤이 5주 차까지 데이터 묶음을 실제 스캔본으로 바꾸겠다고 덧붙였고, 말하는 동안 눈은 테이블에 두었다."
+        },
+        {
+          "en": "Grace turned to Wei Ling and asked if he was right, which was the first time anyone in that room had asked her that about a consultant. \"He told me the number when he told you,\" Wei Ling said. \"Nobody from head office has ever done that.\" Grace asked about page thirty-one. \"Ask me in week nine,\" Wei Ling said, and for her that was practically an embrace. Grace signed the page and said that the slide for her board stayed as it was until someone gave her a better one, and everyone understood who someone was.",
+          "ko": "그레이스가 웨이링을 돌아보며 그의 말이 맞느냐고 물었다. 그 방에서 누가 컨설턴트에 대해 그녀에게 그런 것을 물은 건 처음이었다. \"당신에게 말할 때 저한테도 숫자를 말했어요.\" 웨이링이 말했다. \"본사에서 그런 사람은 없었어요.\" 그레이스가 31쪽에 대해 물었다. \"9주 차에 물어보세요.\" 웨이링이 말했는데, 그녀로서는 거의 포옹이었다. 그레이스는 그 장에 서명하고, 더 나은 슬라이드를 주는 사람이 있을 때까지 이사회 슬라이드는 그대로 둔다고 말했다. 그 사람이 누구인지는 모두가 알았다."
+        },
+        {
+          "en": "Afterward, Helen called, and she skipped the part where people say well done. \"You answered Arjun well, but you answered Grace three weeks late,\" she said. \"Your review will ask about both.\" Downstairs, Daniel was asleep in a chair with his notebook open, and Jae-won counted back and found that he hadn't taken a day off since the kickoff, which he might have noticed earlier if he had looked up. He made a note to talk to him about it, and he let him sleep, and the note went into the same folder as everything else.",
+          "ko": "회의가 끝나자 헬렌이 전화했고, 잘했다는 말은 건너뛰었다. \"아르준에게는 잘 답했지만, 그레이스에게는 3주 늦게 답했어요.\" 그녀가 말했다. \"심사에서 둘 다 물을 거예요.\" 아래층에서 대니얼이 수첩을 펼친 채 의자에서 자고 있었고, 재원이 날짜를 거슬러 세어 보니 그는 킥오프 이후 하루도 쉬지 않았다. 고개만 들었어도 더 일찍 알아차렸을 일이었다. 재원은 그 얘기를 해 보자고 메모하고 그를 자게 두었고, 메모는 다른 모든 것과 같은 폴더로 들어갔다."
+        },
+        {
+          "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang, with no comment of her own. Word had spread that a team was fixing forms, and nobody had read the one page about what was in and what was out. Every message began the same way: \"Just one small thing.\"",
+          "ko": "점심 전에 그레이스가 아무 말 없이 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다. 어떤 팀이 양식을 고치고 있다는 소문이 퍼졌는데, 무엇이 범위 안이고 밖인지 적은 한 장을 읽은 사람은 없었다. 모든 메시지가 똑같이 시작했다. \"작은 것 하나만요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "You'll know by",
+        "Here's how we get back on track",
+        "What I need from this group is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "displeasure",
+          "surface": "displeasure",
+          "meaningKo": "불쾌함",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That isn't one word,\" Arjun said, without any visible displeasure.",
+            "ko": "\"한 단어가 아니네요.\" 아르준이 불쾌한 기색 없이 말했다."
+          }
+        },
+        {
+          "term": "practically",
+          "surface": "practically",
+          "meaningKo": "거의, 사실상",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Ask me in week nine,\" Wei Ling said, and for her that was practically an embrace.",
+            "ko": "\"9주 차에 물어보세요.\" 웨이링이 말했는데, 그녀로서는 거의 포옹이었다."
+          }
+        },
+        {
+          "term": "embrace",
+          "surface": "embrace",
+          "meaningKo": "포옹",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Ask me in week nine,\" Wei Ling said, and for her that was practically an embrace.",
+            "ko": "\"9주 차에 물어보세요.\" 웨이링이 말했는데, 그녀로서는 거의 포옹이었다."
+          }
+        },
+        {
+          "term": "skip",
+          "surface": "skipped",
+          "meaningKo": "건너뛰다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Afterward, Helen called, and she skipped the part where people say well done.",
+            "ko": "회의가 끝나자 헬렌이 전화했고, 잘했다는 말은 건너뛰었다."
+          }
+        },
+        {
+          "term": "forward",
+          "surface": "forwarded",
+          "meaningKo": "(메시지를) 전달하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Before lunch, Grace forwarded four messages, from customs, finance, procurement and Rahim at Port Klang, with no comment of her own.",
+            "ko": "점심 전에 그레이스가 아무 말 없이 메시지 네 통을 전달했다. 통관, 재무, 구매, 그리고 포트 클랑의 라힘에게서 온 것이었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Wei Ling say about page thirty-one?",
+      "options": [
+        "She will never sign it",
+        "She has already signed it",
+        "Grace should ask her in week nine",
+        "Daniel should sign it for her"
+      ],
+      "answerIndex": 2,
+      "evidence": "Ask me in week nine"
+    },
+    {
+      "question": "Why does Jae-won refuse to answer \"yes\" to Arjun?",
+      "options": [
+        "He has decided to leave the project",
+        "He doesn't want to give a number that has nothing under it yet",
+        "He hasn't read the contract",
+        "He wants Grace to answer for him"
+      ],
+      "answerIndex": 1,
+      "evidence": "I'd be guessing"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "You'll know by the end of week ten, when we have real numbers.",
+      "Here's how we get back on track: a parallel run at month-end in week nine.",
+      "What I need from this group is the new baseline, signed on one page."
+    ],
+    "summaryPromptKo": "재원이 아르준의 질문에 어떻게 답했는지, 웨이링이 뭐라고 했는지, 회의가 끝난 뒤 무슨 일이 일어났는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "I asked for one word, and you gave me a schedule. If the committee insists on yes or no today, what do you say?",
+      "ko": "한 단어를 달라고 했는데 일정을 주셨군요. 위원회가 오늘 예 아니면 아니오를 고집하면 뭐라고 하겠습니까?"
+    },
+    "modelAnswer": "Then I'd say not yet, and I'd say it knowing how it sounds. If I said yes today, I'd be guessing, and that's how we got seven thousand. You'll know by the end of week ten, when the system has run on documents it hasn't seen, through a real month-end. Until then, the hundred and fifty thousand stays at risk, and it's mine. What I need from this group is one signed page."
+  },
+  "nextTeaserKo": "통관, 재무, 구매, 포트 클랑. 네 부서가 \"작은 것 하나만요\"로 시작하는 요청을 보낸다. 범위는 한 장에 적혀 있지만 아무도 읽지 않았다. 재원은 이제 예산을 쥔 사람들에게 안 된다고 말해야 한다.",
+  "roleplay": {
+    "title": "한 단어 대신",
+    "situationKo": "아르준의 질문이 남아 있습니다. 예도 아니오도 아닌, 언제 알게 되는지와 그때까지의 계획을 말해 보세요. 이번에는 3초 쉬고 시작해도 됩니다.",
+    "lines": [
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Two thousand by week sixteen, yes or no?",
+        "ko": "16주 차까지 2,000건, 예입니까, 아니오입니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "If I said yes today, I'd be guessing. You'll know by the end of week ten, when we have real numbers.",
+        "ko": "오늘 예라고 하면 짐작일 뿐입니다. 실제 숫자가 나오는 10주 차 말까지는 아시게 될 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "That isn't one word.",
+        "ko": "한 단어가 아니네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, it isn't. Here's how we get back on track: Siti's new form from Monday, then a parallel run at month-end in week nine.",
+        "ko": "네, 아닙니다. 정상 궤도로 돌아갈 방법은 이렇습니다. 월요일부터 시티의 새 양식을 쓰고, 9주 차 월말에 병행 운영을 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "And go-live?",
+        "ko": "가동은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Week ten. What I need from this group is the new baseline, signed on one page, and your decision today.",
+        "ko": "10주 차입니다. 이 자리에서 제가 필요한 것은 한 장에 서명된 새 기준치와 오늘 그레이스의 결정입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Wei Ling, is he right?",
+        "ko": "웨이링, 이 사람 말이 맞나요?"
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "He told me the number when he told you. Nobody from head office has ever done that.",
+        "ko": "당신에게 말할 때 저한테도 숫자를 말했어요. 본사에서 그런 사람은 없었어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you, Wei Ling. I won't ask about page thirty-one today.",
+        "ko": "고맙습니다, 웨이링. 오늘은 31쪽에 대해 묻지 않겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Ask me in week nine.",
+        "ko": "9주 차에 물어보세요."
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "You answered Arjun well, but you answered Grace three weeks late. Your review will ask about both.",
+        "ko": "아르준에게는 잘 답했지만, 그레이스에게는 3주 늦게 답했어요. 심사에서 둘 다 물을 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I know, Helen. I'll have an answer for that by then.",
+        "ko": "압니다, 헬렌. 그때까지 답을 준비하겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

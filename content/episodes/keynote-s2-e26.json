@@ -1,0 +1,412 @@
+{
+  "id": "keynote-s2-e26",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 26,
+  "title": "Page Seven",
+  "recapKo": "9주 차 월말은 무사히 넘어갔고 웨이링은 31쪽에 서명했다. 10주 차에 86퍼센트로 가동했다. 그런데 11주 차 목요일 새벽, 세관이 컨테이너 38개를 잡아 뒀다. 원산지 코드가 틀린 신고서가 214건이었다. 재원은 그레이스에게 먼저 전화했고, 시스템을 껐다. 대니얼이 로그를 보다 전화했다. \"코드를 아예 읽지 않고 있어요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "The root cause was ~",
+      "meaningKo": "근본 원인은 ~였습니다",
+      "usage": "The root cause was a setting that nobody had reviewed."
+    },
+    {
+      "phrase": "To make sure this doesn't happen again, ~",
+      "meaningKo": "이런 일이 다시 없도록, ~",
+      "usage": "To make sure this doesn't happen again, every change gets a second reader."
+    },
+    {
+      "phrase": "We've stopped ~ until ~",
+      "meaningKo": "~할 때까지 ~을 중단했습니다",
+      "usage": "We've stopped the rollout until the test is complete."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 225,
+      "paragraphs": [
+        {
+          "en": "Upstairs, Cole had gone pale. The origin code was printed too small, he said, so in week ten he had turned on the old lookup for that one box. The system took the code from the same carrier's last shipment. \"It was in the release note, on page seven,\" he said.",
+          "ko": "위층에서 콜은 창백해져 있었다. 원산지 코드가 너무 작게 찍혀 있어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰다고 그가 말했다. 시스템은 같은 운송사의 지난번 화물에서 코드를 가져왔다. \"출시 노트 7쪽에 적어 뒀어요.\" 그가 말했다."
+        },
+        {
+          "en": "Jae-won found the note in his inbox, unread. Hafiz stopped pretending. His team had been two people short on Monday, and they had stopped reading every declaration, and he hadn't told anyone.",
+          "ko": "재원은 받은 편지함에서 읽지 않은 그 노트를 찾았다. 하피즈는 숨기기를 그만뒀다. 월요일에 그의 팀은 두 명이 부족해서 신고서를 전부 읽는 일을 그만뒀고, 그는 아무에게도 말하지 않았다."
+        },
+        {
+          "en": "On Friday at nine, he stood up in front of Grace, Arjun, Wei Ling, Ethan and Priscilla. \"Here's where we stand: the containers are moving again. We've stopped the system until we've tested it again,\" he said. \"The root cause was three things, and one of them is mine.\"",
+          "ko": "금요일 9시, 그는 그레이스, 아르준, 웨이링, 이선, 프리실라 앞에 섰다. \"현재 상황은 이렇습니다. 컨테이너는 다시 움직이고 있습니다. 다시 시험할 때까지 시스템을 중단했습니다.\" 그가 말했다. \"근본 원인은 세 가지이고, 그중 하나는 제 책임입니다.\""
+        },
+        {
+          "en": "\"Corvane left a lookup on, Hafiz's check stopped, and I chose a test of two hundred documents and didn't read page seven,\" he said. \"To make sure this doesn't happen again, every change gets a full test and a second reader.\"",
+          "ko": "\"코르베인은 대조 기능을 켜 두었고, 하피즈의 확인은 멈췄고, 저는 200건 시험을 골랐으며 7쪽을 읽지 않았습니다.\" 그가 말했다. \"이런 일이 다시 없도록, 모든 변경은 전수 시험과 두 번째 검토자를 거칩니다.\""
+        },
+        {
+          "en": "Afterward, Wei Ling put a page on the table. \"I signed because your page said someone reads the box, so take my name off,\" she said. Then Priscilla spoke. \"The loss is six hundred and ten thousand dollars, and Corvane's cap is three hundred and sixty,\" she said. \"We'll talk on Monday.\"",
+          "ko": "회의 뒤 웨이링이 종이 한 장을 테이블에 놓았다. \"누가 그 칸을 읽는다고 적혀 있어서 서명한 거예요. 제 이름을 빼세요.\" 그녀가 말했다. 그때 프리실라가 말했다. \"손실은 61만 달러이고, 코르베인의 상한은 36만 달러입니다.\" 그녀가 말했다. \"월요일에 얘기하죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The root cause was",
+        "To make sure this doesn't happen again",
+        "We've stopped"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pale",
+          "surface": "pale",
+          "meaningKo": "창백한",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Upstairs, Cole had gone pale.",
+            "ko": "위층에서 콜은 창백해져 있었다."
+          }
+        },
+        {
+          "term": "release note",
+          "surface": "release note",
+          "meaningKo": "출시 노트",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It was in the release note, on page seven,\" he said.",
+            "ko": "\"출시 노트 7쪽에 적어 뒀어요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "inbox",
+          "surface": "inbox",
+          "meaningKo": "받은 편지함",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won found the note in his inbox, unread.",
+            "ko": "재원은 받은 편지함에서 읽지 않은 그 노트를 찾았다."
+          }
+        },
+        {
+          "term": "short",
+          "surface": "short",
+          "meaningKo": "(인원이) 부족한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "His team had been two people short on Monday, and they had stopped reading every declaration, and he hadn't told anyone.",
+            "ko": "월요일에 그의 팀은 두 명이 부족해서 신고서를 전부 읽는 일을 그만뒀고, 그는 아무에게도 말하지 않았다."
+          }
+        },
+        {
+          "term": "cap",
+          "surface": "cap",
+          "meaningKo": "상한",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"The loss is six hundred and ten thousand dollars, and Corvane's cap is three hundred and sixty,\" she said.",
+            "ko": "\"손실은 61만 달러이고, 코르베인의 상한은 36만 달러입니다.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 366,
+      "paragraphs": [
+        {
+          "en": "Upstairs, Cole had gone pale, and he didn't try to explain until Jae-won had read the screen. The origin code was printed too small to read reliably, he said, so in week ten he had turned on the old lookup for that one box, and the system simply took the code from the same carrier's last shipment. \"It was all in the release note, on page seven,\" he said, and for once he wasn't defending himself.",
+          "ko": "위층에서 콜은 창백해져 있었고, 재원이 화면을 다 읽을 때까지 설명하려 들지 않았다. 원산지 코드가 너무 작게 찍혀 안정적으로 읽을 수 없어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰고, 시스템은 같은 운송사의 지난번 화물에서 코드를 가져왔다고 그가 말했다. \"전부 출시 노트 7쪽에 있어요.\" 그가 말했고, 이번에는 변명하는 말투가 아니었다."
+        },
+        {
+          "en": "It explained the two hundred documents as well. They had come from four carriers who always shipped from the same place. Jae-won found the note in his inbox, unread, with Daniel's copy beside it. Then he went to see Hafiz, who stopped pretending: his team had been two people short on Monday, with the new rule starting, and they had quietly stopped reading every declaration. He hadn't told anyone.",
+          "ko": "200건도 그것으로 설명됐다. 그 서류들은 늘 같은 곳에서 선적하는 운송사 네 곳에서 나왔기 때문이다. 재원은 받은 편지함에서 읽지 않은 그 노트를 찾았고, 대니얼에게 간 사본도 그 옆에 있었다. 그리고 하피즈를 찾아갔고, 하피즈는 숨기기를 그만뒀다. 새 규정이 시작된 월요일에 그의 팀은 두 명이 부족했고, 조용히 신고서를 전부 읽는 일을 그만뒀다. 아무에게도 말하지 않았다."
+        },
+        {
+          "en": "On Friday at nine, he stood up in front of Grace, Arjun, Wei Ling, Ethan, Hafiz and Priscilla, and he had one page. \"Here's where we stand: the containers are moving again. We've stopped the system until we've tested that box properly,\" he said. \"The root cause was three things, not one, and one of them is mine.\"",
+          "ko": "금요일 9시, 그는 그레이스, 아르준, 웨이링, 이선, 하피즈, 프리실라 앞에 한 장을 들고 섰다. \"현재 상황은 이렇습니다. 컨테이너는 다시 움직이고 있습니다. 그 칸을 제대로 시험할 때까지 시스템을 중단했습니다.\" 그가 말했다. \"근본 원인은 하나가 아니라 세 가지이고, 그중 하나는 제 책임입니다.\""
+        },
+        {
+          "en": "\"Corvane left a lookup on, Straits Meridian's second check stopped, and I chose a test of two hundred documents and didn't read page seven,\" he said, and he gave each one the same length. \"To make sure this doesn't happen again, every change gets a full test, the lookup comes out for good, and every release note gets a second reader.\" Arjun asked who had agreed to two hundred. Grace said that she had, and nobody looked at anyone.",
+          "ko": "\"코르베인은 대조 기능을 켜 두었고, 스트레이츠 메리디안의 2차 확인은 멈췄고, 저는 200건 시험을 골랐으며 7쪽을 읽지 않았습니다.\" 그가 세 가지를 같은 길이로 말했다. \"이런 일이 다시 없도록, 모든 변경은 전수 시험을 거치고, 대조 기능은 완전히 빼고, 모든 출시 노트는 두 번째 검토자가 읽습니다.\" 아르준이 누가 200건에 동의했느냐고 묻자 그레이스가 자신이라고 했고, 아무도 서로를 보지 않았다."
+        },
+        {
+          "en": "Afterward, Wei Ling put his page from week nine on the table, with one line circled. \"I signed because this says someone reads the box, so take my name off until someone does,\" she said. Then Priscilla looked up from her papers and poured herself some tea. \"The loss is six hundred and ten thousand dollars, Corvane's cap is three hundred and sixty, and page thirty-one says that we negotiate the rest in good faith,\" she said. \"Monday at ten, and bring Baek Joon-ho.\"",
+          "ko": "회의 뒤 웨이링이 9주 차의 그 종이를 테이블에 놓았다. 한 줄에 동그라미가 쳐져 있었다. \"누가 그 칸을 읽는다고 적혀 있어서 서명한 거예요. 누가 읽을 때까지 제 이름을 빼세요.\" 그녀가 말했다. 그때 프리실라가 서류에서 고개를 들고 차를 따랐다. \"손실은 61만 달러이고, 코르베인의 상한은 36만 달러이며, 31쪽에는 나머지를 신의성실하게 협의한다고 되어 있습니다.\" 그녀가 말했다. \"월요일 10시에, 백준호 총괄을 모시고 오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The root cause was",
+        "To make sure this doesn't happen again",
+        "We've stopped"
+      ],
+      "wordCandidates": [
+        {
+          "term": "reliably",
+          "surface": "reliably",
+          "meaningKo": "안정적으로, 믿을 만하게",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The origin code was printed too small to read reliably, he said, so in week ten he had turned on the old lookup for that one box, and the system simply took the code from the same carrier's last shipment.",
+            "ko": "원산지 코드가 너무 작게 찍혀 안정적으로 읽을 수 없어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰고, 시스템은 같은 운송사의 지난번 화물에서 코드를 가져왔다고 그가 말했다."
+          }
+        },
+        {
+          "term": "shipment",
+          "surface": "shipment",
+          "meaningKo": "화물, 선적분",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The origin code was printed too small to read reliably, he said, so in week ten he had turned on the old lookup for that one box, and the system simply took the code from the same carrier's last shipment.",
+            "ko": "원산지 코드가 너무 작게 찍혀 안정적으로 읽을 수 없어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰고, 시스템은 같은 운송사의 지난번 화물에서 코드를 가져왔다고 그가 말했다."
+          }
+        },
+        {
+          "term": "stop pretending",
+          "surface": "stopped pretending",
+          "meaningKo": "숨기기를 그만두다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then he went to see Hafiz, who stopped pretending: his team had been two people short on Monday, with the new rule starting, and they had quietly stopped reading every declaration.",
+            "ko": "그리고 하피즈를 찾아갔고, 하피즈는 숨기기를 그만뒀다. 새 규정이 시작된 월요일에 그의 팀은 두 명이 부족했고, 조용히 신고서를 전부 읽는 일을 그만뒀다."
+          }
+        },
+        {
+          "term": "for good",
+          "surface": "for good",
+          "meaningKo": "영구히, 완전히",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"To make sure this doesn't happen again, every change gets a full test, the lookup comes out for good, and every release note gets a second reader.\"",
+            "ko": "\"이런 일이 다시 없도록, 모든 변경은 전수 시험을 거치고, 대조 기능은 완전히 빼고, 모든 출시 노트는 두 번째 검토자가 읽습니다.\""
+          }
+        },
+        {
+          "term": "good faith",
+          "surface": "good faith",
+          "meaningKo": "신의성실",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"The loss is six hundred and ten thousand dollars, Corvane's cap is three hundred and sixty, and page thirty-one says that we negotiate the rest in good faith,\" she said.",
+            "ko": "\"손실은 61만 달러이고, 코르베인의 상한은 36만 달러이며, 31쪽에는 나머지를 신의성실하게 협의한다고 되어 있습니다.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 453,
+      "paragraphs": [
+        {
+          "en": "Upstairs, Cole had gone pale, and he had the decency not to explain anything until Jae-won had finished reading the screen. The origin code was printed too small to read reliably, he said, so in week ten he had turned on the old lookup for that one box, and the system simply inherited the code from the same carrier's last shipment. \"It was all disclosed in the release note, on page seven,\" he said, and for once he wasn't defending himself so much as reading out the charge.",
+          "ko": "위층에서 콜은 창백해져 있었고, 재원이 화면을 다 읽을 때까지 아무것도 설명하지 않을 만한 염치는 있었다. 원산지 코드가 너무 작게 찍혀 안정적으로 읽을 수 없어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰고, 시스템은 같은 운송사의 지난번 화물에서 코드를 그대로 물려받았다고 그가 말했다. \"전부 출시 노트 7쪽에 공개돼 있어요.\" 그가 말했고, 이번에는 변명이라기보다 공소장을 읽는 것 같았다."
+        },
+        {
+          "en": "It explained the two hundred documents as well. They had come from four carriers who always shipped from the same place, so the lookup had looked like eyesight. Jae-won found the note in his inbox, unread, with Daniel's copy beside it, unread on a night when Jae-won himself had been on the dock. Then he went to see Hafiz, who stopped pretending: his team had been two people short on Monday, with the new rule starting, and they had quietly reverted to sampling. He hadn't told anyone, because it had seemed like a small thing.",
+          "ko": "200건도 그것으로 설명됐다. 그 서류들은 늘 같은 곳에서 선적하는 운송사 네 곳에서 나왔기 때문에, 대조 기능이 시력처럼 보였던 것이다. 재원은 받은 편지함에서 읽지 않은 그 노트를 찾았고, 대니얼에게 간 사본도 그 옆에 있었다. 재원 자신이 도크에 있던 밤에 읽히지 않은 사본이었다. 그리고 하피즈를 찾아갔고, 하피즈는 숨기기를 그만뒀다. 새 규정이 시작된 월요일에 그의 팀은 두 명이 부족했고, 조용히 표본 확인으로 돌아갔다. 작은 일로 보였기에 아무에게도 말하지 않았다."
+        },
+        {
+          "en": "On Friday at nine, he stood up in front of Grace, Arjun, Wei Ling, Ethan, Hafiz and Priscilla with one page and no adjectives. \"Here's where we stand: the containers are moving again. We've stopped the system until we've tested that box properly,\" he said. \"The root cause was three things, not one, and I'd ask you to hear all three before anyone reaches for the contract, because one of them is mine.\"",
+          "ko": "금요일 9시, 그는 그레이스, 아르준, 웨이링, 이선, 하피즈, 프리실라 앞에 한 장과 형용사 없는 말을 들고 섰다. \"현재 상황은 이렇습니다. 컨테이너는 다시 움직이고 있습니다. 그 칸을 제대로 시험할 때까지 시스템을 중단했습니다.\" 그가 말했다. \"근본 원인은 하나가 아니라 세 가지이고, 그중 하나는 제 책임이니, 누가 계약서에 손을 뻗기 전에 셋 다 들어 주시기 바랍니다.\""
+        },
+        {
+          "en": "\"Corvane left a lookup on, Straits Meridian's second check stopped, and I chose a test of two hundred documents and didn't read page seven,\" he said, and he took care to give each one exactly the same length. \"To make sure this doesn't happen again, every change gets a full test, the lookup comes out for good, and every release note gets a second reader.\" Arjun asked who had agreed to two hundred, in the voice of a man opening a ledger. Grace said that she had, and for a while nobody looked at anyone.",
+          "ko": "\"코르베인은 대조 기능을 켜 두었고, 스트레이츠 메리디안의 2차 확인은 멈췄고, 저는 200건 시험을 골랐으며 7쪽을 읽지 않았습니다.\" 그는 세 가지가 꼭 같은 길이가 되도록 신경 써서 말했다. \"이런 일이 다시 없도록, 모든 변경은 전수 시험을 거치고, 대조 기능은 완전히 빼고, 모든 출시 노트는 두 번째 검토자가 읽습니다.\" 아르준이 장부를 펼치는 사람의 목소리로 누가 200건에 동의했느냐고 묻자 그레이스가 자신이라고 했고, 한동안 아무도 서로를 보지 않았다."
+        },
+        {
+          "en": "Afterward, Wei Ling put his page from week nine on the table, with one line circled in the same pen she used for shift rosters. \"I signed because this says someone reads the box, so take my name off until someone does,\" she said, without heat. Then Priscilla looked up from her papers and poured herself some tea, which was never a good sign. \"The loss is six hundred and ten thousand dollars, Corvane's cap is three hundred and sixty, and page thirty-one says that we negotiate the rest in good faith,\" she said. \"Monday at ten, and do bring Baek Joon-ho.\"",
+          "ko": "회의 뒤 웨이링이 9주 차의 그 종이를 테이블에 놓았다. 근무표에 쓰는 펜으로 한 줄에 동그라미가 쳐져 있었다. \"누가 그 칸을 읽는다고 적혀 있어서 서명한 거예요. 누가 읽을 때까지 제 이름을 빼세요.\" 그녀가 흥분 없이 말했다. 그때 프리실라가 서류에서 고개를 들고 차를 따랐는데, 결코 좋은 징조가 아니었다. \"손실은 61만 달러이고, 코르베인의 상한은 36만 달러이며, 31쪽에는 나머지를 신의성실하게 협의한다고 되어 있습니다.\" 그녀가 말했다. \"월요일 10시에, 백준호 총괄을 꼭 모시고 오세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The root cause was",
+        "To make sure this doesn't happen again",
+        "We've stopped"
+      ],
+      "wordCandidates": [
+        {
+          "term": "decency",
+          "surface": "decency",
+          "meaningKo": "염치, 예의",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Upstairs, Cole had gone pale, and he had the decency not to explain anything until Jae-won had finished reading the screen.",
+            "ko": "위층에서 콜은 창백해져 있었고, 재원이 화면을 다 읽을 때까지 아무것도 설명하지 않을 만한 염치는 있었다."
+          }
+        },
+        {
+          "term": "inherit",
+          "surface": "inherited",
+          "meaningKo": "물려받다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The origin code was printed too small to read reliably, he said, so in week ten he had turned on the old lookup for that one box, and the system simply inherited the code from the same carrier's last shipment.",
+            "ko": "원산지 코드가 너무 작게 찍혀 안정적으로 읽을 수 없어서, 10주 차에 그 칸 하나만 예전의 대조 기능을 켰고, 시스템은 같은 운송사의 지난번 화물에서 코드를 그대로 물려받았다고 그가 말했다."
+          }
+        },
+        {
+          "term": "disclose",
+          "surface": "disclosed",
+          "meaningKo": "공개하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It was all disclosed in the release note, on page seven,\" he said, and for once he wasn't defending himself so much as reading out the charge.",
+            "ko": "\"전부 출시 노트 7쪽에 공개돼 있어요.\" 그가 말했고, 이번에는 변명이라기보다 공소장을 읽는 것 같았다."
+          }
+        },
+        {
+          "term": "revert to",
+          "surface": "reverted to",
+          "meaningKo": "(이전 방식으로) 돌아가다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then he went to see Hafiz, who stopped pretending: his team had been two people short on Monday, with the new rule starting, and they had quietly reverted to sampling.",
+            "ko": "그리고 하피즈를 찾아갔고, 하피즈는 숨기기를 그만뒀다. 새 규정이 시작된 월요일에 그의 팀은 두 명이 부족했고, 조용히 표본 확인으로 돌아갔다."
+          }
+        },
+        {
+          "term": "ledger",
+          "surface": "ledger",
+          "meaningKo": "장부",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Arjun asked who had agreed to two hundred, in the voice of a man opening a ledger.",
+            "ko": "아르준이 장부를 펼치는 사람의 목소리로 누가 200건에 동의했느냐고 물었다."
+          }
+        },
+        {
+          "term": "roster",
+          "surface": "rosters",
+          "meaningKo": "근무표",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Afterward, Wei Ling put his page from week nine on the table, with one line circled in the same pen she used for shift rosters.",
+            "ko": "회의 뒤 웨이링이 9주 차의 그 종이를 테이블에 놓았다. 근무표에 쓰는 펜으로 한 줄에 동그라미가 쳐져 있었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Where was the lookup for the origin box disclosed?",
+      "options": [
+        "In page thirty-one of the contract",
+        "On page seven of the release note",
+        "In Hafiz's letter",
+        "On Grace's board slide"
+      ],
+      "answerIndex": 1,
+      "evidence": "on page seven"
+    },
+    {
+      "question": "Why does Wei Ling want her name taken off?",
+      "options": [
+        "She plans to leave the company",
+        "Grace has ordered her to",
+        "She signed because someone was supposed to read the box, and that promise was not kept",
+        "She thinks the night shift should use the system more"
+      ],
+      "answerIndex": 2,
+      "evidence": "someone reads the box"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "The root cause was three things, not one, and one of them is mine.",
+      "We've stopped the system until we've tested that box properly.",
+      "To make sure this doesn't happen again, every change gets a full test."
+    ],
+    "summaryPromptKo": "코드가 왜 틀렸는지, 2차 확인이 왜 잡지 못했는지, 재원이 금요일에 무엇을 보고했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "You've told us it was three things. A lawyer would tell you to stop at the first two. Why did you add the third?",
+      "ko": "세 가지라고 하셨군요. 변호사라면 앞의 두 가지에서 멈추라고 했을 겁니다. 왜 세 번째를 넣었습니까?"
+    },
+    "modelAnswer": "Because it's true, and you would have found it anyway. The root cause was three things: a lookup left on, a second check that stopped, and a test that I chose and a note that I didn't read. If I'd stopped at two, you'd have to check everything else I tell you. Who pays is a separate question, and we'll have it on Monday. Today, I want you to believe the page."
+  },
+  "nextTeaserKo": "월요일 10시, 프리실라의 회의실. 아르준은 전액을 요구하고, 이선은 상한과 7쪽을 꺼내고, 백준호는 재원의 발을 밟는다. 서울에서는 권 파트너가 메시지를 보낸다. \"아무것도 인정하지 마.\" 그리고 아르준이 묻는다. 셋 중 하나가 당신 몫이라면, 얼마입니까?",
+  "roleplay": {
+    "title": "금요일 9시, 세 가지",
+    "situationKo": "금요일 아침, 책임을 물을 사람들이 다 모였습니다. 누구 탓인지 따지지 않고 세 가지를 같은 무게로 말하는 자리예요. 자기 몫을 말하는 대목이 가장 어렵지만 짧으면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "It's nine. Where are we?",
+        "ko": "9시입니다. 어떻게 됐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Here's where we stand: the containers are moving again, and we've stopped the system until we've tested that box properly.",
+        "ko": "현재 상황은 이렇습니다. 컨테이너는 다시 움직이고, 그 칸을 제대로 시험할 때까지 시스템을 중단했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "And the cause?",
+        "ko": "원인은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The root cause was three things, not one, and one of them is mine.",
+        "ko": "근본 원인은 하나가 아니라 세 가지이고, 그중 하나는 제 책임입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "It was in the release note, on page seven.",
+        "ko": "출시 노트 7쪽에 있었어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It was. Corvane left a lookup on, and I didn't read page seven.",
+        "ko": "그랬죠. 코르베인은 대조 기능을 켜 두었고, 저는 7쪽을 읽지 않았습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Hafiz Rahman",
+        "voice": "male",
+        "en": "And my team stopped reading every declaration on Monday.",
+        "ko": "그리고 저희 팀은 월요일에 신고서를 전부 읽는 일을 그만뒀습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you, Hafiz. And I chose a test of two hundred documents.",
+        "ko": "고맙습니다, 하피즈. 그리고 200건 시험을 고른 건 저입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "What changes?",
+        "ko": "뭐가 달라집니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "To make sure this doesn't happen again, every change gets a full test, and the lookup comes out for good.",
+        "ko": "이런 일이 다시 없도록, 모든 변경은 전수 시험을 거치고, 대조 기능은 완전히 뺍니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "I signed because this says someone reads the box. Take my name off until someone does.",
+        "ko": "누가 그 칸을 읽는다고 적혀 있어서 서명했어요. 누가 읽을 때까지 제 이름을 빼세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I understand. I'll take it to Grace today.",
+        "ko": "알겠습니다. 오늘 그레이스에게 가져가겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "The loss is six hundred and ten thousand dollars. Monday at ten.",
+        "ko": "손실은 61만 달러입니다. 월요일 10시입니다."
+      }
+    ]
+  }
+}

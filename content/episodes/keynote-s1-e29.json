@@ -1,0 +1,420 @@
+{
+  "id": "keynote-s1-e29",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 29,
+  "title": "Back on Track",
+  "recapKo": "병원 복도의 헬렌과 재원이 충돌했다. 재원은 800명 앞에서 오류로 시작하려 했고, 헬렌은 첫 1분을 지키려 했다. 재원이 선을 넘는 말까지 한 끝에, 식탁 이야기를 먼저 하고 숫자 바로 뒤에 15초로 정정하기로 합의했다. 슬라이드는 8분을 남기고 확정됐고, 프리야가 월요일 6시 그 방으로 불렀다.",
+  "keyExpressions": [
+    {
+      "phrase": "The bottom line is ~",
+      "meaningKo": "핵심은 ~입니다",
+      "usage": "The bottom line is that we need a decision by Friday."
+    },
+    {
+      "phrase": "The takeaway here is ~",
+      "meaningKo": "여기서 얻을 교훈은 ~입니다",
+      "usage": "The takeaway here is that we should test with real users earlier."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, before the same twelve people and the same camera, where he had frozen for nineteen seconds two weeks ago. Helen was on the big screen and Priya sat at the back.",
+          "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 같은 카메라 앞에 섰다. 2주 전 19초 동안 얼어붙었던 곳이었다. 헬렌은 큰 화면으로 들어와 있었고, 프리야는 뒤쪽에 앉아 있었다."
+        },
+        {
+          "en": "He started with the kitchen table and reached the number. \"Your program says forty-two, but we counted one company twice, and my initials were on it, which is why you build the audit trail first,\" he said. It took fourteen seconds. Nobody moved. \"That brings me to the person who signs,\" he said, and he kept going.",
+          "ko": "그는 식탁 이야기로 시작해 숫자에 이르렀다. \"프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\" 그가 말했다. 14초가 걸렸다. 아무도 움직이지 않았다. \"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그렇게 말하고 계속 나아갔다."
+        },
+        {
+          "en": "Daniel stopped the timer at nineteen minutes and thirty-four seconds. Then Yuna asked her old question: how many of the thirty-one were Seoro's clients? \"The short answer is nine, and most were before this team,\" he said, after two seconds and in English.",
+          "ko": "대니얼이 19분 34초에서 타이머를 멈췄다. 그러자 유나가 예전의 그 질문을 했다. 31곳 중 몇 곳이 서로의 고객이었느냐는 것이었다. \"짧게 답하면 아홉 곳이고, 대부분 현 팀 이전입니다.\" 그는 2초 뒤 영어로 말했다."
+        },
+        {
+          "en": "Next, Daniel played Ethan. \"Sign-off is a legacy control, and in three years it's gone,\" he said. \"Where I'd agree with you is the reconciling,\" Jae-won said. \"The bottom line is that someone still has to defend the number to an auditor.\"",
+          "ko": "다음으로 대니얼이 이선 역할을 했다. \"승인은 낡은 통제 수단이고, 3년 뒤면 사라집니다.\" 그가 말했다. \"동의하는 부분은 대사 작업이에요.\" 재원이 말했다. \"핵심은 그래도 누군가는 감사인 앞에서 숫자를 변호해야 한다는 겁니다.\""
+        },
+        {
+          "en": "\"You got your own number wrong, and you want me to trust your process?\" Daniel said. Jae-won did not look at the screen. \"Yes,\" he said. \"The takeaway here is that a duplicate can sit in a sheet for years, until someone is forced to check.\"",
+          "ko": "\"자기 숫자도 틀려 놓고 제게 당신 절차를 믿으라고요?\" 대니얼이 말했다. 재원은 화면을 돌아보지 않았다. \"네.\" 그가 말했다. \"여기서 얻을 교훈은 중복 하나가 누군가 어쩔 수 없이 확인할 때까지 몇 년이고 시트에 남아 있을 수 있다는 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The bottom line is",
+        "The takeaway here is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "freeze",
+          "surface": "frozen",
+          "meaningKo": "얼어붙다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, before the same twelve people and the same camera, where he had frozen for nineteen seconds two weeks ago.",
+            "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 같은 카메라 앞에 섰다. 2주 전 19초 동안 얼어붙었던 곳이었다."
+          }
+        },
+        {
+          "term": "audit trail",
+          "surface": "audit trail",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Your program says forty-two, but we counted one company twice, and my initials were on it, which is why you build the audit trail first,\" he said.",
+            "ko": "\"프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다. 그래서 감사 추적을 먼저 만들어야 합니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "keep going",
+          "surface": "kept going",
+          "meaningKo": "계속 나아가다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That brings me to the person who signs,\" he said, and he kept going.",
+            "ko": "\"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그렇게 말하고 계속 나아갔다."
+          }
+        },
+        {
+          "term": "client",
+          "surface": "Seoro's clients",
+          "meaningKo": "고객",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Then Yuna asked her old question: how many of the thirty-one were Seoro's clients?",
+            "ko": "그러자 유나가 예전의 그 질문을 했다. 31곳 중 몇 곳이 서로의 고객이었느냐는 것이었다."
+          }
+        },
+        {
+          "term": "play",
+          "surface": "played Ethan",
+          "meaningKo": "~의 역할을 하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Next, Daniel played Ethan.",
+            "ko": "다음으로 대니얼이 이선 역할을 했다."
+          }
+        },
+        {
+          "term": "process",
+          "surface": "your process",
+          "meaningKo": "절차, 프로세스",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"You got your own number wrong, and you want me to trust your process?\"",
+            "ko": "\"자기 숫자도 틀려 놓고 제게 당신 절차를 믿으라고요?\""
+          }
+        },
+        {
+          "term": "duplicate",
+          "surface": "duplicate",
+          "meaningKo": "중복 (건)",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"The takeaway here is that a duplicate can sit in a sheet for years, until someone is forced to check.\"",
+            "ko": "\"여기서 얻을 교훈은 중복 하나가 누군가 어쩔 수 없이 확인할 때까지 몇 년이고 시트에 남아 있을 수 있다는 겁니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 365,
+      "paragraphs": [
+        {
+          "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, in front of the same twelve people and the same camera on the same tripod. Two weeks ago to the hour, he had frozen here for nineteen seconds and then answered in Korean. Helen was up on the big screen, at two in the morning in Seattle, claiming that she was awake anyway, and Priya had taken a chair at the back with her phone face down.",
+          "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 같은 삼각대 위의 같은 카메라 앞에 섰다. 꼭 2주 전 이 시간, 그는 여기서 19초 동안 얼어붙은 뒤 한국어로 답했다. 헬렌은 시애틀의 새벽 2시에 어차피 깨어 있었다며 큰 화면에 들어와 있었고, 프리야는 휴대폰을 엎어 놓고 뒤쪽 의자에 앉아 있었다."
+        },
+        {
+          "en": "He started with the kitchen table, walked them through to the number, and did not slow down. \"Your program says forty-two, but we counted one company twice, and my initials were on it,\" he said. \"That's why you build the audit trail first.\" It took fourteen seconds, and nobody in the room moved. \"That brings me to the person who signs,\" he said, and he kept going.",
+          "ko": "그는 식탁 이야기로 시작해 숫자까지 이끌었고 속도를 늦추지 않았다. \"프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다.\" 그가 말했다. \"그래서 감사 추적을 먼저 만들어야 합니다.\" 14초가 걸렸고, 방 안의 누구도 움직이지 않았다. \"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그렇게 말하고 계속 나아갔다."
+        },
+        {
+          "en": "Daniel stopped the timer at nineteen minutes and thirty-four seconds, and Priya held up one finger for the questions to begin. Yuna went first, with the same question she had asked two weeks ago: how many of the thirty-one were Seoro's own clients? \"The short answer is nine, and most of them were before this team, which is exactly how we know where these things break,\" he said, two seconds later and in English.",
+          "ko": "대니얼이 19분 34초에서 타이머를 멈췄고, 프리야가 손가락 하나를 들어 질문을 시작하라고 했다. 유나가 먼저, 2주 전과 같은 질문을 했다. 31곳 중 몇 곳이 서로의 고객이었느냐는 것이었다. \"짧게 답하면 아홉 곳이고 대부분 현 팀 이전인데, 바로 그래서 어디서 무너지는지 아는 겁니다.\" 그는 2초 뒤 영어로 말했다."
+        },
+        {
+          "en": "Next, Daniel stood up holding Priya's list and did a fair impression of Ethan. \"Sign-off is a legacy control, and in three years it's gone, so why would I build around it?\" he said. \"Where I'd agree with you is the reconciling, because machines will do that better than any of us,\" Jae-won said. \"The bottom line is that someone still has to defend the number to an auditor, and today no auditor accepts a model's signature.\"",
+          "ko": "다음으로 대니얼이 프리야의 목록을 들고 일어나 이선을 꽤 그럴듯하게 흉내 냈다. \"승인은 낡은 통제 수단이고 3년 뒤면 사라지는데, 왜 그걸 중심으로 만들어야 하죠?\" 그가 말했다. \"동의하는 부분은 대사 작업이에요. 그건 기계가 우리 누구보다 잘할 겁니다.\" 재원이 말했다. \"핵심은 그래도 누군가는 감사인 앞에서 숫자를 변호해야 하고, 지금은 모델의 서명을 인정하는 감사인이 없다는 겁니다.\""
+        },
+        {
+          "en": "\"You got your own number wrong, and now you want me to trust your process?\" Daniel said, and he looked almost sorry about it. Jae-won noticed that he hadn't turned toward the screen. \"Yes,\" he said. \"The takeaway here is that a duplicate can sit in a sheet for years, with a manager's initials on it, until someone is forced to check. I'm the proof, so I'd use me.\"",
+          "ko": "\"자기 숫자도 틀려 놓고 이제 제게 당신 절차를 믿으라고요?\" 대니얼이 말하면서 거의 미안한 표정을 지었다. 재원은 자신이 화면 쪽으로 돌아서지 않았다는 걸 알아차렸다. \"네.\" 그가 말했다. \"여기서 얻을 교훈은 중복 하나가 매니저의 이니셜을 단 채, 누군가 어쩔 수 없이 확인할 때까지 몇 년이고 시트에 남아 있을 수 있다는 겁니다. 제가 증거니까, 저를 쓰시죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The bottom line is",
+        "The takeaway here is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "tripod",
+          "surface": "tripod",
+          "meaningKo": "삼각대",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, in front of the same twelve people and the same camera on the same tripod.",
+            "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 같은 삼각대 위의 같은 카메라 앞에 섰다."
+          }
+        },
+        {
+          "term": "to the hour",
+          "surface": "to the hour",
+          "meaningKo": "정확히 그 시간에",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Two weeks ago to the hour, he had frozen here for nineteen seconds and then answered in Korean.",
+            "ko": "꼭 2주 전 이 시간, 그는 여기서 19초 동안 얼어붙은 뒤 한국어로 답했다."
+          }
+        },
+        {
+          "term": "impression",
+          "surface": "impression",
+          "meaningKo": "흉내, 성대모사",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Next, Daniel stood up holding Priya's list and did a fair impression of Ethan.",
+            "ko": "다음으로 대니얼이 프리야의 목록을 들고 일어나 이선을 꽤 그럴듯하게 흉내 냈다."
+          }
+        },
+        {
+          "term": "signature",
+          "surface": "signature",
+          "meaningKo": "서명",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"The bottom line is that someone still has to defend the number to an auditor, and today no auditor accepts a model's signature.\"",
+            "ko": "\"핵심은 그래도 누군가는 감사인 앞에서 숫자를 변호해야 하고, 지금은 모델의 서명을 인정하는 감사인이 없다는 겁니다.\""
+          }
+        },
+        {
+          "term": "forced to",
+          "surface": "forced to check",
+          "meaningKo": "어쩔 수 없이 ~하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "The takeaway here is that a duplicate can sit in a sheet for years, with a manager's initials on it, until someone is forced to check.",
+            "ko": "여기서 얻을 교훈은 중복 하나가 매니저의 이니셜을 단 채, 누군가 어쩔 수 없이 확인할 때까지 몇 년이고 시트에 남아 있을 수 있다는 겁니다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 495,
+      "paragraphs": [
+        {
+          "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, in front of the same twelve people and the same camera on the same slightly crooked tripod. Two weeks ago to the hour, he had frozen on this spot for nineteen seconds and then answered in Korean. Helen was up on the big screen, at two in the morning in Seattle, claiming with no conviction that she'd been awake anyway. Priya had taken a chair at the back with her phone face down, recording. She had the look of someone waiting for a bus she expected to be late.",
+          "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 약간 비뚤어진 같은 삼각대 위의 같은 카메라 앞에 섰다. 꼭 2주 전 이 시간, 그는 바로 이 자리에서 19초 동안 얼어붙은 뒤 한국어로 답했다. 헬렌은 시애틀의 새벽 2시에 어차피 깨어 있었다고 힘없이 주장하며 큰 화면에 들어와 있었다. 프리야는 휴대폰을 엎어 놓고 녹음하며 뒤쪽 의자에 앉아, 늦을 게 뻔한 버스를 기다리는 사람 같은 표정을 하고 있었다."
+        },
+        {
+          "en": "He started with the kitchen table, walked them through to the number, and did not slow down for the part everyone had come to hear. \"Your program says forty-two, but we counted one company twice, and my initials were on it,\" he said, looking at the middle of the room rather than at Kwon. \"That's why you build the audit trail first.\" It took fourteen seconds, a second under budget, and nobody moved. \"That brings me to the person who signs,\" he said, and he kept going as if it had cost him nothing.",
+          "ko": "그는 식탁 이야기로 시작해 숫자까지 이끌었고, 모두가 들으러 온 그 대목에서도 속도를 늦추지 않았다. \"프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다.\" 그는 권 파트너가 아니라 방 한가운데를 보며 말했다. \"그래서 감사 추적을 먼저 만들어야 합니다.\" 정해 둔 15초보다 1초 적은 14초가 걸렸고, 아무도 움직이지 않았다. \"이제 서명하는 사람 이야기로 넘어가겠습니다.\" 그는 그렇게 말하고 아무 대가도 치르지 않은 듯 계속 나아갔다."
+        },
+        {
+          "en": "Daniel stopped the timer at nineteen minutes and thirty-four seconds, and Priya held up one finger for the questions to begin. Yuna went first, and she went straight for the same question she had asked two weeks ago, in the same pleasant voice: of the thirty-one, how many were Seoro's own clients? \"The short answer is nine, and most of them predate this team, which is exactly how we know where these things break, because we were standing there when they did,\" he said, two seconds later and in English. She wrote something down and underlined it.",
+          "ko": "대니얼이 19분 34초에서 타이머를 멈췄고, 프리야가 손가락 하나를 들어 질문을 시작하라고 했다. 유나가 먼저 나섰고, 2주 전과 같은 상냥한 목소리로 같은 질문을 곧장 던졌다. 31곳 중 몇 곳이 서로의 고객이었느냐는 것이었다. \"짧게 답하면 아홉 곳이고 대부분 현 팀 이전인데, 바로 그래서 어디서 무너지는지 아는 겁니다. 무너질 때 저희가 거기 서 있었으니까요.\" 그는 2초 뒤 영어로 말했다. 그녀는 뭔가를 적더니, 밑줄을 그었다."
+        },
+        {
+          "en": "Next, Daniel got to his feet holding Priya's list and did a disturbingly good impression of Ethan. \"Sign-off is a legacy control, and in three years it's gone, so explain to me like I'm your board why I'd build a single thing around it,\" he said. \"Where I'd agree with you is the reconciling, because machines will do that better than any of us, and I'd be glad to see it go,\" Jae-won said. \"The bottom line is that someone still has to defend the number to an auditor, and until an auditor will accept a model's signature, that someone has a name and a phone number.\"",
+          "ko": "다음으로 대니얼이 프리야의 목록을 들고 일어나 소름 끼치게 그럴듯한 이선 흉내를 냈다. \"승인은 낡은 통제 수단이고 3년 뒤면 사라집니다. 제가 당신 이사회라고 치고, 왜 거기에 뭐 하나라도 맞춰 만들어야 하는지 설명해 보시죠.\" 그가 말했다. \"동의하는 부분은 대사 작업이에요. 그건 기계가 우리 누구보다 잘할 거고, 없어지면 저도 반갑습니다.\" 재원이 말했다. \"핵심은 그래도 누군가는 감사인 앞에서 숫자를 변호해야 하고, 감사인이 모델의 서명을 받아 줄 때까지 그 누군가에게는 이름과 전화번호가 있다는 겁니다.\""
+        },
+        {
+          "en": "\"You got your own number wrong, and now you're asking me to trust your process, so forgive me if I check my wallet,\" Daniel said, and he looked almost sorry about it. Jae-won noticed, somewhere in the back of his mind, that he hadn't turned toward the screen. \"Yes,\" he said. \"The takeaway here is that a duplicate can sit in a sheet for years, with a manager's initials on it, until someone is forced to check. That's not a footnote to my argument, it's the argument, and I'm the proof, so by all means use me.\"",
+          "ko": "\"자기 숫자도 틀려 놓고 이제 당신 절차를 믿으라니, 지갑부터 확인해도 이해해 주시죠.\" 대니얼이 말하면서 거의 미안한 표정을 지었다. 재원은 머릿속 어딘가에서 자신이 화면 쪽으로 돌아서지 않았다는 걸 알아차렸다. \"네.\" 그가 말했다. \"여기서 얻을 교훈은 중복 하나가 매니저의 이니셜을 단 채, 누군가 어쩔 수 없이 확인할 때까지 몇 년이고 시트에 남아 있을 수 있다는 겁니다. 그건 제 주장의 각주가 아니라 주장 그 자체고, 제가 증거니까, 얼마든지 저를 쓰시죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "The bottom line is",
+        "The takeaway here is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "crooked",
+          "surface": "crooked",
+          "meaningKo": "비뚤어진",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at six, Jae-won stood in the same fourteenth-floor room, in front of the same twelve people and the same camera on the same slightly crooked tripod.",
+            "ko": "월요일 6시, 재원은 같은 14층 회의실에서 같은 열두 명과 약간 비뚤어진 같은 삼각대 위의 같은 카메라 앞에 섰다."
+          }
+        },
+        {
+          "term": "under budget",
+          "surface": "under budget",
+          "meaningKo": "(시간·비용이) 예정보다 적게",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It took fourteen seconds, a second under budget, and nobody moved.",
+            "ko": "정해 둔 15초보다 1초 적은 14초가 걸렸고, 아무도 움직이지 않았다."
+          }
+        },
+        {
+          "term": "predate",
+          "surface": "predate",
+          "meaningKo": "~보다 먼저 있었다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The short answer is nine, and most of them predate this team, which is exactly how we know where these things break, because we were standing there when they did,\" he said, two seconds later and in English.",
+            "ko": "\"짧게 답하면 아홉 곳이고 대부분 현 팀 이전인데, 바로 그래서 어디서 무너지는지 아는 겁니다. 무너질 때 저희가 거기 서 있었으니까요.\" 그는 2초 뒤 영어로 말했다."
+          }
+        },
+        {
+          "term": "get to one's feet",
+          "surface": "got to his feet",
+          "meaningKo": "일어서다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Next, Daniel got to his feet holding Priya's list and did a disturbingly good impression of Ethan.",
+            "ko": "다음으로 대니얼이 프리야의 목록을 들고 일어나 소름 끼치게 그럴듯한 이선 흉내를 냈다."
+          }
+        },
+        {
+          "term": "by all means",
+          "surface": "by all means",
+          "meaningKo": "얼마든지, 부디",
+          "paragraph": 4,
+          "sentence": {
+            "en": "That's not a footnote to my argument, it's the argument, and I'm the proof, so by all means use me.",
+            "ko": "그건 제 주장의 각주가 아니라 주장 그 자체고, 제가 증거니까, 얼마든지 저를 쓰시죠."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How did Jae-won answer Yuna's question this time?",
+      "options": [
+        "He said that the figure was confidential.",
+        "He answered in Korean and then repeated it in English.",
+        "He said nine, in English, after two seconds.",
+        "He asked Daniel to answer for him."
+      ],
+      "answerIndex": 2,
+      "evidence": "The short answer is nine, and most of them were before this team, which is exactly how we know where these things break"
+    },
+    {
+      "question": "What does Jae-won mean by \"I'm the proof, so I'd use me\"?",
+      "options": [
+        "His own mistake shows why someone has to check the numbers.",
+        "He wants to be paid more for his work on the talk.",
+        "He has personally audited every company on the list.",
+        "He believes that Daniel should give the talk instead."
+      ],
+      "answerIndex": 0,
+      "evidence": "I'm the proof, so I'd use me."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "The bottom line is that someone still has to defend the number to an auditor.",
+      "The takeaway here is that a duplicate can sit in a sheet for years.",
+      "That's why you build the audit trail first."
+    ],
+    "summaryPromptKo": "2주 전과 같은 방에서 재원이 숫자 정정을 어떻게 해냈는지, 유나의 옛 질문에 어떻게 답했는지, 이선 역의 대니얼에게 무엇을 내세웠는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Daniel Cho",
+      "en": "You got your own number wrong, and now you want me to trust your process?",
+      "ko": "자기 숫자도 틀려 놓고 이제 제게 당신 절차를 믿으라고요?"
+    },
+    "modelAnswer": "Yes, and I know how that sounds. We counted one company twice, and my initials were on it. The takeaway here is that a duplicate can sit in a sheet for years until someone is forced to check. The bottom line is that someone still has to defend the number to an auditor. That's why you build the audit trail first, and I'm the proof."
+  },
+  "nextTeaserKo": "아직 끝이 아니다. 권 파트너의 끝없이 긴 질문, 누구의 목록에도 없는 헬렌의 질문, 그리고 2주 전 메일에 있던 프리야의 바로 그 질문이 남아 있다.",
+  "roleplay": {
+    "title": "같은 방, 같은 질문",
+    "situationKo": "두 주 전 얼어붙었던 14층, 같은 방에 다시 섰습니다. 내가 재원이 되어 숫자를 정정하고, 유나와 대니얼의 질문에 영어로 답해 봅니다. 첫 문장이 못나도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Whenever you're ready. Take us to the number.",
+        "ko": "준비되면 시작하세요. 숫자까지 가 봅시다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Your program says forty-two, but we counted one company twice, and my initials were on it.",
+        "ko": "프로그램에는 42라고 적혀 있지만, 한 회사를 두 번 셌고 거기에 제 이니셜이 있었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Nineteen minutes and thirty-four seconds.",
+        "ko": "19분 34초입니다."
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "My question's the same as last time. How many of the thirty-one were Seoro's own clients?",
+        "ko": "지난번과 같은 질문이에요. 31곳 중 서로의 고객은 몇 곳이었나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The short answer is nine. Most were before this team, which is exactly how we know where things break.",
+        "ko": "짧게 답하면 아홉 곳입니다. 대부분 이 팀 이전이고, 그래서 어디서 무너지는지 압니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Sign-off is a legacy control, and in three years it's gone. Why would I build around it?",
+        "ko": "승인은 낡은 통제 방식이고 3년이면 사라집니다. 왜 거기에 맞춰 만들어야 하죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Where I'd agree with you is the reconciling. Machines will do that better than any of us.",
+        "ko": "대사 작업은 동의합니다. 기계가 우리 누구보다 잘할 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "So what am I missing?",
+        "ko": "그럼 제가 뭘 놓치고 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The bottom line is that someone still has to defend the number to an auditor.",
+        "ko": "핵심은 여전히 누군가 감사인 앞에서 숫자를 변호해야 한다는 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "You got your own number wrong, and now you want me to trust your process?",
+        "ko": "자기 숫자도 틀렸으면서 절차를 믿으라고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Yes. The takeaway here is that a duplicate can sit in a sheet for years.",
+        "ko": "네. 여기서 얻을 교훈은 중복 항목이 시트에 몇 년이고 남아 있을 수 있다는 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "With a manager's initials on it?",
+        "ko": "매니저 이니셜까지 달고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "With my initials on it. I'm the proof, so I'd use me.",
+        "ko": "제 이니셜을 달고요. 제가 증거이니 저를 쓰시죠.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Fair enough. That's all I have.",
+        "ko": "그럴듯하네요. 제 질문은 여기까지입니다."
+      }
+    ]
+  }
+}

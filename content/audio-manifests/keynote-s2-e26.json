@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s2-e26",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "pale": "word-pale.mp3",
+    "release note": "word-release-note.mp3",
+    "inbox": "word-inbox.mp3",
+    "short": "word-short.mp3",
+    "cap": "word-cap.mp3",
+    "reliably": "word-reliably.mp3",
+    "shipment": "word-shipment.mp3",
+    "stop pretending": "word-stop-pretending.mp3",
+    "for good": "word-for-good.mp3",
+    "good faith": "word-good-faith.mp3",
+    "decency": "word-decency.mp3",
+    "inherit": "word-inherit.mp3",
+    "disclose": "word-disclose.mp3",
+    "revert to": "word-revert-to.mp3",
+    "ledger": "word-ledger.mp3",
+    "roster": "word-roster.mp3"
+  },
+  "termClips": {
+    "pale": "term-pale.mp3",
+    "release note": "term-release-note.mp3",
+    "inbox": "term-inbox.mp3",
+    "short": "term-short.mp3",
+    "cap": "term-cap.mp3",
+    "reliably": "term-reliably.mp3",
+    "shipment": "term-shipment.mp3",
+    "stop pretending": "term-stop-pretending.mp3",
+    "for good": "term-for-good.mp3",
+    "good faith": "term-good-faith.mp3",
+    "decency": "term-decency.mp3",
+    "inherit": "term-inherit.mp3",
+    "disclose": "term-disclose.mp3",
+    "revert to": "term-revert-to.mp3",
+    "ledger": "term-ledger.mp3",
+    "roster": "term-roster.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

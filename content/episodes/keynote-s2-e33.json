@@ -1,0 +1,407 @@
+{
+  "id": "keynote-s2-e33",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 33,
+  "title": "Second Pilot",
+  "recapKo": "재원은 16주 차를 잃게 된다고 말했고, 구내식당에서 현장과 함께 새 방식을 짰다. 야간 양식 80장부터, 사람이 전부 읽고, 누구든 빨간 키로 멈출 수 있으며, 웨이링의 사무원 둘이 하피즈의 판독자가 된다. 계획을 쓴 사람은 시티였다. 재원은 그 종이를 같은 분에 보냈고, 그레이스가 말했다. \"다음 주 금요일 9시요. 날짜를 가져오세요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "We're testing whether ~",
+      "meaningKo": "~인지를 시험하고 있습니다",
+      "usage": "We're testing whether the new form cuts errors at month-end."
+    },
+    {
+      "phrase": "The number to watch is ~",
+      "meaningKo": "눈여겨볼 숫자는 ~입니다",
+      "usage": "The number to watch is how many orders we still fix by hand."
+    },
+    {
+      "phrase": "It's too early to say ~",
+      "meaningKo": "~라고 말하기에는 아직 이릅니다",
+      "usage": "It's too early to say the problem has gone away."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 207,
+      "paragraphs": [
+        {
+          "en": "On Friday of week fourteen, Anders's pages were on Grace's table, not in her drawer. \"I'll start with the bad news,\" Jae-won said. \"You won't get two thousand in week sixteen, and I said you would.\" He said that the full target would need week twenty, at Seoro's cost. \"Then what's week sixteen for?\" Arjun asked. \"We're testing whether nights can hold. The number to watch is how many forms are typed again.\"",
+          "ko": "14주 차 금요일, 앤더스의 제안서는 서랍이 아니라 그레이스의 탁자 위에 있었다. \"나쁜 소식부터 말씀드리겠습니다.\" 재원이 말했다. \"16주 차에 2,000건은 못 받으실 겁니다. 받으실 거라고 말한 건 저입니다.\" 그는 전체 목표에는 20주 차가 필요하고, 비용은 서로 파트너스가 부담한다고 했다. \"그럼 16주 차는 뭘 위한 겁니까?\" 아르준이 물었다. \"야간조가 버티는지를 시험하고 있습니다. 눈여겨볼 숫자는 양식이 몇 장이나 다시 입력되느냐입니다.\""
+        },
+        {
+          "en": "Grace put the pages back in the drawer for two weeks. At noon she stood up in the canteen in front of the sixty-four. \"Nobody loses a job because of this system before the end of next year,\" she said. \"When people leave, I may not replace them.\" Wei Ling signed page thirty-one that afternoon, for nights only.",
+          "ko": "그레이스는 제안서를 2주 더 서랍에 넣었다. 정오에 그녀는 구내식당에서 64명 앞에 섰다. \"내년 말까지 이 시스템 때문에 일자리를 잃는 사람은 없습니다.\" 그녀가 말했다. \"사람이 떠나면 충원하지 않을 수도 있습니다.\" 웨이링은 그날 오후 31쪽에 서명했다. 야간조에 한해서였다."
+        },
+        {
+          "en": "The second pilot started that night. On the sixth night, at two forty, Siti pressed the red key, because a carrier had changed its form. Jae-won didn't ask her why until the morning. \"It's too early to say what this means,\" he told Grace.",
+          "ko": "두 번째 파일럿이 그날 밤 시작됐다. 여섯째 날 밤 2시 40분, 운송사 하나가 양식을 바꾸어 시티가 빨간 키를 눌렀다. 재원은 아침이 될 때까지 왜냐고 묻지 않았다. \"이게 무슨 뜻인지 말하기에는 아직 이릅니다.\" 그가 그레이스에게 말했다."
+        },
+        {
+          "en": "After fourteen nights, Daniel had the count. Of eleven hundred and twenty forms, a hundred and twelve were typed again, one in ten. Arjun sat down with a list of fourteen questions.",
+          "ko": "14일 밤이 지나 대니얼이 집계를 마쳤다. 1,120장 중 112장이 다시 입력되었다. 10장 중 1장이었다. 아르준이 질문 14개가 적힌 목록을 들고 앉았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're testing whether",
+        "The number to watch is",
+        "It's too early to say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "target",
+          "surface": "target",
+          "meaningKo": "목표",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He said that the full target would need week twenty, at Seoro's cost.",
+            "ko": "그는 전체 목표에는 20주 차가 필요하고, 비용은 서로 파트너스가 부담한다고 했다."
+          }
+        },
+        {
+          "term": "replace",
+          "surface": "replace",
+          "meaningKo": "충원하다, 대체하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"When people leave, I may not replace them.\"",
+            "ko": "\"사람이 떠나면 충원하지 않을 수도 있습니다.\""
+          }
+        },
+        {
+          "term": "carrier",
+          "surface": "carrier",
+          "meaningKo": "운송사",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On the sixth night, at two forty, Siti pressed the red key, because a carrier had changed its form.",
+            "ko": "여섯째 날 밤 2시 40분, 운송사 하나가 양식을 바꾸어 시티가 빨간 키를 눌렀다."
+          }
+        },
+        {
+          "term": "press",
+          "surface": "pressed",
+          "meaningKo": "누르다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On the sixth night, at two forty, Siti pressed the red key, because a carrier had changed its form.",
+            "ko": "여섯째 날 밤 2시 40분, 운송사 하나가 양식을 바꾸어 시티가 빨간 키를 눌렀다."
+          }
+        },
+        {
+          "term": "count",
+          "surface": "count",
+          "meaningKo": "집계, 수",
+          "paragraph": 3,
+          "sentence": {
+            "en": "After fourteen nights, Daniel had the count.",
+            "ko": "14일 밤이 지나 대니얼이 집계를 마쳤다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 331,
+      "paragraphs": [
+        {
+          "en": "On Friday of week fourteen, Anders's pages were lying on Grace's table. \"I'll start with the bad news,\" he said. \"You won't get two thousand in week sixteen, and I'm the one who said you would.\" He told them that the full target needed week twenty, with the four extra weeks at Seoro's cost and the bonus moved with it. \"Then what's week sixteen for?\" Arjun asked. \"We're testing whether nights can hold, starting tonight, and you can still judge us on that,\" Jae-won said. \"The number to watch is how many of those eighty forms are typed again.\"",
+          "ko": "14주 차 금요일, 앤더스의 제안서가 그레이스의 탁자 위에 놓여 있었다. \"나쁜 소식부터 말씀드리겠습니다.\" 그가 말했다. \"16주 차에 2,000건은 못 받으실 겁니다. 받으실 거라고 말한 사람은 저입니다.\" 그는 전체 목표에는 20주 차가 필요하고, 추가 4주의 비용은 서로 파트너스가 부담하며 성과금도 함께 옮겨진다고 했다. \"그럼 16주 차는 뭘 위한 겁니까?\" 아르준이 물었다. \"오늘 밤부터 야간조가 버티는지를 시험하고 있고, 그걸로 여전히 저희를 평가하실 수 있습니다.\" 재원이 말했다. \"눈여겨볼 숫자는 그 80장 중 몇 장이 다시 입력되느냐입니다.\""
+        },
+        {
+          "en": "The night shift had spent the week reading the system's output with nothing leaving the building, and Corvane's retest had put the origin box at ninety-three percent, with Hafiz's team reading every declaration. Grace put the pages back in her drawer for two more weeks. At noon she stood up in the canteen in front of the sixty-four, with no slides. \"Nobody loses a job because of this system before the end of next year,\" she said. \"When people leave, I may not replace them, and I'll stand here and tell you.\" Wei Ling signed page thirty-one that afternoon and wrote beside her name, \"Nights only.\"",
+          "ko": "야간조는 그 주 내내 아무것도 건물 밖으로 내보내지 않은 채 시스템의 결과를 읽었고, 코르베인의 재시험에서 원산지 칸은 93퍼센트가 나왔으며, 하피즈의 팀이 모든 신고서를 읽었다. 그레이스는 제안서를 2주 더 서랍에 넣었다. 정오에 그녀는 슬라이드 없이 구내식당에서 64명 앞에 섰다. \"내년 말까지 이 시스템 때문에 일자리를 잃는 사람은 없습니다.\" 그녀가 말했다. \"사람이 떠나면 충원하지 않을 수도 있고, 그때는 제가 여기 서서 말하겠습니다.\" 웨이링은 그날 오후 31쪽에 서명하고 이름 옆에 적었다. \"야간조에 한함.\""
+        },
+        {
+          "en": "The second pilot started that night. On the sixth night, at two forty, Siti pressed the red key, because a carrier had changed its form and the dates were coming out wrong. Jae-won, ten meters away, didn't ask her why until the morning. Cole fixed it by breakfast, Daniel read the release note, and the day shift typed thirty forms by hand. \"It's too early to say what this means, but the key works,\" he told Grace.",
+          "ko": "두 번째 파일럿이 그날 밤 시작됐다. 여섯째 날 밤 2시 40분, 시티가 빨간 키를 눌렀다. 운송사 하나가 양식을 바꾸어 날짜가 틀리게 나왔기 때문이다. 10미터 떨어진 곳에 있던 재원은 아침까지 왜냐고 묻지 않았다. 콜이 아침 전에 고쳤고, 대니얼이 출시 노트를 읽었으며, 주간조가 30장을 손으로 입력했다. \"이게 무슨 뜻인지 말하기에는 아직 이르지만, 키는 작동합니다.\" 그가 그레이스에게 말했다."
+        },
+        {
+          "en": "On Friday of week sixteen, after fourteen nights, Daniel had the count, and Siti and Joanne's analyst had both read it. Of eleven hundred and twenty forms, a hundred and twelve had been typed again, which was one in ten. Arjun sat down with a list of fourteen questions.",
+          "ko": "16주 차 금요일, 14일 밤이 지나 대니얼이 집계를 마쳤고, 시티와 조앤의 분석가가 둘 다 그것을 읽었다. 1,120장 중 112장이 다시 입력되었고, 10장 중 1장이었다. 아르준이 질문 14개가 적힌 목록을 들고 앉았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're testing whether",
+        "The number to watch is",
+        "It's too early to say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "bonus",
+          "surface": "bonus",
+          "meaningKo": "성과금",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He told them that the full target needed week twenty, with the four extra weeks at Seoro's cost and the bonus moved with it.",
+            "ko": "그는 전체 목표에는 20주 차가 필요하고, 추가 4주의 비용은 서로 파트너스가 부담하며 성과금도 함께 옮겨진다고 했다."
+          }
+        },
+        {
+          "term": "output",
+          "surface": "output",
+          "meaningKo": "결과물",
+          "paragraph": 1,
+          "sentence": {
+            "en": "The night shift had spent the week reading the system's output with nothing leaving the building, and Corvane's retest had put the origin box at ninety-three percent, with Hafiz's team reading every declaration.",
+            "ko": "야간조는 그 주 내내 아무것도 건물 밖으로 내보내지 않은 채 시스템의 결과를 읽었고, 코르베인의 재시험에서 원산지 칸은 93퍼센트가 나왔으며, 하피즈의 팀이 모든 신고서를 읽었다."
+          }
+        },
+        {
+          "term": "declaration",
+          "surface": "declaration",
+          "meaningKo": "신고서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "The night shift had spent the week reading the system's output with nothing leaving the building, and Corvane's retest had put the origin box at ninety-three percent, with Hafiz's team reading every declaration.",
+            "ko": "야간조는 그 주 내내 아무것도 건물 밖으로 내보내지 않은 채 시스템의 결과를 읽었고, 코르베인의 재시험에서 원산지 칸은 93퍼센트가 나왔으며, 하피즈의 팀이 모든 신고서를 읽었다."
+          }
+        },
+        {
+          "term": "replace",
+          "surface": "replace",
+          "meaningKo": "충원하다, 대체하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"When people leave, I may not replace them, and I'll stand here and tell you.\"",
+            "ko": "\"사람이 떠나면 충원하지 않을 수도 있고, 그때는 제가 여기 서서 말하겠습니다.\""
+          }
+        },
+        {
+          "term": "carrier",
+          "surface": "carrier",
+          "meaningKo": "운송사",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On the sixth night, at two forty, Siti pressed the red key, because a carrier had changed its form and the dates were coming out wrong.",
+            "ko": "여섯째 날 밤 2시 40분, 시티가 빨간 키를 눌렀다. 운송사 하나가 양식을 바꾸어 날짜가 틀리게 나왔기 때문이다."
+          }
+        },
+        {
+          "term": "release note",
+          "surface": "release note",
+          "meaningKo": "출시 노트",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Cole fixed it by breakfast, Daniel read the release note, and the day shift typed thirty forms by hand.",
+            "ko": "콜이 아침 전에 고쳤고, 대니얼이 출시 노트를 읽었으며, 주간조가 30장을 손으로 입력했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 449,
+      "paragraphs": [
+        {
+          "en": "On Friday of week fourteen, Anders's pages were lying on Grace's table rather than in her drawer, a piece of staging that Jae-won felt he had probably earned. \"I'll start with the bad news,\" he said. \"You won't get two thousand in week sixteen, and I'm the one who stood in this room and implied that you would.\" He set out the rest without hurrying: the full target needed week twenty, the four extra weeks would be at Seoro's cost, and the bonus would move with the date. \"Then what, exactly, is week sixteen for?\" Arjun asked. \"We're testing whether nights can hold, starting tonight, and you can still judge us on that,\" Jae-won said. \"The number to watch is how many of those eighty forms get typed again, because every one of them used to.\"",
+          "ko": "14주 차 금요일, 앤더스의 제안서는 서랍이 아니라 그레이스의 탁자 위에 놓여 있었고, 재원은 그런 연출을 아마 자초했다고 느꼈다. \"나쁜 소식부터 말씀드리겠습니다.\" 그가 말했다. \"16주 차에 2,000건은 못 받으실 겁니다. 이 방에 서서 받으실 것처럼 말한 사람은 저입니다.\" 그는 서두르지 않고 나머지를 펼쳐 놓았다. 전체 목표에는 20주 차가 필요하고, 추가 4주의 비용은 서로 파트너스가 부담하며, 성과금은 날짜와 함께 옮겨진다. \"그럼 16주 차는 정확히 뭘 위한 겁니까?\" 아르준이 물었다. \"오늘 밤부터 야간조가 버티는지를 시험하고 있고, 그걸로 여전히 저희를 평가하실 수 있습니다.\" 재원이 말했다. \"눈여겨볼 숫자는 그 80장 중 몇 장이 다시 입력되느냐입니다. 예전에는 한 장도 빠짐없이 그랬으니까요.\""
+        },
+        {
+          "en": "The night shift had spent the week reading the system's output with nothing leaving the building, and Corvane's retest, at Corvane's expense, had put the origin box at ninety-three percent, which was why Hafiz's team would go on reading every declaration. Grace returned the pages to her drawer for two more weeks, with the expression of someone extending a loan. At noon she stood up in the canteen in front of the sixty-four, with no slides and no introduction. \"Nobody loses a job because of this system before the end of next year,\" she said. \"When people leave, I may not replace them, and if that ever changes the number in this room, I'll stand here and tell you before anyone else does.\" Wei Ling signed page thirty-one that afternoon and wrote beside her name, in small careful capitals, \"Nights only.\"",
+          "ko": "야간조는 그 주 내내 아무것도 건물 밖으로 내보내지 않은 채 시스템의 결과를 읽었고, 코르베인이 자기 비용으로 한 재시험에서 원산지 칸은 93퍼센트가 나왔다. 그래서 하피즈의 팀은 계속 모든 신고서를 읽기로 했다. 그레이스는 대출을 연장하는 사람의 표정으로 제안서를 2주 더 서랍에 넣었다. 정오에 그녀는 슬라이드도 소개도 없이 구내식당에서 64명 앞에 섰다. \"내년 말까지 이 시스템 때문에 일자리를 잃는 사람은 없습니다.\" 그녀가 말했다. \"사람이 떠나면 충원하지 않을 수도 있고, 그것으로 이 방의 숫자가 달라지면 다른 누구보다 먼저 제가 여기 서서 말하겠습니다.\" 웨이링은 그날 오후 31쪽에 서명하고 이름 옆에 작고 꼼꼼한 대문자로 적었다. \"야간조에 한함.\""
+        },
+        {
+          "en": "The second pilot started that night. On the sixth night, at two forty, Siti pressed the red key, because a carrier had quietly redesigned its form and the dates were coming out wrong. Jae-won was standing ten meters away, and it cost him more than the fee had to wait until the morning before asking her why. Cole fixed it by breakfast, Daniel read the release note, and the day shift grumbled through thirty forms by hand. \"It's too early to say what this means, but I can tell you the key works,\" he told Grace, who replied with one word: \"Good.\"",
+          "ko": "두 번째 파일럿이 그날 밤 시작됐다. 여섯째 날 밤 2시 40분, 시티가 빨간 키를 눌렀다. 운송사 하나가 조용히 양식을 바꾸어 날짜가 틀리게 나왔기 때문이다. 재원은 10미터 떨어진 곳에 서 있었고, 아침까지 기다렸다가 왜냐고 묻는 것이 그에게는 수수료보다 더 비싸게 느껴졌다. 콜이 아침 전에 고쳤고, 대니얼이 출시 노트를 읽었으며, 주간조가 투덜거리며 30장을 손으로 입력했다. \"이게 무슨 뜻인지 말하기에는 아직 이르지만, 키가 작동한다는 것은 말씀드릴 수 있습니다.\" 그가 그레이스에게 말했고, 그녀는 한 단어로 답했다. \"좋아요.\""
+        },
+        {
+          "en": "On Friday of week sixteen, after fourteen nights, Daniel had the count, and Siti and Joanne's analyst had each read it without seeing the other's notes. Of eleven hundred and twenty forms, a hundred and twelve had been typed again, which came to exactly one in ten, a figure so tidy that Jae-won checked it twice himself. Arjun sat down across from him with a list of fourteen numbered questions.",
+          "ko": "16주 차 금요일, 14일 밤이 지나 대니얼이 집계를 마쳤고, 시티와 조앤의 분석가가 서로의 메모를 보지 않고 각자 그것을 읽었다. 1,120장 중 112장이 다시 입력되어 정확히 10장 중 1장이 되었고, 너무 깔끔한 숫자라 재원은 직접 두 번 확인했다. 아르준이 번호가 매겨진 질문 14개를 들고 그의 맞은편에 앉았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We're testing whether",
+        "The number to watch is",
+        "It's too early to say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "staging",
+          "surface": "staging",
+          "meaningKo": "연출",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Friday of week fourteen, Anders's pages were lying on Grace's table rather than in her drawer, a piece of staging that Jae-won felt he had probably earned.",
+            "ko": "14주 차 금요일, 앤더스의 제안서는 서랍이 아니라 그레이스의 탁자 위에 놓여 있었고, 재원은 그런 연출을 아마 자초했다고 느꼈다."
+          }
+        },
+        {
+          "term": "imply",
+          "surface": "implied",
+          "meaningKo": "넌지시 말하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"You won't get two thousand in week sixteen, and I'm the one who stood in this room and implied that you would.\"",
+            "ko": "\"16주 차에 2,000건은 못 받으실 겁니다. 이 방에 서서 받으실 것처럼 말한 사람은 저입니다.\""
+          }
+        },
+        {
+          "term": "set out",
+          "surface": "set out",
+          "meaningKo": "펼쳐 놓다, 설명하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He set out the rest without hurrying: the full target needed week twenty, the four extra weeks would be at Seoro's cost, and the bonus would move with the date.",
+            "ko": "그는 서두르지 않고 나머지를 펼쳐 놓았다. 전체 목표에는 20주 차가 필요하고, 추가 4주의 비용은 서로 파트너스가 부담하며, 성과금은 날짜와 함께 옮겨진다."
+          }
+        },
+        {
+          "term": "extend a loan",
+          "surface": "extending a loan",
+          "meaningKo": "대출을 연장하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Grace returned the pages to her drawer for two more weeks, with the expression of someone extending a loan.",
+            "ko": "그레이스는 대출을 연장하는 사람의 표정으로 제안서를 2주 더 서랍에 넣었다."
+          }
+        },
+        {
+          "term": "redesign",
+          "surface": "redesigned",
+          "meaningKo": "다시 설계하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On the sixth night, at two forty, Siti pressed the red key, because a carrier had quietly redesigned its form and the dates were coming out wrong.",
+            "ko": "여섯째 날 밤 2시 40분, 시티가 빨간 키를 눌렀다. 운송사 하나가 조용히 양식을 바꾸어 날짜가 틀리게 나왔기 때문이다."
+          }
+        },
+        {
+          "term": "grumble",
+          "surface": "grumbled",
+          "meaningKo": "투덜거리다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Cole fixed it by breakfast, Daniel read the release note, and the day shift grumbled through thirty forms by hand.",
+            "ko": "콜이 아침 전에 고쳤고, 대니얼이 출시 노트를 읽었으며, 주간조가 투덜거리며 30장을 손으로 입력했다."
+          }
+        },
+        {
+          "term": "tidy",
+          "surface": "tidy",
+          "meaningKo": "깔끔한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Of eleven hundred and twenty forms, a hundred and twelve had been typed again, which came to exactly one in ten, a figure so tidy that Jae-won checked it twice himself.",
+            "ko": "1,120장 중 112장이 다시 입력되어 정확히 10장 중 1장이 되었고, 너무 깔끔한 숫자라 재원은 직접 두 번 확인했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many forms out of eleven hundred and twenty were typed again?",
+      "options": [
+        "Thirty",
+        "Eighty",
+        "A hundred and twelve",
+        "Two thousand"
+      ],
+      "answerIndex": 2,
+      "evidence": "a hundred and twelve"
+    },
+    {
+      "question": "Why doesn't Jae-won ask Siti why she pressed the key until the morning?",
+      "options": [
+        "He doesn't care about the reason",
+        "He is afraid of Siti",
+        "He wants Cole to ask her",
+        "The term says anyone can stop it without explaining first, and asking on the spot would make that less true"
+      ],
+      "answerIndex": 3,
+      "evidence": "until the morning"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "You won't get two thousand in week sixteen.",
+      "We're testing whether nights can hold, and the number to watch is how many forms are typed again.",
+      "It's too early to say what this means."
+    ],
+    "summaryPromptKo": "재원이 그레이스에게 16주 차와 20주 차에 대해 뭐라고 했는지, 그레이스가 구내식당에서 무엇을 약속했는지, 두 번째 파일럿 결과가 어땠는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "You told me to judge you on week sixteen. Now you say week twenty. What am I judging on Friday?",
+      "ko": "16주 차로 평가하라고 하셨죠. 이제 20주 차라고 하네요. 금요일에는 뭘 평가하는 겁니까?"
+    },
+    "modelAnswer": "You're judging the hardest part first. We're testing whether nights can hold, on all eighty forms, with a person reading every one. The number to watch is how many of those forms get typed again. It's too early to say whether that carries over to the day shift, and I won't claim it does. Week sixteen tells you if the design works. Week twenty tells you if it reaches two thousand."
+  },
+  "nextTeaserKo": "아르준의 질문 14개가 시작된다. 왜 2주로 한 달을 계산하는가, 야간이 주간을 말해 주는가, 아무도 떠나지 않으면 내 9달러는 어디 있는가. 재원은 자기 추정이 틀렸던 숫자까지 꺼내야 한다. 그리고 그레이스의 서랍이 열린다.",
+  "roleplay": {
+    "title": "나쁜 소식부터, 다시",
+    "situationKo": "14주 차 금요일, 앤더스의 제안서가 탁자 위에 있습니다. 2주 전 자기가 한 말을 스스로 뒤집는 자리예요. 나쁜 소식을 먼저 말하고, 무엇을 시험하는지 차분히 설명해 보세요.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "It's nine o'clock. You were going to bring a date.",
+        "ko": "9시예요. 날짜를 가져오기로 했죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'll start with the bad news. You won't get two thousand in week sixteen, and I said you would.",
+        "ko": "나쁜 소식부터 말씀드리겠습니다. 16주 차에 2,000건은 못 받으십니다. 받으실 거라고 말한 건 저입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "So what's the date?",
+        "ko": "그래서 날짜는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Week twenty, at our cost. The bonus moves with it.",
+        "ko": "20주 차입니다. 비용은 저희가 부담합니다. 성과금도 함께 옮겨집니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Then what's week sixteen for?",
+        "ko": "그럼 16주 차는 뭘 위한 겁니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We're testing whether nights can hold, starting tonight. You can still judge us on that.",
+        "ko": "오늘 밤부터 야간조가 버티는지를 시험하고 있습니다. 그걸로 여전히 저희를 평가하실 수 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "What will you show me?",
+        "ko": "무엇을 보여 줄 거죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The number to watch is how many of those eighty forms get typed again.",
+        "ko": "눈여겨볼 숫자는 그 80장 중 몇 장이 다시 입력되느냐입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "And if someone on my floor presses the key?",
+        "ko": "제 현장의 누가 키를 누르면요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then it stops, and I ask why in the morning.",
+        "ko": "그러면 멈추고, 저는 아침에 왜냐고 묻겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Two more weeks in the drawer. I have a canteen to go to.",
+        "ko": "서랍에 2주 더요. 저는 구내식당에 가야 해요."
+      }
+    ]
+  }
+}

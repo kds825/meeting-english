@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s2-e15",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "receipt": "word-receipt.mp3",
+    "fail": "word-fail.mp3",
+    "typing mistake": "word-typing-mistake.mp3",
+    "reference data": "word-reference-data.mp3",
+    "switch on": "word-switch-on.mp3",
+    "keyboard": "word-keyboard.mp3",
+    "in place": "word-in-place.mp3",
+    "photograph": "word-photograph.mp3",
+    "still": "word-still.mp3",
+    "standard feature": "word-standard-feature.mp3",
+    "preamble": "word-preamble.mp3",
+    "a shade": "word-a-shade.mp3",
+    "card trick": "word-card-trick.mp3",
+    "admire": "word-admire.mp3",
+    "documented": "word-documented.mp3",
+    "level": "word-level.mp3"
+  },
+  "termClips": {
+    "receipt": "term-receipt.mp3",
+    "fail": "term-fail.mp3",
+    "typing mistake": "term-typing-mistake.mp3",
+    "reference data": "term-reference-data.mp3",
+    "switch on": "term-switch-on.mp3",
+    "keyboard": "term-keyboard.mp3",
+    "in place": "term-in-place.mp3",
+    "photograph": "term-photograph.mp3",
+    "still": "term-still.mp3",
+    "standard feature": "term-standard-feature.mp3",
+    "preamble": "term-preamble.mp3",
+    "a shade": "term-a-shade.mp3",
+    "card trick": "term-card-trick.mp3",
+    "admire": "term-admire.mp3",
+    "documented": "term-documented.mp3",
+    "level": "term-level.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

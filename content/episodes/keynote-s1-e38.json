@@ -1,0 +1,394 @@
+{
+  "id": "keynote-s1-e38",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 38,
+  "title": "Who Calls Marcus?",
+  "recapKo": "3시 패널. 재원은 6분 만에 겨우 끼어들어 토마스의 인력 절감 논리를 받아쳤고, 사리의 말에 덧붙인 뒤 약속대로 성공 사례의 중복을 밝혔다. 그러자 이선이 웃으며 물었다. 행 하나 안 열어 보고 적은 이니셜이 대체 뭘 지켰느냐고. 홀이 조용해졌다.",
+  "keyExpressions": [
+    {
+      "phrase": "I think we actually agree on ~",
+      "meaningKo": "사실 ~에 대해서는 우리 생각이 같은 것 같습니다",
+      "usage": "I think we actually agree on the goal, if not the timing."
+    },
+    {
+      "phrase": "Before we move on, ~",
+      "meaningKo": "다음으로 넘어가기 전에, ~",
+      "usage": "Before we move on, can we confirm who owns this?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "Jae-won took three seconds. \"That's a fair challenge,\" he said. \"Let's separate two things: who catches the error, and who answers for it.\" \"A machine should catch it, and I'd buy that tomorrow.\"",
+          "ko": "재원은 3초를 썼다. \"타당한 지적입니다.\" 그가 말했다. \"두 가지를 나눠 보죠. 누가 오류를 잡느냐, 그리고 누가 책임지느냐입니다.\" \"오류는 기계가 잡아야 합니다. 그건 내일이라도 사겠습니다.\""
+        },
+        {
+          "en": "\"But you know about my mistake because it had my name on it, and I called Marcus in two hours,\" he said. \"When your model counts a company twice, who calls Marcus?\" \"The log will show it,\" Ethan said. \"A log can't pick up a phone,\" Jae-won said.",
+          "ko": "\"하지만 제 실수를 아시는 건 거기에 제 이름이 있었고, 제가 두 시간 만에 마커스에게 전화했기 때문입니다.\" 그가 말했다. \"당신의 모델이 한 회사를 두 번 세면, 누가 마커스에게 전화하나요?\" \"로그에 나타날 겁니다.\" 이선이 말했다. \"로그는 전화기를 들지 못합니다.\" 재원이 말했다."
+        },
+        {
+          "en": "\"Before we move on, who does?\" Marcus asked Ethan. Ethan said nothing for a moment and then said, \"Today, the customer's controller.\" \"So she's still in the room,\" Jae-won said.",
+          "ko": "\"다음으로 넘어가기 전에, 그럼 누가 듭니까?\" 마커스가 이선에게 물었다. 이선은 잠시 말이 없다가 말했다. \"지금은 고객사의 재무 관리자죠.\" \"그럼 그분은 아직 그 방에 있는 거네요.\" 재원이 말했다."
+        },
+        {
+          "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\" \"I can accept a name, but not a signature on every line,\" Ethan said. \"Neither can I, because I've tried it,\" Jae-won said, and the hall laughed.",
+          "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\" \"이름은 받아들이겠지만, 모든 줄에 서명은 안 됩니다.\" 이선이 말했다. \"저도 못 합니다. 해 봤거든요.\" 재원의 말에 홀이 웃었다."
+        },
+        {
+          "en": "On the way off, Ethan shook his hand and said, \"Ask me again when you've seen our system run on real data.\" Daniel showed him the timer and said, \"The longest pause was four seconds, and it wasn't you.\" At the stage door, Farah handed him a pencil note. \"Breakfast tomorrow at 7:30. Bring the one who found the duplicate. This isn't a sales meeting. Grace.\"",
+          "ko": "내려오는 길에 이선이 악수하며 말했다. \"우리 시스템이 실제 데이터로 돌아가는 걸 보고 나서 다시 물어보세요.\" 대니얼이 타이머를 보여 주며 말했다. \"가장 긴 침묵은 4초였는데, 재원 님이 아니었어요.\" 무대 문에서 파라가 연필 메모를 건넸다. \"내일 아침 7시 30분 조찬. 중복을 찾아낸 분을 데려오세요. 영업 미팅은 아닙니다. 그레이스.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I think we actually agree on",
+        "Before we move on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "answer for",
+          "surface": "answers for",
+          "meaningKo": "~에 대해 책임지다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's a fair challenge,\" he said. \"Let's separate two things: who catches the error, and who answers for it.\"",
+            "ko": "\"타당한 지적입니다.\" 그가 말했다. \"두 가지를 나눠 보죠. 누가 오류를 잡느냐, 그리고 누가 책임지느냐입니다.\""
+          }
+        },
+        {
+          "term": "log",
+          "surface": "log",
+          "meaningKo": "(시스템) 기록, 로그",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The log will show it,\" Ethan said.",
+            "ko": "\"로그에 나타날 겁니다.\" 이선이 말했다."
+          }
+        },
+        {
+          "term": "controller",
+          "surface": "controller",
+          "meaningKo": "재무 관리자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Ethan said nothing for a moment and then said, \"Today, the customer's controller.\"",
+            "ko": "이선은 잠시 말이 없다가 말했다. \"지금은 고객사의 재무 관리자죠.\""
+          }
+        },
+        {
+          "term": "reconcile",
+          "surface": "reconcile",
+          "meaningKo": "(숫자를) 대사하다, 맞춰 보다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        },
+        {
+          "term": "exception",
+          "surface": "exceptions",
+          "meaningKo": "예외 건",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        },
+        {
+          "term": "duplicate",
+          "surface": "duplicate",
+          "meaningKo": "중복 건",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Breakfast tomorrow at 7:30. Bring the one who found the duplicate. This isn't a sales meeting. Grace.\"",
+            "ko": "\"내일 아침 7시 30분 조찬. 중복을 찾아낸 분을 데려오세요. 영업 미팅은 아닙니다. 그레이스.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 315,
+      "paragraphs": [
+        {
+          "en": "Jae-won felt the heat in his neck and took his three seconds. \"That's a fair challenge,\" he said. \"Let's separate two things: who catches the error, and who answers for it.\" \"A machine should catch a duplicate, and I'd buy that tomorrow, because my signature clearly didn't, and I won't pretend otherwise.\"",
+          "ko": "재원은 목덜미가 달아오르는 것을 느끼며 3초를 썼다. \"타당한 지적입니다.\" 그가 말했다. \"두 가지를 나눠 보죠. 누가 오류를 잡느냐, 그리고 누가 책임지느냐입니다.\" \"중복은 기계가 잡아야 합니다. 그건 내일이라도 사겠습니다. 제 서명은 분명히 못 잡았고, 아닌 척하지도 않겠습니다.\""
+        },
+        {
+          "en": "\"But the only reason you know about my mistake is that it had my name on it, and I called Marcus within two hours,\" he said. \"When your model counts a company twice, who calls Marcus?\" \"It'll be in the log, and that's a far better record than initials,\" Ethan said. \"A log tells you what happened, but it can't pick up a phone,\" Jae-won said.",
+          "ko": "\"하지만 제 실수를 아시는 유일한 이유는 거기에 제 이름이 있었고, 제가 두 시간 안에 마커스에게 전화했기 때문입니다.\" 그가 말했다. \"당신의 모델이 한 회사를 두 번 세면, 누가 마커스에게 전화하나요?\" \"로그에 남을 겁니다. 이니셜보다 훨씬 나은 기록이죠.\" 이선이 말했다. \"로그는 무슨 일이 있었는지 말해 주지만, 전화기를 들지는 못합니다.\" 재원이 말했다."
+        },
+        {
+          "en": "Marcus looked up from his tablet and turned to Ethan. \"Before we move on, who does?\" he asked. For a moment, Ethan said nothing at all, and the hall noticed, because nobody had seen that happen before. \"Today, the customer's controller,\" he said. \"So she's still in the room,\" Jae-won said, without raising his voice.",
+          "ko": "마커스가 태블릿에서 고개를 들고 이선을 돌아보았다. \"다음으로 넘어가기 전에, 그럼 누가 듭니까?\" 그가 물었다. 잠시 이선은 아무 말도 하지 않았고, 홀도 그것을 알아챘다. 처음 보는 일이었기 때문이다. \"지금은 고객사의 재무 관리자죠.\" 그가 말했다. \"그럼 그분은 아직 그 방에 있는 거네요.\" 재원이 목소리를 높이지 않고 말했다."
+        },
+        {
+          "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\" \"I can live with a name, but not with a signature on every line,\" Ethan said. \"Neither can I, because I've tried it, and we've all seen how that turned out,\" Jae-won said, and the hall laughed.",
+          "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\" \"이름까지는 받아들이겠지만, 모든 줄에 서명은 안 됩니다.\" 이선이 말했다. \"저도 못 합니다. 해 봤는데, 어떻게 됐는지 다들 보셨잖아요.\" 재원의 말에 홀이 웃었다."
+        },
+        {
+          "en": "On the way off, Ethan shook his hand and said, \"Ask me again when you've seen our system run on real data.\" In the wings, Daniel held up the timer. \"The longest pause of the panel was four seconds, and it wasn't yours,\" he said. At the stage door, Farah handed him a printed program with a note on the cover in pencil. \"Breakfast tomorrow at 7:30. Bring the one who found the duplicate. This isn't a sales meeting. Grace.\"",
+          "ko": "내려오는 길에 이선이 악수하며 말했다. \"우리 시스템이 실제 데이터로 돌아가는 걸 보고 나서 다시 물어보세요.\" 무대 옆에서 대니얼이 타이머를 들어 보였다. \"패널 전체에서 가장 긴 침묵은 4초였는데, 재원 님 게 아니었어요.\" 그가 말했다. 무대 문에서 파라가 표지에 연필 메모가 적힌 인쇄 프로그램을 건넸다. \"내일 아침 7시 30분 조찬. 중복을 찾아낸 분을 데려오세요. 영업 미팅은 아닙니다. 그레이스.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I think we actually agree on",
+        "Before we move on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "answer for",
+          "surface": "answers for",
+          "meaningKo": "~에 대해 책임지다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's a fair challenge,\" he said. \"Let's separate two things: who catches the error, and who answers for it.\"",
+            "ko": "\"타당한 지적입니다.\" 그가 말했다. \"두 가지를 나눠 보죠. 누가 오류를 잡느냐, 그리고 누가 책임지느냐입니다.\""
+          }
+        },
+        {
+          "term": "controller",
+          "surface": "controller",
+          "meaningKo": "재무 관리자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Today, the customer's controller,\" he said.",
+            "ko": "\"지금은 고객사의 재무 관리자죠.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "reconcile",
+          "surface": "reconcile",
+          "meaningKo": "(숫자를) 대사하다, 맞춰 보다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        },
+        {
+          "term": "clear",
+          "surface": "clear",
+          "meaningKo": "(예외를) 처리하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        },
+        {
+          "term": "own",
+          "surface": "owns",
+          "meaningKo": "~의 책임을 지다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 431,
+      "paragraphs": [
+        {
+          "en": "Jae-won felt the old heat climb his neck, kept his eyes off the empty screen, and took his three seconds, every one of them. \"That's a fair challenge, and it's a better one than I got at rehearsal,\" he said. \"Let's separate two things: who catches the error, and who answers for it.\" \"A machine should catch a duplicate, and I'd buy that tomorrow, because my signature clearly didn't, and I won't insult anyone by pretending otherwise.\"",
+          "ko": "재원은 익숙한 열기가 목덜미를 타고 오르는 것을 느끼며, 빈 화면에서 눈을 돌린 채 3초를 하나도 남김없이 썼다. \"타당한 지적이고, 리허설 때 받은 것보다 낫네요.\" 그가 말했다. \"두 가지를 나눠 보죠. 누가 오류를 잡느냐, 그리고 누가 책임지느냐입니다.\" \"중복은 기계가 잡아야 합니다. 그건 내일이라도 사겠습니다. 제 서명은 분명히 못 잡았고, 아닌 척해서 누구를 모욕하지도 않겠습니다.\""
+        },
+        {
+          "en": "\"But the only reason you're able to stand there and quote my mistake is that it had my name on it, and I called Marcus within two hours of finding it,\" he said. \"When your model counts a company twice, who calls Marcus?\" \"It'll be in the log, timestamped and tamper-proof, which is a far better record than some initials in a column,\" Ethan said. \"A log tells you what happened, and I'd want that too, but it can't pick up a phone,\" Jae-won said.",
+          "ko": "\"하지만 당신이 거기서 제 실수를 인용할 수 있는 유일한 이유는 거기에 제 이름이 있었고, 제가 찾은 지 두 시간 안에 마커스에게 전화했기 때문입니다.\" 그가 말했다. \"당신의 모델이 한 회사를 두 번 세면, 누가 마커스에게 전화하나요?\" \"로그에 남을 겁니다. 시각까지 찍히고 위변조도 안 되죠. 칸에 적힌 이니셜보다 훨씬 나은 기록입니다.\" 이선이 말했다. \"로그는 무슨 일이 있었는지 말해 줍니다. 저도 그건 원합니다. 하지만 전화기를 들지는 못합니다.\" 재원이 말했다."
+        },
+        {
+          "en": "Marcus looked up from his tablet for the first time in twenty minutes and turned to Ethan. \"Before we move on, who does?\" he asked. For a moment, Ethan said nothing at all, which was unusual enough that the hall noticed, and somewhere in the third row a pencil stopped moving. \"Today, the customer's controller,\" he said, and then, with a slight smile, \"Today.\" \"So she's still in the room,\" Jae-won said, without raising his voice.",
+          "ko": "마커스가 20분 만에 처음으로 태블릿에서 고개를 들고 이선을 돌아보았다. \"다음으로 넘어가기 전에, 그럼 누가 듭니까?\" 그가 물었다. 잠시 이선은 아무 말도 하지 않았다. 드문 일이라 홀도 알아챘고, 3열 어딘가에서 연필이 멈췄다. \"지금은 고객사의 재무 관리자죠.\" 그는 그렇게 말하고, 살짝 웃으며 덧붙였다. \"지금은요.\" \"그럼 그분은 아직 그 방에 있는 거네요.\" 재원이 목소리를 높이지 않고 말했다."
+        },
+        {
+          "en": "\"I think we actually agree on most of this, which I suspect is a disappointment to the program committee,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\" \"I can live with a name, but not with a signature on every line, and in three years we'll have this conversation again,\" Ethan said. \"Neither can I, because I've tried it, and we've all seen how that turned out,\" Jae-won said, and the hall laughed, at him and with him, which he found he didn't mind.",
+          "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다. 프로그램 위원회로서는 실망스럽겠지만요.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\" \"이름까지는 받아들이겠지만, 모든 줄에 서명은 안 됩니다. 3년 뒤에 이 대화를 다시 하게 될 겁니다.\" 이선이 말했다. \"저도 못 합니다. 해 봤는데, 어떻게 됐는지 다들 보셨잖아요.\" 재원의 말에 홀이 웃었다. 그를 비웃으면서 또 함께 웃는 웃음이었는데, 그는 상관없었다."
+        },
+        {
+          "en": "On the way off, Ethan shook his hand, as friendly as he'd been over the kaya toast, and said, \"Ask me again when you've seen our system run on real data.\" Daniel held up the timer in the wings with an expression of deep professional satisfaction. \"The longest pause of the panel was four seconds, and it wasn't yours,\" he said. At the stage door, Farah handed him a printed program, folded open, with a note on the cover in a pencil he recognized. \"Breakfast tomorrow at 7:30. Bring the one who found the duplicate. This isn't a sales meeting. Grace.\"",
+          "ko": "내려오는 길에 이선은 카야 토스트 때처럼 다정하게 악수하며 말했다. \"우리 시스템이 실제 데이터로 돌아가는 걸 보고 나서 다시 물어보세요.\" 대니얼이 깊은 직업적 만족감이 어린 표정으로 무대 옆에서 타이머를 들어 보였다. \"패널 전체에서 가장 긴 침묵은 4초였는데, 재원 님 게 아니었어요.\" 그가 말했다. 무대 문에서 파라가 접어 펼친 인쇄 프로그램을 건넸는데, 표지에 그가 아는 연필 글씨로 메모가 적혀 있었다. \"내일 아침 7시 30분 조찬. 중복을 찾아낸 분을 데려오세요. 영업 미팅은 아닙니다. 그레이스.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I think we actually agree on",
+        "Before we move on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "timestamped",
+          "surface": "timestamped",
+          "meaningKo": "시각이 기록된",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"It'll be in the log, timestamped and tamper-proof, which is a far better record than some initials in a column,\" Ethan said.",
+            "ko": "\"로그에 남을 겁니다. 시각까지 찍히고 위변조도 안 되죠. 칸에 적힌 이니셜보다 훨씬 나은 기록입니다.\" 이선이 말했다."
+          }
+        },
+        {
+          "term": "tamper-proof",
+          "surface": "tamper-proof",
+          "meaningKo": "위변조가 불가능한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"It'll be in the log, timestamped and tamper-proof, which is a far better record than some initials in a column,\" Ethan said.",
+            "ko": "\"로그에 남을 겁니다. 시각까지 찍히고 위변조도 안 되죠. 칸에 적힌 이니셜보다 훨씬 나은 기록입니다.\" 이선이 말했다."
+          }
+        },
+        {
+          "term": "program committee",
+          "surface": "program committee",
+          "meaningKo": "프로그램 위원회",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I think we actually agree on most of this, which I suspect is a disappointment to the program committee,\" he said. \"Machines reconcile, people clear the exceptions, and someone with a name owns the result.\"",
+            "ko": "\"사실 대부분에 대해서는 우리 생각이 같은 것 같습니다. 프로그램 위원회로서는 실망스럽겠지만요.\" 그가 말했다. \"대사는 기계가 하고, 예외는 사람이 처리하고, 결과는 이름 있는 누군가가 책임지는 거죠.\""
+          }
+        },
+        {
+          "term": "in the wings",
+          "surface": "in the wings",
+          "meaningKo": "무대 옆에서",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Daniel held up the timer in the wings with an expression of deep professional satisfaction.",
+            "ko": "대니얼이 깊은 직업적 만족감이 어린 표정으로 무대 옆에서 타이머를 들어 보였다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How long was the longest pause of the panel, and whose was it?",
+      "options": [
+        "Three seconds, and it was Jae-won's",
+        "Nineteen seconds, and it was Jae-won's",
+        "Four seconds, and it wasn't Jae-won's",
+        "Sixty seconds, and it was Ethan's"
+      ],
+      "answerIndex": 2,
+      "evidence": "The longest pause of the panel was four seconds, and it wasn't yours"
+    },
+    {
+      "question": "What is Jae-won trying to show by asking \"who calls Marcus?\"",
+      "options": [
+        "That a system still needs someone who answers for its errors",
+        "That Marcus should manage all AI errors",
+        "That Ethan's model makes more errors than people do",
+        "That logs should be banned"
+      ],
+      "answerIndex": 0,
+      "evidence": "When your model counts a company twice, who calls Marcus?"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let's separate two things: who catches the error, and who answers for it.",
+      "A log tells you what happened, but it can't pick up a phone.",
+      "I think we actually agree on most of this."
+    ],
+    "summaryPromptKo": "이선의 가장 날카로운 공격에 재원이 어떻게 답했는지, 두 사람이 어디에 합의했는지, 무대에서 내려온 뒤 어떤 메모를 받았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "You put your initials on a number without opening a single row. So what exactly did your signature protect?",
+      "ko": "행 하나 열어 보지 않고 숫자에 이니셜을 적으셨죠. 그럼 그 서명이 대체 뭘 지켰다는 겁니까?"
+    },
+    "modelAnswer": "That's a fair challenge, so let's separate two things: who catches the error, and who answers for it. A machine should catch a duplicate, because my signature clearly didn't. But you only know about my mistake because it had my name on it, and I called Marcus within two hours. I think we actually agree on this: machines reconcile, and someone with a name owns the result."
+  },
+  "nextTeaserKo": "금요일 아침 7시 30분, 영업 미팅이 아니라는 조찬. 그레이스 림은 왜 대니얼까지 데려오라고 했을까. 상자와 서류, 그리고 16주.",
+  "roleplay": {
+    "title": "서명이 뭘 지켰습니까",
+    "situationKo": "패널 토론의 가장 뜨거운 대목입니다. 이선이 재원의 15초 정정을 그대로 재원에게 겨눕니다. 답하기 전에 3초를 써도 좋아요. 그 3초는 벌칙이 아니라 권리입니다.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Your slide three says you initialed a number without opening one row. What did your signature protect?",
+        "ko": "3번 슬라이드에 행 하나 안 열어 보고 숫자에 이니셜을 적었다고 나오죠. 그 서명이 뭘 지켰습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's a fair challenge. Let's separate two things: who catches the error, and who answers for it.",
+        "ko": "타당한 지적입니다. 두 가지를 나눠 보죠. 누가 오류를 잡느냐, 누가 책임지느냐입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "A registry check catches it in a second. So I'll ask again.",
+        "ko": "등록부 대조면 1초 만에 잡습니다. 그러니 다시 묻죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A machine should catch it. But you know my mistake because my name was on it.",
+        "ko": "그건 기계가 잡아야 합니다. 하지만 제 이름이 있었으니 제 실수를 아시는 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I called Marcus within two hours. When your model counts a company twice, who calls Marcus?",
+        "ko": "저는 두 시간 안에 마커스에게 전화했습니다. 당신의 모델이 한 회사를 두 번 세면, 누가 전화합니까?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "It'll be in the log, and that's a far better record than initials.",
+        "ko": "로그에 남을 겁니다. 이니셜보다 훨씬 나은 기록이죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A log tells you what happened, but it can't pick up a phone.",
+        "ko": "로그는 무슨 일이 있었는지 말해 주지만, 전화기를 들지는 못합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Before we move on, who does, Ethan?",
+        "ko": "다음으로 넘어가기 전에, 그럼 누가 듭니까, 이선?"
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Today, the customer's controller.",
+        "ko": "지금은 고객사의 재무 관리자죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So she's still in the room. I think we actually agree on most of this.",
+        "ko": "그럼 그분은 아직 그 방에 있는 거네요. 사실 대부분에 대해서는 우리 생각이 같은 것 같습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "I can live with a name, but not a signature on every line.",
+        "ko": "이름까지는 받아들이겠지만, 모든 줄에 서명은 안 됩니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Neither can I. I've tried it, and you've all seen how that turned out.",
+        "ko": "저도 못 합니다. 해 봤는데, 어떻게 됐는지 다들 보셨잖아요.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Good. Forty-five minutes. That's time.",
+        "ko": "좋습니다. 45분입니다. 시간 됐습니다."
+      }
+    ]
+  }
+}

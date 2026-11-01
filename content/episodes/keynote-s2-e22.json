@@ -1,0 +1,430 @@
+{
+  "id": "keynote-s2-e22",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 22,
+  "title": "The Price of Yes",
+  "recapKo": "월요일 8시, 재원은 재무와 구매의 요청을 범위 밖이라고 돌려보내고 라힘에게는 12주 차를 기다리라고 했다. 그런데 통관의 하피즈가 세관 당국의 공문을 내밀었다. 11주 차 월요일부터 모든 신고서에 새 칸이 있어야 하고, 없으면 반려된다. 거절할 수 없는 요청이었다.",
+  "keyExpressions": [
+    {
+      "phrase": "What would you give up to get ~?",
+      "meaningKo": "~을 얻기 위해 무엇을 포기하시겠습니까?",
+      "usage": "What would you give up to get the extra report this quarter?"
+    },
+    {
+      "phrase": "That would add ~",
+      "meaningKo": "그러면 ~이 더 듭니다",
+      "usage": "That would add three weeks to the timeline and one person to the team."
+    },
+    {
+      "phrase": "If this is a must, then ~",
+      "meaningKo": "이게 꼭 필요하다면, ~",
+      "usage": "If this is a must, then something else has to move."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 227,
+      "paragraphs": [
+        {
+          "en": "Jae-won read the letter twice. \"What's the must-have here?\" The answer was one code for the country of origin, on every line. He sent the other three away and called Cole.",
+          "ko": "재원은 공문을 두 번 읽었다. \"여기서 꼭 필요한 게 뭡니까?\" 답은 품목마다 원산지 코드 하나였다. 그는 다른 세 사람을 돌려보내고 콜에게 전화했다."
+        },
+        {
+          "en": "\"Adding the box is easy, but testing it isn't,\" Cole said, since a full test would take three weeks. \"That would add three weeks to the timeline, and go-live moves to week thirteen,\" Jae-won told Hafiz.",
+          "ko": "\"칸을 넣는 건 쉬운데, 시험이 어렵습니다.\" 콜이 말했다. 제대로 시험하면 3주가 걸리기 때문이었다. \"그러면 일정에 3주가 더 들고, 가동은 13주 차로 밀립니다.\" 재원이 하피즈에게 말했다."
+        },
+        {
+          "en": "On Wednesday, he took one page to Grace and sent it to Wei Ling in the same minute. \"If this is a must, then you have two choices,\" he said. \"One is a full test and a late go-live, and the other is a test on two hundred documents and go-live in week ten.\"",
+          "ko": "수요일에 그는 한 장을 그레이스에게 가져가면서 같은 분에 웨이링에게도 보냈다. \"이게 꼭 필요하다면, 선택지는 둘입니다.\" 그가 말했다. \"하나는 제대로 시험하고 늦게 가동하는 것이고, 다른 하나는 서류 200건으로 시험하고 10주 차에 가동하는 것입니다.\""
+        },
+        {
+          "en": "\"What would you give up to get the full test?\" Grace said she'd give up nothing, so they'd take two hundred, and she asked if that was enough. \"No, it isn't,\" he said. Hafiz offered to have his team read every declaration for four weeks. \"Can we put that in writing?\" Grace signed the page and told him it was the last yes.",
+          "ko": "\"제대로 된 시험을 얻기 위해 무엇을 포기하시겠습니까?\" 그레이스는 아무것도 포기하지 않겠다며 200건으로 하자고 했고, 그걸로 충분하냐고 물었다. \"아니요, 충분하지 않습니다.\" 그가 말했다. 하피즈가 4주 동안 자기 팀이 신고서를 전부 읽겠다고 했다. \"그걸 문서로 남길 수 있을까요?\" 그레이스는 그 장에 서명하고, 이게 마지막 승낙이라고 말했다."
+        },
+        {
+          "en": "Someone had to run the test, and Daniel was already working nights with Siti and Cole. \"Can you take it?\" \"Sure,\" Daniel said. It was the fourth time that week Jae-won had asked him that, and he still hadn't listened to the answer.",
+          "ko": "누군가 시험을 맡아야 했고, 대니얼은 이미 시티와 콜과 함께 밤에 일하고 있었다. \"맡아 줄 수 있어요?\" \"그럼요.\" 대니얼이 말했다. 재원이 그 주에 그렇게 물은 것이 네 번째였고, 그는 여전히 대답을 듣지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you give up",
+        "That would add",
+        "If this is a must, then"
+      ],
+      "wordCandidates": [
+        {
+          "term": "country of origin",
+          "surface": "country of origin",
+          "meaningKo": "원산지",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The answer was one code for the country of origin, on every line.",
+            "ko": "답은 품목마다 원산지 코드 하나였다."
+          }
+        },
+        {
+          "term": "send away",
+          "surface": "sent the other three away",
+          "meaningKo": "돌려보내다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He sent the other three away and called Cole.",
+            "ko": "그는 다른 세 사람을 돌려보내고 콜에게 전화했다."
+          }
+        },
+        {
+          "term": "timeline",
+          "surface": "timeline",
+          "meaningKo": "일정",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"That would add three weeks to the timeline, and go-live moves to week thirteen,\" Jae-won told Hafiz.",
+            "ko": "\"그러면 일정에 3주가 더 들고, 가동은 13주 차로 밀립니다.\" 재원이 하피즈에게 말했다."
+          }
+        },
+        {
+          "term": "choice",
+          "surface": "choices",
+          "meaningKo": "선택지",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"If this is a must, then you have two choices,\" he said.",
+            "ko": "\"이게 꼭 필요하다면, 선택지는 둘입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "declaration",
+          "surface": "declaration",
+          "meaningKo": "신고서",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Hafiz offered to have his team read every declaration for four weeks.",
+            "ko": "하피즈가 4주 동안 자기 팀이 신고서를 전부 읽겠다고 했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 360,
+      "paragraphs": [
+        {
+          "en": "The room went quiet, and Jae-won read the letter twice. \"What's the must-have here?\" Hafiz had the answer ready: one code for the country of origin, on every line of every declaration. Jae-won thanked the other three, who looked pleased that someone else's small thing had turned out to be the large one, and he called Cole on the dock.",
+          "ko": "방이 조용해졌고, 재원은 공문을 두 번 읽었다. \"여기서 꼭 필요한 게 뭡니까?\" 하피즈는 답을 준비해 두었다. 모든 신고서의 품목마다 원산지 코드 하나였다. 재원은 다른 사람의 작은 일이 큰일로 드러나 흐뭇해 보이는 세 사람에게 고맙다고 했고, 도크에 있는 콜에게 전화했다."
+        },
+        {
+          "en": "\"Adding the box is easy, but testing it isn't, because the code is printed small on the invoice,\" Cole said, and a full test on a thousand documents would take three weeks. \"That would add three weeks to the timeline, and go-live moves to week thirteen,\" Jae-won told Hafiz, and that left only three weeks to reach the target.",
+          "ko": "\"칸을 넣는 건 쉬운데, 코드가 송장에 작게 찍혀 있어서 시험이 어렵습니다.\" 콜이 말했고, 서류 1,000건으로 제대로 시험하면 3주가 걸렸다. \"그러면 일정에 3주가 더 들고, 가동은 13주 차로 밀립니다.\" 재원이 하피즈에게 말했고, 그러면 목표까지 3주밖에 남지 않았다."
+        },
+        {
+          "en": "On Wednesday, he took one page to Grace and sent it to Wei Ling in the same minute. \"If this is a must, then you have two choices,\" he said. \"One is a full test and a late go-live, and we'd probably lose the target, and the other is a test on two hundred documents in week ten, with go-live where it is.\"",
+          "ko": "수요일에 그는 한 장을 그레이스에게 가져가면서 같은 분에 웨이링에게도 보냈다. \"이게 꼭 필요하다면, 선택지는 둘입니다.\" 그가 말했다. \"하나는 제대로 시험하고 늦게 가동하는 것인데 아마 목표를 놓칠 겁니다. 다른 하나는 10주 차에 서류 200건으로 시험하고 가동일은 그대로 두는 것입니다.\""
+        },
+        {
+          "en": "\"What would you give up to get the full test?\" Grace said that she would give up nothing, so they'd take two hundred, and she asked if that was enough. \"No, it isn't, and I've written that on the page,\" he said. Hafiz, who had come up with him, offered to have his team read every declaration by hand for the first four weeks. \"Can we put that in writing?\" Jae-won said.",
+          "ko": "\"제대로 된 시험을 얻기 위해 무엇을 포기하시겠습니까?\" 그레이스는 아무것도 포기하지 않겠으니 200건으로 하자고 했고, 그걸로 충분하냐고 물었다. \"아니요, 충분하지 않고, 그렇게 적어 두었습니다.\" 그가 말했다. 함께 올라온 하피즈가 처음 4주 동안 자기 팀이 신고서를 전부 직접 읽겠다고 했다. \"그걸 문서로 남길 수 있을까요?\" 재원이 말했다."
+        },
+        {
+          "en": "Grace signed the page, and she told him that the other three could send their pages to her and wait, and that this was the last yes. Wei Ling's reply came before he reached the lift: \"Seen, and who does the two hundred?\"",
+          "ko": "그레이스는 그 장에 서명하고, 나머지 세 사람은 자기에게 한 장을 보내고 기다리면 되며 이게 마지막 승낙이라고 말했다. 그가 엘리베이터에 닿기 전에 웨이링의 답이 왔다. \"봤어요. 200건은 누가 하죠?\""
+        },
+        {
+          "en": "It had only one answer, because Daniel was already working nights with Siti and Cole and writing the weekly numbers by day. \"Can you take it?\" Jae-won asked him on the phone. \"Sure,\" Daniel said, after a pause that was slightly too long. It was the fourth time that week Jae-won had asked him that, and he still hadn't listened to the answer.",
+          "ko": "답은 하나뿐이었다. 대니얼은 이미 시티와 콜과 함께 밤에 일하면서 낮에는 주간 숫자를 쓰고 있었다. \"맡아 줄 수 있어요?\" 재원이 전화로 물었다. \"그럼요.\" 대니얼이 조금 너무 길게 멈춘 뒤에 말했다. 재원이 그 주에 그렇게 물은 것이 네 번째였고, 그는 여전히 대답을 듣지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you give up",
+        "That would add",
+        "If this is a must, then"
+      ],
+      "wordCandidates": [
+        {
+          "term": "country of origin",
+          "surface": "country of origin",
+          "meaningKo": "원산지",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Hafiz had the answer ready: one code for the country of origin, on every line of every declaration.",
+            "ko": "하피즈는 답을 준비해 두었다. 모든 신고서의 품목마다 원산지 코드 하나였다."
+          }
+        },
+        {
+          "term": "turn out to be",
+          "surface": "turned out to be",
+          "meaningKo": "~로 드러나다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won thanked the other three, who looked pleased that someone else's small thing had turned out to be the large one, and he called Cole on the dock.",
+            "ko": "재원은 다른 사람의 작은 일이 큰일로 드러나 흐뭇해 보이는 세 사람에게 고맙다고 했고, 도크에 있는 콜에게 전화했다."
+          }
+        },
+        {
+          "term": "invoice",
+          "surface": "invoice",
+          "meaningKo": "송장",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Adding the box is easy, but testing it isn't, because the code is printed small on the invoice,\" Cole said, and a full test on a thousand documents would take three weeks.",
+            "ko": "\"칸을 넣는 건 쉬운데, 코드가 송장에 작게 찍혀 있어서 시험이 어렵습니다.\" 콜이 말했고, 서류 1,000건으로 제대로 시험하면 3주가 걸렸다."
+          }
+        },
+        {
+          "term": "go-live",
+          "surface": "go-live",
+          "meaningKo": "가동",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"One is a full test and a late go-live, and we'd probably lose the target, and the other is a test on two hundred documents in week ten, with go-live where it is.\"",
+            "ko": "\"하나는 제대로 시험하고 늦게 가동하는 것인데 아마 목표를 놓칠 겁니다. 다른 하나는 10주 차에 서류 200건으로 시험하고 가동일은 그대로 두는 것입니다.\""
+          }
+        },
+        {
+          "term": "by hand",
+          "surface": "by hand",
+          "meaningKo": "직접, 손으로",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Hafiz, who had come up with him, offered to have his team read every declaration by hand for the first four weeks.",
+            "ko": "함께 올라온 하피즈가 처음 4주 동안 자기 팀이 신고서를 전부 직접 읽겠다고 했다."
+          }
+        },
+        {
+          "term": "pause",
+          "surface": "pause",
+          "meaningKo": "멈춤, 침묵",
+          "paragraph": 5,
+          "sentence": {
+            "en": "\"Sure,\" Daniel said, after a pause that was slightly too long.",
+            "ko": "\"그럼요.\" 대니얼이 조금 너무 길게 멈춘 뒤에 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 493,
+      "paragraphs": [
+        {
+          "en": "The room went quiet, and Jae-won read the letter twice, mostly to give his face something to do. \"What's the must-have here?\" he asked. \"One code for the country of origin, on every line of every declaration, and I'd like that minuted,\" Hafiz said. Jae-won thanked the other three, who looked quietly delighted that someone else's small thing had turned out to be the large one, and he called Cole on the dock.",
+          "ko": "방이 조용해졌고, 재원은 공문을 두 번 읽었다. 주로 표정 둘 곳을 찾기 위해서였다. \"여기서 꼭 필요한 게 뭡니까?\" 그가 물었다. \"모든 신고서의 품목마다 원산지 코드 하나요. 회의록에 남겨 주시면 좋겠습니다.\" 하피즈가 말했다. 재원은 다른 사람의 작은 일이 큰일로 드러나 은근히 즐거워 보이는 세 사람에게 고맙다고 했고, 도크의 콜에게 전화했다."
+        },
+        {
+          "en": "\"Adding the box is easy, but testing it isn't, because the code is printed small on the invoice and every carrier puts it somewhere different,\" Cole said, and he had stopped saying that things were easy without a second clause. A full test on a thousand documents would take three weeks. \"That would add three weeks to the timeline, and go-live moves to week thirteen,\" Jae-won told Hafiz, which left only three weeks to reach the target. Hafiz said that he followed the arithmetic perfectly and that the authority was under no obligation to.",
+          "ko": "\"칸을 넣는 건 쉬운데, 코드가 송장에 작게 찍혀 있고 운송사마다 위치가 달라서 시험이 어렵습니다.\" 콜이 말했다. 그는 이제 뒤에 단서 없이 쉽다는 말을 하지 않았다. 서류 1,000건으로 제대로 시험하면 3주가 걸린다. \"그러면 일정에 3주가 더 들고, 가동은 13주 차로 밀립니다.\" 재원이 하피즈에게 말했고, 그러면 목표까지 3주밖에 남지 않았다. 하피즈는 계산은 완벽히 따라왔지만 당국은 그럴 의무가 없다고 말했다."
+        },
+        {
+          "en": "On Wednesday, he took one page to Grace and sent it to Wei Ling in the same minute, a habit that had started to feel less like a promise than a reflex. \"If this is a must, then you have two choices, and I don't like either of them,\" he said. \"One is a full test and a late go-live, and we'd probably forfeit the target. The other is a test on two hundred documents in week ten, and go-live stays where it is.\"",
+          "ko": "수요일에 그는 한 장을 그레이스에게 가져가면서 같은 분에 웨이링에게도 보냈다. 이 습관은 이제 약속이라기보다 반사 동작처럼 느껴지기 시작했다. \"이게 꼭 필요하다면, 선택지는 둘이고 둘 다 마음에 들지 않습니다.\" 그가 말했다. \"하나는 제대로 시험하고 늦게 가동하는 것인데, 아마 목표를 포기하게 될 겁니다. 다른 하나는 10주 차에 서류 200건으로 시험하는 것이고, 가동일은 그대로입니다.\""
+        },
+        {
+          "en": "\"What would you give up to get the full test?\" he asked, and for once it wasn't a negotiating move. \"Nothing, so we'll take two hundred,\" Grace said, without looking at the second paragraph, and then she did look at it, and her pencil stopped. When she asked if that was enough, he said, \"No, it isn't, and I've written that on the page so that nobody can say later that I didn't.\" Hafiz, who had come up with him, offered to have his team read every declaration by hand for the first four weeks. \"Can we put that in writing?\" Jae-won asked, and he noticed that Hafiz looked faintly insulted.",
+          "ko": "\"제대로 된 시험을 얻기 위해 무엇을 포기하시겠습니까?\" 그가 물었고, 이번만은 협상 수법이 아니었다. \"아무것도요. 그러니 200건으로 하죠.\" 그레이스가 두 번째 문단을 보지 않고 말하더니, 곧 그것을 읽었고 연필이 멈췄다. 그녀가 그걸로 충분하냐고 묻자 그가 말했다. \"아니요, 충분하지 않고, 나중에 제가 말 안 했다는 얘기가 없도록 그렇게 적어 두었습니다.\" 함께 올라온 하피즈가 처음 4주 동안 자기 팀이 신고서를 전부 직접 읽겠다고 했다. \"그걸 문서로 남길 수 있을까요?\" 재원이 물었고, 하피즈가 살짝 모욕당한 표정을 짓는 것을 보았다."
+        },
+        {
+          "en": "Grace signed the page and told him that the other three could send their pages to her and wait until they grew old. \"That's the last yes,\" she said, and Wei Ling's reply came before he reached the lift: \"Seen, and who does the two hundred?\"",
+          "ko": "그레이스는 그 장에 서명하고, 나머지 세 사람은 자기에게 한 장을 보내고 늙을 때까지 기다리면 된다고 했다. \"이게 마지막 승낙이에요.\" 그녀가 말했고, 그가 엘리베이터에 닿기 전에 웨이링의 답이 왔다. \"봤어요. 200건은 누가 하죠?\""
+        },
+        {
+          "en": "It was a good question, and it had only one answer, because Daniel was already working nights with Siti and Cole and writing up the weekly numbers by day. \"Can you take it?\" Jae-won asked him on the phone, in the tone of a man who has already moved on to the next item. \"Sure,\" Daniel said, after a pause that was slightly too long. It was the fourth time that week Jae-won had asked him that, and he still hadn't listened to the answer.",
+          "ko": "좋은 질문이었고, 답은 하나뿐이었다. 대니얼은 이미 시티와 콜과 함께 밤에 일하면서 낮에는 주간 숫자를 정리하고 있었다. \"맡아 줄 수 있어요?\" 재원이 이미 다음 안건으로 넘어간 사람의 말투로 전화에 대고 물었다. \"그럼요.\" 대니얼이 조금 너무 길게 멈춘 뒤에 말했다. 재원이 그 주에 그렇게 물은 것이 네 번째였고, 그는 여전히 대답을 듣지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you give up",
+        "That would add",
+        "If this is a must, then"
+      ],
+      "wordCandidates": [
+        {
+          "term": "minute",
+          "surface": "minuted",
+          "meaningKo": "회의록에 남기다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"One code for the country of origin, on every line of every declaration, and I'd like that minuted,\" Hafiz said.",
+            "ko": "\"모든 신고서의 품목마다 원산지 코드 하나요. 회의록에 남겨 주시면 좋겠습니다.\" 하피즈가 말했다."
+          }
+        },
+        {
+          "term": "carrier",
+          "surface": "carrier",
+          "meaningKo": "운송사",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Adding the box is easy, but testing it isn't, because the code is printed small on the invoice and every carrier puts it somewhere different,\" Cole said, and he had stopped saying that things were easy without a second clause.",
+            "ko": "\"칸을 넣는 건 쉬운데, 코드가 송장에 작게 찍혀 있고 운송사마다 위치가 달라서 시험이 어렵습니다.\" 콜이 말했다. 그는 이제 뒤에 단서 없이 쉽다는 말을 하지 않았다."
+          }
+        },
+        {
+          "term": "under no obligation",
+          "surface": "under no obligation",
+          "meaningKo": "~할 의무가 없는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Hafiz said that he followed the arithmetic perfectly and that the authority was under no obligation to.",
+            "ko": "하피즈는 계산은 완벽히 따라왔지만 당국은 그럴 의무가 없다고 말했다."
+          }
+        },
+        {
+          "term": "reflex",
+          "surface": "reflex",
+          "meaningKo": "반사 동작",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On Wednesday, he took one page to Grace and sent it to Wei Ling in the same minute, a habit that had started to feel less like a promise than a reflex.",
+            "ko": "수요일에 그는 한 장을 그레이스에게 가져가면서 같은 분에 웨이링에게도 보냈다. 이 습관은 이제 약속이라기보다 반사 동작처럼 느껴지기 시작했다."
+          }
+        },
+        {
+          "term": "forfeit",
+          "surface": "forfeit",
+          "meaningKo": "(권리·기회를) 잃다, 포기하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"One is a full test and a late go-live, and we'd probably forfeit the target.",
+            "ko": "\"하나는 제대로 시험하고 늦게 가동하는 것인데, 아마 목표를 포기하게 될 겁니다."
+          }
+        },
+        {
+          "term": "faintly",
+          "surface": "faintly",
+          "meaningKo": "희미하게, 살짝",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won asked, and he noticed that Hafiz looked faintly insulted.",
+            "ko": "재원이 물었고, 하피즈가 살짝 모욕당한 표정을 짓는 것을 보았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How many documents will the new box be tested on before go-live?",
+      "options": [
+        "One hundred",
+        "Two hundred",
+        "One thousand",
+        "Two thousand"
+      ],
+      "answerIndex": 1,
+      "evidence": "two hundred documents"
+    },
+    {
+      "question": "What is the last paragraph suggesting about Jae-won?",
+      "options": [
+        "He has decided to hire another consultant",
+        "He keeps giving Daniel work without really checking how Daniel is doing",
+        "He plans to run the test himself",
+        "He thinks Daniel is lying about the test"
+      ],
+      "answerIndex": 1,
+      "evidence": "hadn't listened to the answer"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "That would add three weeks to the timeline, and go-live moves to week thirteen.",
+      "If this is a must, then you have two choices.",
+      "What would you give up to get the full test?"
+    ],
+    "summaryPromptKo": "새 칸이 왜 필요한지, 재원이 그레이스에게 어떤 선택지를 냈는지, 그 대가로 누가 무엇을 맡았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "You wrote that two hundred documents is not enough. So why are you letting me choose it?",
+      "ko": "200건이 충분하지 않다고 적으셨네요. 그런데 왜 그걸 고르게 두는 거죠?"
+    },
+    "modelAnswer": "Because it's your decision, and you should make it knowing the cost. If this is a must, then you have two choices, and neither is clean. A full test would add three weeks and probably cost us the target. Two hundred documents keeps week ten, but it leaves a risk. That's why Hafiz's team reads every declaration for the first four weeks. I'd rather write that down now than explain it later."
+  },
+  "nextTeaserKo": "7주 차 목요일 새벽 1시, 대니얼이 주간 숫자를 보낸다. 재원은 아침 7시에 열어 보지도 않고 그레이스와 웨이링에게 같은 분에 전달한다. 그 숫자를 처음 의심한 사람은 시티다. 재원의 이니셜이 또 숫자에 찍혔다.",
+  "roleplay": {
+    "title": "세 주인가, 이백 건인가",
+    "situationKo": "수요일, 그레이스의 사무실입니다. 어느 쪽도 좋지 않은 두 선택지를 내놓고 대가를 솔직하게 말하는 자리예요. 결정은 그레이스가 하니 재원은 말만 분명히 하면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Customs says this box isn't optional. What does it do to us?",
+        "ko": "통관은 이 칸이 선택 사항이 아니라네요. 우리에게 어떤 영향이 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A full test takes three weeks. That would add three weeks to the timeline, and go-live moves to week thirteen.",
+        "ko": "제대로 시험하면 3주 걸립니다. 그러면 일정에 3주가 더 들고, 가동은 13주 차로 밀려요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Which leaves how long for the target?",
+        "ko": "그러면 목표까지 얼마나 남죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Three weeks. If this is a must, then you have two choices, and I don't like either of them.",
+        "ko": "3주입니다. 이게 꼭 필요하다면 선택지는 둘인데, 둘 다 마음에 들지 않아요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "What's the other one?",
+        "ko": "다른 하나는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We test on two hundred documents in week ten, and go-live stays where it is.",
+        "ko": "10주 차에 서류 200건으로 시험하고, 가동일은 그대로 둡니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "I don't love that either.",
+        "ko": "그것도 썩 좋지는 않네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What would you give up to get the full test? That's a real question.",
+        "ko": "제대로 된 시험을 얻기 위해 무엇을 포기하시겠어요? 진짜로 묻는 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Nothing, so we'll take two hundred. Is that enough?",
+        "ko": "아무것도요. 그러니 200건으로 하죠. 그걸로 충분해요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, it isn't, and I've written that on the page.",
+        "ko": "아니요, 충분하지 않고, 그렇게 적어 두었습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Hafiz Rahman",
+        "voice": "male",
+        "en": "My team can read every declaration by hand for the first four weeks.",
+        "ko": "처음 4주 동안 저희 팀이 신고서를 전부 직접 읽을 수 있습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you, Hafiz. Can we put that in writing?",
+        "ko": "고맙습니다, 하피즈. 그걸 문서로 남길 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "That's the last yes.",
+        "ko": "이게 마지막 승낙이에요."
+      }
+    ]
+  }
+}

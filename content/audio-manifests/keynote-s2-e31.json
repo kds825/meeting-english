@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e31",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "carton": "word-carton.mp3",
+    "origin code": "word-origin-code.mp3",
+    "pallet": "word-pallet.mp3",
+    "permission": "word-permission.mp3",
+    "canteen": "word-canteen.mp3",
+    "call out": "word-call-out.mp3",
+    "tip": "word-tip.mp3",
+    "match": "word-match.mp3",
+    "be held": "word-be-held.mp3",
+    "inspect": "word-inspect.mp3",
+    "address": "word-address.mp3",
+    "root cause": "word-root-cause.mp3",
+    "evidently": "word-evidently.mp3",
+    "grudgingly": "word-grudgingly.mp3",
+    "composure": "word-composure.mp3"
+  },
+  "termClips": {
+    "carton": "term-carton.mp3",
+    "origin code": "term-origin-code.mp3",
+    "pallet": "term-pallet.mp3",
+    "permission": "term-permission.mp3",
+    "canteen": "term-canteen.mp3",
+    "call out": "term-call-out.mp3",
+    "tip": "term-tip.mp3",
+    "match": "term-match.mp3",
+    "be held": "term-be-held.mp3",
+    "inspect": "term-inspect.mp3",
+    "address": "term-address.mp3",
+    "root cause": "term-root-cause.mp3",
+    "evidently": "term-evidently.mp3",
+    "grudgingly": "term-grudgingly.mp3",
+    "composure": "term-composure.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

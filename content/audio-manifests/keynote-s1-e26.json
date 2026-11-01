@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s1-e26",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "total": "word-total.mp3",
+    "signed note": "word-signed-note.mp3",
+    "printed": "word-printed.mp3",
+    "duplicate": "word-duplicate.mp3",
+    "speaker notes": "word-speaker-notes.mp3",
+    "remaining": "word-remaining.mp3",
+    "go to press": "word-go-to-press.mp3",
+    "registry": "word-registry.mp3",
+    "reference": "word-reference.mp3",
+    "denominator": "word-denominator.mp3",
+    "chase": "word-chase.mp3",
+    "that ship has sailed": "word-that-ship-has-sailed.mp3",
+    "commentary": "word-commentary.mp3",
+    "fuel": "word-fuel.mp3"
+  },
+  "termClips": {
+    "total": "term-total.mp3",
+    "signed note": "term-signed-note.mp3",
+    "printed": "term-printed.mp3",
+    "duplicate": "term-duplicate.mp3",
+    "speaker notes": "term-speaker-notes.mp3",
+    "remaining": "term-remaining.mp3",
+    "go to press": "term-go-to-press.mp3",
+    "registry": "term-registry.mp3",
+    "reference": "term-reference.mp3",
+    "denominator": "term-denominator.mp3",
+    "chase": "term-chase.mp3",
+    "that ship has sailed": "term-that-ship-has-sailed.mp3",
+    "commentary": "term-commentary.mp3",
+    "fuel": "term-fuel.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3"
+  ]
+}

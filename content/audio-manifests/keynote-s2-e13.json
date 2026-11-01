@@ -1,0 +1,62 @@
+{
+  "episodeId": "keynote-s2-e13",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "install": "word-install.mp3",
+    "demo": "word-demo.mp3",
+    "field": "word-field.mp3",
+    "stain": "word-stain.mp3",
+    "slide across": "word-slide-across.mp3",
+    "score sheet": "word-score-sheet.mp3",
+    "modest": "word-modest.mp3",
+    "footnote": "word-footnote.mp3",
+    "crease": "word-crease.mp3",
+    "square": "word-square.mp3",
+    "candor": "word-candor.mp3",
+    "tilt": "word-tilt.mp3",
+    "pleasantly": "word-pleasantly.mp3",
+    "stray": "word-stray.mp3",
+    "it occurs to": "word-it-occurs-to.mp3"
+  },
+  "termClips": {
+    "install": "term-install.mp3",
+    "demo": "term-demo.mp3",
+    "field": "term-field.mp3",
+    "stain": "term-stain.mp3",
+    "slide across": "term-slide-across.mp3",
+    "score sheet": "term-score-sheet.mp3",
+    "modest": "term-modest.mp3",
+    "footnote": "term-footnote.mp3",
+    "crease": "term-crease.mp3",
+    "square": "term-square.mp3",
+    "candor": "term-candor.mp3",
+    "tilt": "term-tilt.mp3",
+    "pleasantly": "term-pleasantly.mp3",
+    "stray": "term-stray.mp3",
+    "it occurs to": "term-it-occurs-to.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

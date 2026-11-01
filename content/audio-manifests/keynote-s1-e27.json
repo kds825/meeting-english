@@ -1,0 +1,71 @@
+{
+  "episodeId": "keynote-s1-e27",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "corridor": "word-corridor.mp3",
+    "surgery": "word-surgery.mp3",
+    "apology": "word-apology.mp3",
+    "bring up": "word-bring-up.mp3",
+    "slot": "word-slot.mp3",
+    "remind": "word-remind.mp3",
+    "vending machine": "word-vending-machine.mp3",
+    "work on": "word-work-on.mp3",
+    "walk past": "word-walk-past.mp3",
+    "catch": "word-catch.mp3",
+    "badge": "word-badge.mp3",
+    "with respect": "word-with-respect.mp3",
+    "rub": "word-rub.mp3",
+    "on the clock": "word-on-the-clock.mp3",
+    "blow": "word-blow.mp3",
+    "nurse": "word-nurse.mp3",
+    "six ways from Sunday": "word-six-ways-from-sunday.mp3",
+    "land": "word-land.mp3",
+    "evenly": "word-evenly.mp3"
+  },
+  "termClips": {
+    "corridor": "term-corridor.mp3",
+    "surgery": "term-surgery.mp3",
+    "apology": "term-apology.mp3",
+    "bring up": "term-bring-up.mp3",
+    "slot": "term-slot.mp3",
+    "remind": "term-remind.mp3",
+    "vending machine": "term-vending-machine.mp3",
+    "work on": "term-work-on.mp3",
+    "walk past": "term-walk-past.mp3",
+    "catch": "term-catch.mp3",
+    "badge": "term-badge.mp3",
+    "with respect": "term-with-respect.mp3",
+    "rub": "term-rub.mp3",
+    "on the clock": "term-on-the-clock.mp3",
+    "blow": "term-blow.mp3",
+    "nurse": "term-nurse.mp3",
+    "six ways from Sunday": "term-six-ways-from-sunday.mp3",
+    "land": "term-land.mp3",
+    "evenly": "term-evenly.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

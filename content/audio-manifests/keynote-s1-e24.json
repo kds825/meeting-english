@@ -1,0 +1,59 @@
+{
+  "episodeId": "keynote-s1-e24",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "tracker": "word-tracker.mp3",
+    "private message": "word-private-message.mp3",
+    "pull up": "word-pull-up.mp3",
+    "scroll down": "word-scroll-down.mp3",
+    "line by line": "word-line-by-line.mp3",
+    "at first glance": "word-at-first-glance.mp3",
+    "go quiet": "word-go-quiet.mp3",
+    "fall over": "word-fall-over.mp3",
+    "rigor": "word-rigor.mp3",
+    "make one's point": "word-make-one-s-point.mp3",
+    "run down": "word-run-down.mp3",
+    "on inspection": "word-on-inspection.mp3"
+  },
+  "termClips": {
+    "tracker": "term-tracker.mp3",
+    "private message": "term-private-message.mp3",
+    "pull up": "term-pull-up.mp3",
+    "scroll down": "term-scroll-down.mp3",
+    "line by line": "term-line-by-line.mp3",
+    "at first glance": "term-at-first-glance.mp3",
+    "go quiet": "term-go-quiet.mp3",
+    "fall over": "term-fall-over.mp3",
+    "rigor": "term-rigor.mp3",
+    "make one's point": "term-make-one-s-point.mp3",
+    "run down": "term-run-down.mp3",
+    "on inspection": "term-on-inspection.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3"
+  ]
+}

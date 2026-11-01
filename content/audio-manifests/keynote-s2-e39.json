@@ -1,0 +1,68 @@
+{
+  "episodeId": "keynote-s2-e39",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "target": "word-target.mp3",
+    "bonus": "word-bonus.mp3",
+    "reader": "word-reader.mp3",
+    "cross out": "word-cross-out.mp3",
+    "knock": "word-knock.mp3",
+    "definition": "word-definition.mp3",
+    "scale up": "word-scale-up.mp3",
+    "downstream": "word-downstream.mp3",
+    "wide awake": "word-wide-awake.mp3",
+    "tap": "word-tap.mp3",
+    "dispute": "word-dispute.mp3",
+    "disturbingly": "word-disturbingly.mp3",
+    "commentary": "word-commentary.mp3",
+    "hollow": "word-hollow.mp3",
+    "talk out of": "word-talk-out-of.mp3",
+    "compliment": "word-compliment.mp3",
+    "restraint": "word-restraint.mp3",
+    "apply pressure": "word-apply-pressure.mp3"
+  },
+  "termClips": {
+    "target": "term-target.mp3",
+    "bonus": "term-bonus.mp3",
+    "reader": "term-reader.mp3",
+    "cross out": "term-cross-out.mp3",
+    "knock": "term-knock.mp3",
+    "definition": "term-definition.mp3",
+    "scale up": "term-scale-up.mp3",
+    "downstream": "term-downstream.mp3",
+    "wide awake": "term-wide-awake.mp3",
+    "tap": "term-tap.mp3",
+    "dispute": "term-dispute.mp3",
+    "disturbingly": "term-disturbingly.mp3",
+    "commentary": "term-commentary.mp3",
+    "hollow": "term-hollow.mp3",
+    "talk out of": "term-talk-out-of.mp3",
+    "compliment": "term-compliment.mp3",
+    "restraint": "term-restraint.mp3",
+    "apply pressure": "term-apply-pressure.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

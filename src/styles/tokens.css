@@ -1,0 +1,20 @@
+:root {
+  --accent: #0F766E;       /* 틸: 버튼, 진행 바, 선택 상태 */
+  --accent-strong: #0B5A54;
+  --accent-soft: #DDF3EF;  /* 연한 민트: 선택 배경, 태그 */
+  --ink: #16302C;          /* 글자 */
+  --muted: #5B6875;
+  --ground: #F3F5F7;       /* 배경 */
+  --surface: #FFFFFF;
+  --line: #E1E6EB;
+  --highlight: #FFE9A8;    /* 핵심 표현 형광펜 */
+  --drive-bg: #0E2624;     /* 운전 모드 배경 */
+  --drive-panel: #1F4A45;
+  --drive-accent: #7FE0D0; /* 운전 모드 재생 버튼 */
+
+  --font-ui: 'Noto Sans KR Variable', system-ui, sans-serif;
+  --font-reading: 'Source Serif 4 Variable', Georgia, serif;
+  --tap: 44px;
+  --radius: 14px;
+  --nav-height: 60px;
+}

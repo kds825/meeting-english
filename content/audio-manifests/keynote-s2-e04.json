@@ -1,0 +1,63 @@
+{
+  "episodeId": "keynote-s2-e04",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "fine": "word-fine.mp3",
+    "stretched too thin": "word-stretched-too-thin.mp3",
+    "night shift": "word-night-shift.mp3",
+    "circle": "word-circle.mp3",
+    "out of scope": "word-out-of-scope.mp3",
+    "regime": "word-regime.mp3",
+    "broker": "word-broker.mp3",
+    "downstream": "word-downstream.mp3",
+    "park": "word-park.mp3",
+    "off the table": "word-off-the-table.mp3",
+    "approve": "word-approve.mp3",
+    "on one's feet": "word-on-one-s-feet.mp3",
+    "persuasively": "word-persuasively.mp3",
+    "arithmetic": "word-arithmetic.mp3"
+  },
+  "termClips": {
+    "fine": "term-fine.mp3",
+    "stretched too thin": "term-stretched-too-thin.mp3",
+    "night shift": "term-night-shift.mp3",
+    "circle": "term-circle.mp3",
+    "out of scope": "term-out-of-scope.mp3",
+    "regime": "term-regime.mp3",
+    "broker": "term-broker.mp3",
+    "downstream": "term-downstream.mp3",
+    "park": "term-park.mp3",
+    "off the table": "term-off-the-table.mp3",
+    "approve": "term-approve.mp3",
+    "on one's feet": "term-on-one-s-feet.mp3",
+    "persuasively": "term-persuasively.mp3",
+    "arithmetic": "term-arithmetic.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3"
+  ]
+}

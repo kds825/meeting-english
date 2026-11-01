@@ -1,0 +1,419 @@
+{
+  "id": "keynote-s2-e24",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 24,
+  "title": "Second Reader",
+  "recapKo": "대니얼의 81퍼센트는 콜이 이미 읽은 양식 180건이 섞인 숫자였고, 실제는 69였다. 시티가 잡아냈고, 재원은 40분 만에 그레이스와 웨이링에게 정정했다. 면담에서 대니얼은 46일째 쉬지 못했다고, 4주 차의 메모도 봤다고 말했다. 그리고 헬렌에게 프로젝트에서 빠지겠다고 메일을 썼다고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "I owe you an apology.",
+      "meaningKo": "사과드려야겠습니다.",
+      "usage": "I owe you an apology. I should have called you first."
+    },
+    {
+      "phrase": "What I should have done is ~",
+      "meaningKo": "제가 했어야 하는 일은 ~입니다",
+      "usage": "What I should have done is ask you before I said yes."
+    },
+    {
+      "phrase": "Going forward, ~",
+      "meaningKo": "앞으로는 ~",
+      "usage": "Going forward, nobody sends a number that nobody else has read."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 228,
+      "paragraphs": [
+        {
+          "en": "Helen called at two. \"You made a note in week four, and I'd like to know what you did with it,\" she said. Jae-won said that he had done nothing. \"Your review will ask about that too,\" she said, and she hung up.",
+          "ko": "2시에 헬렌이 전화했다. \"4주 차에 메모를 썼죠. 그걸로 뭘 했는지 알고 싶어요.\" 그녀가 말했다. 재원은 아무것도 하지 않았다고 말했다. \"심사에서 그것도 물을 거예요.\" 그녀는 그렇게 말하고 전화를 끊었다."
+        },
+        {
+          "en": "That night, Priya asked him what he planned to say to Daniel, and he began with the error in the folder. \"Stop, and tell me which sentence you don't want to say,\" she said. It took him a long time, and it was very short.",
+          "ko": "그날 밤 프리야가 대니얼에게 뭐라고 할 거냐고 물었고, 그는 폴더 오류부터 시작했다. \"그만요. 말하기 싫은 문장이 뭔지 말해 봐요.\" 그녀가 말했다. 오래 걸렸고, 그 문장은 아주 짧았다."
+        },
+        {
+          "en": "On Friday morning, he found Daniel at the coffee stall. \"I owe you an apology,\" he said. \"What I should have done is send you home in week four. I forwarded that number without opening it, so that part is mine and not yours.\"",
+          "ko": "금요일 아침, 그는 커피 가판대에서 대니얼을 찾았다. \"사과해야겠어요.\" 그가 말했다. \"제가 했어야 하는 일은 4주 차에 당신을 집에 보내는 거였어요. 그 숫자를 열어 보지도 않고 전달했으니, 그 부분은 당신이 아니라 제 책임이에요.\""
+        },
+        {
+          "en": "Daniel looked at his coffee and asked what would change. \"Going forward, nobody sends a number that nobody else has read,\" Jae-won said. \"Here's what I can promise: Siti reads the list, Joanne's analyst reads the number, and you fly home tonight for four days.\"",
+          "ko": "대니얼이 커피를 내려다보며 뭐가 달라지느냐고 물었다. \"앞으로는 아무도 읽지 않은 숫자는 누구도 보내지 않아요.\" 재원이 말했다. \"약속할 수 있는 건 이거예요. 목록은 시티가, 숫자는 조앤의 분석가가 읽고, 당신은 오늘 밤 집으로 가서 나흘 쉬어요.\""
+        },
+        {
+          "en": "Daniel said that the next time Jae-won asked if he could take something, he should ask what Daniel would drop. Jae-won wrote it down, and Daniel stayed on the project. By week eight, sixty-nine had become seventy-four, and then Wei Ling sent a message: \"Month-end starts Monday. Ask me on Friday.\"",
+          "ko": "대니얼은 다음에 뭔가 맡아 줄 수 있느냐고 물을 때는 뭘 내려놓을지 물어봐 달라고 했다. 재원은 그것을 적었고, 대니얼은 프로젝트에 남았다. 8주 차에 69는 74가 되었고, 그때 웨이링의 메시지가 왔다. \"월요일부터 월말이에요. 금요일에 물어보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I owe you an apology",
+        "What I should have done is",
+        "Going forward"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hang up",
+          "surface": "hung up",
+          "meaningKo": "전화를 끊다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Your review will ask about that too,\" she said, and she hung up.",
+            "ko": "\"심사에서 그것도 물을 거예요.\" 그녀는 그렇게 말하고 전화를 끊었다."
+          }
+        },
+        {
+          "term": "plan",
+          "surface": "planned",
+          "meaningKo": "계획하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "That night, Priya asked him what he planned to say to Daniel, and he began with the error in the folder.",
+            "ko": "그날 밤 프리야가 대니얼에게 뭐라고 할 거냐고 물었고, 그는 폴더 오류부터 시작했다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stall",
+          "meaningKo": "가판대",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On Friday morning, he found Daniel at the coffee stall.",
+            "ko": "금요일 아침, 그는 커피 가판대에서 대니얼을 찾았다."
+          }
+        },
+        {
+          "term": "analyst",
+          "surface": "analyst",
+          "meaningKo": "분석가",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Here's what I can promise: Siti reads the list, Joanne's analyst reads the number, and you fly home tonight for four days.\"",
+            "ko": "\"약속할 수 있는 건 이거예요. 목록은 시티가, 숫자는 조앤의 분석가가 읽고, 당신은 오늘 밤 집으로 가서 나흘 쉬어요.\""
+          }
+        },
+        {
+          "term": "drop",
+          "surface": "drop",
+          "meaningKo": "내려놓다, 그만두다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Daniel said that the next time Jae-won asked if he could take something, he should ask what Daniel would drop.",
+            "ko": "대니얼은 다음에 뭔가 맡아 줄 수 있느냐고 물을 때는 뭘 내려놓을지 물어봐 달라고 했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 362,
+      "paragraphs": [
+        {
+          "en": "Helen called at two, and she had read Daniel's email twice. \"I told him I'd answer after you talked to him, and I'm not moving him until then,\" she said. \"You made a note in week four, and I'd like to know what you did with it.\" Jae-won said that he had done nothing with it. \"Your review will ask about that too,\" she said, and she hung up.",
+          "ko": "2시에 헬렌이 전화했다. 대니얼의 메일을 두 번 읽은 뒤였다. \"그와 얘기한 뒤에 답하겠다고 했고, 그때까지는 옮기지 않겠어요.\" 그녀가 말했다. \"4주 차에 메모를 썼죠. 그걸로 뭘 했는지 알고 싶어요.\" 재원은 아무것도 하지 않았다고 말했다. \"심사에서 그것도 물을 거예요.\" 그녀는 그렇게 말하고 전화를 끊었다."
+        },
+        {
+          "en": "That night, Priya appeared on his screen and asked him to read her what he planned to say to Daniel. He began with the error in the folder, the checking process and the lessons for the team. \"Stop, because you've written him a report,\" she said, \"so tell me which sentence you don't want to say.\" It took him a long time to find it, and it was very short.",
+          "ko": "그날 밤 프리야가 화면에 나타나 대니얼에게 할 말을 읽어 보라고 했다. 그는 폴더 오류와 확인 절차, 팀을 위한 교훈부터 시작했다. \"그만요. 보고서를 쓰셨네요.\" 그녀가 말했다. \"말하기 싫은 문장이 뭔지 말해 봐요.\" 그것을 찾는 데 오래 걸렸고, 그 문장은 아주 짧았다."
+        },
+        {
+          "en": "On Friday morning, he found Daniel at the coffee stall outside the Tuas gate, with the end of a night shift on his face. \"I owe you an apology,\" he said, and he didn't take out his page. \"What I should have done is send you home in week four. I kept asking if you could take things because I wanted to hear yes, and I forwarded that number without opening it, so that part is mine and not yours.\"",
+          "ko": "금요일 아침, 그는 투아스 정문 밖 커피 가판대에서 야간 근무 끝의 얼굴을 한 대니얼을 찾았다. \"사과해야겠어요.\" 그가 말했고, 종이는 꺼내지 않았다. \"제가 했어야 하는 일은 4주 차에 당신을 집에 보내는 거였어요. 그렇다는 말이 듣고 싶어서 계속 맡아 줄 수 있냐고 물었고, 그 숫자를 열어 보지도 않고 전달했으니, 그 부분은 당신이 아니라 제 책임이에요.\""
+        },
+        {
+          "en": "Daniel looked at his coffee for a while, and he didn't say that it was all right, but he asked what would change. \"Going forward, nobody sends a number that nobody else has read,\" Jae-won said. \"Siti reads the form list, Joanne's analyst reads the number, and I read both before I press send. Here's what I can promise: you fly home tonight for four days, and I do the nights until you're back.\"",
+          "ko": "대니얼은 한동안 커피를 내려다봤고, 괜찮다고 말하지 않았지만 뭐가 달라지느냐고 물었다. \"앞으로는 아무도 읽지 않은 숫자는 누구도 보내지 않아요.\" 재원이 말했다. \"양식 목록은 시티가, 숫자는 조앤의 분석가가 읽고, 저는 전송하기 전에 둘 다 읽어요. 약속할 수 있는 건 이거예요. 오늘 밤 집으로 가서 나흘 쉬고, 돌아올 때까지 밤 근무는 제가 해요.\""
+        },
+        {
+          "en": "\"When you ask if I can take something, ask me what I'd drop,\" Daniel said, and Jae-won wrote it down, which made Daniel laugh for the first time in a month. He stayed on the project. Week eight came and went, the committee saw every correction, and sixty-nine became seventy-four. Then Wei Ling sent a message to the dock's group chat: \"Month-end starts Monday, so ask me on Friday.\"",
+          "ko": "\"뭔가 맡아 줄 수 있느냐고 물으실 때는 뭘 내려놓을지 물어봐 주세요.\" 대니얼이 말했고, 재원이 그것을 적자 대니얼이 한 달 만에 처음으로 웃었다. 그는 프로젝트에 남았다. 8주 차가 지나갔고, 위원회는 정정 내용을 모두 봤으며, 69는 74가 되었다. 그때 웨이링이 도크 단체 대화방에 메시지를 보냈다. \"월요일부터 월말이에요. 금요일에 물어보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I owe you an apology",
+        "What I should have done is",
+        "Going forward"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hang up",
+          "surface": "hung up",
+          "meaningKo": "전화를 끊다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Your review will ask about that too,\" she said, and she hung up.",
+            "ko": "\"심사에서 그것도 물을 거예요.\" 그녀는 그렇게 말하고 전화를 끊었다."
+          }
+        },
+        {
+          "term": "lesson",
+          "surface": "lessons",
+          "meaningKo": "교훈",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He began with the error in the folder, the checking process and the lessons for the team.",
+            "ko": "그는 폴더 오류와 확인 절차, 팀을 위한 교훈부터 시작했다."
+          }
+        },
+        {
+          "term": "stall",
+          "surface": "stall",
+          "meaningKo": "가판대",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On Friday morning, he found Daniel at the coffee stall outside the Tuas gate, with the end of a night shift on his face.",
+            "ko": "금요일 아침, 그는 투아스 정문 밖 커피 가판대에서 야간 근무 끝의 얼굴을 한 대니얼을 찾았다."
+          }
+        },
+        {
+          "term": "press send",
+          "surface": "press send",
+          "meaningKo": "전송을 누르다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Siti reads the form list, Joanne's analyst reads the number, and I read both before I press send.",
+            "ko": "\"양식 목록은 시티가, 숫자는 조앤의 분석가가 읽고, 저는 전송하기 전에 둘 다 읽어요."
+          }
+        },
+        {
+          "term": "correction",
+          "surface": "correction",
+          "meaningKo": "정정",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Week eight came and went, the committee saw every correction, and sixty-nine became seventy-four.",
+            "ko": "8주 차가 지나갔고, 위원회는 정정 내용을 모두 봤으며, 69는 74가 되었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 476,
+      "paragraphs": [
+        {
+          "en": "Helen called at two, by which time she had read Daniel's email twice and had evidently decided how much of the afternoon he deserved. \"I told him I'd answer after you talked to him, and I'm not moving him until then,\" she said. \"You made a note in week four, and I'd like to know what you did with it.\" Jae-won said that he had done nothing with it, and the silence that followed was not one he could fill. \"Your review will ask about that too,\" she said, and she hung up without saying goodbye.",
+          "ko": "2시에 헬렌이 전화했다. 그때쯤 그녀는 대니얼의 메일을 두 번 읽었고, 그에게 오후를 얼마나 내줄지 정한 것이 분명했다. \"그와 얘기한 뒤에 답하겠다고 했고, 그때까지는 옮기지 않겠어요.\" 그녀가 말했다. \"4주 차에 메모를 썼죠. 그걸로 뭘 했는지 알고 싶어요.\" 재원은 아무것도 하지 않았다고 말했고, 이어진 침묵은 그가 메울 수 있는 것이 아니었다. \"심사에서 그것도 물을 거예요.\" 그녀는 그렇게 말하고 인사도 없이 전화를 끊었다."
+        },
+        {
+          "en": "That night, Priya appeared on his screen and asked him to read her what he planned to say to Daniel, and he began with the error in the folder, the checking process and the lessons for the team. \"Stop,\" she said, not unkindly. \"You've written him an incident report, so tell me which sentence you don't want to say.\" It took him a long time to find it, and it turned out to be very short, which is usually how she knew she had the right one.",
+          "ko": "그날 밤 프리야가 화면에 나타나 대니얼에게 할 말을 읽어 보라고 했고, 그는 폴더 오류와 확인 절차, 팀을 위한 교훈부터 시작했다. \"그만요.\" 그녀가 매정하지 않게 말했다. \"사고 보고서를 쓰셨네요. 말하기 싫은 문장이 뭔지 말해 봐요.\" 그것을 찾는 데 오래 걸렸고, 그 문장은 아주 짧았다. 대개 그것으로 그녀는 제대로 찾았음을 알았다."
+        },
+        {
+          "en": "On Friday morning, he found Daniel at the coffee stall outside the Tuas gate, with the end of a night shift on his face and his shirt, for what it was worth, buttoned correctly. \"I owe you an apology,\" he said, and he left his page in his pocket. \"What I should have done is send you home in week four. I kept asking if you could take things because I wanted to hear yes, and I forwarded that number without opening it, the same way I initialed a row three years ago, so that part is mine and not yours.\"",
+          "ko": "금요일 아침, 그는 투아스 정문 밖 커피 가판대에서 야간 근무 끝의 얼굴을 한 대니얼을 찾았다. 그나마 셔츠 단추는 제대로 채워져 있었다. \"사과해야겠어요.\" 그가 말했고, 종이는 주머니에 그대로 두었다. \"제가 했어야 하는 일은 4주 차에 당신을 집에 보내는 거였어요. 그렇다는 말이 듣고 싶어서 계속 맡아 줄 수 있냐고 물었고, 3년 전 어떤 행에 이니셜을 달았을 때처럼 그 숫자를 열어 보지도 않고 전달했으니, 그 부분은 당신이 아니라 제 책임이에요.\""
+        },
+        {
+          "en": "Daniel looked at his coffee for a while, and to his credit he didn't say that it was all right. \"So what changes?\" he asked, in a tone that left room for the answer to be nothing. \"Going forward, nobody sends a number that nobody else has read,\" Jae-won said. \"Siti reads the form list, Joanne's analyst reads the number, and I read both before I press send, however early it is. Here's what I can promise: you fly home tonight for four days, and I do the nights until you're back, in those boots.\"",
+          "ko": "대니얼은 한동안 커피를 내려다봤고, 칭찬할 만하게도 괜찮다고 말하지 않았다. \"그래서 뭐가 달라지죠?\" 그가 물었다. 아무것도 아니라는 답이 나와도 상관없다는 말투였다. \"앞으로는 아무도 읽지 않은 숫자는 누구도 보내지 않아요.\" 재원이 말했다. \"양식 목록은 시티가, 숫자는 조앤의 분석가가 읽고, 저는 아무리 일러도 전송하기 전에 둘 다 읽어요. 약속할 수 있는 건 이거예요. 오늘 밤 집으로 가서 나흘 쉬고, 돌아올 때까지 밤 근무는 제가 그 안전화를 신고 해요.\""
+        },
+        {
+          "en": "\"And when you ask if I can take something?\" Daniel said. \"Ask me what I'd drop,\" he added, and Jae-won wrote it down, which made Daniel laugh for the first time in a month, though not for long. He stayed on the project, and nobody announced it. Week eight came and went, the committee saw every correction, Arjun underlined the word analyst, and sixty-nine crept up to seventy-four. Then Wei Ling sent a message to the dock's group chat, where she had never written anything longer than a shift change: \"Month-end starts Monday. Ask me on Friday.\"",
+          "ko": "\"그리고 뭔가 맡아 줄 수 있느냐고 물으실 때는요?\" 대니얼이 말했다. \"뭘 내려놓을지 물어봐 주세요.\" 그가 덧붙였고, 재원이 그것을 적자 대니얼이 오래는 아니어도 한 달 만에 처음으로 웃었다. 그는 프로젝트에 남았고, 아무도 그것을 발표하지 않았다. 8주 차가 지나갔고, 위원회는 정정 내용을 모두 봤으며, 아르준은 분석가라는 단어에 밑줄을 그었고, 69는 조금씩 올라 74가 되었다. 그때 교대 공지보다 긴 글을 쓴 적 없는 도크 단체 대화방에 웨이링이 메시지를 보냈다. \"월요일부터 월말이에요. 금요일에 물어보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I owe you an apology",
+        "What I should have done is",
+        "Going forward"
+      ],
+      "wordCandidates": [
+        {
+          "term": "evidently",
+          "surface": "evidently",
+          "meaningKo": "분명히",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Helen called at two, by which time she had read Daniel's email twice and had evidently decided how much of the afternoon he deserved.",
+            "ko": "2시에 헬렌이 전화했다. 그때쯤 그녀는 대니얼의 메일을 두 번 읽었고, 그에게 오후를 얼마나 내줄지 정한 것이 분명했다."
+          }
+        },
+        {
+          "term": "incident report",
+          "surface": "incident report",
+          "meaningKo": "사고 보고서",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"You've written him an incident report, so tell me which sentence you don't want to say.\"",
+            "ko": "\"사고 보고서를 쓰셨네요. 말하기 싫은 문장이 뭔지 말해 봐요.\""
+          }
+        },
+        {
+          "term": "for what it was worth",
+          "surface": "for what it was worth",
+          "meaningKo": "그나마, 별것 아니지만",
+          "paragraph": 2,
+          "sentence": {
+            "en": "On Friday morning, he found Daniel at the coffee stall outside the Tuas gate, with the end of a night shift on his face and his shirt, for what it was worth, buttoned correctly.",
+            "ko": "금요일 아침, 그는 투아스 정문 밖 커피 가판대에서 야간 근무 끝의 얼굴을 한 대니얼을 찾았다. 그나마 셔츠 단추는 제대로 채워져 있었다."
+          }
+        },
+        {
+          "term": "initial",
+          "surface": "initialed",
+          "meaningKo": "이니셜로 서명하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "I kept asking if you could take things because I wanted to hear yes, and I forwarded that number without opening it, the same way I initialed a row three years ago, so that part is mine and not yours.\"",
+            "ko": "\"그렇다는 말이 듣고 싶어서 계속 맡아 줄 수 있냐고 물었고, 3년 전 어떤 행에 이니셜을 달았을 때처럼 그 숫자를 열어 보지도 않고 전달했으니, 그 부분은 당신이 아니라 제 책임이에요.\""
+          }
+        },
+        {
+          "term": "to one's credit",
+          "surface": "to his credit",
+          "meaningKo": "칭찬할 만하게도",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Daniel looked at his coffee for a while, and to his credit he didn't say that it was all right.",
+            "ko": "대니얼은 한동안 커피를 내려다봤고, 칭찬할 만하게도 괜찮다고 말하지 않았다."
+          }
+        },
+        {
+          "term": "creep up",
+          "surface": "crept up",
+          "meaningKo": "조금씩 오르다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Week eight came and went, the committee saw every correction, Arjun underlined the word analyst, and sixty-nine crept up to seventy-four.",
+            "ko": "8주 차가 지나갔고, 위원회는 정정 내용을 모두 봤으며, 아르준은 분석가라는 단어에 밑줄을 그었고, 69는 조금씩 올라 74가 되었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does Jae-won promise Daniel will happen that night?",
+      "options": [
+        "Daniel flies home for four days",
+        "Daniel moves to Port Klang",
+        "Daniel takes over the steering committee",
+        "Daniel gets a promotion"
+      ],
+      "answerIndex": 0,
+      "evidence": "you fly home tonight for four days"
+    },
+    {
+      "question": "Why does Priya stop Jae-won while he is reading his plan for the talk?",
+      "options": [
+        "It is too long for the time they have",
+        "He is talking about process instead of saying the thing he owes Daniel",
+        "She thinks Daniel should be fired",
+        "His numbers are wrong"
+      ],
+      "answerIndex": 1,
+      "evidence": "which sentence"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I owe you an apology.",
+      "What I should have done is send you home in week four.",
+      "Going forward, nobody sends a number that nobody else has read."
+    ],
+    "summaryPromptKo": "헬렌과 프리야가 재원에게 무엇을 물었는지, 재원이 대니얼에게 뭐라고 사과했는지, 앞으로 무엇이 달라지는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Daniel Cho",
+      "en": "You've apologized, and I believe you. But why should I stay on this project?",
+      "ko": "사과하셨고, 믿습니다. 그런데 제가 왜 이 프로젝트에 남아야 하죠?"
+    },
+    "modelAnswer": "You don't have to, and Helen will move you if you ask again. I'd like you to stay because Siti talks to you, and because you were right about the data before anyone else was. What I should have done is look up in week four. Going forward, you can tell me what you'd drop, and I'll listen. Go home first, and decide after four days of sleep."
+  },
+  "nextTeaserKo": "9주 차. 물량이 세 배로 뛰는 월말이 왔다. 작년에 고객 세 곳을 멈춰 세운 그 대기열이 이번에는 버틸까. 금요일에 웨이링은 31쪽에 뭐라고 답할까. 그리고 모두가 월말을 지켜보는 동안, 사고는 다른 곳에서 난다.",
+  "roleplay": {
+    "title": "커피 가판대 앞에서",
+    "situationKo": "금요일 아침, 투아스 정문 밖입니다. 대니얼은 야간 근무를 마치고 나왔어요. 설명보다 사과가 먼저인 장면입니다. 짧게 말해도 충분합니다.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "You made a note in week four. What did you do with it?",
+        "ko": "4주 차에 메모를 썼죠. 그걸로 뭘 했어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nothing, Helen. I did nothing with it.",
+        "ko": "아무것도요, 헬렌. 아무것도 하지 않았습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Which sentence don't you want to say?",
+        "ko": "말하기 싫은 문장이 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I owe him an apology. That one.",
+        "ko": "그에게 사과해야 한다는 것. 그 문장이요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "You're up early.",
+        "ko": "일찍 오셨네요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I owe you an apology. What I should have done is send you home in week four.",
+        "ko": "사과해야겠어요. 제가 했어야 하는 일은 4주 차에 당신을 집에 보내는 거였어요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "The number was still my mistake.",
+        "ko": "그래도 그 숫자는 제 실수예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The folder was yours. I forwarded it without opening it, so that part is mine.",
+        "ko": "폴더는 당신 몫이에요. 열어 보지도 않고 전달한 건 저니까, 그 부분은 제 책임이에요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "So what changes?",
+        "ko": "그래서 뭐가 달라지죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Going forward, nobody sends a number that nobody else has read. Siti reads the list, and Joanne's analyst reads the number.",
+        "ko": "앞으로는 아무도 읽지 않은 숫자는 누구도 보내지 않아요. 목록은 시티가, 숫자는 조앤의 분석가가 읽어요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "And me?",
+        "ko": "저는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You fly home tonight for four days. I do the nights until you're back.",
+        "ko": "오늘 밤 집으로 가서 나흘 쉬어요. 돌아올 때까지 밤 근무는 제가 해요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "And when you ask if I can take something, ask me what I'd drop.",
+        "ko": "그리고 뭔가 맡아 줄 수 있느냐고 물으실 때는, 뭘 내려놓을지 물어봐 주세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Fair enough. Let me write that down.",
+        "ko": "그렇게 할게요. 적어 둘게요.",
+        "you": true
+      }
+    ]
+  }
+}

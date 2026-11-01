@@ -1,0 +1,351 @@
+{
+  "id": "keynote-s1-e08",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 8,
+  "title": "Not a Speech",
+  "recapKo": "금요일 아침, 재원은 슬라이드 46장, 3,900단어의 초안을 들고 헬렌을 찾아갔다. 헬렌은 \"아주 좋은 보고서\"라며 30분 분량인 길이, 11분이 지나서야 나오는 핵심 숫자, 각주 9번에 묻힌 한미래를 짚었다. 단서가 왜 그리 많으냐는 물음에 재원이 설명하자, 헬렌은 펜을 내려놓고 진짜 이유는 그게 아닌 것 같다고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "What would you cut first?",
+      "meaningKo": "무엇부터 덜어 내시겠어요?",
+      "usage": "If we only have ten minutes, what would you cut first?"
+    },
+    {
+      "phrase": "Let me play that back to you.",
+      "meaningKo": "제가 이해한 대로 다시 말씀드려 볼게요.",
+      "usage": "Let me play that back to you, so we're sure we agree."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 195,
+      "paragraphs": [
+        {
+          "en": "\"I think you are afraid of the five minutes of questions,\" she said. \"So you answer every possible question inside the talk. You're not writing a speech, you're building a wall.\" Jae-won wanted to argue, but she was right, and he knew it.",
+          "ko": "\"제 생각엔 당신은 5분짜리 질문 시간이 무서운 거예요.\" 그녀가 말했다. \"그래서 나올 수 있는 질문에 전부 발표 안에서 답하는 거죠. 지금 연설문이 아니라 벽을 쌓고 있어요.\" 재원은 반박하고 싶었지만 그녀 말이 맞았고, 그도 그걸 알았다."
+        },
+        {
+          "en": "He took a slow breath and asked, \"What would you cut first?\" \"Everything before slide 14,\" she said. \"Start with Han Mi-rae at her kitchen table at eleven at night, checking the numbers by hand. Then give them your big number.\"",
+          "ko": "그는 천천히 숨을 쉬고 물었다. \"무엇부터 덜어 내시겠어요?\" \"슬라이드 14장 앞은 전부요.\" 그녀가 말했다. \"밤 11시에 자기 집 식탁에서 숫자를 손으로 확인하는 한미래 씨로 시작하세요. 그다음에 핵심 숫자를 주는 거예요.\""
+        },
+        {
+          "en": "\"Let me play that back to you,\" he said, opening his notebook. \"I start with her, then the number, and I cut to 2,600 words and 30 slides.\" Helen nodded and added, \"Also, ask her permission yourself, because it's her story.\"",
+          "ko": "\"제가 이해한 대로 다시 말씀드려 볼게요.\" 그가 공책을 펴며 말했다. \"그분으로 시작하고, 그다음 숫자를 말하고, 2,600단어에 슬라이드 30장으로 줄이는 거죠.\" 헬렌은 고개를 끄덕이며 덧붙였다. \"그리고 그분 허락은 직접 받아요. 그분 이야기니까요.\""
+        },
+        {
+          "en": "At 2:20 that afternoon, one line arrived from Marcus: \"Committee approved you, three votes to two.\" Jae-won read it twice. Two people on that committee already did not want him on the stage.",
+          "ko": "그날 오후 2시 20분, 마커스에게서 한 줄이 왔다. \"위원회가 3대 2로 당신을 승인했습니다.\" 재원은 두 번 읽었다. 위원회의 두 사람은 벌써 그가 무대에 서는 걸 원치 않는 것이다."
+        },
+        {
+          "en": "Then Helen sent an invitation for Monday at six, in the big boardroom: a full rehearsal in English with twelve colleagues, then questions. All week he had prepared answers, but he had never once practiced being asked.",
+          "ko": "곧이어 헬렌이 월요일 6시, 큰 회의실로 초대장을 보냈다. 동료 12명 앞에서 하는 영어 전체 리허설과 그 뒤의 질문 시간이었다. 그는 일주일 내내 답을 준비했지만, 질문받는 연습은 단 한 번도 하지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you cut first",
+        "Let me play that back to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "argue",
+          "surface": "argue",
+          "meaningKo": "반박하다, 논쟁하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Jae-won wanted to argue, but she was right, and he knew it.",
+            "ko": "재원은 반박하고 싶었지만 그녀 말이 맞았고, 그도 그걸 알았다."
+          }
+        },
+        {
+          "term": "permission",
+          "surface": "permission",
+          "meaningKo": "허락, 허가",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Helen nodded and added, \"Also, ask her permission yourself, because it's her story.\"",
+            "ko": "헬렌은 고개를 끄덕이며 덧붙였다. \"그리고 그분 허락은 직접 받아요. 그분 이야기니까요.\""
+          }
+        },
+        {
+          "term": "approve",
+          "surface": "approved",
+          "meaningKo": "승인하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "At 2:20 that afternoon, one line arrived from Marcus: \"Committee approved you, three votes to two.\"",
+            "ko": "그날 오후 2시 20분, 마커스에게서 한 줄이 왔다. \"위원회가 3대 2로 당신을 승인했습니다.\""
+          }
+        },
+        {
+          "term": "boardroom",
+          "surface": "boardroom",
+          "meaningKo": "(대형) 회의실, 이사회실",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Then Helen sent an invitation for Monday at six, in the big boardroom: a full rehearsal in English with twelve colleagues, then questions.",
+            "ko": "곧이어 헬렌이 월요일 6시, 큰 회의실로 초대장을 보냈다. 동료 12명 앞에서 하는 영어 전체 리허설과 그 뒤의 질문 시간이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 312,
+      "paragraphs": [
+        {
+          "en": "\"I think you're terrified of those five minutes of questions,\" she said, quite gently. \"So you're trying to answer every possible objection in advance, inside the talk, so nobody has anything left to ask. That's not a speech, Jae-won, it's a bunker.\" He opened his mouth to defend himself, then shut it, because he'd spent the last two nights doing precisely that and calling it rigor.",
+          "ko": "\"제 생각엔 당신은 그 5분짜리 질문 시간이 두려운 거예요.\" 그녀가 꽤 부드럽게 말했다. \"그래서 나올 수 있는 반론에 전부 발표 안에서 미리 답해서, 아무도 물을 게 남지 않게 하려는 거죠. 재원 씨, 그건 연설이 아니라 벙커예요.\" 그는 변명하려고 입을 열었다가 다물었다. 지난 이틀 밤 바로 그 일을 하면서 철저함이라고 불러 왔기 때문이다."
+        },
+        {
+          "en": "He took a slow breath and looked at the pile of paper. \"What would you cut first?\" \"Everything before slide fourteen,\" she said, without hesitating. \"You open on Han Mi-rae at her kitchen table at eleven at night on the last day of the month, checking a machine's work by hand. Then you give them the number, and they'll finally understand why they should care about it.\"",
+          "ko": "그는 천천히 숨을 쉬고 종이 더미를 바라봤다. \"무엇부터 덜어 내시겠어요?\" \"슬라이드 14장 앞은 전부요.\" 그녀가 망설임 없이 말했다. \"월말 마지막 날 밤 11시, 자기 집 식탁에서 기계가 한 일을 손으로 확인하는 한미래 씨로 시작하세요. 그다음에 숫자를 주면, 왜 신경 써야 하는지 비로소 이해할 거예요.\""
+        },
+        {
+          "en": "\"Let me play that back to you, just so I don't get it wrong,\" he said, turning to a clean page. \"I open with her, then the thirty-one, and I get down to 2,600 words and thirty slides, with no footnotes and three caveats at most.\" \"That'll do for now,\" she said. \"And call Han Mi-rae yourself before you use her, because Norim's CFO can clear the name, but it's her story.\"",
+          "ko": "\"제가 틀리지 않게 이해한 대로 다시 말씀드려 볼게요.\" 그가 새 페이지를 펴며 말했다. \"그분으로 시작하고, 그다음 31곳을 말하고, 2,600단어에 슬라이드 30장으로 줄이고, 각주는 없애고, 단서는 많아야 세 개로요.\" \"일단은 그걸로 됐어요.\" 그녀가 말했다. \"그리고 쓰기 전에 한미래 씨에게 직접 전화해요. 회사 이름은 노림 CFO가 승인할 수 있어도 그 이야기는 그분 것이니까요.\""
+        },
+        {
+          "en": "He spent the morning moving things around, and at 2:20 that afternoon a one-line email came in from Marcus: \"Committee approved you, three votes to two.\" Jae-won read it twice, and he found the second half harder to enjoy than the first. Two people he had never met already thought this was a mistake.",
+          "ko": "그는 오전 내내 내용을 옮겼고, 오후 2시 20분에 마커스에게서 한 줄짜리 메일이 왔다. \"위원회가 3대 2로 당신을 승인했습니다.\" 재원은 두 번 읽었는데, 뒷부분은 앞부분만큼 기뻐하기가 어려웠다. 만난 적도 없는 두 사람이 벌써 이건 실수라고 생각하고 있는 것이다."
+        },
+        {
+          "en": "A minute later, a calendar invitation from Helen appeared on his screen. It was for Monday at six in the fourteenth-floor boardroom: full rehearsal in English, twelve colleagues, questions at the end. All week he had been preparing answers, and it struck him only now that he had never once practiced being asked.",
+          "ko": "1분 뒤 헬렌이 보낸 일정 초대장이 화면에 떴다. 월요일 6시, 14층 회의실, 영어 전체 리허설, 동료 12명, 마지막에 질문 시간. 그는 일주일 내내 답을 준비해 왔는데, 질문받는 연습은 단 한 번도 하지 않았다는 사실이 이제야 떠올랐다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you cut first",
+        "Let me play that back to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "objection",
+          "surface": "objection",
+          "meaningKo": "반론, 이의",
+          "paragraph": 0,
+          "sentence": {
+            "en": "So you're trying to answer every possible objection in advance, inside the talk, so nobody has anything left to ask.",
+            "ko": "그래서 나올 수 있는 반론에 전부 발표 안에서 미리 답해서, 아무도 물을 게 남지 않게 하려는 거죠."
+          }
+        },
+        {
+          "term": "rigor",
+          "surface": "rigor",
+          "meaningKo": "엄밀함, 철저함",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He opened his mouth to defend himself, then shut it, because he'd spent the last two nights doing precisely that and calling it rigor.",
+            "ko": "그는 변명하려고 입을 열었다가 다물었다. 지난 이틀 밤 바로 그 일을 하면서 철저함이라고 불러 왔기 때문이다."
+          }
+        },
+        {
+          "term": "caveat",
+          "surface": "caveats",
+          "meaningKo": "단서, 유의 사항",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I open with her, then the thirty-one, and I get down to 2,600 words and thirty slides, with no footnotes and three caveats at most.\"",
+            "ko": "그분으로 시작하고, 그다음 31곳을 말하고, 2,600단어에 슬라이드 30장으로 줄이고, 각주는 없애고, 단서는 많아야 세 개로요."
+          }
+        },
+        {
+          "term": "it struck him",
+          "surface": "it struck him",
+          "meaningKo": "~라는 생각이 문득 들다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "All week he had been preparing answers, and it struck him only now that he had never once practiced being asked.",
+            "ko": "그는 일주일 내내 답을 준비해 왔는데, 질문받는 연습은 단 한 번도 하지 않았다는 사실이 이제야 떠올랐다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 407,
+      "paragraphs": [
+        {
+          "en": "The radiator ticked. \"I think you're scared witless of those five minutes,\" she said, and the gentleness was what made it hard to bear. \"So you've gone through and pre-empted every objection a human being could conceivably raise, right there in the text, so that when Marcus opens the floor there's nothing left standing to shoot at. That's not a speech, Jae-won, it's a bunker, and a very well-referenced one.\" He opened his mouth to defend himself and found the case had collapsed, because he had spent two nights doing exactly that and calling it rigor.",
+          "ko": "라디에이터가 똑딱거렸다. \"제 생각엔 당신은 그 5분이 무서워서 제정신이 아닌 거예요.\" 그녀가 말했다. 견디기 힘든 건 그 다정함이었다. \"그래서 인간이 생각해 낼 수 있는 모든 반론을 본문 안에서 미리 막아 놨죠. 마커스가 질문을 받기 시작해도 쏠 표적이 하나도 남지 않게요. 재원 씨, 그건 연설이 아니라 벙커예요. 참고 문헌까지 아주 잘 갖춘.\" 그는 변호하려고 입을 열었지만 논거가 이미 무너졌음을 알았다. 이틀 밤을 바로 그 일을 하면서 엄밀함이라고 불러 왔기 때문이다."
+        },
+        {
+          "en": "He took a slow breath and looked at the pile of paper that had seemed so solid twenty minutes ago. \"What would you cut first?\" \"Everything north of slide fourteen. And don't look at me like that, it's not your firstborn,\" she said, without missing a beat. \"You open cold on Han Mi-rae at her kitchen table, eleven at night on the last day of the month, checking a machine's homework with a ruler. Then you hit them with the number, and for the first time all morning they'll know why they're supposed to care.\"",
+          "ko": "그는 천천히 숨을 쉬고, 20분 전만 해도 그토록 탄탄해 보이던 종이 더미를 바라봤다. \"무엇부터 덜어 내시겠어요?\" \"슬라이드 14장 위쪽 전부요. 그런 눈으로 보지 말아요. 첫아이도 아니잖아요.\" 그녀가 한 박자도 놓치지 않고 말했다. \"곧바로 한미래 씨로 시작하세요. 월말 마지막 날 밤 11시, 자기 집 식탁에서 자를 대고 기계의 숙제를 검사하는 장면으로요. 그다음 숫자를 때려 주면, 그날 아침 처음으로 왜 신경 써야 하는지 알게 될 거예요.\""
+        },
+        {
+          "en": "\"Let me play that back to you, because I've got a history of hearing what I'd like to hear,\" he said, turning to a clean page. \"I open with her, then the thirty-one, I get it down to 2,600 words and thirty slides, no footnotes, and three caveats, tops.\" \"Thirty slides is still a hostage situation, but it'll do for Monday,\" Helen said. \"And pick up the phone to Han Mi-rae yourself, because Norim's CFO can clear the name all he likes, but it's her kitchen table.\"",
+          "ko": "\"제가 이해한 대로 다시 말씀드려 볼게요. 듣고 싶은 대로 듣는 전력이 있어서요.\" 그가 새 페이지를 펴며 말했다. \"그분으로 시작하고, 그다음 31곳, 2,600단어에 슬라이드 30장으로 줄이고, 각주는 없애고, 단서는 많아야 세 개요.\" \"슬라이드 30장도 여전히 인질극이지만 월요일까지는 그걸로 되겠네요.\" 헬렌이 말했다. \"그리고 한미래 씨에게 직접 전화해요. 회사 이름이야 노림 CFO가 얼마든지 승인할 수 있어도 그 식탁은 그분 것이니까요.\""
+        },
+        {
+          "en": "He spent the morning tearing the thing apart, and at 2:20 a one-line email dropped in from Marcus, who evidently charged by the word: \"Committee approved you, three votes to two.\" Jae-won read it twice and found that the second half took a good deal of the shine off the first, since it meant two people he had never met had already gone on record that this was a mistake.",
+          "ko": "그는 오전 내내 초안을 뜯어고쳤고, 2시 20분에 단어 수대로 돈을 받는 게 분명한 마커스에게서 한 줄짜리 메일이 날아왔다. \"위원회가 3대 2로 당신을 승인했습니다.\" 재원은 두 번 읽었고, 뒷부분이 앞부분의 빛을 상당히 깎아 먹는다는 것을 알았다. 만난 적도 없는 두 사람이 이건 실수라고 벌써 공식 기록을 남겼다는 뜻이기 때문이다."
+        },
+        {
+          "en": "He was still digesting that when a calendar invitation from Helen slid onto his screen: Monday, six o'clock, fourteenth-floor boardroom, full rehearsal in English in front of twelve colleagues, open questions at the end. All week he had been stockpiling answers, and it dawned on him, rather late in the day, that he had never once practiced being asked.",
+          "ko": "그 말을 아직 곱씹고 있는데 헬렌의 일정 초대장이 화면에 스르르 떴다. 월요일 6시, 14층 회의실, 동료 12명 앞 영어 전체 리허설, 마지막에 공개 질문. 그는 일주일 내내 답을 비축해 왔는데, 질문받는 연습은 단 한 번도 하지 않았다는 사실을 꽤 뒤늦게 깨달았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What would you cut first",
+        "Let me play that back to you"
+      ],
+      "wordCandidates": [
+        {
+          "term": "scared witless",
+          "surface": "scared witless",
+          "meaningKo": "무서워서 제정신이 아닌",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I think you're scared witless of those five minutes,\" she said, and the gentleness was what made it hard to bear.",
+            "ko": "제 생각엔 당신은 그 5분이 무서워서 제정신이 아닌 거예요. 그녀가 말했다. 견디기 힘든 건 그 다정함이었다."
+          }
+        },
+        {
+          "term": "pre-empt",
+          "surface": "pre-empted",
+          "meaningKo": "선수를 쳐서 막다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "So you've gone through and pre-empted every objection a human being could conceivably raise, right there in the text, so that when Marcus opens the floor there's nothing left standing to shoot at.",
+            "ko": "그래서 인간이 생각해 낼 수 있는 모든 반론을 본문 안에서 미리 막아 놨죠. 마커스가 질문을 받기 시작해도 쏠 표적이 하나도 남지 않게요."
+          }
+        },
+        {
+          "term": "take the shine off",
+          "surface": "took a good deal of the shine off",
+          "meaningKo": "기쁨·빛을 깎아 먹다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won read it twice and found that the second half took a good deal of the shine off the first, since it meant two people he had never met had already gone on record that this was a mistake.",
+            "ko": "재원은 두 번 읽었고, 뒷부분이 앞부분의 빛을 상당히 깎아 먹는다는 것을 알았다. 만난 적도 없는 두 사람이 이건 실수라고 벌써 공식 기록을 남겼다는 뜻이기 때문이다."
+          }
+        },
+        {
+          "term": "stockpile",
+          "surface": "stockpiling",
+          "meaningKo": "비축하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "All week he had been stockpiling answers, and it dawned on him, rather late in the day, that he had never once practiced being asked.",
+            "ko": "그는 일주일 내내 답을 비축해 왔는데, 질문받는 연습은 단 한 번도 하지 않았다는 사실을 꽤 뒤늦게 깨달았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was the committee's decision about Jae-won?",
+      "options": [
+        "It rejected him and asked Helen to return.",
+        "It approved him unanimously.",
+        "It delayed the decision until after Monday's rehearsal.",
+        "It approved him by three votes to two."
+      ],
+      "answerIndex": 3,
+      "evidence": "Committee approved you, three votes to two."
+    },
+    {
+      "question": "Why, according to Helen, did Jae-won fill the draft with hedges and caveats?",
+      "options": [
+        "He wanted to make the talk longer than twenty minutes.",
+        "He is scared of the live questions and tries to answer every objection in advance.",
+        "His old accounting firm requires those words in every report.",
+        "He does not believe the study is true."
+      ],
+      "answerIndex": 1,
+      "evidence": "So you're trying to answer every possible objection in advance, inside the talk, so nobody has anything left to ask."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What would you cut first?",
+      "Let me play that back to you, just so I don't get it wrong.",
+      "All week he had been preparing answers, and it struck him only now that he had never once practiced being asked."
+    ],
+    "summaryPromptKo": "헬렌이 본 진짜 원인이 무엇인지, 재원이 어떻게 고치기로 했는지, 그날 오후 어떤 소식이 왔는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "So, tell me what you heard this morning, and what you're going to do differently by Monday.",
+      "ko": "그럼 오늘 아침 뭘 들었는지, 월요일까지 뭘 다르게 할 건지 말해 봐요."
+    },
+    "modelAnswer": "Let me play that back to you. You said the draft reads like a good report but won't work as a talk. It's thirty minutes long, the key number comes too late, and I hid Han Mi-rae in a footnote. That's fair. By Monday I'll open with her at the kitchen table, cut to 2,600 words and thirty slides, and keep three caveats at most. I'll also call her myself to ask permission."
+  },
+  "nextTeaserKo": "월요일 저녁 6시, 동료 12명 앞에서 첫 영어 리허설이 열린다. 발표는 그럭저럭 해낸다. 문제는 그다음에 들어온 아주 쉬운 질문 하나다.",
+  "roleplay": {
+    "title": "무엇부터 덜어 낼까",
+    "situationKo": "Helen이 초안의 진짜 문제를 말합니다. 내가 재원이 되어 무엇을 덜어 낼지 묻고, 들은 내용을 다시 정리해 말해 봅니다. 비판은 재원의 몫이니, 나는 편하게 해 보면 돼요.",
+    "lines": [
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "I think you're terrified of those five minutes of questions. That's not a speech, Jae-won, it's a bunker.",
+        "ko": "그 5분 질문을 무서워하는 거예요. 그건 연설이 아니에요, 재원 씨. 벙커예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "You may be right. What would you cut first?",
+        "ko": "그럴지도 모르겠습니다. 무엇부터 덜어 내시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Everything before slide fourteen. You open on Han Mi-rae at her kitchen table at eleven at night, checking a machine's work by hand. Then you give them the number.",
+        "ko": "14장 앞은 전부요. 밤 11시 식탁에서 기계가 한 일을 손으로 확인하는 한미래 씨로 시작하세요. 그다음에 숫자를 보여 주고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me play that back to you. I open with her, then the thirty-one, and I get down to 2,600 words.",
+        "ko": "제가 이해한 대로 다시 말씀드려 볼게요. 그분으로 시작하고, 다음에 31을 말하고, 2,600단어로 줄이는 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And the slides?",
+        "ko": "슬라이드는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thirty slides, no footnotes, and three caveats at most.",
+        "ko": "슬라이드 30장, 각주 없음, 단서는 많아야 세 개요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "That'll do for now. And call Han Mi-rae yourself before you use her, because Norim's CFO can clear the name, but it's her story.",
+        "ko": "지금은 그걸로 됐어요. 그리고 쓰기 전에 한미래 씨에게 직접 전화하세요. 이름은 Norim CFO가 승인해 줄 수 있어도, 이야기는 그분 거니까요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. I'll call her myself.",
+        "ko": "알겠습니다. 제가 직접 전화하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "One more thing. You've prepared a lot of answers this week. Have you ever practiced being asked?",
+        "ko": "하나 더요. 이번 주에 답은 많이 준비했죠. 질문받는 연습은 해 본 적 있어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, not once. I should probably start.",
+        "ko": "아니요, 한 번도요. 시작해야겠네요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Yes, you should.",
+        "ko": "네, 그래야죠."
+      }
+    ]
+  }
+}

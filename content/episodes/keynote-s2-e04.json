@@ -1,0 +1,406 @@
+{
+  "id": "keynote-s2-e04",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 4,
+  "title": "Three Boxes",
+  "recapKo": "화요일 9시, 재원은 스물한 칸 앞에서 무엇이 포함되고 무엇이 빠지는지부터 물었다. 다시 입력되는 1만 3천 건 중 7천 건이 투아스의 세 종류이니 거기부터 단계적으로 가자고 제안했다. 2년을 기다린 라힘은 걱정했지만, 16주 동안 포트 클랑을 빼도 지금처럼 손으로 입력할 뿐이라고 인정했다.",
+  "keyExpressions": [
+    {
+      "phrase": "What happens if we leave out ~?",
+      "meaningKo": "~를 빼면 어떻게 되나요?",
+      "usage": "What happens if we leave out the mobile version?"
+    },
+    {
+      "phrase": "That would come at the expense of ~",
+      "meaningKo": "그렇게 하면 ~를 희생하게 됩니다",
+      "usage": "We can add it, but that would come at the expense of testing."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 196,
+      "paragraphs": [
+        {
+          "en": "Grace tried again and asked for customs declarations at all three hubs, because that was where the fines were. \"That would come at the expense of Tuas,\" he said. \"We'd have three customs systems and a team stretched too thin.\"",
+          "ko": "그레이스는 다시 시도하며 세 거점 모두의 통관 신고서를 요구했다. 벌금이 나오는 곳이 거기였기 때문이다. \"그렇게 하면 투아스를 희생하게 됩니다.\" 그가 말했다. \"통관 제도가 세 가지가 되고 팀은 너무 얇게 퍼집니다.\""
+        },
+        {
+          "en": "\"Wei Ling?\" Grace asked. \"What happens if we leave out goods receipts and start with customs?\" \"Goods receipts at Tuas are written by hand on the night shift, and everyone else copies them,\" Wei Ling said. \"He asked me about that yesterday, but I'm not agreeing with him, I'm telling you where the paper is.\"",
+          "ko": "\"웨이링?\" 그레이스가 물었다. \"입고 확인서를 빼고 통관부터 시작하면 어떻게 되나요?\" \"투아스의 입고 확인서는 야간 근무조가 손으로 쓰고, 다른 사람들은 모두 그걸 베껴요.\" 웨이링이 말했다. \"어제 이분이 그걸 물었어요. 하지만 동의하는 게 아니에요. 서류가 어디 있는지 말씀드리는 거예요.\""
+        },
+        {
+          "en": "Grace took the marker and circled three boxes. \"Seven thousand down to two thousand by week sixteen,\" she said. \"Port Klang and Jakarta wait until the week-twelve steering committee, and then I decide on phase two.\" \"Just to confirm, anything else is out of scope unless it comes through you, in writing?\" he asked. She agreed.",
+          "ko": "그레이스가 마커를 받아 세 칸에 동그라미를 쳤다. \"16주 차까지 7천 건을 2천 건으로.\" 그녀가 말했다. \"포트 클랑과 자카르타는 12주 차 운영위원회까지 기다리고, 그때 제가 2단계를 결정해요.\" \"확인하겠습니다. 나머지는 COO님을 통해 문서로 오지 않는 한 범위 밖인 거죠?\" 그가 물었다. 그녀는 동의했다."
+        },
+        {
+          "en": "Arjun stood up and said, \"You've just taken almost half of the re-keying off the table, so I expect the same from your fee on Thursday.\" Yuna turned her notebook toward Jae-won. Her proposal went out tomorrow, and the number still assumed all twenty-one boxes.",
+          "ko": "아르준이 일어나며 말했다. \"재입력의 절반 가까이를 방금 테이블에서 치우셨으니, 목요일에 수수료에서도 같은 걸 기대하겠습니다.\" 유나가 수첩을 재원 쪽으로 돌렸다. 제안서는 내일 나가는데, 그 숫자는 아직 스물한 칸 전부를 가정한 것이었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What happens if we leave out",
+        "That would come at the expense of"
+      ],
+      "wordCandidates": [
+        {
+          "term": "fine",
+          "surface": "fines",
+          "meaningKo": "벌금",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Grace tried again and asked for customs declarations at all three hubs, because that was where the fines were.",
+            "ko": "그레이스는 다시 시도하며 세 거점 모두의 통관 신고서를 요구했다. 벌금이 나오는 곳이 거기였기 때문이다."
+          }
+        },
+        {
+          "term": "stretched too thin",
+          "surface": "stretched too thin",
+          "meaningKo": "너무 얇게 퍼진, 여력이 부족한",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"We'd have three customs systems and a team stretched too thin.\"",
+            "ko": "\"통관 제도가 세 가지가 되고 팀은 너무 얇게 퍼집니다.\""
+          }
+        },
+        {
+          "term": "night shift",
+          "surface": "night shift",
+          "meaningKo": "야간 근무조",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Goods receipts at Tuas are written by hand on the night shift, and everyone else copies them,\" Wei Ling said.",
+            "ko": "\"투아스의 입고 확인서는 야간 근무조가 손으로 쓰고, 다른 사람들은 모두 그걸 베껴요.\" 웨이링이 말했다."
+          }
+        },
+        {
+          "term": "circle",
+          "surface": "circled",
+          "meaningKo": "동그라미를 치다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Grace took the marker and circled three boxes.",
+            "ko": "그레이스가 마커를 받아 세 칸에 동그라미를 쳤다."
+          }
+        },
+        {
+          "term": "out of scope",
+          "surface": "out of scope",
+          "meaningKo": "범위 밖인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Just to confirm, anything else is out of scope unless it comes through you, in writing?\"",
+            "ko": "\"확인하겠습니다. 나머지는 COO님을 통해 문서로 오지 않는 한 범위 밖인 거죠?\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 332,
+      "paragraphs": [
+        {
+          "en": "Grace tried another angle. \"Then do customs declarations at all three hubs, because that's where the fines are,\" she said. \"That would come at the expense of Tuas,\" he said. \"It means three customs regimes, three sets of brokers and a team stretched too thin to be there when month-end goes wrong. You wanted people who've seen one of these fall over, and this is how they fall over.\"",
+          "ko": "그레이스가 다른 각도로 나왔다. \"그럼 세 거점 모두 통관 신고서를 하세요. 벌금이 나오는 곳이 거기니까요.\" 그녀가 말했다. \"그렇게 하면 투아스를 희생하게 됩니다.\" 그가 말했다. \"통관 제도 세 가지, 통관 대리인 세 그룹을 상대하게 되고, 월말에 문제가 터질 때 현장에 있기엔 팀이 너무 얇게 퍼집니다. 이런 게 무너지는 걸 본 사람을 원하셨죠. 바로 이렇게 무너집니다.\""
+        },
+        {
+          "en": "\"Wei Ling, you've been quiet,\" Grace said. \"What happens if we leave out goods receipts and start with customs?\" \"Goods receipts at Tuas are written by hand on the night shift, and everything downstream copies them, so if you start with customs, you'll be automating the mistakes,\" Wei Ling said. \"He asked me about that yesterday, which nobody from this floor has done in twenty years.\" Jae-won started to thank her, and she said, \"I'm not agreeing with him, I'm telling you where the paper is.\"",
+          "ko": "\"웨이링, 말이 없네요.\" 그레이스가 말했다. \"입고 확인서를 빼고 통관부터 시작하면 어떻게 되나요?\" \"투아스의 입고 확인서는 야간 근무조가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 그러니 통관부터 시작하면 실수를 자동화하게 될 거예요.\" 웨이링이 말했다. \"이분이 어제 그걸 물었어요. 이 층에서 20년 동안 아무도 묻지 않은 걸요.\" 재원이 감사를 표하려 하자 그녀가 말했다. \"동의하는 게 아니라, 서류가 어디 있는지 말씀드리는 거예요.\""
+        },
+        {
+          "en": "Grace looked at the board for a long moment and then took the marker out of his hand. She circled three boxes and drew a line under the rest. \"Three document types at Tuas, seven thousand down to two thousand by week sixteen,\" she said. \"Port Klang and Jakarta are parked until the week-twelve steering committee, when I decide on phase two, and Rahim gets a seat at that table. One in ten stays on my board slide.\"",
+          "ko": "그레이스는 한참 칠판을 보더니 그의 손에서 마커를 가져갔다. 세 칸에 동그라미를 치고 나머지 아래에 줄을 그었다. \"투아스의 세 종류, 16주 차까지 7천 건을 2천 건으로.\" 그녀가 말했다. \"포트 클랑과 자카르타는 12주 차 운영위원회까지 보류하고, 그때 제가 2단계를 결정해요. 라힘도 그 자리에 앉고요. 열 건 중 한 건은 제 이사회 슬라이드에 그대로 둡니다.\""
+        },
+        {
+          "en": "\"Just to confirm, anything outside those three boxes is out of scope unless it comes through you?\" he asked. \"Through me, in writing, and on one page,\" she said.",
+          "ko": "\"확인하겠습니다. 그 세 칸 밖의 것은 COO님을 통하지 않으면 범위 밖인 거죠?\" 그가 물었다. \"저를 통해서, 문서로, 한 장으로요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Arjun closed his folder and stood. \"You've just taken almost half of the re-keying off the table, so I look forward to seeing the same thing happen to your fee,\" he said. \"Thursday at two, my office.\" When the door closed, Yuna turned her notebook around so that Jae-won could read it. Her proposal went out tomorrow, Kwon had approved the number last night, and it assumed all twenty-one boxes.",
+          "ko": "아르준이 폴더를 닫고 일어섰다. \"재입력의 절반 가까이를 방금 테이블에서 치우셨으니, 수수료에도 같은 일이 일어나기를 기대하겠습니다.\" 그가 말했다. \"목요일 2시, 제 사무실에서요.\" 문이 닫히자 유나가 재원이 읽을 수 있도록 수첩을 돌렸다. 제안서는 내일 나가고, 권 파트너가 어젯밤 숫자를 승인했으며, 그 숫자는 스물한 칸 전부를 가정한 것이었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What happens if we leave out",
+        "That would come at the expense of"
+      ],
+      "wordCandidates": [
+        {
+          "term": "regime",
+          "surface": "regimes",
+          "meaningKo": "제도, 체계",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It means three customs regimes, three sets of brokers and a team stretched too thin to be there when month-end goes wrong.",
+            "ko": "\"통관 제도 세 가지, 통관 대리인 세 그룹을 상대하게 되고, 월말에 문제가 터질 때 현장에 있기엔 팀이 너무 얇게 퍼집니다."
+          }
+        },
+        {
+          "term": "broker",
+          "surface": "brokers",
+          "meaningKo": "(통관) 대리인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It means three customs regimes, three sets of brokers and a team stretched too thin to be there when month-end goes wrong.",
+            "ko": "\"통관 제도 세 가지, 통관 대리인 세 그룹을 상대하게 되고, 월말에 문제가 터질 때 현장에 있기엔 팀이 너무 얇게 퍼집니다."
+          }
+        },
+        {
+          "term": "downstream",
+          "surface": "downstream",
+          "meaningKo": "뒤 단계(의), 하류(의)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Goods receipts at Tuas are written by hand on the night shift, and everything downstream copies them, so if you start with customs, you'll be automating the mistakes,\" Wei Ling said.",
+            "ko": "\"투아스의 입고 확인서는 야간 근무조가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 그러니 통관부터 시작하면 실수를 자동화하게 될 거예요.\" 웨이링이 말했다."
+          }
+        },
+        {
+          "term": "park",
+          "surface": "parked",
+          "meaningKo": "(안건을) 보류하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Port Klang and Jakarta are parked until the week-twelve steering committee, when I decide on phase two, and Rahim gets a seat at that table.",
+            "ko": "\"포트 클랑과 자카르타는 12주 차 운영위원회까지 보류하고, 그때 제가 2단계를 결정해요. 라힘도 그 자리에 앉고요."
+          }
+        },
+        {
+          "term": "off the table",
+          "surface": "off the table",
+          "meaningKo": "논의에서 빠진, 치운",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"You've just taken almost half of the re-keying off the table, so I look forward to seeing the same thing happen to your fee,\" he said.",
+            "ko": "\"재입력의 절반 가까이를 방금 테이블에서 치우셨으니, 수수료에도 같은 일이 일어나기를 기대하겠습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "approve",
+          "surface": "approved",
+          "meaningKo": "승인하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Her proposal went out tomorrow, Kwon had approved the number last night, and it assumed all twenty-one boxes.",
+            "ko": "제안서는 내일 나가고, 권 파트너가 어젯밤 숫자를 승인했으며, 그 숫자는 스물한 칸 전부를 가정한 것이었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 461,
+      "paragraphs": [
+        {
+          "en": "Grace came at it from another angle without any change of expression. \"Then do customs declarations at all three hubs, because that's where the fines are, and fines are what my board actually reads,\" she said. \"That would come at the expense of Tuas,\" he said. \"It means three customs regimes, three sets of brokers who all think they're the exception, and a team stretched too thin to be there when month-end goes wrong. You told me you wanted people who've seen one of these fall over, and this, specifically, is how they fall over.\"",
+          "ko": "그레이스는 표정 하나 바꾸지 않고 다른 각도로 나왔다. \"그럼 세 거점 모두 통관 신고서를 하세요. 벌금이 나오는 곳이 거기고, 이사회가 실제로 읽는 건 벌금이니까요.\" 그녀가 말했다. \"그렇게 하면 투아스를 희생하게 됩니다.\" 그가 말했다. \"통관 제도 세 가지, 저마다 자기만 예외라고 생각하는 통관 대리인 세 그룹을 상대하게 되고, 월말에 문제가 터질 때 현장에 있기엔 팀이 너무 얇게 퍼집니다. 이런 게 무너지는 걸 본 사람을 원한다고 하셨죠. 정확히 이렇게 무너집니다.\""
+        },
+        {
+          "en": "\"Wei Ling, you've been quiet, which usually costs me money,\" Grace said. \"What happens if we leave out goods receipts and start with customs?\" \"Goods receipts at Tuas are written by hand on the night shift, by people who've been on their feet for nine hours, and everything downstream copies them, so if you start with customs, you'll be automating the mistakes at great expense,\" Wei Ling said. \"He asked me about that yesterday, for twenty minutes, which nobody from this floor has done in twenty years.\" Jae-won started to thank her, and she didn't let him finish. \"I'm not agreeing with him,\" she said. \"I'm telling you where the paper is.\"",
+          "ko": "\"웨이링, 말이 없네요. 그러면 보통 제 돈이 나가던데요.\" 그레이스가 말했다. \"입고 확인서를 빼고 통관부터 시작하면 어떻게 되나요?\" \"투아스의 입고 확인서는 야간 근무조가 아홉 시간 서 있다가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 그러니 통관부터 시작하면 큰돈 들여 실수를 자동화하게 될 거예요.\" 웨이링이 말했다. \"이분이 어제 20분 동안 그걸 물었어요. 이 층에서 20년 동안 아무도 묻지 않은 걸요.\" 재원이 감사를 표하려 했지만 그녀는 끝까지 듣지 않았다. \"동의하는 게 아니에요.\" 그녀가 말했다. \"서류가 어디 있는지 말씀드리는 거예요.\""
+        },
+        {
+          "en": "Grace looked at the board for a long moment and then took the marker out of his hand, as though he'd been holding it for her all along. She circled three boxes and drew a hard line under the rest. \"Three document types at Tuas, seven thousand down to two thousand by week sixteen,\" she said. \"Port Klang and Jakarta are parked until the week-twelve steering committee, when I decide on phase two, and Rahim gets a seat at that table so that he can stop calling my assistant. One in ten stays on my board slide, and making it look believable is now your problem.\"",
+          "ko": "그레이스는 한참 칠판을 보더니, 처음부터 자기 대신 들고 있었던 것처럼 그의 손에서 마커를 가져갔다. 세 칸에 동그라미를 치고 나머지 아래에 굵은 줄을 그었다. \"투아스의 세 종류, 16주 차까지 7천 건을 2천 건으로.\" 그녀가 말했다. \"포트 클랑과 자카르타는 12주 차 운영위원회까지 보류하고, 그때 제가 2단계를 결정해요. 라힘도 그 자리에 앉고요. 그래야 제 비서한테 그만 전화하죠. 열 건 중 한 건은 제 이사회 슬라이드에 그대로 두고, 그럴듯해 보이게 하는 건 이제 당신 문제예요.\""
+        },
+        {
+          "en": "\"Just to confirm, anything outside those three boxes is out of scope unless it comes through you?\" he asked, because he'd seen what happened to projects where it came through everyone. \"Through me, in writing, and on one page,\" she said, \"and if someone tries to go around me, tell me who, because I collect those.\"",
+          "ko": "\"확인하겠습니다. 그 세 칸 밖의 것은 COO님을 통하지 않으면 범위 밖인 거죠?\" 그가 물었다. 모두를 통해 들어오는 프로젝트가 어떻게 되는지 봐 왔기 때문이다. \"저를 통해서, 문서로, 한 장으로요.\" 그녀가 말했다. \"저를 건너뛰려는 사람이 있으면 누군지 알려 줘요. 수집하고 있거든요.\""
+        },
+        {
+          "en": "Arjun closed his folder and stood, buttoning his jacket in the air conditioning. \"You've just taken almost half of the re-keying off the table, very persuasively, so I look forward to seeing the same thing happen to your fee,\" he said. \"Thursday at two, my office, and I'd bring the arithmetic.\" When the door closed, Yuna turned her notebook around without a word so that Jae-won could read it. Her proposal went out tomorrow, Kwon had approved the number last night over a very good dinner, and it assumed all twenty-one boxes.",
+          "ko": "아르준이 폴더를 닫고 일어서서 에어컨 바람 속에 재킷 단추를 채웠다. \"재입력의 절반 가까이를 방금 테이블에서 아주 설득력 있게 치우셨으니, 수수료에도 같은 일이 일어나기를 기대하겠습니다.\" 그가 말했다. \"목요일 2시, 제 사무실에서요. 계산은 가져오시는 게 좋을 겁니다.\" 문이 닫히자 유나가 말없이 재원이 읽을 수 있도록 수첩을 돌렸다. 제안서는 내일 나가고, 권 파트너가 어젯밤 아주 좋은 저녁 자리에서 숫자를 승인했으며, 그 숫자는 스물한 칸 전부를 가정한 것이었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What happens if we leave out",
+        "That would come at the expense of"
+      ],
+      "wordCandidates": [
+        {
+          "term": "regime",
+          "surface": "regimes",
+          "meaningKo": "제도, 체계",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"It means three customs regimes, three sets of brokers who all think they're the exception, and a team stretched too thin to be there when month-end goes wrong.",
+            "ko": "\"통관 제도 세 가지, 저마다 자기만 예외라고 생각하는 통관 대리인 세 그룹을 상대하게 되고, 월말에 문제가 터질 때 현장에 있기엔 팀이 너무 얇게 퍼집니다."
+          }
+        },
+        {
+          "term": "on one's feet",
+          "surface": "on their feet",
+          "meaningKo": "계속 서서 일하는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Goods receipts at Tuas are written by hand on the night shift, by people who've been on their feet for nine hours, and everything downstream copies them, so if you start with customs, you'll be automating the mistakes at great expense,\" Wei Ling said.",
+            "ko": "\"투아스의 입고 확인서는 야간 근무조가 아홉 시간 서 있다가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 그러니 통관부터 시작하면 큰돈 들여 실수를 자동화하게 될 거예요.\" 웨이링이 말했다."
+          }
+        },
+        {
+          "term": "downstream",
+          "surface": "downstream",
+          "meaningKo": "뒤 단계(의), 하류(의)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Goods receipts at Tuas are written by hand on the night shift, by people who've been on their feet for nine hours, and everything downstream copies them, so if you start with customs, you'll be automating the mistakes at great expense,\" Wei Ling said.",
+            "ko": "\"투아스의 입고 확인서는 야간 근무조가 아홉 시간 서 있다가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 그러니 통관부터 시작하면 큰돈 들여 실수를 자동화하게 될 거예요.\" 웨이링이 말했다."
+          }
+        },
+        {
+          "term": "persuasively",
+          "surface": "persuasively",
+          "meaningKo": "설득력 있게",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"You've just taken almost half of the re-keying off the table, very persuasively, so I look forward to seeing the same thing happen to your fee,\" he said.",
+            "ko": "\"재입력의 절반 가까이를 방금 테이블에서 아주 설득력 있게 치우셨으니, 수수료에도 같은 일이 일어나기를 기대하겠습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "arithmetic",
+          "surface": "arithmetic",
+          "meaningKo": "계산, 산수",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Thursday at two, my office, and I'd bring the arithmetic.\"",
+            "ko": "\"목요일 2시, 제 사무실에서요. 계산은 가져오시는 게 좋을 겁니다.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "When will Grace decide on phase two?",
+      "options": [
+        "At the kickoff",
+        "At the week-twelve steering committee",
+        "At the end of week sixteen",
+        "On Thursday at two"
+      ],
+      "answerIndex": 1,
+      "evidence": "Port Klang and Jakarta are parked until the week-twelve steering committee, when I decide on phase two"
+    },
+    {
+      "question": "Why does Wei Ling say, \"I'm telling you where the paper is\"?",
+      "options": [
+        "She wants to lead the project herself",
+        "She has lost some documents",
+        "She wants customs to go first",
+        "She wants to give a fact without supporting Jae-won or the project"
+      ],
+      "answerIndex": 3,
+      "evidence": "I'm telling you where the paper is"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What happens if we leave out goods receipts and start with customs?",
+      "That would come at the expense of Tuas.",
+      "Just to confirm, anything outside those three boxes is out of scope unless it comes through you?"
+    ],
+    "summaryPromptKo": "그레이스가 어떤 대안을 내놓았는지, 웨이링이 무엇을 짚었는지, 마지막에 무엇이 정해지고 어떤 문제가 남았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Rahim Yusof",
+      "en": "You've left Port Klang out for sixteen weeks. What do I tell my people, who've been waiting for two years?",
+      "ko": "16주 동안 포트 클랑을 빼셨네요. 2년을 기다린 우리 직원들에게 뭐라고 하죠?"
+    },
+    "modelAnswer": "I'd tell them the truth. Nothing gets worse for them in those sixteen weeks, and they aren't forgotten. We could phase this, starting with Tuas, because that's where seven thousand documents get re-keyed every month. If we spread out now, that would come at the expense of everyone, including you. At the week-twelve steering committee, you'll have a seat, and you can ask me for proof."
+  },
+  "nextTeaserKo": "목요일 2시, 아르준의 사무실. 제안서의 숫자는 스물한 칸 기준인데 범위는 세 칸으로 줄었다. 권 파트너는 숫자를 지키라고 하고, 아르준은 다른 회사의 견적을 책상 위에 올려놓는다.",
+  "roleplay": {
+    "title": "세 칸에 동그라미",
+    "situationKo": "그레이스가 이번에는 세 거점의 통관 신고서를 들고 나옵니다. 왜 그게 어려운지 설명하고, 정해진 범위를 확인해 보세요. 표현이 막히면 힌트를 봐도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Then do customs declarations at all three hubs. That's where the fines are.",
+        "ko": "그럼 세 거점 모두 통관 신고서를 하세요. 벌금이 나오는 곳이 거기니까요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That would come at the expense of Tuas. Three customs regimes, and my team's stretched too thin at month-end.",
+        "ko": "그렇게 하면 투아스를 희생하게 됩니다. 통관 제도가 세 가지가 되고, 월말에 팀이 너무 얇게 퍼집니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Wei Ling, you've been quiet. What happens if we leave out goods receipts and start with customs?",
+        "ko": "웨이링, 말이 없네요. 입고 확인서를 빼고 통관부터 시작하면 어떻게 되나요?"
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "Goods receipts are written by hand on the night shift, and everything downstream copies them. You'd be automating the mistakes.",
+        "ko": "입고 확인서는 야간 근무조가 손으로 쓰고, 뒤 단계는 전부 그걸 베껴요. 실수를 자동화하게 될 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you, Wei Ling. That helps.",
+        "ko": "감사합니다, 웨이링. 도움이 됐습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "I'm not agreeing with him. I'm telling you where the paper is.",
+        "ko": "동의하는 게 아니에요. 서류가 어디 있는지 말씀드리는 거예요."
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "And what do I get for it?",
+        "ko": "그래서 제가 얻는 건 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Seven thousand down to two thousand by week sixteen. Something that actually holds, and that you can copy.",
+        "ko": "16주 차까지 7천 건을 2천 건으로요. 실제로 버티고, 그대로 옮길 수 있는 것을요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Fine. Port Klang and Jakarta wait until the week-twelve steering committee.",
+        "ko": "좋아요. 포트 클랑과 자카르타는 12주 차 운영위원회까지 기다립니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, anything outside those three boxes is out of scope unless it comes through you?",
+        "ko": "확인하겠습니다. 그 세 칸 밖의 것은 COO님을 통하지 않으면 범위 밖인 거죠?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Through me, in writing, on one page.",
+        "ko": "저를 통해서, 문서로, 한 장으로요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Got it. Rahim, you'll have a seat at week twelve, and you can hold me to these numbers.",
+        "ko": "알겠습니다. 라힘, 12주 차에 자리가 있으니 이 숫자로 저를 따져 물으셔도 됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "You've just taken almost half of the re-keying off the table. Thursday at two, my office.",
+        "ko": "재입력의 절반 가까이를 방금 테이블에서 치우셨네요. 목요일 2시, 제 사무실에서요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. I'll be there.",
+        "ko": "알겠습니다. 가겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

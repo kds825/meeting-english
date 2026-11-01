@@ -1,0 +1,429 @@
+{
+  "id": "keynote-s1-e16",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 16,
+  "title": "Still Open",
+  "recapKo": "목요일 아침, 대니얼이 띄운 스프레드시트의 42개 행 중 아홉 개에는 문서가 없었다. 출처란에는 3년 전 퇴사한 오상우의 이니셜뿐이었고, 그중 일곱 개가 실패 31건 안에 있었다. 다 틀리면 31은 24가 되는데, 그 숫자는 이미 마커스가 가진 제목에 들어 있다.",
+  "keyExpressions": [
+    {
+      "phrase": "Can we verify that?",
+      "meaningKo": "그걸 검증할 수 있을까요?",
+      "usage": "The vendor says it saves ten hours a week. Can we verify that?"
+    },
+    {
+      "phrase": "I'd want to double-check ~",
+      "meaningKo": "~은 다시 확인해 보고 싶습니다",
+      "usage": "I'd want to double-check the exchange rate before we send this."
+    },
+    {
+      "phrase": "As it stands, ~",
+      "meaningKo": "현재로서는 ~",
+      "usage": "As it stands, we're two weeks behind and slightly under budget."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 222,
+      "paragraphs": [
+        {
+          "en": "He looked at the screen for a moment and almost laughed. \"Our whole talk is about audit trails, and we don't have one,\" he said. \"Can we verify that by tonight?\" Only paper or a named person on the phone would count, and they divided the seven rows between them.",
+          "ko": "그는 잠시 화면을 보다가 웃음이 나올 뻔했다. \"우리 발표 전체가 감사 추적 기록에 관한 건데, 정작 우리에겐 그게 없네요.\" 그가 말했다. \"오늘 밤까지 그걸 검증할 수 있을까요?\" 문서나 이름이 있는 사람과의 통화만 인정하기로 하고, 그들은 일곱 개 행을 나눠 맡았다."
+        },
+        {
+          "en": "Daniel searched the contract archive, and Jae-won called old clients all day. At lunch he reached Oh Sang-woo, who laughed and said most of it had been in his head. He promised to look through his old notes.",
+          "ko": "대니얼은 계약 문서 보관소를 뒤졌고, 재원은 하루 종일 예전 고객들에게 전화했다. 점심때 오상우와 연락이 닿았는데, 그는 웃으며 대부분 머릿속에 있었다고 말했다. 그는 예전 메모를 찾아보겠다고 약속했다."
+        },
+        {
+          "en": "By seven, five of the seven were confirmed. One company had merged with another, and in the last one, their contact had left. Jae-won went upstairs to Helen and said, \"As it stands, twenty-nine are confirmed and two are open.\"",
+          "ko": "7시까지 일곱 개 중 다섯 개가 확인됐다. 한 회사는 다른 회사와 합병됐고, 마지막 회사는 담당자가 떠난 뒤였다. 재원은 위층 헬렌에게 가서 말했다. \"현재로서는 29건이 확인됐고 2건이 미확인입니다.\""
+        },
+        {
+          "en": "\"And Marcus?\" she asked. \"I'd want to double-check those two before we say anything to him,\" he said. Helen nodded. \"Slides lock next Thursday, so you have until Tuesday,\" she said. \"If they're still open, you change the number, you change the title, and you call Marcus yourself.\"",
+          "ko": "\"마커스는요?\" 그녀가 물었다. \"그분께 뭐라고 하기 전에 그 두 건을 다시 확인해 보고 싶습니다.\" 그가 말했다. 헬렌이 고개를 끄덕였다. \"슬라이드 확정이 다음 주 목요일이니 화요일까지 시간을 줄게요.\" 그녀가 말했다. \"그때도 미확인이면 숫자를 바꾸고, 제목을 바꾸고, 마커스에게 직접 전화해요.\""
+        },
+        {
+          "en": "He turned to leave, and she stopped him at the door. \"Tomorrow at ten is the internal review, and Kwon and Yuna have been told to attack your talk,\" she said. \"Yuna always asks where a number comes from, so what are you going to say?\"",
+          "ko": "그가 돌아서자 그녀가 문가에서 그를 불러 세웠다. \"내일 10시가 내부 리뷰고, 권 파트너와 유나에게 당신 발표를 공격하라고 해 뒀어요.\" 그녀가 말했다. \"유나는 항상 숫자가 어디서 나왔는지 물어요. 그러니 뭐라고 할 건가요?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can we verify that",
+        "I'd want to double-check",
+        "As it stands"
+      ],
+      "wordCandidates": [
+        {
+          "term": "audit trail",
+          "surface": "audit trails",
+          "meaningKo": "감사 추적 기록",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Our whole talk is about audit trails, and we don't have one,\" he said.",
+            "ko": "\"우리 발표 전체가 감사 추적 기록에 관한 건데, 정작 우리에겐 그게 없네요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "divide",
+          "surface": "divided",
+          "meaningKo": "나누다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Only paper or a named person on the phone would count, and they divided the seven rows between them.",
+            "ko": "문서나 이름이 있는 사람과의 통화만 인정하기로 하고, 그들은 일곱 개 행을 나눠 맡았다."
+          }
+        },
+        {
+          "term": "archive",
+          "surface": "archive",
+          "meaningKo": "문서 보관소",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel searched the contract archive, and Jae-won called old clients all day.",
+            "ko": "대니얼은 계약 문서 보관소를 뒤졌고, 재원은 하루 종일 예전 고객들에게 전화했다."
+          }
+        },
+        {
+          "term": "merge",
+          "surface": "merged",
+          "meaningKo": "합병하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "One company had merged with another, and in the last one, their contact had left.",
+            "ko": "한 회사는 다른 회사와 합병됐고, 마지막 회사는 담당자가 떠난 뒤였다."
+          }
+        },
+        {
+          "term": "confirmed",
+          "surface": "confirmed",
+          "meaningKo": "확인된",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By seven, five of the seven were confirmed.",
+            "ko": "7시까지 일곱 개 중 다섯 개가 확인됐다."
+          }
+        },
+        {
+          "term": "attack",
+          "surface": "attack",
+          "meaningKo": "공격하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Tomorrow at ten is the internal review, and Kwon and Yuna have been told to attack your talk,\" she said.",
+            "ko": "\"내일 10시가 내부 리뷰고, 권 파트너와 유나에게 당신 발표를 공격하라고 해 뒀어요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 356,
+      "paragraphs": [
+        {
+          "en": "He looked at the screen and almost laughed, since there was nothing else to do with it. \"We're about to tell eight hundred people that nobody should sign a number they can't trace, and we can't trace our own,\" he said. \"Can we verify that by tonight, row by row?\" Daniel asked what counted as confirmed, and Jae-won didn't need to think about it. \"A signed document, or a named person on the phone who was actually in the room when it happened, and 'I think so' doesn't count,\" he said. They split the seven rows between them and got to work.",
+          "ko": "그는 화면을 보다가 웃음이 나올 뻔했다. 달리 어쩔 도리가 없었으니까. \"800명에게 추적할 수 없는 숫자에 서명하지 말라고 말하려는 참인데, 정작 우리 숫자를 추적하지 못하네요.\" 그가 말했다. \"오늘 밤까지 행별로 그걸 검증할 수 있을까요?\" 대니얼이 무엇을 확인으로 칠지 물었고, 재원은 생각할 필요도 없었다. \"서명된 문서, 아니면 그 일이 있을 때 실제로 그 자리에 있었던 이름 있는 사람과의 통화요. '그런 것 같아요'는 안 쳐요.\" 그가 말했다. 그들은 일곱 개 행을 나눠 맡고 일을 시작했다."
+        },
+        {
+          "en": "Daniel dug through the contract archive while Jae-won spent the day on the phone to former clients, most of whom took some time to remember who he was. At lunch he tracked down Oh Sang-woo, who laughed and admitted that he'd kept most of it in his head. He promised to go through his old notes, but he didn't say when.",
+          "ko": "대니얼이 계약 문서 보관소를 뒤지는 동안 재원은 하루 종일 예전 고객들에게 전화했는데, 대부분 그가 누구인지 기억해 내는 데 시간이 좀 걸렸다. 점심때 그는 오상우를 수소문해 찾았고, 오상우는 웃으며 대부분 머릿속에 담아 뒀었다고 인정했다. 예전 메모를 찾아보겠다고 약속했지만 언제까지인지는 말하지 않았다."
+        },
+        {
+          "en": "By seven that evening, they had pinned down five of the seven, through old letters and a couple of clients who said flatly that they'd never gone live. The sixth company had since merged with another, and at the seventh their contact had moved on. Jae-won took it upstairs to Helen and said, \"As it stands, twenty-nine are confirmed and two are still open.\"",
+          "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다. 여섯 번째 회사는 그 뒤 다른 회사와 합병됐고, 일곱 번째는 담당자가 떠난 뒤였다. 재원은 위층 헬렌에게 가져가 말했다. \"현재로서는 29건이 확인됐고 2건이 아직 미확인입니다.\""
+        },
+        {
+          "en": "\"And Marcus?\" she asked. He said, \"I'd want to double-check those two before we say anything to him, because I don't want to change the title twice.\" Helen thought about it for a while. \"Slides lock next Thursday, so you've got until Tuesday night,\" she said. \"If they're still open, you drop the number, you change the title, and you pick up the phone to Marcus yourself.\"",
+          "ko": "\"마커스는요?\" 그녀가 물었다. 그가 말했다. \"그분께 뭐라고 하기 전에 그 두 건을 다시 확인해 보고 싶습니다. 제목을 두 번 바꾸고 싶지 않으니까요.\" 헬렌은 잠시 생각했다. \"슬라이드 확정이 다음 주 목요일이니 화요일 밤까지 시간이 있어요.\" 그녀가 말했다. \"그때도 미확인이면 숫자를 낮추고, 제목을 바꾸고, 마커스에게 직접 전화해요.\""
+        },
+        {
+          "en": "He had got as far as the door when she spoke again. \"By the way, tomorrow at ten is the internal review, and I've told Kwon and Yuna to take your talk apart,\" she said, already looking back at her screen. \"Yuna always asks where a number comes from, so you might want to decide tonight what you're going to tell her.\"",
+          "ko": "그가 문까지 갔을 때 그녀가 다시 입을 열었다. \"그런데 내일 10시가 내부 리뷰고, 권 파트너와 유나에게 당신 발표를 뜯어보라고 해 뒀어요.\" 그녀가 벌써 화면으로 돌아가며 말했다. \"유나는 항상 숫자가 어디서 나왔는지 물으니까, 뭐라고 할지 오늘 밤에 정해 두는 게 좋을 거예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can we verify that",
+        "I'd want to double-check",
+        "As it stands"
+      ],
+      "wordCandidates": [
+        {
+          "term": "trace",
+          "surface": "trace",
+          "meaningKo": "(출처까지) 추적하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"We're about to tell eight hundred people that nobody should sign a number they can't trace, and we can't trace our own,\" he said.",
+            "ko": "\"800명에게 추적할 수 없는 숫자에 서명하지 말라고 말하려는 참인데, 정작 우리 숫자를 추적하지 못하네요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "dig through",
+          "surface": "dug through",
+          "meaningKo": "뒤지다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel dug through the contract archive while Jae-won spent the day on the phone to former clients, most of whom took some time to remember who he was.",
+            "ko": "대니얼이 계약 문서 보관소를 뒤지는 동안 재원은 하루 종일 예전 고객들에게 전화했는데, 대부분 그가 누구인지 기억해 내는 데 시간이 좀 걸렸다."
+          }
+        },
+        {
+          "term": "track down",
+          "surface": "tracked down",
+          "meaningKo": "수소문해 찾아내다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At lunch he tracked down Oh Sang-woo, who laughed and admitted that he'd kept most of it in his head.",
+            "ko": "점심때 그는 오상우를 수소문해 찾았고, 오상우는 웃으며 대부분 머릿속에 담아 뒀었다고 인정했다."
+          }
+        },
+        {
+          "term": "pin down",
+          "surface": "pinned down",
+          "meaningKo": "확정하다, 정확히 밝혀내다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By seven that evening, they had pinned down five of the seven, through old letters and a couple of clients who said flatly that they'd never gone live.",
+            "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다."
+          }
+        },
+        {
+          "term": "go live",
+          "surface": "gone live",
+          "meaningKo": "실제 운영을 시작하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By seven that evening, they had pinned down five of the seven, through old letters and a couple of clients who said flatly that they'd never gone live.",
+            "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다."
+          }
+        },
+        {
+          "term": "take apart",
+          "surface": "take your talk apart",
+          "meaningKo": "조목조목 뜯어보다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"By the way, tomorrow at ten is the internal review, and I've told Kwon and Yuna to take your talk apart,\" she said, already looking back at her screen.",
+            "ko": "\"그런데 내일 10시가 내부 리뷰고, 권 파트너와 유나에게 당신 발표를 뜯어보라고 해 뒀어요.\" 그녀가 벌써 화면으로 돌아가며 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 499,
+      "paragraphs": [
+        {
+          "en": "He looked at the screen and almost laughed, since there wasn't a lot else to do with it. \"We're about to walk out in front of eight hundred people and tell them nobody should sign off on a number they can't trace to a source, and we can't trace our own. That's going to be hard to explain to Han Mi-rae,\" he said. \"Can we verify that by tonight, row by row?\" Daniel asked, \"What's our standard for confirmed, just so I'm not wasting your time?\" Jae-won said, \"Paper, or a named person on the phone who was actually in the room, and 'I'm fairly sure' goes in the open column, because I've heard that from too many people who turned out to be wrong.\" They split the seven between them and cleared their calendars.",
+          "ko": "그는 화면을 보다가 웃음이 나올 뻔했다. 달리 어쩔 도리가 별로 없었으니까. \"800명 앞에 나가서 출처까지 추적할 수 없는 숫자는 아무도 승인하지 말라고 말하려는 참인데, 정작 우리 숫자를 추적하지 못해요. 한미래 씨에게 설명하기 어렵겠네요.\" 그가 말했다. \"오늘 밤까지 행별로 그걸 검증할 수 있을까요?\" 대니얼이 물었다. \"시간 낭비 안 하게 여쭙는데, 확인의 기준이 뭐죠?\" 재원이 말했다. \"문서, 아니면 실제로 그 자리에 있었던 이름 있는 사람과의 통화요. '꽤 확실해요'는 미확인 칸으로 가요. 그렇게 말하고 나중에 틀린 사람을 너무 많이 봤거든요.\" 그들은 일곱 개를 나눠 맡고 일정을 비웠다."
+        },
+        {
+          "en": "Daniel went digging through the contract archive while Jae-won worked the phones, calling former clients, most of whom needed some time to place him and a few of whom seemed to enjoy the question. At lunch he tracked down Oh Sang-woo, who laughed for longer than the situation called for and admitted that he had kept most of it in his head, because back then nobody was ever going to put it on a stage. He promised to go through his old notes, though he was vague about when.",
+          "ko": "대니얼이 계약 문서 보관소를 파고드는 동안 재원은 전화를 돌렸다. 예전 고객 대부분은 그가 누구인지 떠올리는 데 시간이 걸렸고, 몇몇은 그 질문을 즐기는 듯했다. 점심때 그는 오상우를 수소문해 찾았는데, 오상우는 상황에 어울리지 않게 오래 웃더니 대부분 머릿속에 담아 뒀었다고 인정했다. 그때는 그걸 무대에 올릴 사람이 있을 줄 몰랐다면서. 예전 메모를 찾아보겠다고 약속했지만 언제까지인지는 모호했다."
+        },
+        {
+          "en": "By seven that evening they had nailed down five of the seven, through old correspondence and a couple of clients who said flatly that they had never gone live. The sixth company had since merged into a larger group, and at the seventh their only contact had moved on and left no forwarding details. Jae-won took it upstairs to Helen, stood in front of her desk, and gave it to her without a preamble: \"As it stands, twenty-nine are confirmed and two are still open. I can't tell you yet which way those two will go.\"",
+          "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다. 여섯 번째 회사는 그 뒤 더 큰 그룹에 합병됐고, 일곱 번째는 유일한 담당자가 연락처도 남기지 않고 떠난 뒤였다. 재원은 위층 헬렌에게 가져가 책상 앞에 서서 서론 없이 말했다. \"현재로서는 29건이 확인됐고 2건이 아직 미확인이며, 그 두 건이 어느 쪽으로 갈지는 아직 말씀드릴 수 없습니다.\""
+        },
+        {
+          "en": "\"And where does that leave you with Marcus?\" she asked. He said, \"I'd want to double-check those two before we say anything to him, because I can only go back and restate that title once, and I told him on day one I wouldn't show a number I couldn't stand behind.\" Helen took her time over that. \"Slides lock next Thursday, so you've got until Tuesday night, and that's not a soft deadline,\" she said. \"If they're still open, you take the lower number, you change the title, and you pick up the phone to Marcus yourself.\"",
+          "ko": "\"그럼 마커스와는 어떻게 되는 거죠?\" 그녀가 물었다. 그가 말했다. \"그분께 뭐라고 하기 전에 그 두 건을 다시 확인해 보고 싶습니다. 제목을 고쳐 말하러 갈 수 있는 건 한 번뿐이고, 첫날 제가 책임질 수 없는 숫자는 보여 주지 않겠다고 말씀드렸으니까요.\" 헬렌은 그 말을 천천히 곱씹었다. \"슬라이드 확정이 다음 주 목요일이니 화요일 밤까지 시간이 있고, 그건 늦춰 줄 수 있는 마감이 아니에요.\" 그녀가 말했다. \"그때도 미확인이면 낮은 숫자를 쓰고, 제목을 바꾸고, 마커스에게 직접 전화해요.\""
+        },
+        {
+          "en": "He had got as far as the door when she spoke again, already turning back to her screen. \"Oh, and tomorrow at ten is the internal review,\" she said. \"I've told Kwon and Yuna to take your talk apart, with my blessing and no prisoners. Yuna asks where a number comes from the way other people ask how your weekend was, so you might want to decide tonight what you're going to tell her, and whether you're going to tell her first.\"",
+          "ko": "그가 문까지 갔을 때 그녀가 벌써 화면으로 돌아서며 다시 입을 열었다. \"아, 내일 10시가 내부 리뷰예요.\" 그녀가 말했다. \"권 파트너와 유나에게 내 축복과 함께 사정 봐주지 말고 당신 발표를 뜯어보라고 해 뒀어요. 유나는 남들이 주말 잘 보냈냐고 묻듯 숫자가 어디서 나왔는지 물어요. 그러니 뭐라고 할지, 그리고 먼저 말할지를 오늘 밤에 정해 두는 게 좋을 거예요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Can we verify that",
+        "I'd want to double-check",
+        "As it stands"
+      ],
+      "wordCandidates": [
+        {
+          "term": "clear one's calendar",
+          "surface": "cleared their calendars",
+          "meaningKo": "일정을 비우다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "They split the seven between them and cleared their calendars.",
+            "ko": "그들은 일곱 개를 나눠 맡고 일정을 비웠다."
+          }
+        },
+        {
+          "term": "work the phones",
+          "surface": "worked the phones",
+          "meaningKo": "전화를 돌리다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel went digging through the contract archive while Jae-won worked the phones, calling former clients, most of whom needed some time to place him and a few of whom seemed to enjoy the question.",
+            "ko": "대니얼이 계약 문서 보관소를 파고드는 동안 재원은 전화를 돌렸다. 예전 고객 대부분은 그가 누구인지 떠올리는 데 시간이 걸렸고, 몇몇은 그 질문을 즐기는 듯했다."
+          }
+        },
+        {
+          "term": "nail down",
+          "surface": "nailed down",
+          "meaningKo": "확실히 확정하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By seven that evening they had nailed down five of the seven, through old correspondence and a couple of clients who said flatly that they had never gone live.",
+            "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다."
+          }
+        },
+        {
+          "term": "correspondence",
+          "surface": "correspondence",
+          "meaningKo": "서신, 주고받은 문서",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By seven that evening they had nailed down five of the seven, through old correspondence and a couple of clients who said flatly that they had never gone live.",
+            "ko": "그날 저녁 7시까지 그들은 옛 서신과, 실제 운영에 들어간 적이 없다고 딱 잘라 말한 고객 몇 곳을 통해 일곱 개 중 다섯 개를 확정했다."
+          }
+        },
+        {
+          "term": "restate",
+          "surface": "restate",
+          "meaningKo": "(수치를) 수정 공시하다, 고쳐 말하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He said, \"I'd want to double-check those two before we say anything to him, because I can only go back and restate that title once, and I told him on day one I wouldn't show a number I couldn't stand behind.\"",
+            "ko": "그가 말했다. \"그분께 뭐라고 하기 전에 그 두 건을 다시 확인해 보고 싶습니다. 제목을 고쳐 말하러 갈 수 있는 건 한 번뿐이고, 첫날 제가 책임질 수 없는 숫자는 보여 주지 않겠다고 말씀드렸으니까요.\""
+          }
+        },
+        {
+          "term": "soft deadline",
+          "surface": "soft deadline",
+          "meaningKo": "늦춰 줄 수 있는 마감",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Slides lock next Thursday, so you've got until Tuesday night, and that's not a soft deadline,\" she said.",
+            "ko": "\"슬라이드 확정이 다음 주 목요일이니 화요일 밤까지 시간이 있고, 그건 늦춰 줄 수 있는 마감이 아니에요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "take no prisoners",
+          "surface": "no prisoners",
+          "meaningKo": "사정 봐주지 않다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "I've told Kwon and Yuna to take your talk apart, with my blessing and no prisoners.",
+            "ko": "권 파트너와 유나에게 내 축복과 함께 사정 봐주지 말고 당신 발표를 뜯어보라고 해 뒀어요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was the status at seven that evening?",
+      "options": [
+        "All seven unverified rows had been confirmed.",
+        "Twenty-nine failures were confirmed and two were still open.",
+        "The number had dropped to twenty-four.",
+        "Oh Sang-woo had sent his old notes."
+      ],
+      "answerIndex": 1,
+      "evidence": "As it stands, twenty-nine are confirmed and two are still open."
+    },
+    {
+      "question": "Why does Jae-won almost laugh when he looks at the screen?",
+      "options": [
+        "He thinks Daniel has made a simple typing error.",
+        "Oh Sang-woo's initials remind him of an old joke.",
+        "He is relieved that the number will go down.",
+        "His talk tells people not to sign numbers they can't trace, yet he can't trace his own."
+      ],
+      "answerIndex": 3,
+      "evidence": "and we can't trace our own"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Can we verify that by tonight, row by row?",
+      "I'd want to double-check those two before we say anything to him.",
+      "As it stands, twenty-nine are confirmed and two are still open."
+    ],
+    "summaryPromptKo": "두 사람이 어떤 기준으로 확인했는지, 그날 확인 작업의 결과가 어땠는지, 헬렌이 어떤 기한과 조건을 주었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "Before you go, explain the data problem to me in plain terms: what you found, how big it could be, and what you're doing about it.",
+      "ko": "가기 전에 데이터 문제를 쉽게 설명해 줘요. 뭘 발견했고, 얼마나 커질 수 있고, 어떻게 하고 있는지요."
+    },
+    "modelAnswer": "Nine of our forty-two rows have no document behind them, and seven of those are in our thirty-one failures. That figure is based on an old tracker that nobody checked. In the worst case, we fall from thirty-one to twenty-four. As it stands, twenty-nine are confirmed and two are still open. I'd want to double-check those two by Tuesday, and if we can't, I'll change the title and call Marcus myself."
+  },
+  "nextTeaserKo": "금요일 10시, 내부 리뷰가 열린다. 권 파트너와 유나, 대니얼, 헬렌이 일부러 재원의 발표를 공격한다. 그리고 예상대로 유나가 묻는다. \"그 31은 어디서 나온 숫자죠?\"",
+  "roleplay": {
+    "title": "일곱 개 행과 화요일 밤",
+    "situationKo": "확인할 기준을 정하고, 저녁에는 Helen에게 현재 상황을 보고합니다. 내가 재원이 되어 있는 그대로 말해 봅니다. 숫자가 많지만 힌트를 봐도 되고, 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "So what do we do? Thirty-one is already in the title.",
+        "ko": "그럼 어떻게 하죠? 31은 이미 제목에 들어가 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Can we verify that by tonight, row by row?",
+        "ko": "오늘 밤까지 한 줄씩 검증할 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "What counts as confirmed?",
+        "ko": "뭘 확인된 걸로 치나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A signed document, or a named person on the phone who was actually in the room.",
+        "ko": "서명된 문서, 아니면 실제로 그 자리에 있던, 이름을 밝힌 사람과의 통화요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "So, where are we with the numbers?",
+        "ko": "그래서 숫자는 어떻게 됐어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "As it stands, twenty-nine are confirmed and two are still open.",
+        "ko": "현재로서는 29건이 확인됐고 2건이 아직 미확인입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And Marcus?",
+        "ko": "Marcus는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'd want to double-check those two before we say anything to him. I don't want to change the title twice.",
+        "ko": "말씀드리기 전에 그 두 건을 다시 확인해 보고 싶습니다. 제목을 두 번 바꾸고 싶지 않아서요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Slides lock next Thursday, so you've got until Tuesday night. If they're still open, you drop the number, you change the title, and you pick up the phone to Marcus yourself.",
+        "ko": "슬라이드는 다음 주 목요일에 확정되니 화요일 밤까지 시간이 있어요. 그때도 미확인이면 숫자를 내리고, 제목을 바꾸고, 직접 Marcus에게 전화하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. Tuesday night, and I'll make the call myself.",
+        "ko": "알겠습니다. 화요일 밤까지요. 전화는 제가 직접 하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Tomorrow at ten is the internal review. Yuna always asks where a number comes from, so you might want to decide tonight what you're going to tell her.",
+        "ko": "내일 10시가 내부 리뷰예요. 유나는 항상 숫자가 어디서 나왔는지 물으니까, 뭐라고 할지 오늘 밤에 정해 두는 게 좋을 거예요."
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "id": "keynote-s2-e17",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 17,
+  "title": "Hard Bargain",
+  "recapKo": "재원은 시스템이 양식을 건네받기 전에 이미 그 데이터를 봤다고 지적했다. 콜은 전날 밤 데이터 묶음을 올려 두었다고 말했고, 이선은 \"나쁜 버릇이고 제 책임\"이라며 정직한 숫자는 61, 현장 3주면 85를 예상한다고 했다. 그레이스는 금요일까지 조건을 받아 오라고 했다. 이선은 조건이 하나 있다고 메시지를 보냈다.",
+  "keyExpressions": [
+    {
+      "phrase": "We'd want that tied to ~",
+      "meaningKo": "그건 ~와 연동했으면 합니다",
+      "usage": "We'd want that tied to delivery, not to the calendar."
+    },
+    {
+      "phrase": "What's your best number on ~?",
+      "meaningKo": "~에 대해 제시할 수 있는 최선의 숫자는 얼마입니까?",
+      "usage": "What's your best number on the annual license?"
+    },
+    {
+      "phrase": "If you can't meet ~, ~",
+      "meaningKo": "~을 맞추지 못하신다면 ~",
+      "usage": "If you can't meet that date, we'll have to look elsewhere."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 207,
+      "paragraphs": [
+        {
+          "en": "On Friday at eight, Jae-won put one page on the table, with Arjun beside him and Ethan and his lawyer across from him. \"Eighty-five percent per document, on forms you haven't seen, by week ten,\" he said. \"We'd want that tied to your fee.\" Ethan agreed to leave forty percent of the first year, seventy-two thousand dollars, unpaid until then.",
+          "ko": "금요일 8시, 재원은 아르준을 옆에 두고 이선과 그의 변호사를 마주한 채 한 장을 테이블에 올렸다. \"10주 차까지, 처음 보는 양식에서 서류 단위 85퍼센트입니다.\" 그가 말했다. \"그건 수수료와 연동했으면 합니다.\" 이선은 첫해 수수료의 40퍼센트인 7만 2천 달러를 그때까지 받지 않기로 동의했다."
+        },
+        {
+          "en": "\"Cole spends three weeks on your night shift, learning Siti's code,\" Ethan said, \"because the machine can't get to eighty-five without her.\" Jae-won thought of the sixty-four people at Tuas. \"That isn't mine to give, so you'll have to ask Wei Ling,\" he said.",
+          "ko": "\"콜이 야간 근무조에서 3주를 보내며 시티의 코드를 배웁니다.\" 이선이 말했다. \"그녀 없이는 기계가 85에 못 가니까요.\" 재원은 투아스의 64명을 생각했다. \"그건 제가 드릴 수 있는 게 아니라 웨이링에게 물으셔야 합니다.\" 그가 말했다."
+        },
+        {
+          "en": "Next came the cap on what Corvane would pay if its system failed. Ethan offered one year of fees, a hundred and eighty thousand. Jae-won asked, \"What's your best number on the cap?\" \"Two years, three hundred and sixty thousand, and that's as far as I can go,\" Ethan said.",
+          "ko": "다음은 시스템이 실패할 때 코르베인이 낼 금액의 상한이었다. 이선은 1년 치 수수료인 18만 달러를 제시했다. 재원이 물었다. \"상한에 대해 제시할 수 있는 최선의 숫자는 얼마입니까?\" \"2년 치, 36만 달러이고 그게 제 한계입니다.\" 이선이 말했다."
+        },
+        {
+          "en": "\"Go-live also depends on one clean month-end, run in parallel,\" he said. Ethan's lawyer said that this wasn't on any standard list. \"If you can't meet that, we'll go to Ostrel,\" Jae-won said.",
+          "ko": "\"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\" 그가 말했다. 이선의 변호사가 그런 건 어떤 표준 목록에도 없다고 말했다. \"그걸 맞추지 못하신다면 오스트렐로 가겠습니다.\" 재원이 말했다."
+        },
+        {
+          "en": "Ethan looked at the line, and then he stood up. \"Can I have a word with you outside?\" he said.",
+          "ko": "이선은 그 줄을 바라보더니 일어섰다. \"밖에서 잠깐 얘기할 수 있을까요?\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd want that tied to",
+        "What's your best number on",
+        "If you can't meet"
+      ],
+      "wordCandidates": [
+        {
+          "term": "lawyer",
+          "surface": "lawyer",
+          "meaningKo": "변호사",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Friday at eight, Jae-won put one page on the table, with Arjun beside him and Ethan and his lawyer across from him.",
+            "ko": "금요일 8시, 재원은 아르준을 옆에 두고 이선과 그의 변호사를 마주한 채 한 장을 테이블에 올렸다."
+          }
+        },
+        {
+          "term": "unpaid",
+          "surface": "unpaid",
+          "meaningKo": "지급되지 않은",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ethan agreed to leave forty percent of the first year, seventy-two thousand dollars, unpaid until then.",
+            "ko": "이선은 첫해 수수료의 40퍼센트인 7만 2천 달러를 그때까지 받지 않기로 동의했다."
+          }
+        },
+        {
+          "term": "cap",
+          "surface": "cap",
+          "meaningKo": "상한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Next came the cap on what Corvane would pay if its system failed.",
+            "ko": "다음은 시스템이 실패할 때 코르베인이 낼 금액의 상한이었다."
+          }
+        },
+        {
+          "term": "in parallel",
+          "surface": "in parallel",
+          "meaningKo": "병행하여",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Go-live also depends on one clean month-end, run in parallel,\" he said.",
+            "ko": "\"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\""
+          }
+        },
+        {
+          "term": "standard",
+          "surface": "standard list",
+          "meaningKo": "표준 목록",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan's lawyer said that this wasn't on any standard list.",
+            "ko": "이선의 변호사가 그런 건 어떤 표준 목록에도 없다고 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 337,
+      "paragraphs": [
+        {
+          "en": "On Friday at eight, Jae-won put one page on the table, with Arjun and Priscilla Goh beside him and Ethan and his lawyer across from him. \"Eighty-five percent per document, on forms you haven't seen, chosen by the floor, by week ten,\" he said. \"We'd want that tied to your fee.\" The lawyer began a sentence about industry practice, but Ethan stopped him and agreed to leave forty percent of the first year, seventy-two thousand dollars, unpaid until then.",
+          "ko": "금요일 8시, 재원은 아르준과 프리실라 고를 옆에 두고 이선과 그의 변호사를 마주한 채 한 장을 테이블에 올렸다. \"10주 차까지, 현장이 고른 처음 보는 양식에서 서류 단위 85퍼센트입니다.\" 그가 말했다. \"그건 수수료와 연동했으면 합니다.\" 변호사가 업계 관행에 대해 말을 꺼냈지만, 이선이 막고 첫해 수수료의 40퍼센트인 7만 2천 달러를 그때까지 받지 않기로 동의했다."
+        },
+        {
+          "en": "Then Ethan gave his condition. \"Cole spends three weeks on your night shift, learning Siti's code,\" he said, \"because the machine can't get to eighty-five without her.\" Jae-won thought of the sixty-four people at Tuas, and of who would be teaching what to whom. \"That isn't mine to give, so you'll have to ask Wei Ling, and she may say no,\" he said. Ethan said that he had expected that answer and would go himself.",
+          "ko": "그러자 이선이 자기 조건을 말했다. \"콜이 야간 근무조에서 3주를 보내며 시티의 코드를 배웁니다.\" 그가 말했다. \"그녀 없이는 기계가 85에 못 가니까요.\" 재원은 투아스의 64명과, 누가 누구에게 무엇을 가르치게 되는지를 생각했다. \"그건 제가 드릴 수 있는 게 아니라 웨이링에게 물으셔야 하고, 안 된다고 할 수도 있습니다.\" 그가 말했다. 이선은 그런 답을 예상했고 직접 가겠다고 말했다."
+        },
+        {
+          "en": "Next came the cap on what Corvane would pay if its system failed. Ethan offered one year of fees, a hundred and eighty thousand, and Jae-won asked for three years. \"I can move on the holdback, but not on that,\" Ethan said. Jae-won asked, \"What's your best number on the cap?\" \"Two years, three hundred and sixty thousand, and that's as far as I can go,\" Ethan said. Arjun nodded once, and Priscilla wrote the figure beside page thirty-one, where the gap still was.",
+          "ko": "다음은 시스템이 실패할 때 코르베인이 낼 금액의 상한이었다. 이선은 1년 치 수수료인 18만 달러를 제시했고, 재원은 3년 치를 요구했다. \"보류금은 움직일 수 있지만 그건 안 됩니다.\" 이선이 말했다. 재원이 물었다. \"상한에 대해 제시할 수 있는 최선의 숫자는 얼마입니까?\" \"2년 치, 36만 달러이고 그게 제 한계입니다.\" 이선이 말했다. 아르준이 고개를 한 번 끄덕였고, 프리실라는 빈틈이 여전히 남아 있는 31쪽 옆에 그 숫자를 적었다."
+        },
+        {
+          "en": "Jae-won turned to the last line, which he had written himself at two that morning. \"Go-live also depends on one clean month-end, run in parallel,\" he said. Ethan's lawyer said that this wasn't on any standard list and that nobody had asked for it. \"If you can't meet that, we'll go to Ostrel,\" Jae-won said.",
+          "ko": "재원은 그날 새벽 2시에 직접 쓴 마지막 줄로 넘어갔다. \"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\" 그가 말했다. 이선의 변호사가 그런 건 어떤 표준 목록에도 없고 요구한 사람도 없다고 말했다. \"그걸 맞추지 못하신다면 오스트렐로 가겠습니다.\" 재원이 말했다."
+        },
+        {
+          "en": "Nobody moved, and Arjun looked up, because the page he had read at seven hadn't explained that line. Ethan looked at it for some time, and then he stood up and buttoned his jacket. \"Can I have a word with you outside?\" he said.",
+          "ko": "아무도 움직이지 않았고, 아르준이 고개를 들었다. 그가 7시에 읽은 그 장에는 그 줄에 대한 설명이 없었기 때문이다. 이선은 그 줄을 한동안 바라보더니 일어서서 재킷 단추를 잠갔다. \"밖에서 잠깐 얘기할 수 있을까요?\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd want that tied to",
+        "What's your best number on",
+        "If you can't meet"
+      ],
+      "wordCandidates": [
+        {
+          "term": "industry practice",
+          "surface": "industry practice",
+          "meaningKo": "업계 관행",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The lawyer began a sentence about industry practice, but Ethan stopped him and agreed to leave forty percent of the first year, seventy-two thousand dollars, unpaid until then.",
+            "ko": "변호사가 업계 관행에 대해 말을 꺼냈지만, 이선이 막고 첫해 수수료의 40퍼센트인 7만 2천 달러를 그때까지 받지 않기로 동의했다."
+          }
+        },
+        {
+          "term": "holdback",
+          "surface": "holdback",
+          "meaningKo": "보류금",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"I can move on the holdback, but not on that,\" Ethan said.",
+            "ko": "\"보류금은 움직일 수 있지만 그건 안 됩니다.\""
+          }
+        },
+        {
+          "term": "figure",
+          "surface": "figure",
+          "meaningKo": "숫자, 수치",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Arjun nodded once, and Priscilla wrote the figure beside page thirty-one, where the gap still was.",
+            "ko": "아르준이 고개를 한 번 끄덕였고, 프리실라는 빈틈이 여전히 남아 있는 31쪽 옆에 그 숫자를 적었다."
+          }
+        },
+        {
+          "term": "go-live",
+          "surface": "Go-live",
+          "meaningKo": "가동 (시작)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Go-live also depends on one clean month-end, run in parallel,\" he said.",
+            "ko": "\"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\""
+          }
+        },
+        {
+          "term": "button",
+          "surface": "buttoned",
+          "meaningKo": "단추를 잠그다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Ethan looked at it for some time, and then he stood up and buttoned his jacket.",
+            "ko": "이선은 그 줄을 한동안 바라보더니 일어서서 재킷 단추를 잠갔다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 449,
+      "paragraphs": [
+        {
+          "en": "On Friday at eight, Jae-won put one page on the table, with Arjun and Priscilla Goh beside him and Ethan and his lawyer across from him, and Priscilla poured tea for everyone as if they had come to discuss a wedding. \"Eighty-five percent per document, on forms you haven't seen, chosen by the floor, by week ten,\" he said. \"We'd want that tied to your fee.\" The lawyer began a sentence about industry practice, which promised to be long, but Ethan stopped him with one finger and agreed to leave forty percent of the first year, seventy-two thousand dollars, unpaid until then.",
+          "ko": "금요일 8시, 재원은 아르준과 프리실라 고를 옆에 두고 이선과 그의 변호사를 마주한 채 한 장을 테이블에 올렸고, 프리실라는 결혼 얘기라도 하러 온 듯 모두에게 차를 따랐다. \"10주 차까지, 현장이 고른 처음 보는 양식에서 서류 단위 85퍼센트입니다.\" 그가 말했다. \"그건 수수료와 연동했으면 합니다.\" 변호사가 업계 관행에 대해 길어질 것 같은 문장을 시작했지만, 이선이 손가락 하나로 막고 첫해 수수료의 40퍼센트인 7만 2천 달러를 그때까지 받지 않기로 동의했다."
+        },
+        {
+          "en": "Then Ethan gave his condition, and he did not dress it up. \"Cole spends three weeks on your night shift, learning Siti's code,\" he said, \"because the machine can't get to eighty-five without her, and you know that better than I do.\" Jae-won thought of the sixty-four people at Tuas, and of who would be teaching what to whom, and of the fact that nobody in this room would be on that dock when it happened. \"That isn't mine to give, so you'll have to ask Wei Ling, and she may say no,\" he said. Ethan said that he had expected that answer and would go himself, in boots if required.",
+          "ko": "그러자 이선이 꾸밈없이 자기 조건을 말했다. \"콜이 야간 근무조에서 3주를 보내며 시티의 코드를 배웁니다.\" 그가 말했다. \"그녀 없이는 기계가 85에 못 가니까요. 그건 저보다 잘 아시잖아요.\" 재원은 투아스의 64명과, 누가 누구에게 무엇을 가르치게 되는지와, 그 일이 벌어질 때 이 방의 누구도 그 도크에 없으리라는 사실을 생각했다. \"그건 제가 드릴 수 있는 게 아니라 웨이링에게 물으셔야 하고, 안 된다고 할 수도 있습니다.\" 그가 말했다. 이선은 그런 답을 예상했고, 필요하다면 안전화를 신고 직접 가겠다고 말했다."
+        },
+        {
+          "en": "Next came the cap on what Corvane would pay if its system failed. Ethan offered one year of fees, a hundred and eighty thousand, and Jae-won asked for three years, knowing that neither of them believed it. \"I can move on the holdback, but not on that,\" Ethan said, \"since my board has views.\" Jae-won asked, \"What's your best number on the cap?\" \"Two years, three hundred and sixty thousand, and that's as far as I can go,\" Ethan said. Arjun nodded once, and Priscilla wrote the figure beside page thirty-one, where the gap had narrowed without closing.",
+          "ko": "다음은 시스템이 실패할 때 코르베인이 낼 금액의 상한이었다. 이선은 1년 치 수수료인 18만 달러를 제시했고, 재원은 둘 다 믿지 않는다는 걸 알면서 3년 치를 요구했다. \"보류금은 움직일 수 있지만 그건 안 됩니다. 저희 이사회에 의견이 있어서요.\" 이선이 말했다. 재원이 물었다. \"상한에 대해 제시할 수 있는 최선의 숫자는 얼마입니까?\" \"2년 치, 36만 달러이고 그게 제 한계입니다.\" 이선이 말했다. 아르준이 고개를 한 번 끄덕였고, 프리실라는 31쪽 옆에 그 숫자를 적었다. 빈틈은 좁아졌지만 닫히지는 않았다."
+        },
+        {
+          "en": "Jae-won turned to the last line, which he had written himself at two that morning and deleted twice. \"Go-live also depends on one clean month-end, run in parallel,\" he said, as evenly as he had said everything else. Ethan's lawyer said that this wasn't on any standard list, that nobody had asked for it, and that he would be curious to know where it had come from. \"If you can't meet that, we'll go to Ostrel,\" Jae-won said, which answered none of those points.",
+          "ko": "재원은 그날 새벽 2시에 직접 쓰고 두 번 지웠던 마지막 줄로 넘어갔다. \"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\" 그가 다른 말을 할 때와 똑같이 담담하게 말했다. 이선의 변호사가 그런 건 어떤 표준 목록에도 없고, 요구한 사람도 없으며, 어디서 나온 것인지 궁금하다고 말했다. \"그걸 맞추지 못하신다면 오스트렐로 가겠습니다.\" 재원이 말했다. 어느 쪽에도 답이 되지 않는 말이었다."
+        },
+        {
+          "en": "Nobody moved, and Arjun looked up, because the page he had read at seven hadn't explained that line, and unexplained lines were what he did for a living. Ethan looked at it for some time, and then he stood up and buttoned his jacket. \"Can I have a word with you outside?\" he said.",
+          "ko": "아무도 움직이지 않았고, 아르준이 고개를 들었다. 그가 7시에 읽은 그 장에는 그 줄에 대한 설명이 없었는데, 설명 없는 줄을 파고드는 것이 그의 직업이었다. 이선은 그 줄을 한동안 바라보더니 일어서서 재킷 단추를 잠갔다. \"밖에서 잠깐 얘기할 수 있을까요?\" 그가 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd want that tied to",
+        "What's your best number on",
+        "If you can't meet"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dress up",
+          "surface": "dress it up",
+          "meaningKo": "꾸미다, 포장하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Then Ethan gave his condition, and he did not dress it up.",
+            "ko": "그러자 이선이 꾸밈없이 자기 조건을 말했다."
+          }
+        },
+        {
+          "term": "in boots",
+          "surface": "in boots",
+          "meaningKo": "안전화를 신고",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Ethan said that he had expected that answer and would go himself, in boots if required.",
+            "ko": "이선은 그런 답을 예상했고, 필요하다면 안전화를 신고 직접 가겠다고 말했다."
+          }
+        },
+        {
+          "term": "narrow",
+          "surface": "narrowed",
+          "meaningKo": "좁아지다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Arjun nodded once, and Priscilla wrote the figure beside page thirty-one, where the gap had narrowed without closing.",
+            "ko": "아르준이 고개를 한 번 끄덕였고, 프리실라는 31쪽 옆에 그 숫자를 적었다. 빈틈은 좁아졌지만 닫히지는 않았다."
+          }
+        },
+        {
+          "term": "evenly",
+          "surface": "evenly",
+          "meaningKo": "담담하게, 고르게",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Go-live also depends on one clean month-end, run in parallel,\" he said, as evenly as he had said everything else.",
+            "ko": "\"가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.\" 그가 다른 말을 할 때와 똑같이 담담하게 말했다."
+          }
+        },
+        {
+          "term": "curious",
+          "surface": "curious",
+          "meaningKo": "궁금한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Ethan's lawyer said that this wasn't on any standard list, that nobody had asked for it, and that he would be curious to know where it had come from.",
+            "ko": "이선의 변호사가 그런 건 어떤 표준 목록에도 없고, 요구한 사람도 없으며, 어디서 나온 것인지 궁금하다고 말했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What cap did Ethan finally offer?",
+      "options": [
+        "One year of fees, a hundred and eighty thousand",
+        "Forty percent of the first year",
+        "Two years, three hundred and sixty thousand",
+        "Three years of fees"
+      ],
+      "answerIndex": 2,
+      "evidence": "Two years, three hundred and sixty thousand, and that's as far as I can go"
+    },
+    {
+      "question": "Why does Ethan ask for a word outside after reading the last line?",
+      "options": [
+        "He realizes that the month-end line touches what he told Jae-won in private",
+        "He wants to tell Jae-won that Cole has resigned",
+        "He needs more tea before he can answer",
+        "He is pleased and wants to thank Jae-won"
+      ],
+      "answerIndex": 0,
+      "evidence": "Can I have a word with you outside?"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "We'd want that tied to your fee.",
+      "What's your best number on the cap?",
+      "If you can't meet that, we'll go to Ostrel."
+    ],
+    "summaryPromptKo": "성능 보장과 보류금 조건, 이선의 조건과 재원의 대답, 책임 상한의 결과를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "Forty percent held back and a cap of two years. Why should I accept a cap that may not cover a real failure?",
+      "ko": "40퍼센트 보류에 상한 2년 치라. 실제 실패를 다 못 막을 수도 있는 상한을 왜 받아들여야 합니까?"
+    },
+    "modelAnswer": "You shouldn't think of it as cover, and I won't pretend it closes the gap on page thirty-one. Three hundred and sixty thousand is what Ethan would sign today, and that's as far as he can go. What protects you is earlier: the fee is tied to eighty-five percent on forms he hasn't seen, and nothing runs without a clean month-end. If he can't meet that, you don't lose a customs filing. You lose a vendor."
+  },
+  "nextTeaserKo": "복도에서 이선이 묻는다. 내가 비공개로 한 말을 쓰고 있는 겁니까. 재원은 약속을 지켰지만, 그 약속 때문에 그레이스는 아직 아무것도 모른다. 회의실로 돌아갈 때 그 줄은 누가 설명하게 될까.",
+  "roleplay": {
+    "title": "마지막 줄",
+    "situationKo": "금요일 8시, 한 장을 두고 이선과 마주 앉았습니다. 받아 낼 것과 넘겨줄 것을 하나씩 정리해 보세요. 숫자가 막히면 힌트를 봐도 괜찮습니다.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "You've got your page. Go ahead.",
+        "ko": "그 한 장 가져오셨군요. 시작하시죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Eighty-five percent per document, on forms you haven't seen, by week ten. We'd want that tied to your fee.",
+        "ko": "10주 차까지, 처음 보는 양식에서 서류 단위 85퍼센트입니다. 그건 수수료와 연동했으면 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Forty percent of the first year. Seventy-two thousand stays unpaid until then. Now my condition: Cole spends three weeks on your night shift.",
+        "ko": "첫해의 40퍼센트, 7만 2천 달러를 그때까지 받지 않죠. 이제 제 조건입니다. 콜이 야간 근무조에서 3주를 보냅니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That isn't mine to give. You'll have to ask Wei Ling, and she may say no.",
+        "ko": "그건 제가 드릴 수 있는 게 아닙니다. 웨이링에게 물으셔야 하고, 안 된다고 할 수도 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "I expected that. On the cap, one year of fees. A hundred and eighty thousand.",
+        "ko": "그럴 줄 알았습니다. 상한은 1년 치 수수료, 18만 달러입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That won't work for us. What's your best number on the cap?",
+        "ko": "그건 저희에게 안 됩니다. 상한에 대해 제시할 수 있는 최선의 숫자는 얼마입니까?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Two years, three hundred and sixty thousand. That's as far as I can go.",
+        "ko": "2년 치, 36만 달러입니다. 그게 제 한계예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "All right. Last line. Go-live also depends on one clean month-end, run in parallel.",
+        "ko": "좋습니다. 마지막 줄입니다. 가동은 병행 운영으로 깨끗한 월말을 한 번 넘기는 것도 조건입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "That's not on any standard list.",
+        "ko": "그건 어떤 표준 목록에도 없습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, it isn't. If you can't meet that, we'll go to Ostrel.",
+        "ko": "네, 없습니다. 그걸 맞추지 못하신다면 오스트렐로 가겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Can I have a word with you outside?",
+        "ko": "밖에서 잠깐 얘기할 수 있을까요?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "id": "keynote-s2-e01",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 1,
+  "title": "The Offer",
+  "recapKo": "시즌 1의 끝. 재원은 800명 앞 키노트와 이선 울프와의 패널을 마쳤고, 조찬에서 그레이스 림에게 월 통관 서류 4만 건, 그중 3분의 1 수기 재입력, 16주 프로젝트 이야기를 들었다. \"인력 배치는 헬렌이 결정합니다\"라고 답한 재원에게 헬렌은 \"달갑지 않을 질문이 있다\"고 했다. 그레이스의 답은 짧았다. \"2주 뒤 9시, 제 사무실.\"",
+  "keyExpressions": [
+    {
+      "phrase": "What does success look like ~?",
+      "meaningKo": "~의 성공 기준은 무엇인가요?",
+      "usage": "What does success look like at week sixteen?"
+    },
+    {
+      "phrase": "Who has the final say on ~?",
+      "meaningKo": "~에 대한 최종 결정권은 누구에게 있나요?",
+      "usage": "Who has the final say on the budget?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "Two weeks later, on Friday, Jae-won sat in a coffee shop below the Straits Meridian building with Helen on his phone. \"Kwon wants a partner to run this, because you've never led anything this size,\" she said from Seattle.",
+          "ko": "2주 뒤 금요일, 재원은 스트레이츠 메리디안 건물 아래 커피숍에서 헬렌과 통화하고 있었다. \"권 파트너는 파트너가 이 일을 맡기를 원해요. 당신은 이 정도 규모를 이끌어 본 적이 없으니까요.\" 그녀가 시애틀에서 말했다."
+        },
+        {
+          "en": "\"You check every line you sign, but forty thousand documents a month means you can't, so whose word will you trust?\" He took three seconds and said, \"To be honest, I don't know yet.\" \"Good, but if you want this job, say so yourself,\" she said.",
+          "ko": "\"당신은 서명하는 모든 줄을 확인하죠. 하지만 한 달에 서류 4만 건이면 그럴 수 없어요. 그럼 누구의 말을 믿을 건가요?\" 그는 3초를 쓴 뒤 말했다. \"솔직히 말씀드리면 아직 모르겠습니다.\" \"좋아요. 하지만 이 일을 원하면 직접 말해요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Grace Lim's office was small. His one page lay on her table with one line crossed out in pencil. Yuna sat beside him, and Helen watched from a screen. \"Sixteen weeks, English only, a steering committee every four weeks, and him on site,\" Grace said. \"That's the offer.\"",
+          "ko": "그레이스 림의 사무실은 작았고, 그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다. 유나가 옆에 앉았고 헬렌은 화면으로 지켜봤다. \"16주, 영어로만, 4주마다 운영위원회, 그리고 이분은 현장 상주.\" 그레이스가 말했다. \"그게 제안이에요.\""
+        },
+        {
+          "en": "Jae-won asked, \"What does success look like at week sixteen?\" Grace said that one document in three got re-keyed by hand today, and she wanted one in ten.",
+          "ko": "재원이 물었다. \"16주 차의 성공 기준은 무엇인가요?\" 그레이스는 지금은 서류 세 건 중 한 건을 손으로 다시 입력하는데, 열 건 중 한 건을 원한다고 말했다."
+        },
+        {
+          "en": "He also asked, \"Who has the final say on scope?\" Grace said that she did, but the money went through Arjun Menon, her CFO. \"The floor belongs to Wei Ling Tan, who can't stop you, but she can make you fail,\" she said.",
+          "ko": "그는 또 물었다. \"범위에 대한 최종 결정권은 누구에게 있나요?\" 그레이스는 자신에게 있지만 돈은 CFO인 아르준 메논을 거친다고 말했다. \"현장은 웨이링 탄의 것이에요. 당신을 막을 수는 없지만 실패하게 만들 수는 있죠.\" 그녀가 말했다."
+        },
+        {
+          "en": "Grace asked Helen who would lead the project. \"I've decided half of it,\" Helen said. \"The other half is sitting across from you, so ask him.\"",
+          "ko": "그레이스가 헬렌에게 누가 프로젝트를 이끌지 물었다. \"절반은 정했어요.\" 헬렌이 말했다. \"나머지 절반은 맞은편에 앉아 있으니 그에게 물어보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What does success look like",
+        "Who has the final say on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "crossed out",
+          "surface": "crossed out",
+          "meaningKo": "줄을 그어 지운",
+          "paragraph": 2,
+          "sentence": {
+            "en": "His one page lay on her table with one line crossed out in pencil.",
+            "ko": "그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다."
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sixteen weeks, English only, a steering committee every four weeks, and him on site,\" Grace said.",
+            "ko": "\"16주, 영어로만, 4주마다 운영위원회, 그리고 이분은 현장 상주.\" 그레이스가 말했다."
+          }
+        },
+        {
+          "term": "on site",
+          "surface": "on site",
+          "meaningKo": "현장에 상주하는",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sixteen weeks, English only, a steering committee every four weeks, and him on site,\" Grace said.",
+            "ko": "\"16주, 영어로만, 4주마다 운영위원회, 그리고 이분은 현장 상주.\" 그레이스가 말했다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-keyed",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace said that one document in three got re-keyed by hand today, and she wanted one in ten.",
+            "ko": "그레이스는 지금은 서류 세 건 중 한 건을 손으로 다시 입력하는데, 열 건 중 한 건을 원한다고 말했다."
+          }
+        },
+        {
+          "term": "scope",
+          "surface": "scope",
+          "meaningKo": "(업무) 범위",
+          "paragraph": 4,
+          "sentence": {
+            "en": "He also asked, \"Who has the final say on scope?\"",
+            "ko": "그는 또 물었다. \"범위에 대한 최종 결정권은 누구에게 있나요?\""
+          }
+        },
+        {
+          "term": "floor",
+          "surface": "floor",
+          "meaningKo": "작업 현장",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"The floor belongs to Wei Ling Tan, who can't stop you, but she can make you fail,\" she said.",
+            "ko": "\"현장은 웨이링 탄의 것이에요. 당신을 막을 수는 없지만 실패하게 만들 수는 있죠.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 360,
+      "paragraphs": [
+        {
+          "en": "Two weeks later, at 8:20 on Friday morning, Jae-won sat in the coffee shop below the Straits Meridian building with Helen on his phone. It was early evening in Seattle, her mother was asleep, and she'd finally got around to the conversation she had been putting off. \"Kwon wants a partner running this, and I can't say he's wrong, because you've never led anything this size,\" she said.",
+          "ko": "2주 뒤 금요일 아침 8시 20분, 재원은 스트레이츠 메리디안 건물 아래 커피숍에서 헬렌과 통화하고 있었다. 시애틀은 초저녁이었고 어머니는 잠들어 있었으며, 헬렌은 미뤄 왔던 대화를 드디어 꺼냈다. \"권 파트너는 파트너가 이 일을 맡기를 원해요. 틀린 말이라고는 못 하겠어요. 당신은 이 정도 규모를 이끌어 본 적이 없으니까요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"Here's the question you won't like,\" she went on. \"You check every line you sign, but forty thousand documents a month means you can't, so when you have to sign something on someone else's word, whose word is it, and what do you do when it's wrong?\" He took his three seconds and said, \"To be honest, I don't know yet.\" \"Good, because that's the only answer I'd have believed,\" she said. \"It's also your case for partner, so if you want this, say so yourself, in the room.\"",
+          "ko": "\"달갑지 않을 질문이 있어요.\" 그녀가 말을 이었다. \"당신은 서명하는 모든 줄을 확인하죠. 하지만 한 달에 서류 4만 건이면 그럴 수 없어요. 다른 사람 말을 믿고 서명해야 할 때, 그게 누구의 말이고, 그 말이 틀리면 어떻게 할 건가요?\" 그는 3초를 쓴 뒤 말했다. \"솔직히 말씀드리면 아직 모르겠습니다.\" \"좋아요. 내가 믿을 수 있는 답은 그것뿐이었으니까요.\" 그녀가 말했다. \"이건 당신의 파트너 승진 근거이기도 해요. 그러니 원한다면 그 방에서 직접 말해요.\""
+        },
+        {
+          "en": "Grace Lim's office was smaller than he'd expected, and his one page lay on the table with a single line crossed out in pencil: \"We are excited about this opportunity.\" Yuna sat beside him, and Helen watched from a screen. \"Sixteen weeks on warehouse and customs paperwork, English only, a steering committee every four weeks, and him on site rather than a partner who flies in,\" Grace said. \"That's the offer.\"",
+          "ko": "그레이스 림의 사무실은 생각보다 작았고, 그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다. \"이번 기회에 무척 기대가 큽니다.\" 유나가 옆에 앉았고 헬렌은 벽의 화면으로 지켜봤다. \"창고와 통관 서류를 다루는 16주, 영어로만, 4주마다 운영위원회, 그리고 날아오는 파트너가 아니라 이분이 현장 상주.\" 그레이스가 말했다. \"그게 제안이에요.\""
+        },
+        {
+          "en": "\"What does success look like at week sixteen?\" Jae-won asked. \"Today one document in three gets re-keyed by hand, and I want that down to one in ten, across all forty thousand,\" she said. He wrote it down and left it alone for now.",
+          "ko": "\"16주 차의 성공 기준은 무엇인가요?\" 재원이 물었다. \"지금은 서류 세 건 중 한 건을 손으로 다시 입력해요. 그걸 4만 건 전체에서 열 건 중 한 건으로 줄이고 싶어요.\" 그녀가 말했다. 그는 그것을 받아 적고 일단 그대로 두었다."
+        },
+        {
+          "en": "\"Who has the final say on scope?\" he asked. \"I do, but the money runs through Arjun Menon, my CFO, and the floor belongs to Wei Ling Tan, who's been there for twenty years,\" she said. \"She can't stop you, but she can make sure you fail, and she'd be polite about it.\"",
+          "ko": "\"범위에 대한 최종 결정권은 누구에게 있나요?\" 그가 물었다. \"저예요. 하지만 돈은 CFO인 아르준 메논을 거치고, 현장은 20년을 거기 있었던 웨이링 탄의 것이에요.\" 그녀가 말했다. \"당신을 막을 수는 없지만 실패하게 만들 수는 있고, 그것도 아주 정중하게 할 거예요.\""
+        },
+        {
+          "en": "Grace looked up at the screen and said, \"Helen, you said you'd decide who leads by today.\" \"I've decided half of it,\" Helen said. \"The other half is sitting across from you, so ask him.\"",
+          "ko": "그레이스가 화면을 올려다보며 말했다. \"헬렌, 누가 이끌지 오늘까지 정한다고 했죠.\" \"절반은 정했어요.\" 헬렌이 말했다. \"나머지 절반은 맞은편에 앉아 있으니 그에게 물어보세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What does success look like",
+        "Who has the final say on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "get around to",
+          "surface": "got around to",
+          "meaningKo": "(미루던 일을) 드디어 하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It was early evening in Seattle, her mother was asleep, and she'd finally got around to the conversation she had been putting off.",
+            "ko": "시애틀은 초저녁이었고 어머니는 잠들어 있었으며, 헬렌은 미뤄 왔던 대화를 드디어 꺼냈다."
+          }
+        },
+        {
+          "term": "put off",
+          "surface": "putting off",
+          "meaningKo": "미루다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It was early evening in Seattle, her mother was asleep, and she'd finally got around to the conversation she had been putting off.",
+            "ko": "시애틀은 초저녁이었고 어머니는 잠들어 있었으며, 헬렌은 미뤄 왔던 대화를 드디어 꺼냈다."
+          }
+        },
+        {
+          "term": "crossed out",
+          "surface": "crossed out",
+          "meaningKo": "줄을 그어 지운",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Grace Lim's office was smaller than he'd expected, and his one page lay on the table with a single line crossed out in pencil: \"We are excited about this opportunity.\"",
+            "ko": "그레이스 림의 사무실은 생각보다 작았고, 그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다. \"이번 기회에 무척 기대가 큽니다.\""
+          }
+        },
+        {
+          "term": "customs paperwork",
+          "surface": "customs paperwork",
+          "meaningKo": "통관 서류",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sixteen weeks on warehouse and customs paperwork, English only, a steering committee every four weeks, and him on site rather than a partner who flies in,\" Grace said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주, 영어로만, 4주마다 운영위원회, 그리고 날아오는 파트너가 아니라 이분이 현장 상주.\" 그레이스가 말했다."
+          }
+        },
+        {
+          "term": "steering committee",
+          "surface": "steering committee",
+          "meaningKo": "운영위원회",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Sixteen weeks on warehouse and customs paperwork, English only, a steering committee every four weeks, and him on site rather than a partner who flies in,\" Grace said.",
+            "ko": "\"창고와 통관 서류를 다루는 16주, 영어로만, 4주마다 운영위원회, 그리고 날아오는 파트너가 아니라 이분이 현장 상주.\" 그레이스가 말했다."
+          }
+        },
+        {
+          "term": "re-key",
+          "surface": "re-keyed",
+          "meaningKo": "다시 입력하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Today one document in three gets re-keyed by hand, and I want that down to one in ten, across all forty thousand,\" she said.",
+            "ko": "\"지금은 서류 세 건 중 한 건을 손으로 다시 입력해요. 그걸 4만 건 전체에서 열 건 중 한 건으로 줄이고 싶어요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 517,
+      "paragraphs": [
+        {
+          "en": "Two weeks later, at 8:20 on Friday morning, Jae-won sat in the coffee shop below the Straits Meridian building with a flat white he wasn't drinking and Helen on his phone. It was early evening in Seattle, her mother was finally asleep after an argument about soup, and Helen had at last got around to the conversation she'd been putting off since the airport. \"Kwon wants a partner running this, ideally himself, and I can't say he's wrong to ask, because you've never led anything this size,\" she said.",
+          "ko": "2주 뒤 금요일 아침 8시 20분, 재원은 스트레이츠 메리디안 건물 아래 커피숍에서 마시지도 않는 플랫 화이트를 앞에 두고 헬렌과 통화하고 있었다. 시애틀은 초저녁이었고 어머니는 수프를 두고 한바탕 다툰 뒤 마침내 잠들었으며, 헬렌은 공항 이후로 미뤄 왔던 대화를 드디어 꺼냈다. \"권 파트너는 파트너가, 그것도 되도록 자기가 이 일을 맡기를 원해요. 틀린 요구라고는 못 하겠어요. 당신은 이 정도 규모를 이끌어 본 적이 없으니까요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"So here's the question you won't like,\" she went on, in the voice she used for other people's slides. \"You check every line you sign, and after the keynote I understand exactly why, but forty thousand documents a month means that you can't, so when you have to sign something on someone else's word, whose word is it, and what do you do on the day it turns out to be wrong?\" He took his three seconds and gave up looking for something better. \"To be honest, I don't know yet,\" he said. \"Good, because that's the only answer I'd have believed,\" she said. \"It's also your case for partner, for better or worse, so if you want this, you'll say so yourself, in the room.\"",
+          "ko": "\"그러니 달갑지 않을 질문을 할게요.\" 그녀가 남의 슬라이드를 볼 때 쓰는 목소리로 말을 이었다. \"당신은 서명하는 모든 줄을 확인하죠. 키노트 이후로는 그 이유도 정확히 이해해요. 하지만 한 달에 서류 4만 건이면 그럴 수 없어요. 다른 사람 말을 믿고 서명해야 할 때, 그게 누구의 말이고, 그 말이 틀린 것으로 드러나는 날 어떻게 할 건가요?\" 그는 3초를 쓴 뒤 더 나은 답을 찾는 것을 포기했다. \"솔직히 말씀드리면 아직 모르겠습니다.\" 그가 말했다. \"좋아요. 내가 믿을 수 있는 답은 그것뿐이었으니까요.\" 그녀가 말했다. \"좋든 나쁘든 이건 당신의 파트너 승진 근거이기도 해요. 그러니 원한다면 그 방에서 직접 말해요.\""
+        },
+        {
+          "en": "Grace Lim's office was smaller than he'd expected, with cartons of customs forms along one wall, and his one page lay on the table with a single line crossed out in pencil: \"We are excited about this opportunity.\" Yuna sat beside him with a pen she'd already uncapped, and Helen watched from a screen on the wall. \"Sixteen weeks on warehouse and customs paperwork, English only, a steering committee every four weeks, and him on site rather than a partner who flies in for the sandwiches,\" Grace said. \"That's the offer, and I've got forty minutes.\"",
+          "ko": "그레이스 림의 사무실은 생각보다 작았고, 한쪽 벽에는 통관 서류 상자가 늘어서 있었으며, 그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다. \"이번 기회에 무척 기대가 큽니다.\" 유나는 이미 뚜껑을 연 펜을 들고 옆에 앉았고, 헬렌은 벽의 화면으로 지켜봤다. \"창고와 통관 서류를 다루는 16주, 영어로만, 4주마다 운영위원회, 그리고 샌드위치 먹으러 날아오는 파트너가 아니라 이분이 현장 상주.\" 그레이스가 말했다. \"그게 제안이고, 제게 40분 있어요.\""
+        },
+        {
+          "en": "\"What does success look like at week sixteen?\" Jae-won asked, because he'd watched enough projects die of a goal that nobody had said out loud. \"Today one document in three gets re-keyed by hand, and I want that down to one in ten, across all forty thousand, at every hub,\" she said. He wrote it down and left it alone for now, the way an auditor leaves a number that he fully intends to come back to.",
+          "ko": "\"16주 차의 성공 기준은 무엇인가요?\" 재원이 물었다. 아무도 소리 내어 말한 적 없는 목표 때문에 죽어 간 프로젝트를 충분히 봐 왔기 때문이다. \"지금은 서류 세 건 중 한 건을 손으로 다시 입력해요. 그걸 모든 거점의 4만 건 전체에서 열 건 중 한 건으로 줄이고 싶어요.\" 그녀가 말했다. 그는 그것을 받아 적고 일단 그대로 두었다. 감사인이 반드시 다시 돌아올 숫자를 놓아두듯이."
+        },
+        {
+          "en": "\"Who has the final say on scope?\" he asked, and Yuna's pen stopped for a moment, because he had asked first what she'd have asked last. \"I do, and don't let anyone in this building tell you otherwise,\" Grace said. \"The money runs through Arjun Menon, my CFO, who reads footnotes for pleasure, and the floor belongs to Wei Ling Tan, who's been there for twenty years. She can't stop you, but she can make sure you fail, and she'd be extremely polite about it.\"",
+          "ko": "\"범위에 대한 최종 결정권은 누구에게 있나요?\" 그가 물었고, 유나의 펜이 잠깐 멈췄다. 그녀라면 맨 나중에 물었을 질문을 그가 맨 먼저 물었기 때문이다. \"저예요. 이 건물의 누가 뭐라 해도요.\" 그레이스가 말했다. \"돈은 각주를 재미로 읽는 CFO 아르준 메논을 거치고, 현장은 20년을 거기 있었던 웨이링 탄의 것이에요. 당신을 막을 수는 없지만 실패하게 만들 수는 있고, 그것도 대단히 정중하게 할 거예요.\""
+        },
+        {
+          "en": "Grace looked up at the screen and said, \"Helen, you told me you'd decide who leads by today, and today has arrived.\" \"I've decided half of it,\" Helen said. \"The other half is sitting across from you, so you might as well ask him.\"",
+          "ko": "그레이스가 화면을 올려다보며 말했다. \"헬렌, 누가 이끌지 오늘까지 정한다고 했죠. 오늘이 왔어요.\" \"절반은 정했어요.\" 헬렌이 말했다. \"나머지 절반은 맞은편에 앉아 있으니 그에게 물어보시죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "What does success look like",
+        "Who has the final say on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "get around to",
+          "surface": "got around to",
+          "meaningKo": "(미루던 일을) 드디어 하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It was early evening in Seattle, her mother was finally asleep after an argument about soup, and Helen had at last got around to the conversation she'd been putting off since the airport.",
+            "ko": "시애틀은 초저녁이었고 어머니는 수프를 두고 한바탕 다툰 뒤 마침내 잠들었으며, 헬렌은 공항 이후로 미뤄 왔던 대화를 드디어 꺼냈다."
+          }
+        },
+        {
+          "term": "for better or worse",
+          "surface": "for better or worse",
+          "meaningKo": "좋든 나쁘든",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"It's also your case for partner, for better or worse, so if you want this, you'll say so yourself, in the room.\"",
+            "ko": "\"좋든 나쁘든 이건 당신의 파트너 승진 근거이기도 해요. 그러니 원한다면 그 방에서 직접 말해요.\""
+          }
+        },
+        {
+          "term": "carton",
+          "surface": "cartons",
+          "meaningKo": "상자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Grace Lim's office was smaller than he'd expected, with cartons of customs forms along one wall, and his one page lay on the table with a single line crossed out in pencil: \"We are excited about this opportunity.\"",
+            "ko": "그레이스 림의 사무실은 생각보다 작았고, 한쪽 벽에는 통관 서류 상자가 늘어서 있었으며, 그의 한 장짜리 문서가 테이블에 놓여 있었는데 한 줄에 연필로 줄이 그어져 있었다. \"이번 기회에 무척 기대가 큽니다.\""
+          }
+        },
+        {
+          "term": "uncap",
+          "surface": "uncapped",
+          "meaningKo": "(펜의) 뚜껑을 열다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Yuna sat beside him with a pen she'd already uncapped, and Helen watched from a screen on the wall.",
+            "ko": "유나는 이미 뚜껑을 연 펜을 들고 옆에 앉았고, 헬렌은 벽의 화면으로 지켜봤다."
+          }
+        },
+        {
+          "term": "out loud",
+          "surface": "out loud",
+          "meaningKo": "소리 내어",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won asked, because he'd watched enough projects die of a goal that nobody had said out loud.",
+            "ko": "재원이 물었다. 아무도 소리 내어 말한 적 없는 목표 때문에 죽어 간 프로젝트를 충분히 봐 왔기 때문이다."
+          }
+        },
+        {
+          "term": "auditor",
+          "surface": "auditor",
+          "meaningKo": "감사인",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He wrote it down and left it alone for now, the way an auditor leaves a number that he fully intends to come back to.",
+            "ko": "그는 그것을 받아 적고 일단 그대로 두었다. 감사인이 반드시 다시 돌아올 숫자를 놓아두듯이."
+          }
+        },
+        {
+          "term": "footnote",
+          "surface": "footnotes",
+          "meaningKo": "각주",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"The money runs through Arjun Menon, my CFO, who reads footnotes for pleasure, and the floor belongs to Wei Ling Tan, who's been there for twenty years.",
+            "ko": "\"돈은 각주를 재미로 읽는 CFO 아르준 메논을 거치고, 현장은 20년을 거기 있었던 웨이링 탄의 것이에요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does Grace want by week sixteen?",
+      "options": [
+        "One document in three re-keyed by hand",
+        "One document in ten re-keyed by hand",
+        "No documents re-keyed by hand",
+        "A smaller team on the floor"
+      ],
+      "answerIndex": 1,
+      "evidence": "Today one document in three gets re-keyed by hand, and I want that down to one in ten, across all forty thousand"
+    },
+    {
+      "question": "Why does Helen tell Grace to ask Jae-won instead of announcing the decision herself?",
+      "options": [
+        "She hasn't read the offer",
+        "She has given the role to Kwon",
+        "She can't hear Grace on the screen",
+        "She wants him to choose the role and say so himself"
+      ],
+      "answerIndex": 3,
+      "evidence": "The other half is sitting across from you, so ask him."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What does success look like at week sixteen?",
+      "Who has the final say on scope?",
+      "To be honest, I don't know yet."
+    ],
+    "summaryPromptKo": "헬렌이 전화로 어떤 질문을 던졌는지, 그레이스의 제안과 성공 기준이 무엇인지, 헬렌이 결정을 어떻게 넘겼는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Helen Park",
+      "en": "Forty thousand documents a month means you can't check every line. So when you sign on someone else's word, whose word is it?",
+      "ko": "한 달에 서류 4만 건이면 모든 줄을 확인할 수 없어요. 그럼 다른 사람 말을 믿고 서명할 때, 그게 누구의 말인가요?"
+    },
+    "modelAnswer": "To be honest, I don't know yet, and I'd rather say that than pretend. Today I check every line I sign, but forty thousand documents a month makes that impossible. So first I need to ask two things in that room: what does success look like at week sixteen, and who has the final say on scope? After that, I can start deciding whose word to rely on."
+  },
+  "nextTeaserKo": "절반은 정했다는 헬렌의 말에 모든 시선이 재원에게 쏠린다. 이 방에서 그는 뭐라고 답할까. 그리고 회의실 밖에는 아직 만나지 못한 두 사람이 기다리고 있다.",
+  "roleplay": {
+    "title": "그레이스 사무실의 제안",
+    "situationKo": "금요일 아침, 그레이스의 작은 사무실입니다. 헬렌은 화면으로 지켜보고 있어요. 제안을 듣고 궁금한 것을 편하게 물어보세요. 막히면 힌트를 봐도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Sixteen weeks, English only, a steering committee every four weeks, and you on site. That's the offer. Ask me what you came to ask.",
+        "ko": "16주, 영어로만, 4주마다 운영위원회, 그리고 당신은 현장 상주. 그게 제안이에요. 물으러 온 걸 물어보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thanks. What does success look like at week sixteen?",
+        "ko": "감사합니다. 16주 차의 성공 기준은 무엇인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Today one document in three gets re-keyed by hand. I want one in ten.",
+        "ko": "지금은 세 건 중 한 건을 손으로 다시 입력해요. 열 건 중 한 건을 원해요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, is that across all forty thousand documents?",
+        "ko": "확인하겠습니다. 서류 4만 건 전체 기준인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "All forty thousand.",
+        "ko": "4만 건 전부요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Okay, I'll come back to that one. Who has the final say on scope?",
+        "ko": "알겠습니다. 그건 다시 얘기하죠. 범위에 대한 최종 결정권은 누구에게 있나요?",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "I do. The money goes through Arjun, and the floor belongs to Wei Ling Tan. She can make you fail.",
+        "ko": "저예요. 돈은 아르준을 거치고 현장은 웨이링 탄의 것이에요. 당신을 실패하게 만들 수도 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I'd better talk to her early.",
+        "ko": "그럼 일찍 만나 보는 게 좋겠네요.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "Helen, you said you'd decide who leads by today.",
+        "ko": "헬렌, 누가 이끌지 오늘까지 정한다고 했죠."
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "I've decided half of it. The other half is sitting across from you, so ask him.",
+        "ko": "절반은 정했어요. 나머지 절반은 맞은편에 앉아 있으니 그에게 물어보세요."
+      }
+    ]
+  }
+}

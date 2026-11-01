@@ -1,0 +1,465 @@
+{
+  "id": "keynote-s2-e07",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 7,
+  "title": "Fine Print",
+  "recapKo": "재원은 아르준의 110만 달러 견적이 데이터가 깨끗하다는 가정 위에 있음을 짚어 냈고, 유나의 네모로 총액 140만 달러(125만 고정, 15만은 16주 차 2천 건 달성 시 지급)에 합의했다. 대신 30일 내 지급과 데이터 책임자를 받았다. 헬렌은 15만 달러가 재원 책임이라고 했다. 그리고 계약서 14조에 \"한도 없이\"가 있었다.",
+  "keyExpressions": [
+    {
+      "phrase": "As drafted, ~",
+      "meaningKo": "현재 문안대로라면, ~",
+      "usage": "As drafted, this clause covers every office in Asia."
+    },
+    {
+      "phrase": "The risk we see is ~",
+      "meaningKo": "저희가 보는 위험은 ~입니다",
+      "usage": "The risk we see is that the deadline falls before the audit."
+    },
+    {
+      "phrase": "Could we revisit ~?",
+      "meaningKo": "~를 다시 검토할 수 있을까요?",
+      "usage": "Could we revisit the payment schedule?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "The next Tuesday, Baek Joon-ho, Seoro's general counsel, put clause fourteen on the hotel table. It said that Seoro was liable without limit for all losses from any system, including customs penalties. \"Nobody from Seoro signs anything that says a system is ready,\" he told Jae-won.",
+          "ko": "다음 주 화요일, 서로 파트너스의 법무 총괄 백준호가 14조를 호텔 테이블에 올려놓았다. 서로가 어떤 시스템에서 나온 모든 손실에 대해, 통관 과태료까지 포함해 한도 없이 책임진다는 내용이었다. \"서로 사람은 시스템이 준비됐다는 어떤 문서에도 서명하지 않습니다.\" 그가 재원에게 말했다."
+        },
+        {
+          "en": "At ten, they met Priscilla Goh, Straits Meridian's head of legal. \"As drafted, this clause makes us liable for a vendor nobody has chosen yet,\" Jae-won said. \"The risk we see is that one bad month could cost more than the whole fee.\" \"We'd need to carve out the vendor's system,\" Baek added.",
+          "ko": "10시에 그들은 스트레이츠 메리디안의 법무 책임자 프리실라 고를 만났다. \"현재 문안대로라면, 이 조항은 아직 아무도 고르지 않은 공급업체까지 저희가 책임지게 합니다.\" 재원이 말했다. \"저희가 보는 위험은 나쁜 한 달이 수수료 전체보다 큰 비용을 낳을 수 있다는 것입니다.\" \"공급업체 시스템은 예외로 빼야 합니다.\" 백준호가 덧붙였다."
+        },
+        {
+          "en": "Priscilla poured the tea slowly. \"So when it fails, you point at the vendor, the vendor points at you, and I hold the fine,\" she said. \"You told eight hundred people that a log can't pick up the phone, so who picks up mine?\"",
+          "ko": "프리실라는 천천히 차를 따랐다. \"그러니까 문제가 생기면 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요.\" 그녀가 말했다. \"로그는 전화기를 못 든다고 800명에게 말씀하셨죠. 그럼 제 전화는 누가 받나요?\""
+        },
+        {
+          "en": "\"That's a fair challenge,\" Jae-won said. \"Could we revisit what the clause is for?\" he asked. \"If you didn't need unlimited money, what would you need?\" She put down the pot and said, \"A name.\"",
+          "ko": "\"타당한 지적입니다.\" 재원이 말했다. \"이 조항의 목적을 다시 검토할 수 있을까요?\" 그가 물었다. \"한도 없는 돈이 필요한 게 아니라면 무엇이 필요하신가요?\" 그녀는 찻주전자를 내려놓고 말했다. \"이름이요.\""
+        },
+        {
+          "en": "Baek's shoe touched his ankle, but he kept going. \"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out,\" he said. \"In exchange for that, no pilot goes live until I sign that the checks in Schedule C are done.\"",
+          "ko": "백준호의 구두가 그의 발목을 건드렸지만 그는 계속했다. \"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다. \"그 대신 부속서 C의 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "As drafted",
+        "The risk we see is",
+        "Could we revisit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "liable",
+          "surface": "liable",
+          "meaningKo": "법적 책임이 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It said that Seoro was liable without limit for all losses from any system, including customs penalties.",
+            "ko": "서로가 어떤 시스템에서 나온 모든 손실에 대해, 통관 과태료까지 포함해 한도 없이 책임진다는 내용이었다."
+          }
+        },
+        {
+          "term": "penalty",
+          "surface": "penalties",
+          "meaningKo": "과태료, 처벌",
+          "paragraph": 0,
+          "sentence": {
+            "en": "It said that Seoro was liable without limit for all losses from any system, including customs penalties.",
+            "ko": "서로가 어떤 시스템에서 나온 모든 손실에 대해, 통관 과태료까지 포함해 한도 없이 책임진다는 내용이었다."
+          }
+        },
+        {
+          "term": "vendor",
+          "surface": "vendor",
+          "meaningKo": "공급업체",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"As drafted, this clause makes us liable for a vendor nobody has chosen yet,\" Jae-won said.",
+            "ko": "\"현재 문안대로라면, 이 조항은 아직 아무도 고르지 않은 공급업체까지 저희가 책임지게 합니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "pour",
+          "surface": "poured",
+          "meaningKo": "따르다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Priscilla poured the tea slowly.",
+            "ko": "프리실라는 천천히 차를 따랐다."
+          }
+        },
+        {
+          "term": "unlimited",
+          "surface": "unlimited",
+          "meaningKo": "한도 없는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"If you didn't need unlimited money, what would you need?\"",
+            "ko": "\"한도 없는 돈이 필요한 게 아니라면 무엇이 필요하신가요?\""
+          }
+        },
+        {
+          "term": "cap",
+          "surface": "cap",
+          "meaningKo": "상한",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out,\" he said.",
+            "ko": "\"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "go live",
+          "surface": "goes live",
+          "meaningKo": "가동을 시작하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"In exchange for that, no pilot goes live until I sign that the checks in Schedule C are done.\"",
+            "ko": "\"그 대신 부속서 C의 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않습니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 345,
+      "paragraphs": [
+        {
+          "en": "The following Tuesday, Baek Joon-ho, Seoro's general counsel, put clause fourteen on the hotel table and tapped it with one finger. \"Seoro shall be liable without limit for all losses arising from any system or recommendation, including customs penalties,\" he read. \"We carve that out completely. Nobody from Seoro signs anything that says a system is ready. You gave a fine speech about the person who signs, but in a contract, that's an admission.\"",
+          "ko": "다음 주 화요일, 서로 파트너스의 법무 총괄 백준호가 14조를 호텔 테이블에 올려놓고 손가락으로 두드렸다. \"서로는 어떤 시스템이나 권고에서 발생한 모든 손실에 대해, 통관 과태료를 포함하여 한도 없이 책임을 진다.\" 그가 읽었다. \"이건 통째로 빼야 합니다. 시스템이 준비됐다는 어떤 문서에도 서로 사람은 서명하지 않습니다. 서명하는 사람에 대한 멋진 연설을 하셨지만, 계약서에서 그건 자백입니다.\""
+        },
+        {
+          "en": "Priscilla Goh, who ran Straits Meridian's legal team, received them at ten with a pot of tea and no visible urgency. \"As drafted, this clause makes us liable for a vendor nobody has chosen yet,\" Jae-won said. \"The risk we see is that one bad month could cost more than the entire fee, and no firm can insure that.\" \"We'd need to carve out the vendor's system altogether,\" Baek added.",
+          "ko": "스트레이츠 메리디안 법무팀을 이끄는 프리실라 고는 10시에 찻주전자를 앞에 두고 조금도 급해 보이지 않는 모습으로 그들을 맞았다. \"현재 문안대로라면, 이 조항은 아직 아무도 고르지 않은 공급업체까지 저희가 책임지게 합니다.\" 재원이 말했다. \"저희가 보는 위험은 나쁜 한 달이 수수료 전체보다 큰 비용을 낳을 수 있고, 그걸 보험으로 감당할 회사는 없다는 것입니다.\" \"공급업체 시스템은 통째로 예외로 빼야 합니다.\" 백준호가 덧붙였다."
+        },
+        {
+          "en": "Priscilla poured the tea before she answered. \"So when it fails, you point at the vendor, the vendor points at you, and I'm holding the fine, because we're the declarant and customs knows my address,\" she said. \"You told eight hundred people that a log can't pick up the phone, so who picks up mine?\" Baek started to reply, but Jae-won was still looking at her, because he had no answer that he'd be willing to give on a stage.",
+          "ko": "프리실라는 차를 따른 뒤에야 답했다. \"그러니까 문제가 생기면 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요. 신고인은 우리이고 세관은 제 주소를 아니까요.\" 그녀가 말했다. \"로그는 전화기를 못 든다고 800명에게 말씀하셨죠. 그럼 제 전화는 누가 받나요?\" 백준호가 답하려 했지만 재원은 여전히 그녀를 보고 있었다. 무대에서 할 수 있는 답이 그에게 없었기 때문이다."
+        },
+        {
+          "en": "\"That's a fair challenge,\" he said. \"Could we revisit what the clause is for? If you didn't need unlimited money, what would you need?\" Priscilla put down the pot and said, \"A name, meaning somebody who has looked at the thing, said it's ready, and isn't allowed to be surprised later.\"",
+          "ko": "\"타당한 지적입니다.\" 그가 말했다. \"이 조항의 목적을 다시 검토할 수 있을까요? 한도 없는 돈이 필요한 게 아니라면 무엇이 필요하신가요?\" 프리실라가 찻주전자를 내려놓고 말했다. \"이름이요. 직접 살펴보고 준비됐다고 말했으니 나중에 놀랄 수 없는 사람이요.\""
+        },
+        {
+          "en": "He felt Baek's shoe touch his ankle under the table, and he kept going. \"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out,\" he said. \"In exchange for that, no pilot goes live until I sign that we've completed the checks in Schedule C, and if I sign without doing them, that's on Seoro, up to the cap.\"",
+          "ko": "테이블 아래에서 백준호의 구두가 그의 발목을 건드렸지만 그는 계속했다. \"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다. \"대신 부속서 C의 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않고, 점검 없이 서명했다면 상한까지 서로가 책임집니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "As drafted",
+        "The risk we see is",
+        "Could we revisit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "liable",
+          "surface": "liable",
+          "meaningKo": "법적 책임이 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Seoro shall be liable without limit for all losses arising from any system or recommendation, including customs penalties,\" he read.",
+            "ko": "\"서로는 어떤 시스템이나 권고에서 발생한 모든 손실에 대해, 통관 과태료를 포함하여 한도 없이 책임을 진다.\" 그가 읽었다."
+          }
+        },
+        {
+          "term": "admission",
+          "surface": "admission",
+          "meaningKo": "(잘못의) 인정, 자백",
+          "paragraph": 0,
+          "sentence": {
+            "en": "You gave a fine speech about the person who signs, but in a contract, that's an admission.\"",
+            "ko": "\"서명하는 사람에 대한 멋진 연설을 하셨지만, 계약서에서 그건 자백입니다.\""
+          }
+        },
+        {
+          "term": "urgency",
+          "surface": "urgency",
+          "meaningKo": "다급함",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Priscilla Goh, who ran Straits Meridian's legal team, received them at ten with a pot of tea and no visible urgency.",
+            "ko": "스트레이츠 메리디안 법무팀을 이끄는 프리실라 고는 10시에 찻주전자를 앞에 두고 조금도 급해 보이지 않는 모습으로 그들을 맞았다."
+          }
+        },
+        {
+          "term": "insure",
+          "surface": "insure",
+          "meaningKo": "보험을 들다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The risk we see is that one bad month could cost more than the entire fee, and no firm can insure that.\"",
+            "ko": "\"저희가 보는 위험은 나쁜 한 달이 수수료 전체보다 큰 비용을 낳을 수 있고, 그걸 보험으로 감당할 회사는 없다는 것입니다.\""
+          }
+        },
+        {
+          "term": "declarant",
+          "surface": "declarant",
+          "meaningKo": "(세관) 신고인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"So when it fails, you point at the vendor, the vendor points at you, and I'm holding the fine, because we're the declarant and customs knows my address,\" she said.",
+            "ko": "\"그러니까 문제가 생기면 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요. 신고인은 우리이고 세관은 제 주소를 아니까요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "cap",
+          "surface": "cap",
+          "meaningKo": "상한",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out,\" he said.",
+            "ko": "\"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "go live",
+          "surface": "goes live",
+          "meaningKo": "가동을 시작하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"In exchange for that, no pilot goes live until I sign that we've completed the checks in Schedule C, and if I sign without doing them, that's on Seoro, up to the cap.\"",
+            "ko": "\"대신 부속서 C의 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않고, 점검 없이 서명했다면 상한까지 서로가 책임집니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 513,
+      "paragraphs": [
+        {
+          "en": "The following Tuesday, Baek Joon-ho, Seoro's general counsel, who had flown in overnight and looked as though he had billed the airline for it, put clause fourteen on the hotel table and tapped it with one finger. \"Seoro shall be liable without limit for all losses arising from any system or recommendation, including customs penalties,\" he read, with something close to admiration. \"We carve that out completely. Nobody from Seoro signs anything that says a system is ready, not now and not ever. You gave a fine speech about the person who signs, and I enjoyed it very much, but in a contract, that's an admission.\"",
+          "ko": "다음 주 화요일, 서로 파트너스의 법무 총괄 백준호가 14조를 호텔 테이블에 올려놓고 손가락으로 두드렸다. 밤 비행기로 날아온 그는 항공사에 수임료라도 청구한 사람 같은 얼굴이었다. \"서로는 어떤 시스템이나 권고에서 발생한 모든 손실에 대해, 통관 과태료를 포함하여 한도 없이 책임을 진다.\" 그가 감탄에 가까운 어조로 읽었다. \"이건 통째로 빼야 합니다. 시스템이 준비됐다는 어떤 문서에도 서로 사람은 서명하지 않습니다. 지금도 앞으로도요. 서명하는 사람에 대한 멋진 연설을 하셨고 저도 아주 즐겼지만, 계약서에서 그건 자백입니다.\""
+        },
+        {
+          "en": "Priscilla Goh, who ran Straits Meridian's legal team and had apparently never hurried anywhere, received them at ten with a pot of tea and an empty notepad. \"As drafted, this clause makes us liable for a vendor nobody has chosen yet, on a system nobody has seen, for losses nobody can estimate,\" Jae-won said. \"The risk we see is that one bad month could cost more than the entire fee. No firm can insure that, so your protection would be worth very little on the day you needed it.\" \"We'd need to carve out the vendor's system altogether, along with any consequential loss,\" Baek added, in the tone of a man reading out a menu.",
+          "ko": "스트레이츠 메리디안 법무팀을 이끄는 프리실라 고는 어디에도 서둘러 간 적이 없는 사람 같았고, 10시에 찻주전자와 빈 메모지를 앞에 두고 그들을 맞았다. \"현재 문안대로라면, 이 조항은 아직 아무도 고르지 않은 공급업체, 아무도 보지 못한 시스템, 아무도 추정할 수 없는 손실까지 저희가 책임지게 합니다.\" 재원이 말했다. \"저희가 보는 위험은 나쁜 한 달이 수수료 전체보다 큰 비용을 낳을 수 있다는 것입니다. 그걸 보험으로 감당할 회사는 없으니, 정작 필요한 날에 이 보호 장치는 별 값어치가 없습니다.\" \"공급업체 시스템은 간접 손실과 함께 통째로 예외로 빼야 합니다.\" 백준호가 메뉴를 읽는 사람의 어조로 덧붙였다."
+        },
+        {
+          "en": "Priscilla poured the tea before she answered, and she took her time over all three cups. \"So when it fails, you point at the vendor, the vendor points at you, and I'm holding the fine, because we're the declarant and customs knows my address,\" she said. \"You told eight hundred people that a log can't pick up the phone, and I thought that was rather good. So who picks up mine?\" Baek started to reply, but Jae-won was still looking at her, because he had no answer that he'd be willing to give on a stage, and she had clearly read the transcript.",
+          "ko": "프리실라는 차를 따른 뒤에야 답했고, 세 잔 모두에 시간을 들였다. \"그러니까 문제가 생기면 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요. 신고인은 우리이고 세관은 제 주소를 아니까요.\" 그녀가 말했다. \"로그는 전화기를 못 든다고 800명에게 말씀하셨죠. 꽤 멋진 말이었어요. 그럼 제 전화는 누가 받나요?\" 백준호가 답하려 했지만 재원은 여전히 그녀를 보고 있었다. 무대에서 할 수 있는 답이 그에게 없었고, 그녀는 분명 녹취록을 읽었기 때문이다."
+        },
+        {
+          "en": "\"That's a fair challenge, and I'd rather not hide behind my lawyer on it,\" he said, and Baek's teacup stopped on its way up. \"Could we revisit what the clause is for? If you didn't need unlimited money, which you know we haven't got, what would you actually need?\" Priscilla put down the pot and considered him for longer than was comfortable. \"A name, meaning somebody who has looked at the thing, said it's ready, and isn't allowed to be surprised later,\" she said.",
+          "ko": "\"타당한 지적이고, 변호사 뒤에 숨고 싶지는 않습니다.\" 그가 말했고, 백준호의 찻잔이 올라가다 멈췄다. \"이 조항의 목적을 다시 검토할 수 있을까요? 어차피 저희에게 없다는 걸 아시는 한도 없는 돈이 필요한 게 아니라면, 실제로 무엇이 필요하신가요?\" 프리실라는 찻주전자를 내려놓고 불편할 만큼 오래 그를 살폈다. \"이름이요. 직접 살펴보고 준비됐다고 말했으니 나중에 놀랄 수 없는 사람이요.\" 그녀가 말했다."
+        },
+        {
+          "en": "He felt Baek's shoe touch his ankle under the table, quite firmly, and he kept going. \"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out, since we won't have built it and can't warrant it,\" he said. \"In exchange for that, no pilot goes live until I sign that we've completed the checks in Schedule C, and if I sign without doing them, that's on Seoro, up to the cap, with no argument from my general counsel.\" The shoe pressed harder, and then it withdrew, as if it had given up on him.",
+          "ko": "테이블 아래에서 백준호의 구두가 그의 발목을 꽤 단호하게 건드렸지만 그는 계속했다. \"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고, 저희가 만들지도 보증하지도 못할 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다. \"대신 부속서 C의 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않고, 점검 없이 서명했다면 상한까지 서로가 책임집니다. 저희 법무 총괄도 토 달지 않고요.\" 구두가 더 세게 눌렀다가, 포기한 듯 물러났다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "As drafted",
+        "The risk we see is",
+        "Could we revisit"
+      ],
+      "wordCandidates": [
+        {
+          "term": "liable",
+          "surface": "liable",
+          "meaningKo": "법적 책임이 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Seoro shall be liable without limit for all losses arising from any system or recommendation, including customs penalties,\" he read, with something close to admiration.",
+            "ko": "\"서로는 어떤 시스템이나 권고에서 발생한 모든 손실에 대해, 통관 과태료를 포함하여 한도 없이 책임을 진다.\" 그가 감탄에 가까운 어조로 읽었다."
+          }
+        },
+        {
+          "term": "admiration",
+          "surface": "admiration",
+          "meaningKo": "감탄",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Seoro shall be liable without limit for all losses arising from any system or recommendation, including customs penalties,\" he read, with something close to admiration.",
+            "ko": "\"서로는 어떤 시스템이나 권고에서 발생한 모든 손실에 대해, 통관 과태료를 포함하여 한도 없이 책임을 진다.\" 그가 감탄에 가까운 어조로 읽었다."
+          }
+        },
+        {
+          "term": "admission",
+          "surface": "admission",
+          "meaningKo": "(잘못의) 인정, 자백",
+          "paragraph": 0,
+          "sentence": {
+            "en": "You gave a fine speech about the person who signs, and I enjoyed it very much, but in a contract, that's an admission.\"",
+            "ko": "\"서명하는 사람에 대한 멋진 연설을 하셨고 저도 아주 즐겼지만, 계약서에서 그건 자백입니다.\""
+          }
+        },
+        {
+          "term": "consequential loss",
+          "surface": "consequential loss",
+          "meaningKo": "간접 손실",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"We'd need to carve out the vendor's system altogether, along with any consequential loss,\" Baek added, in the tone of a man reading out a menu.",
+            "ko": "\"공급업체 시스템은 간접 손실과 함께 통째로 예외로 빼야 합니다.\" 백준호가 메뉴를 읽는 사람의 어조로 덧붙였다."
+          }
+        },
+        {
+          "term": "declarant",
+          "surface": "declarant",
+          "meaningKo": "(세관) 신고인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"So when it fails, you point at the vendor, the vendor points at you, and I'm holding the fine, because we're the declarant and customs knows my address,\" she said.",
+            "ko": "\"그러니까 문제가 생기면 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요. 신고인은 우리이고 세관은 제 주소를 아니까요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "transcript",
+          "surface": "transcript",
+          "meaningKo": "녹취록",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Baek started to reply, but Jae-won was still looking at her, because he had no answer that he'd be willing to give on a stage, and she had clearly read the transcript.",
+            "ko": "백준호가 답하려 했지만 재원은 여전히 그녀를 보고 있었다. 무대에서 할 수 있는 답이 그에게 없었고, 그녀는 분명 녹취록을 읽었기 때문이다."
+          }
+        },
+        {
+          "term": "warrant",
+          "surface": "warrant",
+          "meaningKo": "보증하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"What we could accept is a cap at the total fee, one point four million, with the vendor's system carved out, since we won't have built it and can't warrant it,\" he said.",
+            "ko": "\"저희가 받아들일 수 있는 것은 총 수수료 140만 달러를 상한으로 하고, 저희가 만들지도 보증하지도 못할 공급업체 시스템을 예외로 빼는 것입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "withdraw",
+          "surface": "withdrew",
+          "meaningKo": "물러나다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "The shoe pressed harder, and then it withdrew, as if it had given up on him.",
+            "ko": "구두가 더 세게 눌렀다가, 포기한 듯 물러났다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What cap on Seoro's liability does Jae-won propose?",
+      "options": [
+        "No limit",
+        "One point one million",
+        "One point four million",
+        "A hundred and fifty thousand"
+      ],
+      "answerIndex": 2,
+      "evidence": "What we could accept is a cap at the total fee, one point four million"
+    },
+    {
+      "question": "What does Priscilla really want when she says \"A name\"?",
+      "options": [
+        "The name of the vendor",
+        "A person who is clearly responsible for saying the system is ready",
+        "A list of Seoro's employees",
+        "More money than the fee"
+      ],
+      "answerIndex": 1,
+      "evidence": "A name, meaning somebody who has looked at the thing, said it's ready, and isn't allowed to be surprised later"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "As drafted, this clause makes us liable for a vendor nobody has chosen yet.",
+      "The risk we see is that one bad month could cost more than the entire fee.",
+      "Could we revisit what the clause is for?"
+    ],
+    "summaryPromptKo": "14조의 어떤 점이 문제였는지, 프리실라가 정말 원한 것이 무엇인지, 재원이 어떤 대안을 제시했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priscilla Goh",
+      "en": "Your own lawyer doesn't want you to sign anything. Why should I believe you'll stand behind that signature?",
+      "ko": "그쪽 변호사는 어떤 것에도 서명하지 말라고 하네요. 그 서명에 책임질 거라고 왜 믿어야 하죠?"
+    },
+    "modelAnswer": "Because I've already got my initials on one mistake, and I told eight hundred people about it. As drafted, the clause gave you unlimited protection that no firm could pay for. What we could accept is real: a cap at the total fee, and my name on Schedule C. If I sign without doing those checks, Seoro answers for it, and you'll know exactly whose phone to call."
+  },
+  "nextTeaserKo": "복도로 나온 백준호는 재원이 방금 무엇을 자원한 것인지 말해 주고, 헬렌은 전화로 한마디를 보탠다. 회의실로 돌아온 재원의 다음 제안은 이 프로젝트에서 누가 힘을 쥐는지를 바꿔 놓는다.",
+  "roleplay": {
+    "title": "누가 내 전화를 받나요",
+    "situationKo": "화요일 10시, 프리실라 고의 회의실입니다. 차를 따르는 동안 14조의 문제를 설명하고, 그녀가 정말 원하는 것을 물은 뒤 대안을 제시해 보세요. 어려운 단어는 힌트를 봐도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "Clause fourteen. Please, tell me what troubles you. Tea?",
+        "ko": "14조요. 무엇이 걸리는지 말씀해 보세요. 차 드릴까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. As drafted, this clause makes us liable for a vendor nobody has chosen yet.",
+        "ko": "감사합니다. 현재 문안대로라면, 이 조항은 아직 아무도 고르지 않은 공급업체까지 저희가 책임지게 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "And?",
+        "ko": "그래서요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The risk we see is that one bad month could cost more than the whole fee. Nobody can insure that.",
+        "ko": "저희가 보는 위험은 나쁜 한 달이 수수료 전체보다 큰 비용을 낳을 수 있다는 것입니다. 아무도 그걸 보험으로 감당 못 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "We'd need to carve out the vendor's system altogether.",
+        "ko": "공급업체 시스템은 통째로 예외로 빼야 합니다."
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "So you point at the vendor, the vendor points at you, and I hold the fine. You told eight hundred people a log can't pick up the phone. Who picks up mine?",
+        "ko": "그럼 그쪽은 공급업체를 가리키고, 공급업체는 그쪽을 가리키고, 벌금은 제가 들고 있겠네요. 로그는 전화기를 못 든다고 800명에게 말씀하셨죠. 제 전화는 누가 받나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's a fair challenge. Could we revisit what the clause is for? What do you actually need?",
+        "ko": "타당한 지적입니다. 이 조항의 목적을 다시 검토할 수 있을까요? 실제로 무엇이 필요하신가요?",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "A name. Somebody who says it's ready and can't be surprised later.",
+        "ko": "이름이요. 준비됐다고 말했으니 나중에 놀랄 수 없는 사람이요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What we could accept is a cap at the total fee, one point four million, with the vendor's system out.",
+        "ko": "저희가 받아들일 수 있는 것은 총 수수료 140만 달러 상한과 공급업체 시스템 제외입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "And my name?",
+        "ko": "그럼 제가 원하는 이름은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No pilot goes live until I sign that the Schedule C checks are done. That's the name. It's mine.",
+        "ko": "부속서 C 점검을 마쳤다고 제가 서명하기 전에는 어떤 파일럿도 가동하지 않습니다. 그게 그 이름이고, 제 이름입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "We'll need five minutes.",
+        "ko": "5분만 주시죠."
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "episodeId": "keynote-s2-e32",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "start late": "word-start-late.mp3",
+    "clerk": "word-clerk.mp3",
+    "reader": "word-reader.mp3",
+    "reach for": "word-reach-for.mp3",
+    "photo": "word-photo.mp3",
+    "staff": "word-staff.mp3",
+    "terminal": "word-terminal.mp3",
+    "release note": "word-release-note.mp3",
+    "turn over": "word-turn-over.mp3",
+    "mildly": "word-mildly.mp3",
+    "put away": "word-put-away.mp3",
+    "observe": "word-observe.mp3",
+    "absolve": "word-absolve.mp3",
+    "volunteer": "word-volunteer.mp3",
+    "reflex": "word-reflex.mp3",
+    "concede": "word-concede.mp3",
+    "wariness": "word-wariness.mp3",
+    "astonished": "word-astonished.mp3"
+  },
+  "termClips": {
+    "start late": "term-start-late.mp3",
+    "clerk": "term-clerk.mp3",
+    "reader": "term-reader.mp3",
+    "reach for": "term-reach-for.mp3",
+    "photo": "term-photo.mp3",
+    "staff": "term-staff.mp3",
+    "terminal": "term-terminal.mp3",
+    "release note": "term-release-note.mp3",
+    "turn over": "term-turn-over.mp3",
+    "mildly": "term-mildly.mp3",
+    "put away": "term-put-away.mp3",
+    "observe": "term-observe.mp3",
+    "absolve": "term-absolve.mp3",
+    "volunteer": "term-volunteer.mp3",
+    "reflex": "term-reflex.mp3",
+    "concede": "term-concede.mp3",
+    "wariness": "term-wariness.mp3",
+    "astonished": "term-astonished.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}

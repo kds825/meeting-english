@@ -1,0 +1,391 @@
+{
+  "id": "keynote-s2-e15",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 15,
+  "title": "The Demo Lie",
+  "recapKo": "코르베인은 시티의 양식을 7자까지 완벽하게 읽어 냈지만 여백 코드 칸은 비어 있었다. 그레이스는 월요일 서명을 원했고, 재원은 확정 전에 실제 서류 1,000건으로 시험하자고 해서 다음 주 말까지 시간을 얻었다. 이선은 \"가장 나쁜 1,000건을 가져오라\"고 했고, 화요일 밤 대니얼은 \"투아스로 오라\"고 메시지를 보냈다.",
+  "keyExpressions": [
+    {
+      "phrase": "Help me understand ~",
+      "meaningKo": "~을 이해할 수 있게 설명해 주세요",
+      "usage": "Help me understand why the forecast changed this week."
+    },
+    {
+      "phrase": "That doesn't match what we saw.",
+      "meaningKo": "저희가 본 것과 맞지 않습니다.",
+      "usage": "You said it took two days. That doesn't match what we saw."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 215,
+      "paragraphs": [
+        {
+          "en": "At Tuas, Daniel turned the screen around. Only six hundred and ten of the thousand documents came through with every field right, and only a hundred and fifty-two of the four hundred night receipts did. \"That's sixty-one percent, per document,\" he said. Ostrel had scored sixty-four, but it still needed twelve weeks.",
+          "ko": "투아스에서 대니얼이 화면을 돌렸다. 서류 1,000건 중 모든 항목이 맞은 것은 610건뿐이었고, 야간 확인서는 400건 중 152건뿐이었다. \"서류 단위로 61퍼센트예요.\" 그가 말했다. 오스트렐은 64퍼센트였지만 여전히 12주가 필요했다."
+        },
+        {
+          "en": "Siti asked why it had read her form on Thursday. Daniel ran that form again, and it was perfect. He ran her form from the next night, and it failed. \"Same pen, same me,\" she said.",
+          "ko": "시티가 왜 목요일에는 자기 양식을 읽었느냐고 물었다. 대니얼이 그 양식을 다시 돌리자 완벽했다. 그다음 날 밤 그녀의 양식을 돌리자 실패했다. \"같은 펜이고, 같은 나인데요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Siti looked at Daniel's photo of the Vendor Day screen and then at her form. \"I wrote one forty-seven,\" she said, \"and your machine says one seventy-four.\" In the morning, Joanne Seah checked her data pack and found the same typing mistake.",
+          "ko": "시티가 대니얼이 찍은 공급업체 설명회 화면 사진을 보고 자기 양식을 보았다. \"저는 147이라고 썼는데, 기계는 174라고 하네요.\" 그녀가 말했다. 아침에 조앤 시아가 데이터 묶음을 확인했더니 똑같은 오타가 있었다."
+        },
+        {
+          "en": "Jae-won called Cole Reyes at nine. \"Help me understand why your system showed Joanne's mistake and not Siti's number,\" he said. \"That doesn't match what we saw on Thursday, so tell me where I've got this wrong.\" Cole said that the system could match a container number to reference data. Jae-won asked, \"Was that switched on during the demo?\"",
+          "ko": "재원은 9시에 콜 레예스에게 전화했다. \"귀사 시스템이 왜 시티의 숫자가 아니라 조앤의 오타를 보여 줬는지 설명해 주세요.\" 그가 말했다. \"목요일에 저희가 본 것과 맞지 않으니, 제가 틀린 부분을 말씀해 주세요.\" 콜은 시스템이 컨테이너 번호를 참조 데이터와 대조할 수 있다고 말했다. 재원이 물었다. \"데모 때 그 기능이 켜져 있었습니까?\""
+        },
+        {
+          "en": "\"I need to get Ethan,\" Cole said. Ten minutes later, Ethan Wolfe came on the call without saying hello. \"Who else has seen this?\" he asked.",
+          "ko": "\"이선을 불러야겠습니다.\" 콜이 말했다. 10분 뒤, 이선 울프가 인사도 없이 통화에 들어왔다. \"이걸 또 누가 봤습니까?\" 그가 물었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Help me understand",
+        "That doesn't match what we saw"
+      ],
+      "wordCandidates": [
+        {
+          "term": "receipt",
+          "surface": "receipts",
+          "meaningKo": "확인서, 영수증",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Only six hundred and ten of the thousand documents came through with every field right, and only a hundred and fifty-two of the four hundred night receipts did.",
+            "ko": "서류 1,000건 중 모든 항목이 맞은 것은 610건뿐이었고, 야간 확인서는 400건 중 152건뿐이었다."
+          }
+        },
+        {
+          "term": "fail",
+          "surface": "failed",
+          "meaningKo": "실패하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He ran her form from the next night, and it failed.",
+            "ko": "그다음 날 밤 그녀의 양식을 돌리자 실패했다."
+          }
+        },
+        {
+          "term": "typing mistake",
+          "surface": "typing mistake",
+          "meaningKo": "오타",
+          "paragraph": 2,
+          "sentence": {
+            "en": "In the morning, Joanne Seah checked her data pack and found the same typing mistake.",
+            "ko": "아침에 조앤 시아가 데이터 묶음을 확인했더니 똑같은 오타가 있었다."
+          }
+        },
+        {
+          "term": "reference data",
+          "surface": "reference data",
+          "meaningKo": "참조 데이터",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Cole said that the system could match a container number to reference data.",
+            "ko": "콜은 시스템이 컨테이너 번호를 참조 데이터와 대조할 수 있다고 말했다."
+          }
+        },
+        {
+          "term": "switch on",
+          "surface": "switched on",
+          "meaningKo": "(기능을) 켜다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won asked, \"Was that switched on during the demo?\"",
+            "ko": "재원이 물었다. \"데모 때 그 기능이 켜져 있었습니까?\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 312,
+      "paragraphs": [
+        {
+          "en": "At Tuas, in the office above the dock, Daniel turned the screen around. Only six hundred and ten of the thousand documents came through with every field right, and only a hundred and fifty-two of the four hundred night receipts did. \"That's sixty-one percent, per document,\" he said, \"and every other one goes back to someone's keyboard.\" Ostrel had scored sixty-four, but it still needed twelve weeks, which would leave one week before the sixteen ran out.",
+          "ko": "투아스 도크 위 사무실에서 대니얼이 화면을 돌렸다. 서류 1,000건 중 모든 항목이 맞은 것은 610건뿐이었고, 야간 확인서는 400건 중 152건뿐이었다. \"서류 단위로 61퍼센트예요.\" 그가 말했다. \"나머지는 다 누군가의 키보드로 돌아가고요.\" 오스트렐은 64퍼센트였지만 여전히 12주가 필요했고, 그러면 16주가 끝나기까지 한 주밖에 남지 않았다."
+        },
+        {
+          "en": "Siti, who had come up on her break, asked why it had read her form on Thursday. Daniel ran that form again, and it was perfect, every seven in place. He ran her form from the next night, and it failed on the carrier, the date and the count. \"Same pen, same me,\" she said.",
+          "ko": "쉬는 시간에 올라온 시티가 왜 목요일에는 자기 양식을 읽었느냐고 물었다. 대니얼이 그 양식을 다시 돌리자 7자까지 완벽했다. 그다음 날 밤 그녀의 양식을 돌리자 운송사, 날짜, 수량에서 실패했다. \"같은 펜이고, 같은 나인데요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Daniel brought up his photo of the screen from Vendor Day, because he photographed everything now. Siti looked at it and then at her form for much longer than anyone had on Thursday. \"I wrote one forty-seven,\" she said, \"and your machine says one seventy-four.\" In the morning, Joanne Seah checked her data pack and found the same typing mistake, and she went very still.",
+          "ko": "대니얼이 공급업체 설명회 때 찍은 화면 사진을 띄웠다. 요즘 그는 뭐든 찍어 두었다. 시티는 그것을 보고 자기 양식을 보았는데, 목요일의 누구보다 훨씬 오래 보았다. \"저는 147이라고 썼는데, 기계는 174라고 하네요.\" 그녀가 말했다. 아침에 조앤 시아가 데이터 묶음을 확인했더니 똑같은 오타가 있었고, 그녀는 얼어붙었다."
+        },
+        {
+          "en": "Jae-won called Cole Reyes at nine, with Daniel listening. \"Help me understand why your system showed Joanne's mistake and not Siti's number,\" he said. \"That doesn't match what we saw on Thursday, so tell me where I've got this wrong.\" Cole said that the system could match a container number to reference data and fill in the rest, which was a standard feature. Jae-won kept his voice level and asked, \"Was that switched on during the demo?\"",
+          "ko": "재원은 대니얼이 듣는 가운데 9시에 콜 레예스에게 전화했다. \"귀사 시스템이 왜 시티의 숫자가 아니라 조앤의 오타를 보여 줬는지 설명해 주세요.\" 그가 말했다. \"목요일에 저희가 본 것과 맞지 않으니, 제가 틀린 부분을 말씀해 주세요.\" 콜은 시스템이 컨테이너 번호를 참조 데이터와 대조해 나머지를 채울 수 있고, 그건 표준 기능이라고 말했다. 재원이 목소리를 낮게 유지하며 물었다. \"데모 때 그 기능이 켜져 있었습니까?\""
+        },
+        {
+          "en": "The line was quiet for a long time, and Daniel stopped typing. \"I need to get Ethan,\" Cole said. Ten minutes later, Ethan Wolfe came on the call without saying hello. He asked, \"Who else has seen this?\"",
+          "ko": "한참 동안 수화기가 조용했고, 대니얼이 타자를 멈췄다. \"이선을 불러야겠습니다.\" 콜이 말했다. 10분 뒤, 이선 울프가 인사도 없이 통화에 들어왔다. 그가 물었다. \"이걸 또 누가 봤습니까?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Help me understand",
+        "That doesn't match what we saw"
+      ],
+      "wordCandidates": [
+        {
+          "term": "keyboard",
+          "surface": "keyboard",
+          "meaningKo": "키보드",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"That's sixty-one percent, per document,\" he said, \"and every other one goes back to someone's keyboard.\"",
+            "ko": "\"서류 단위로 61퍼센트예요.\" 그가 말했다. \"나머지는 다 누군가의 키보드로 돌아가고요.\""
+          }
+        },
+        {
+          "term": "in place",
+          "surface": "in place",
+          "meaningKo": "제자리에 있는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel ran that form again, and it was perfect, every seven in place.",
+            "ko": "대니얼이 그 양식을 다시 돌리자 7자까지 제자리에 있고 완벽했다."
+          }
+        },
+        {
+          "term": "photograph",
+          "surface": "photographed",
+          "meaningKo": "사진을 찍다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Daniel brought up his photo of the screen from Vendor Day, because he photographed everything now.",
+            "ko": "대니얼이 공급업체 설명회 때 찍은 화면 사진을 띄웠다. 요즘 그는 뭐든 찍어 두었다."
+          }
+        },
+        {
+          "term": "still",
+          "surface": "very still",
+          "meaningKo": "(놀라서) 꼼짝 않는",
+          "paragraph": 2,
+          "sentence": {
+            "en": "In the morning, Joanne Seah checked her data pack and found the same typing mistake, and she went very still.",
+            "ko": "아침에 조앤 시아가 데이터 묶음을 확인했더니 똑같은 오타가 있었고, 그녀는 얼어붙었다."
+          }
+        },
+        {
+          "term": "standard feature",
+          "surface": "standard feature",
+          "meaningKo": "표준 기능",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Cole said that the system could match a container number to reference data and fill in the rest, which was a standard feature.",
+            "ko": "콜은 시스템이 컨테이너 번호를 참조 데이터와 대조해 나머지를 채울 수 있고, 그건 표준 기능이라고 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 452,
+      "paragraphs": [
+        {
+          "en": "At Tuas, in the office above the dock, Daniel turned the screen around without any preamble. Only six hundred and ten of the thousand documents came through with every field right, and only a hundred and fifty-two of the four hundred night receipts did. \"That's sixty-one percent, per document,\" he said, \"and every other one goes back to someone's keyboard, so you can stop thinking about the footnote.\" Ostrel had scored sixty-four, a shade better and no use at all, since it still needed twelve weeks, which would leave one week before the sixteen ran out.",
+          "ko": "투아스 도크 위 사무실에서 대니얼이 군말 없이 화면을 돌렸다. 서류 1,000건 중 모든 항목이 맞은 것은 610건뿐이었고, 야간 확인서는 400건 중 152건뿐이었다. \"서류 단위로 61퍼센트예요.\" 그가 말했다. \"나머지는 다 누군가의 키보드로 돌아가니까 각주는 이제 생각 안 하셔도 돼요.\" 오스트렐은 64퍼센트로 조금 나았지만 아무 소용이 없었다. 여전히 12주가 필요했고, 그러면 16주가 끝나기까지 한 주밖에 남지 않았다."
+        },
+        {
+          "en": "Siti, who had come up on her break and refused the only chair, asked why it had read her form on Thursday if it couldn't read her now. Daniel ran that form again, and it was perfect, every seven in place, for the third time. He ran her form from the next night, written with the same pen on the same stack of boxes, and it failed on the carrier, the date and the count. \"Same pen, same me,\" she said, in the voice of someone who suspects a card trick and intends to find the card.",
+          "ko": "쉬는 시간에 올라와 하나뿐인 의자를 사양한 시티가, 지금 자기 글씨를 못 읽으면서 왜 목요일에는 읽었느냐고 물었다. 대니얼이 그 양식을 다시 돌리자 세 번째로 7자까지 완벽했다. 같은 펜으로 같은 상자 더미 위에서 쓴 그다음 날 밤 양식을 돌리자 운송사, 날짜, 수량에서 실패했다. \"같은 펜이고, 같은 나인데요.\" 그녀가 카드 속임수를 의심하고 그 카드를 찾아낼 작정인 사람의 목소리로 말했다."
+        },
+        {
+          "en": "Daniel brought up his photo of the screen from Vendor Day, because he photographed everything now, including, Jae-won suspected, his meals. Siti looked at it and then at her form for much longer than anyone had on Thursday, when the whole room had been admiring the sevens. \"I wrote one forty-seven,\" she said, \"and your machine says one seventy-four.\" In the morning, Joanne Seah checked her data pack and found the same typing mistake, her own, and she went very still and then sent the record over without being asked.",
+          "ko": "대니얼이 공급업체 설명회 때 찍은 화면 사진을 띄웠다. 요즘 그는 뭐든 찍어 두었고, 재원의 짐작으로는 끼니도 찍는 것 같았다. 시티는 그것을 보고 자기 양식을 보았는데, 온 방이 7자에 감탄하던 목요일의 누구보다 훨씬 오래 보았다. \"저는 147이라고 썼는데, 기계는 174라고 하네요.\" 그녀가 말했다. 아침에 조앤 시아가 데이터 묶음을 확인했더니 똑같은 오타, 자기 오타가 있었고, 그녀는 얼어붙었다가 누가 부탁하기도 전에 그 기록을 보내 주었다."
+        },
+        {
+          "en": "Jae-won called Cole Reyes at nine, with Daniel listening and the speaker turned low. \"Help me understand why your system showed Joanne's mistake and not Siti's number,\" he said, as though he were asking about a parking arrangement. \"That doesn't match what we saw on Thursday, so tell me where I've got this wrong.\" Cole said that the system could match a container number to reference data and fill in the rest, which was a standard feature and perfectly well documented, and he went on explaining it for some time after anyone had asked. Jae-won kept his voice level and asked, \"Was that switched on during the demo?\"",
+          "ko": "재원은 대니얼이 듣는 가운데 스피커를 낮추고 9시에 콜 레예스에게 전화했다. \"귀사 시스템이 왜 시티의 숫자가 아니라 조앤의 오타를 보여 줬는지 설명해 주세요.\" 그가 주차 문제라도 묻듯 말했다. \"목요일에 저희가 본 것과 맞지 않으니, 제가 틀린 부분을 말씀해 주세요.\" 콜은 시스템이 컨테이너 번호를 참조 데이터와 대조해 나머지를 채울 수 있고, 그건 표준 기능이며 문서로도 잘 정리되어 있다고 말했고, 아무도 묻지 않는데 한동안 설명을 이어 갔다. 재원이 목소리를 낮게 유지하며 물었다. \"데모 때 그 기능이 켜져 있었습니까?\""
+        },
+        {
+          "en": "The line was quiet for a long time, long enough that Daniel stopped typing and looked at the phone as if it might have died. \"I need to get Ethan,\" Cole said, and he sounded younger than he had a minute before. Ten minutes later, Ethan Wolfe came on the call without saying hello. He asked, \"Who else has seen this?\"",
+          "ko": "한참 동안 수화기가 조용했는데, 대니얼이 타자를 멈추고 전화가 끊겼나 싶어 전화기를 볼 만큼 길었다. \"이선을 불러야겠습니다.\" 콜이 말했고, 1분 전보다 어려 보이는 목소리였다. 10분 뒤, 이선 울프가 인사도 없이 통화에 들어왔다. 그가 물었다. \"이걸 또 누가 봤습니까?\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Help me understand",
+        "That doesn't match what we saw"
+      ],
+      "wordCandidates": [
+        {
+          "term": "preamble",
+          "surface": "preamble",
+          "meaningKo": "서론, 군말",
+          "paragraph": 0,
+          "sentence": {
+            "en": "At Tuas, in the office above the dock, Daniel turned the screen around without any preamble.",
+            "ko": "투아스 도크 위 사무실에서 대니얼이 군말 없이 화면을 돌렸다."
+          }
+        },
+        {
+          "term": "a shade",
+          "surface": "a shade",
+          "meaningKo": "약간, 조금",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ostrel had scored sixty-four, a shade better and no use at all, since it still needed twelve weeks, which would leave one week before the sixteen ran out.",
+            "ko": "오스트렐은 64퍼센트로 조금 나았지만 아무 소용이 없었다. 여전히 12주가 필요했고, 그러면 16주가 끝나기까지 한 주밖에 남지 않았다."
+          }
+        },
+        {
+          "term": "card trick",
+          "surface": "card trick",
+          "meaningKo": "카드 속임수",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Same pen, same me,\" she said, in the voice of someone who suspects a card trick and intends to find the card.",
+            "ko": "\"같은 펜이고, 같은 나인데요.\" 그녀가 카드 속임수를 의심하고 그 카드를 찾아낼 작정인 사람의 목소리로 말했다."
+          }
+        },
+        {
+          "term": "admire",
+          "surface": "admiring",
+          "meaningKo": "감탄하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Siti looked at it and then at her form for much longer than anyone had on Thursday, when the whole room had been admiring the sevens.",
+            "ko": "시티는 그것을 보고 자기 양식을 보았는데, 온 방이 7자에 감탄하던 목요일의 누구보다 훨씬 오래 보았다."
+          }
+        },
+        {
+          "term": "documented",
+          "surface": "documented",
+          "meaningKo": "문서로 정리된",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Cole said that the system could match a container number to reference data and fill in the rest, which was a standard feature and perfectly well documented, and he went on explaining it for some time after anyone had asked.",
+            "ko": "콜은 시스템이 컨테이너 번호를 참조 데이터와 대조해 나머지를 채울 수 있고, 그건 표준 기능이며 문서로도 잘 정리되어 있다고 말했고, 아무도 묻지 않는데 한동안 설명을 이어 갔다."
+          }
+        },
+        {
+          "term": "level",
+          "surface": "level",
+          "meaningKo": "(목소리가) 차분한, 일정한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won kept his voice level and asked, \"Was that switched on during the demo?\"",
+            "ko": "재원이 목소리를 낮게 유지하며 물었다. \"데모 때 그 기능이 켜져 있었습니까?\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was Corvane's result on the thousand real documents?",
+      "options": [
+        "Ninety-eight point six percent per field",
+        "Sixty-four percent per document",
+        "Sixty-one percent per document",
+        "Thirty-eight percent per field"
+      ],
+      "answerIndex": 2,
+      "evidence": "That's sixty-one percent, per document"
+    },
+    {
+      "question": "What does the number one seventy-four suggest about the demo?",
+      "options": [
+        "Siti's handwriting was misread by chance",
+        "The system was filling in values from the data pack, not reading the form",
+        "Joanne had changed Siti's form by hand",
+        "Cole had typed the number during the demo"
+      ],
+      "answerIndex": 1,
+      "evidence": "and your machine says one seventy-four"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Help me understand why your system showed Joanne's mistake and not Siti's number.",
+      "That doesn't match what we saw on Thursday.",
+      "Was that switched on during the demo?"
+    ],
+    "summaryPromptKo": "실제 서류 시험 결과가 어땠는지, 시티가 숫자에서 무엇을 찾아냈는지, 재원이 콜에게 무엇을 물었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Cole Reyes",
+      "en": "Reference matching is a standard feature. Every vendor does something like it. So what exactly is your complaint?",
+      "ko": "참조 대조는 표준 기능입니다. 어느 공급업체나 비슷하게 합니다. 그래서 불만이 정확히 뭡니까?"
+    },
+    "modelAnswer": "The feature isn't my complaint. Help me understand what we were shown. We handed you a form and asked you to read it, and the screen looked as though you had. But it showed a count from our own data pack, typing mistake included, and Siti wrote something else. That doesn't match what we saw on Thursday, and on a thousand new documents you got sixty-one percent. I need to know which of those is your product."
+  },
+  "nextTeaserKo": "\"이걸 또 누가 봤습니까?\" 재원은 이선에게 무엇이라고 답할까. 데모는 거짓말이었을까, 관행이었을까. 그레이스에게 알릴 시간은 많지 않고, 오스트렐은 12주가 걸린다.",
+  "roleplay": {
+    "title": "147과 174",
+    "situationKo": "수요일 아침 9시, 콜 레예스와의 통화입니다. 화를 내지 않아도 숫자가 대신 말해 줍니다. 차분하게 물어보기만 하면 돼요.",
+    "lines": [
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "Morning, Jae-won. How's the test going? I hear you've finished the thousand.",
+        "ko": "안녕하세요, 재원. 시험은 어떻게 되고 있습니까? 1,000건을 끝내셨다고 들었습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "We have. Sixty-one percent, per document. But I'm calling about Siti's form from Thursday.",
+        "ko": "끝냈습니다. 서류 단위로 61퍼센트입니다. 그런데 목요일 시티의 양식 때문에 전화했습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "The one it read perfectly.",
+        "ko": "완벽하게 읽은 그 양식이요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "She wrote one forty-seven. Your screen said one seventy-four. Help me understand that.",
+        "ko": "그녀는 147이라고 썼는데 화면에는 174라고 나왔습니다. 그걸 설명해 주세요.",
+        "you": true
+      },
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "Handwriting's hard. A misread like that isn't unusual.",
+        "ko": "손글씨는 어렵습니다. 그런 오독은 드물지 않아요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Joanne's data pack has the same typing mistake. That doesn't match what we saw, so tell me where I've got this wrong.",
+        "ko": "조앤의 데이터 묶음에 똑같은 오타가 있습니다. 저희가 본 것과 맞지 않으니, 제가 틀린 부분을 말씀해 주세요.",
+        "you": true
+      },
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "The system can match a container number to reference data and fill in the rest. It's a standard feature.",
+        "ko": "시스템이 컨테이너 번호를 참조 데이터와 대조해 나머지를 채울 수 있습니다. 표준 기능이에요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I understand. Was that switched on during the demo?",
+        "ko": "알겠습니다. 데모 때 그 기능이 켜져 있었습니까?",
+        "you": true
+      },
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "I need to get Ethan.",
+        "ko": "이선을 불러야겠습니다."
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Who else has seen this?",
+        "ko": "이걸 또 누가 봤습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "My team, Siti and Joanne. Grace hasn't, yet. She will today.",
+        "ko": "저희 팀과 시티, 조앤입니다. 그레이스는 아직이고, 오늘 보게 됩니다.",
+        "you": true
+      }
+    ]
+  }
+}

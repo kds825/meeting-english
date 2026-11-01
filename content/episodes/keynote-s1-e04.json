@@ -1,0 +1,419 @@
+{
+  "id": "keynote-s1-e04",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 4,
+  "title": "The One Thing",
+  "recapKo": "새벽 6시 31분, 프로그램 디렉터 마커스가 전화해 기조연설 형식을 알려 주었다. 혼자 20분, 이어서 미리 볼 수 없는 실시간 질의응답 5분이고, 800명 앞에서 제품과 가격은 금지다. 마커스는 자신의 진짜 문제는 이따 말하겠다고 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "Let me make sure I have this right.",
+      "meaningKo": "제가 제대로 이해했는지 확인해 볼게요.",
+      "usage": "Let me make sure I have this right: you need the slides a week early."
+    },
+    {
+      "phrase": "Is there any flexibility on ~?",
+      "meaningKo": "~은 조정할 여지가 있을까요?",
+      "usage": "Is there any flexibility on the launch date?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 215,
+      "paragraphs": [
+        {
+          "en": "The title and a hundred-word abstract were due this Friday at noon, Singapore time. Final slides were due one week before the keynote, and the stage rehearsal was at four on the afternoon before.",
+          "ko": "제목과 100단어 초록은 이번 금요일 정오, 싱가포르 시간까지였다. 최종 슬라이드는 기조연설 일주일 전까지였고, 무대 리허설은 전날 오후 4시였다."
+        },
+        {
+          "en": "\"Let me make sure I have this right,\" Jae-won said, and he read the list back. Marcus corrected only one thing: the panel was at three that same afternoon, with four speakers and forty-five minutes.",
+          "ko": "\"제가 제대로 이해했는지 확인해 볼게요.\" 재원은 이렇게 말하고 목록을 다시 읽어 주었다. 마커스는 딱 하나만 바로잡았다. 패널은 같은 날 오후 3시, 연사 4명에 45분이었다."
+        },
+        {
+          "en": "\"Is there any flexibility on the slide deadline, since our data may still change?\" \"No,\" Marcus said. Jae-won asked instead for last year's list of questions from the app. \"Nobody has ever asked me for that,\" Marcus said after a short silence, \"but I'll send it today.\"",
+          "ko": "\"저희 데이터가 아직 바뀔 수 있는데, 슬라이드 마감은 조정할 여지가 있을까요?\" \"없습니다.\" 마커스가 말했다. 재원은 대신 작년에 앱으로 들어온 질문 목록을 요청했다. \"그걸 요청한 사람은 처음이네요.\" 마커스가 잠깐 침묵한 뒤 말했다. \"오늘 보내 드리죠.\""
+        },
+        {
+          "en": "Then Marcus's voice changed. \"Now I have a problem, because the program committee approved Helen Park, a partner. They meet on Friday at two, and I must ask them to approve you. They will ask me one thing, so I'm asking you now.\"",
+          "ko": "그때 마커스의 목소리가 달라졌다. \"이제 제 문제를 말하죠. 프로그램 위원회가 승인한 건 파트너인 헬렌 박이거든요. 위원회가 금요일 2시에 열리는데, 당신을 승인해 달라고 요청해야 해요. 위원회는 딱 하나를 물을 테니 지금 제가 묻겠습니다.\""
+        },
+        {
+          "en": "\"What is the one thing eight hundred people will remember from your twenty minutes?\" Jae-won opened his mouth, but nothing came out. \"Don't answer now,\" Marcus said after five seconds. \"Put it in the abstract by Friday noon.\" The line went dead. Jae-won looked at his envelope, which held fourteen facts and no idea at all.",
+          "ko": "\"800명이 당신의 20분에서 기억할 한 가지는 무엇입니까?\" 재원은 입을 열었지만 아무 말도 나오지 않았다. \"지금 답하지 마세요.\" 5초 뒤 마커스가 말했다. \"금요일 정오까지 초록에 넣으세요.\" 전화가 끊겼다. 재원은 봉투를 내려다봤다. 사실은 열네 개가 적혀 있었지만 아이디어는 하나도 없었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I have this right",
+        "Is there any flexibility on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "abstract",
+          "surface": "abstract",
+          "meaningKo": "(발표·논문의) 초록, 요약문",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The title and a hundred-word abstract were due this Friday at noon, Singapore time.",
+            "ko": "제목과 100단어 초록은 이번 금요일 정오, 싱가포르 시간까지였다."
+          }
+        },
+        {
+          "term": "due",
+          "surface": "due",
+          "meaningKo": "마감인, 제출해야 하는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "The title and a hundred-word abstract were due this Friday at noon, Singapore time.",
+            "ko": "제목과 100단어 초록은 이번 금요일 정오, 싱가포르 시간까지였다."
+          }
+        },
+        {
+          "term": "rehearsal",
+          "surface": "rehearsal",
+          "meaningKo": "리허설, 예행연습",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Final slides were due one week before the keynote, and the stage rehearsal was at four on the afternoon before.",
+            "ko": "최종 슬라이드는 기조연설 일주일 전까지였고, 무대 리허설은 전날 오후 4시였다."
+          }
+        },
+        {
+          "term": "correct",
+          "surface": "corrected",
+          "meaningKo": "바로잡다, 정정하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Marcus corrected only one thing: the panel was at three that same afternoon, with four speakers and forty-five minutes.",
+            "ko": "마커스는 딱 하나만 바로잡았다. 패널은 같은 날 오후 3시, 연사 4명에 45분이었다."
+          }
+        },
+        {
+          "term": "flexibility",
+          "surface": "flexibility",
+          "meaningKo": "유연성, 조정의 여지",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Is there any flexibility on the slide deadline, since our data may still change?\"",
+            "ko": "저희 데이터가 아직 바뀔 수 있는데, 슬라이드 마감은 조정할 여지가 있을까요?"
+          }
+        },
+        {
+          "term": "committee",
+          "surface": "committee",
+          "meaningKo": "위원회",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Now I have a problem, because the program committee approved Helen Park, a partner.",
+            "ko": "이제 제 문제를 말하죠. 프로그램 위원회가 승인한 건 파트너인 헬렌 박이거든요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 342,
+      "paragraphs": [
+        {
+          "en": "Jae-won underlined \"no pricing\" twice, thinking of the partners upstairs and how right Helen had been about them. Then he asked about deliverables, and Marcus rattled them off: a title and a hundred-word abstract by noon this Friday, Singapore time; final slides one week out, with no swaps after that; and a stage rehearsal at four on the afternoon before.",
+          "ko": "재원은 위층 파트너들과 그들에 대한 헬렌의 판단이 얼마나 정확했는지를 떠올리며 \"가격 금지\"에 밑줄을 두 번 그었다. 이어서 제출물을 묻자 마커스는 줄줄 읊었다. 제목과 100단어 초록은 이번 금요일 정오 싱가포르 시간까지, 최종 슬라이드는 일주일 전까지이며 그 뒤로 교체 불가, 무대 리허설은 전날 오후 4시."
+        },
+        {
+          "en": "\"Let me make sure I have this right,\" Jae-won said, and he read the list back line by line. Marcus corrected him on one point: \"The panel is at three that same afternoon, it's forty-five minutes with four panelists, and the lineup isn't locked yet.\" Jae-won checked the calendar, and the keynote was twenty-three days from this morning.",
+          "ko": "\"제가 제대로 이해했는지 확인해 볼게요.\" 재원은 이렇게 말하고 목록을 한 줄씩 다시 읽었다. 마커스는 한 가지를 바로잡았다. \"패널은 같은 날 오후 3시고, 패널 4명에 45분이며, 명단은 아직 확정되지 않았어요.\" 재원이 달력을 확인해 보니 기조연설은 오늘 아침부터 23일 뒤였다."
+        },
+        {
+          "en": "\"Is there any flexibility on the slide deadline, given that we're still validating some of our data and I'd hate to show a number I can't stand behind?\" \"No,\" Marcus said, and the silence made it clear that this was a complete sentence. So Jae-won changed tack. \"Understood, and in that case, could you share last year's question log from the app, so I can see what this audience actually asks?\" \"In nine years, nobody has asked me for that, but I'll send it over today,\" Marcus said after a pause.",
+          "ko": "\"아직 데이터 일부를 검증하는 중이고 제가 책임질 수 없는 숫자를 보여 드리고 싶지 않은데, 슬라이드 마감은 조정할 여지가 있을까요?\" \"없습니다.\" 마커스가 말했고, 뒤따른 침묵은 그것이 완결된 문장임을 분명히 했다. 그래서 재원은 방향을 바꿨다. \"알겠습니다. 그렇다면 이 청중이 실제로 무엇을 묻는지 볼 수 있게 작년 앱 질문 기록을 공유해 주실 수 있을까요?\" \"9년 동안 그걸 요청한 사람은 없었어요. 오늘 보내 드리죠.\" 마커스가 잠시 말을 끊었다가 답했다."
+        },
+        {
+          "en": "For a moment, Jae-won thought the call had gone rather well. Then Marcus's tone shifted. \"Here's my problem: the program committee signed off on Helen Park, a partner with twenty years' experience. They meet Friday at two, and I have to ask them to approve a senior manager they've never heard of. They'll ask me exactly one thing, so I'm asking you.\"",
+          "ko": "잠시 재원은 통화가 꽤 잘 풀렸다고 생각했다. 그때 마커스의 어조가 바뀌었다. \"제 문제는 이겁니다. 프로그램 위원회가 승인한 건 경력 20년의 파트너 헬렌 박이에요. 위원회가 금요일 2시에 열리는데, 들어 본 적도 없는 시니어 매니저를 승인해 달라고 요청해야 합니다. 위원회는 딱 한 가지를 물을 테니 제가 당신에게 묻겠습니다.\""
+        },
+        {
+          "en": "\"What's the one thing eight hundred people will remember from your twenty minutes?\" Jae-won opened his mouth and nothing came out. The refrigerator hummed, and he counted four seconds, then five. \"Don't answer now,\" Marcus said, without any apparent surprise. \"Put it in the abstract by noon on Friday, my time.\" The line went dead. Jae-won looked down at the utility bill, which held fourteen facts and not a single idea.",
+          "ko": "\"800명이 당신의 20분에서 기억할 한 가지는 무엇입니까?\" 재원은 입을 열었지만 아무 말도 나오지 않았다. 냉장고가 웅웅거렸고 그는 4초, 5초를 셌다. \"지금 답하지 마세요.\" 마커스가 전혀 놀라지 않은 기색으로 말했다. \"제 시간으로 금요일 정오까지 초록에 넣으세요.\" 전화가 끊겼다. 재원은 공과금 고지서를 내려다봤다. 사실은 열네 개가 적혀 있었지만 아이디어는 하나도 없었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I have this right",
+        "Is there any flexibility on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "deliverable",
+          "surface": "deliverables",
+          "meaningKo": "(제출해야 할) 산출물",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Then he asked about deliverables, and Marcus rattled them off: a title and a hundred-word abstract by noon this Friday, Singapore time; final slides one week out, with no swaps after that; and a stage rehearsal at four on the afternoon before.",
+            "ko": "이어서 제출물을 묻자 마커스는 줄줄 읊었다. 제목과 100단어 초록은 이번 금요일 정오 싱가포르 시간까지, 최종 슬라이드는 일주일 전까지이며 그 뒤로 교체 불가, 무대 리허설은 전날 오후 4시."
+          }
+        },
+        {
+          "term": "rattle off",
+          "surface": "rattled them off",
+          "meaningKo": "줄줄 읊다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Then he asked about deliverables, and Marcus rattled them off: a title and a hundred-word abstract by noon this Friday, Singapore time; final slides one week out, with no swaps after that; and a stage rehearsal at four on the afternoon before.",
+            "ko": "이어서 제출물을 묻자 마커스는 줄줄 읊었다. 제목과 100단어 초록은 이번 금요일 정오 싱가포르 시간까지, 최종 슬라이드는 일주일 전까지이며 그 뒤로 교체 불가, 무대 리허설은 전날 오후 4시."
+          }
+        },
+        {
+          "term": "lineup",
+          "surface": "lineup",
+          "meaningKo": "(참가자) 명단, 라인업",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Marcus corrected him on one point: \"The panel is at three that same afternoon, it's forty-five minutes with four panelists, and the lineup isn't locked yet.\"",
+            "ko": "패널은 같은 날 오후 3시고, 패널 4명에 45분이며, 명단은 아직 확정되지 않았어요."
+          }
+        },
+        {
+          "term": "stand behind",
+          "surface": "stand behind",
+          "meaningKo": "(주장·수치를) 책임지다, 보증하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Is there any flexibility on the slide deadline, given that we're still validating some of our data and I'd hate to show a number I can't stand behind?\"",
+            "ko": "아직 데이터 일부를 검증하는 중이고 제가 책임질 수 없는 숫자를 보여 드리고 싶지 않은데, 슬라이드 마감은 조정할 여지가 있을까요?"
+          }
+        },
+        {
+          "term": "change tack",
+          "surface": "changed tack",
+          "meaningKo": "방향·접근법을 바꾸다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "So Jae-won changed tack.",
+            "ko": "그래서 재원은 방향을 바꿨다."
+          }
+        },
+        {
+          "term": "sign off on",
+          "surface": "signed off on",
+          "meaningKo": "~을 최종 승인하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Here's my problem: the program committee signed off on Helen Park, a partner with twenty years' experience.",
+            "ko": "제 문제는 이겁니다. 프로그램 위원회가 승인한 건 경력 20년의 파트너 헬렌 박이에요."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 506,
+      "paragraphs": [
+        {
+          "en": "Jae-won underlined \"no pricing\" twice, thinking of Kwon upstairs. He asked about deliverables, and Marcus rattled them off like a charge sheet: title and a hundred-word abstract by noon this Friday, Singapore time; final slides a week out, after which he wouldn't swap so much as a typo; stage rehearsal at four o'clock the afternoon before, in the hall, with the clock running.",
+          "ko": "재원은 위층의 권 파트너를 떠올리며 \"가격 금지\"에 밑줄을 두 번 그었다. 제출물을 묻자 마커스는 공소장을 읽듯 줄줄 읊었다. 제목과 100단어 초록은 이번 금요일 정오 싱가포르 시간까지, 최종 슬라이드는 일주일 전까지이며 그 뒤로는 오타 하나도 바꿔 주지 않고, 무대 리허설은 전날 오후 4시에 홀에서 시계를 돌리며 한다."
+        },
+        {
+          "en": "\"Let me make sure I have this right,\" Jae-won said, and he read the whole list back. Marcus let him reach the end before pouncing. \"Panel's at three that same afternoon, not the day after. It's forty-five minutes, four panelists, and the lineup's still in play, so don't go getting attached to anyone.\" Jae-won did the arithmetic in the margin, and it came to twenty-three days from this morning.",
+          "ko": "\"제가 제대로 이해했는지 확인해 볼게요.\" 재원은 이렇게 말하고 목록 전체를 다시 읽었다. 마커스는 그가 끝까지 읽기를 기다렸다가 덮쳤다. \"패널은 다음 날이 아니라 같은 날 오후 3시입니다. 45분에 패널 4명이고, 명단은 아직 유동적이니 누구에게도 정들지 마세요.\" 재원이 여백에 계산해 보니 오늘 아침부터 23일이었다."
+        },
+        {
+          "en": "\"Is there any flexibility on the slide deadline, given that we're still validating some of the underlying data and I'd rather not put up a number I can't stand behind?\" \"No,\" said Marcus, and then he simply let the word sit there, apparently content for it to constitute a paragraph. So Jae-won stopped pushing on a door that was plainly painted on the wall and tried a different one. \"Understood, and I won't ask again. In that case, could you send me last year's question log from the app, so I can see what this crowd actually asks when the speaker isn't ready for it?\"",
+          "ko": "\"아직 기초 데이터 일부를 검증하는 중이고 제가 책임질 수 없는 숫자를 띄우고 싶지 않은데, 슬라이드 마감은 조정할 여지가 있을까요?\" \"없습니다.\" 마커스는 그렇게 말하고 그 단어를 그대로 놔두었다. 그 한마디가 한 문단을 이뤄도 만족한다는 듯했다. 그래서 재원은 벽에 그려진 것이 뻔한 문을 그만 밀고 다른 문을 시도했다. \"알겠습니다. 다시 여쭙지 않겠습니다. 그렇다면 연사가 준비되지 않았을 때 이 청중이 실제로 뭘 묻는지 볼 수 있게 작년 앱 질문 기록을 보내 주실 수 있을까요?\""
+        },
+        {
+          "en": "For the first time there was something like a pause on the line. \"Nine years I've been doing this, and you're the first speaker who's asked me for that instead of asking me for more time,\" Marcus said, in a tone that might, in a warmer man, have been approval. \"It'll be in your inbox by lunch.\"",
+          "ko": "처음으로 수화기 너머에 멈춤 비슷한 것이 생겼다. \"이 일을 9년 했는데, 시간을 더 달라는 대신 그걸 달라고 한 연사는 당신이 처음입니다.\" 마커스가 말했다. 좀 더 따뜻한 사람이었다면 칭찬이었을 법한 어조였다. \"점심 전까지 메일함에 넣어 드리죠.\""
+        },
+        {
+          "en": "Jae-won had just begun to suspect that this was going rather well when the temperature dropped. \"Now, my problem, which is shortly to become yours. My program committee signed off on Helen Park, a partner with twenty years behind her and a name people actually recognize. They sit on Friday at two, and I've got to walk in there and ask them to swap her for a senior manager nobody's ever heard of, three weeks out, on my say-so.\" \"That seems—\" \"They'll ask me one thing, they always do, so I'm asking you now.\"",
+          "ko": "재원이 이거 꽤 잘 풀리는 것 아닌가 하고 막 생각하던 참에 공기가 차가워졌다. \"자, 제 문제인데, 곧 당신 문제가 될 겁니다. 제 프로그램 위원회가 승인한 건 20년 경력에 이름도 실제로 알려진 파트너 헬렌 박이에요. 위원회가 금요일 2시에 열리는데, 저는 거기 들어가서 행사 3주 전에 제 말 하나만 믿고 아무도 모르는 시니어 매니저로 바꿔 달라고 해야 합니다.\" \"그건 좀—\" \"위원회는 한 가지를 묻습니다. 늘 그래요. 그러니 지금 제가 묻죠.\""
+        },
+        {
+          "en": "\"What's the one thing eight hundred people walk out of that hall remembering about your twenty minutes?\" Jae-won opened his mouth with every intention of using it. The refrigerator hummed, and he found himself counting, the way you count after lightning: four seconds, five, six.",
+          "ko": "\"800명이 그 홀을 나서며 당신의 20분에 관해 기억할 한 가지는 무엇입니까?\" 재원은 말할 생각으로 입을 열었다. 냉장고가 웅웅거렸고, 그는 번개가 친 뒤 세듯 숫자를 세고 있었다. 4초, 5초, 6초."
+        },
+        {
+          "en": "\"Don't strain yourself,\" Marcus said, without any apparent surprise and, worse, without any apparent disappointment, as though this were precisely the data point he had called to collect. \"Put it in the abstract. Friday, noon, my time, and if it reads like a table of contents, I'll know what to tell them at two.\" The line went dead, leaving Jae-won with a utility bill bearing fourteen immaculate facts and not a single idea.",
+          "ko": "\"무리하지 마세요.\" 마커스가 전혀 놀라지 않은, 더 나쁘게는 전혀 실망하지도 않은 기색으로 말했다. 마치 이것이 바로 전화해서 얻으려던 데이터라는 듯했다. \"초록에 넣으세요. 금요일 정오, 제 시간 기준입니다. 목차처럼 읽히면 2시에 위원회에 뭐라고 할지 알겠죠.\" 전화가 끊겼고, 재원의 손에는 흠잡을 데 없는 사실 열네 개와 아이디어 0개가 적힌 공과금 고지서만 남았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "Let me make sure I have this right",
+        "Is there any flexibility on"
+      ],
+      "wordCandidates": [
+        {
+          "term": "charge sheet",
+          "surface": "charge sheet",
+          "meaningKo": "공소장, 혐의 목록",
+          "paragraph": 0,
+          "sentence": {
+            "en": "He asked about deliverables, and Marcus rattled them off like a charge sheet: title and a hundred-word abstract by noon this Friday, Singapore time; final slides a week out, after which he wouldn't swap so much as a typo; stage rehearsal at four o'clock the afternoon before, in the hall, with the clock running.",
+            "ko": "제출물을 묻자 마커스는 공소장을 읽듯 줄줄 읊었다. 제목과 100단어 초록은 이번 금요일 정오 싱가포르 시간까지, 최종 슬라이드는 일주일 전까지이며 그 뒤로는 오타 하나도 바꿔 주지 않고, 무대 리허설은 전날 오후 4시에 홀에서 시계를 돌리며 한다."
+          }
+        },
+        {
+          "term": "pounce",
+          "surface": "pouncing",
+          "meaningKo": "달려들다, 덮치다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Marcus let him reach the end before pouncing.",
+            "ko": "마커스는 그가 끝까지 읽기를 기다렸다가 덮쳤다."
+          }
+        },
+        {
+          "term": "in play",
+          "surface": "in play",
+          "meaningKo": "아직 유동적인, 결정되지 않은",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It's forty-five minutes, four panelists, and the lineup's still in play, so don't go getting attached to anyone.",
+            "ko": "45분에 패널 4명이고, 명단은 아직 유동적이니 누구에게도 정들지 마세요."
+          }
+        },
+        {
+          "term": "constitute",
+          "surface": "constitute",
+          "meaningKo": "~을 이루다, 구성하다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"No,\" said Marcus, and then he simply let the word sit there, apparently content for it to constitute a paragraph.",
+            "ko": "마커스는 그렇게 말하고 그 단어를 그대로 놔두었다. 그 한마디가 한 문단을 이뤄도 만족한다는 듯했다."
+          }
+        },
+        {
+          "term": "on one's say-so",
+          "surface": "on my say-so",
+          "meaningKo": "~의 말 하나만 믿고",
+          "paragraph": 4,
+          "sentence": {
+            "en": "They sit on Friday at two, and I've got to walk in there and ask them to swap her for a senior manager nobody's ever heard of, three weeks out, on my say-so.",
+            "ko": "위원회가 금요일 2시에 열리는데, 저는 거기 들어가서 행사 3주 전에 제 말 하나만 믿고 아무도 모르는 시니어 매니저로 바꿔 달라고 해야 합니다."
+          }
+        },
+        {
+          "term": "immaculate",
+          "surface": "immaculate",
+          "meaningKo": "흠잡을 데 없는, 티 없이 깔끔한",
+          "paragraph": 6,
+          "sentence": {
+            "en": "The line went dead, leaving Jae-won with a utility bill bearing fourteen immaculate facts and not a single idea.",
+            "ko": "전화가 끊겼고, 재원의 손에는 흠잡을 데 없는 사실 열네 개와 아이디어 0개가 적힌 공과금 고지서만 남았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does Jae-won have to send Marcus by noon this Friday?",
+      "options": [
+        "A title and a hundred-word abstract",
+        "His final slides",
+        "A list of the four panelists",
+        "Last year's question log"
+      ],
+      "answerIndex": 0,
+      "evidence": "a title and a hundred-word abstract by noon this Friday, Singapore time"
+    },
+    {
+      "question": "What does Marcus's reaction to the request for last year's question log suggest?",
+      "options": [
+        "He is annoyed and wants to end the call.",
+        "He thinks the log is confidential and regrets agreeing.",
+        "He wants Jae-won to pay for the data.",
+        "He is quietly impressed, because Jae-won asked for something useful instead of more time."
+      ],
+      "answerIndex": 3,
+      "evidence": "In nine years, nobody has asked me for that, but I'll send it over today"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let me make sure I have this right.",
+      "Is there any flexibility on the slide deadline?",
+      "What's the one thing eight hundred people will remember from your twenty minutes?"
+    ],
+    "summaryPromptKo": "마커스가 말한 제출물과 일정, 재원이 어떻게 협상했는지, 마커스가 마지막에 던진 질문을 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "You've got the format now. So tell me, what's your biggest concern about the slot, and what do you need from me?",
+      "ko": "이제 형식은 파악했죠. 그럼 말해 보세요. 이 자리에서 가장 걱정되는 건 뭐고, 저한테 필요한 건 뭡니까?"
+    },
+    "modelAnswer": "Let me make sure I have this right: I have twenty minutes on stage, then five minutes of live questions that I won't see in advance. Those five minutes are my biggest concern, to be frank. The format itself is clear, and I won't ask you to move the slide deadline. What would help most is last year's question log, because I want to know what this audience actually asks. I'll have the abstract to you by Friday noon."
+  },
+  "nextTeaserKo": "재원은 금요일 정오까지 \"기억에 남을 한 가지\"를 내놓아야 한다. 팀 회의가 열리자마자 무엇을 말할지를 두고 의견이 정면으로 갈린다.",
+  "roleplay": {
+    "title": "마감을 받아 적다",
+    "situationKo": "통화가 이어집니다. 내가 재원이 되어 제출물과 일정을 받아 적고, 다시 확인하고, 조정할 여지가 있는지 물어봅니다. Marcus의 답이 짧아도 괜찮아요. 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "That's the room. I run at six, so let's keep moving. What else do you need?",
+        "ko": "청중은 그렇습니다. 저는 6시에 달리니까 계속 갑시다. 또 뭐가 필요합니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What do you need from me, and by when?",
+        "ko": "제가 무엇을 언제까지 드리면 되나요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "A title and a hundred-word abstract by noon this Friday, Singapore time. Final slides one week out, no swaps after that. Stage rehearsal at four on the afternoon before.",
+        "ko": "제목과 100단어 초록은 이번 금요일 정오, 싱가포르 시간까지요. 최종 슬라이드는 일주일 전까지고 그 뒤로 교체는 없습니다. 무대 리허설은 전날 오후 4시입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me make sure I have this right. Abstract by Friday noon, slides one week out, rehearsal at four.",
+        "ko": "제가 제대로 이해했는지 확인해 볼게요. 초록은 금요일 정오, 슬라이드는 일주일 전, 리허설은 4시죠.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Right. And the panel is at three that same afternoon, forty-five minutes with four panelists. The lineup isn't locked yet.",
+        "ko": "맞습니다. 그리고 패널은 같은 날 오후 3시, 패널 네 명에 45분이에요. 명단은 아직 확정되지 않았습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Is there any flexibility on the slide deadline? We're still validating some of our data.",
+        "ko": "슬라이드 마감은 조정할 여지가 있을까요? 아직 데이터 일부를 검증하고 있어서요.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "No.",
+        "ko": "없습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. In that case, could you share last year's question log from the app?",
+        "ko": "알겠습니다. 그렇다면 작년 앱 질문 기록을 공유해 주실 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "In nine years, nobody has asked me for that, but I'll send it over today. Now, here's my problem. The committee meets Friday at two, and they'll ask me exactly one thing. What's the one thing eight hundred people will remember from your twenty minutes?",
+        "ko": "9년 동안 그걸 달라고 한 사람은 없었는데, 오늘 보내 드리죠. 그런데 제 문제는 이겁니다. 위원회가 금요일 2시에 모이는데, 딱 한 가지를 물을 거예요. 재원 씨의 20분에서 800명이 기억할 한 가지는 뭡니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The one thing? I'm sorry, I don't have an answer for that yet.",
+        "ko": "그 한 가지요? 죄송합니다, 아직 답이 없습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Don't answer now. Put it in the abstract by noon on Friday, my time.",
+        "ko": "지금 답하지 마세요. 금요일 정오, 제 시간 기준으로 초록에 담아 주세요."
+      }
+    ]
+  }
+}

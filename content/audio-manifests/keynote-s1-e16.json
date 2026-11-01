@@ -1,0 +1,70 @@
+{
+  "episodeId": "keynote-s1-e16",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "audit trail": "word-audit-trail.mp3",
+    "divide": "word-divide.mp3",
+    "archive": "word-archive.mp3",
+    "merge": "word-merge.mp3",
+    "confirmed": "word-confirmed.mp3",
+    "attack": "word-attack.mp3",
+    "trace": "word-trace.mp3",
+    "dig through": "word-dig-through.mp3",
+    "track down": "word-track-down.mp3",
+    "pin down": "word-pin-down.mp3",
+    "go live": "word-go-live.mp3",
+    "take apart": "word-take-apart.mp3",
+    "clear one's calendar": "word-clear-one-s-calendar.mp3",
+    "work the phones": "word-work-the-phones.mp3",
+    "nail down": "word-nail-down.mp3",
+    "correspondence": "word-correspondence.mp3",
+    "restate": "word-restate.mp3",
+    "soft deadline": "word-soft-deadline.mp3",
+    "take no prisoners": "word-take-no-prisoners.mp3"
+  },
+  "termClips": {
+    "audit trail": "term-audit-trail.mp3",
+    "divide": "term-divide.mp3",
+    "archive": "term-archive.mp3",
+    "merge": "term-merge.mp3",
+    "confirmed": "term-confirmed.mp3",
+    "attack": "term-attack.mp3",
+    "trace": "term-trace.mp3",
+    "dig through": "term-dig-through.mp3",
+    "track down": "term-track-down.mp3",
+    "pin down": "term-pin-down.mp3",
+    "go live": "term-go-live.mp3",
+    "take apart": "term-take-apart.mp3",
+    "clear one's calendar": "term-clear-one-s-calendar.mp3",
+    "work the phones": "term-work-the-phones.mp3",
+    "nail down": "term-nail-down.mp3",
+    "correspondence": "term-correspondence.mp3",
+    "restate": "term-restate.mp3",
+    "soft deadline": "term-soft-deadline.mp3",
+    "take no prisoners": "term-take-no-prisoners.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

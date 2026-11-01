@@ -1,0 +1,60 @@
+{
+  "episodeId": "keynote-s2-e05",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "napkin": "word-napkin.mp3",
+    "quote": "word-quote.mp3",
+    "consultant": "word-consultant.mp3",
+    "site visit": "word-site-visit.mp3",
+    "pay back": "word-pay-back.mp3",
+    "fine": "word-fine.mp3",
+    "defensible": "word-defensible.mp3",
+    "trial balance": "word-trial-balance.mp3",
+    "assumption": "word-assumption.mp3",
+    "rework": "word-rework.mp3",
+    "verify": "word-verify.mp3",
+    "squared to the edge": "word-squared-to-the-edge.mp3",
+    "eloquently": "word-eloquently.mp3",
+    "typing error": "word-typing-error.mp3"
+  },
+  "termClips": {
+    "napkin": "term-napkin.mp3",
+    "quote": "term-quote.mp3",
+    "consultant": "term-consultant.mp3",
+    "site visit": "term-site-visit.mp3",
+    "pay back": "term-pay-back.mp3",
+    "fine": "term-fine.mp3",
+    "defensible": "term-defensible.mp3",
+    "trial balance": "term-trial-balance.mp3",
+    "assumption": "term-assumption.mp3",
+    "rework": "term-rework.mp3",
+    "verify": "term-verify.mp3",
+    "squared to the edge": "term-squared-to-the-edge.mp3",
+    "eloquently": "term-eloquently.mp3",
+    "typing error": "term-typing-error.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3"
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "keynote-s2-e08",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 8,
+  "title": "Two Signatures",
+  "recapKo": "화요일, 백준호는 14조를 통째로 빼고 어떤 서명도 하지 말라고 했다. 프리실라 고가 \"제 전화는 누가 받나요\"라고 묻자 재원은 조항의 목적을 다시 물었고, 그녀의 답은 \"이름\"이었다. 재원은 발목을 건드리는 백준호의 구두에도 멈추지 않고, 상한은 총 수수료 140만 달러로 하되 부속서 C 점검에 자기가 서명하기 전에는 파일럿을 가동하지 않겠다고 제안했다.",
+  "keyExpressions": [
+    {
+      "phrase": "We'd need to carve out ~",
+      "meaningKo": "~는 예외로 빼야 합니다",
+      "usage": "We'd need to carve out anything caused by your own systems."
+    },
+    {
+      "phrase": "What we could accept is ~",
+      "meaningKo": "저희가 받아들일 수 있는 것은 ~입니다",
+      "usage": "What we could accept is a cap of twelve months' fees."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 224,
+      "paragraphs": [
+        {
+          "en": "In the corridor, Baek told him that he had just volunteered to be sued. \"We'd need to carve out your name,\" he said. On the phone, Helen said, \"It's your name, so get a second signature, and I'll handle Kwon.\"",
+          "ko": "복도에서 백준호는 그가 방금 소송 대상을 자원한 셈이라고 말했다. \"당신 이름은 예외로 빼야 합니다.\" 그가 말했다. 전화로 헬렌이 말했다. \"당신 이름이 걸리는 거니까 두 번째 서명을 받아요. 권 파트너는 내가 맡을게요.\""
+        },
+        {
+          "en": "Back in the room, he made one more change. \"Two signatures, mine and your head of operations,\" he said. Priscilla said that this gave Wei Ling Tan a veto. \"She already has one, and this one's in writing,\" he said. \"What we could accept is two names, then,\" Priscilla said.",
+          "ko": "방으로 돌아와 그는 한 가지를 더 바꿨다. \"서명은 둘, 저와 그쪽 운영 총괄입니다.\" 그가 말했다. 프리실라는 그러면 웨이링 탄에게 거부권이 생긴다고 말했다. \"이미 갖고 계십니다. 이번 건 문서로 남는 거고요.\" 그가 말했다. \"그럼 저희가 받아들일 수 있는 것은 이름 둘이네요.\" 프리실라가 말했다."
+        },
+        {
+          "en": "Priscilla found one gap. If the checks passed and the vendor's system failed, and the vendor's own cap was too low, who would pay the difference? He thought of Corvane, Ethan Wolfe's company, on Grace's vendor list, and of a secret he had promised to keep. \"The parties shall discuss in good faith,\" Baek said at last. She wrote it in, although it answered nothing.",
+          "ko": "프리실라는 빈틈을 하나 찾아냈다. 점검을 통과했는데 공급업체 시스템이 실패하고 공급업체의 상한이 너무 낮으면 차액은 누가 내는가? 그는 그레이스의 공급업체 명단에 있는 이선 울프의 회사 코르베인을 떠올렸고, 지키기로 약속한 비밀을 떠올렸다. \"양측이 신의성실하게 협의한다.\" 백준호가 마침내 말했다. 그녀는 아무것도 답하지 않는 그 문장을 적어 넣었다."
+        },
+        {
+          "en": "The contract was signed on Friday, and Grace sent a note saying that kickoff was on Monday at two, in the Tuas canteen. Nobody had asked who was telling Wei Ling.",
+          "ko": "계약은 금요일에 서명되었고, 그레이스는 킥오프가 월요일 2시 투아스 구내식당이라는 메모를 보냈다. 웨이링에게 누가 말하는지는 아무도 묻지 않았다."
+        },
+        {
+          "en": "That evening, a message came from a number he didn't know. \"I've read Schedule C,\" it said. \"You put my name on your machine without asking me. On Monday, in front of my people, you can explain why.\"",
+          "ko": "그날 저녁 모르는 번호에서 메시지가 왔다. \"부속서 C를 읽었어요.\" 메시지였다. \"제게 묻지도 않고 당신 기계에 제 이름을 올렸더군요. 월요일에 우리 직원들 앞에서 이유를 설명하세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd need to carve out",
+        "What we could accept is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "sue",
+          "surface": "sued",
+          "meaningKo": "소송을 걸다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "In the corridor, Baek told him that he had just volunteered to be sued.",
+            "ko": "복도에서 백준호는 그가 방금 소송 대상을 자원한 셈이라고 말했다."
+          }
+        },
+        {
+          "term": "veto",
+          "surface": "veto",
+          "meaningKo": "거부권",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Priscilla said that this gave Wei Ling Tan a veto.",
+            "ko": "프리실라는 그러면 웨이링 탄에게 거부권이 생긴다고 말했다."
+          }
+        },
+        {
+          "term": "gap",
+          "surface": "gap",
+          "meaningKo": "빈틈, 공백",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Priscilla found one gap.",
+            "ko": "프리실라는 빈틈을 하나 찾아냈다."
+          }
+        },
+        {
+          "term": "good faith",
+          "surface": "good faith",
+          "meaningKo": "신의성실, 선의",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The parties shall discuss in good faith,\" Baek said at last.",
+            "ko": "\"양측이 신의성실하게 협의한다.\" 백준호가 마침내 말했다."
+          }
+        },
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 3,
+          "sentence": {
+            "en": "The contract was signed on Friday, and Grace sent a note saying that kickoff was on Monday at two, in the Tuas canteen.",
+            "ko": "계약은 금요일에 서명되었고, 그레이스는 킥오프가 월요일 2시 투아스 구내식당이라는 메모를 보냈다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 335,
+      "paragraphs": [
+        {
+          "en": "Baek asked for five minutes, and they stood in the corridor beside a dying plant. \"You've just volunteered to be the person they sue,\" he said. \"We'd need to carve out your name.\" \"That's what I told eight hundred people to do, so I can't very well say I meant someone else,\" Jae-won said. On the phone, Helen listened to all of it and said, \"It's your name and my firm, so get a second signature, and I'll handle Kwon.\"",
+          "ko": "백준호가 5분을 청했고, 그들은 시들어 가는 화분 옆 복도에 섰다. \"방금 소송당할 사람을 자원하셨습니다.\" 그가 말했다. \"당신 이름은 예외로 빼야 합니다.\" \"800명에게 그렇게 하라고 했으니, 다른 사람 얘기였다고 할 수는 없죠.\" 재원이 말했다. 전화로 모든 이야기를 들은 헬렌이 말했다. \"당신 이름에 내 회사예요. 두 번째 서명을 받아요. 권 파트너는 내가 맡을게요.\""
+        },
+        {
+          "en": "Back in the room, he made one more change. \"Two signatures, mine and your head of operations, because the people on the floor will know before I do if it isn't ready,\" he said. Priscilla raised an eyebrow and asked if he realized that gave Wei Ling Tan a veto. \"She already has one, and this one's in writing,\" he said. \"What we could accept is two names, then,\" Priscilla said.",
+          "ko": "방으로 돌아와 그는 한 가지를 더 바꿨다. \"서명은 둘, 저와 그쪽 운영 총괄입니다. 준비가 안 됐다면 현장 사람들이 저보다 먼저 알 테니까요.\" 그가 말했다. 프리실라가 눈썹을 치켜올리며 그러면 웨이링 탄에게 거부권이 생기는 걸 아느냐고 물었다. \"이미 갖고 계십니다. 이번 건 문서로 남는 거고요.\" 그가 말했다. \"그럼 저희가 받아들일 수 있는 것은 이름 둘이네요.\" 프리실라가 말했다."
+        },
+        {
+          "en": "Priscilla wrote for a while and then found one gap. \"Suppose the checks pass, you both sign, the vendor's system fails, and the vendor's own cap is too low to cover it, so who pays the difference?\" she asked. Jae-won thought of Corvane, Ethan Wolfe's company, on Grace's vendor list, and of three customers stopped at month-end, which he had promised to keep off the table. Nobody spoke until Baek said, \"The parties shall discuss in good faith.\" \"Which means nobody knows, and we'll all find out together,\" she said, and she wrote it in.",
+          "ko": "프리실라는 한동안 적더니 빈틈을 하나 찾아냈다. \"점검을 통과하고 두 분이 서명했는데 공급업체 시스템이 실패하고, 공급업체의 상한이 너무 낮아 감당이 안 된다고 해 보죠. 차액은 누가 내나요?\" 그녀가 물었다. 재원은 그레이스의 공급업체 명단에 있는 이선 울프의 회사 코르베인을 떠올렸고, 테이블 밖으로 내지 않기로 약속한, 월말에 멈춘 고객 세 곳을 떠올렸다. 아무도 말이 없다가 백준호가 말했다. \"양측이 신의성실하게 협의한다.\" \"아무도 모르니 다 같이 알아보자는 뜻이군요.\" 그녀는 그렇게 말하고 그 문장을 적어 넣었다."
+        },
+        {
+          "en": "The contract was signed on Friday, with the cap, the two signatures and the gap on page thirty-one. Grace crossed out one word and sent a note saying that kickoff was on Monday at two, in the Tuas canteen, between shifts. Nobody had thought to ask who was telling Wei Ling.",
+          "ko": "계약은 금요일에 서명되었고, 31쪽에 상한과 두 서명과 그 빈틈이 들어갔다. 그레이스는 단어 하나에 줄을 긋고, 킥오프가 월요일 2시 근무 교대 사이에 투아스 구내식당에서 열린다는 메모를 보냈다. 웨이링에게 누가 말하는지는 아무도 묻지 않았다."
+        },
+        {
+          "en": "That evening, a message came from a number he didn't know. \"I've read Schedule C,\" it said. \"You put my name on your machine without asking me. On Monday, in front of my people, you can explain why.\"",
+          "ko": "그날 저녁 모르는 번호에서 메시지가 왔다. \"부속서 C를 읽었어요.\" 메시지였다. \"제게 묻지도 않고 당신 기계에 제 이름을 올렸더군요. 월요일에 우리 직원들 앞에서 이유를 설명하세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd need to carve out",
+        "What we could accept is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "volunteer",
+          "surface": "volunteered",
+          "meaningKo": "자원하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"You've just volunteered to be the person they sue,\" he said.",
+            "ko": "\"방금 소송당할 사람을 자원하셨습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "head of operations",
+          "surface": "head of operations",
+          "meaningKo": "운영 총괄",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Two signatures, mine and your head of operations, because the people on the floor will know before I do if it isn't ready,\" he said.",
+            "ko": "\"서명은 둘, 저와 그쪽 운영 총괄입니다. 준비가 안 됐다면 현장 사람들이 저보다 먼저 알 테니까요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "veto",
+          "surface": "veto",
+          "meaningKo": "거부권",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Priscilla raised an eyebrow and asked if he realized that gave Wei Ling Tan a veto.",
+            "ko": "프리실라가 눈썹을 치켜올리며 그러면 웨이링 탄에게 거부권이 생기는 걸 아느냐고 물었다."
+          }
+        },
+        {
+          "term": "good faith",
+          "surface": "good faith",
+          "meaningKo": "신의성실, 선의",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Nobody spoke until Baek said, \"The parties shall discuss in good faith.\"",
+            "ko": "아무도 말이 없다가 백준호가 말했다. \"양측이 신의성실하게 협의한다.\""
+          }
+        },
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace crossed out one word and sent a note saying that kickoff was on Monday at two, in the Tuas canteen, between shifts.",
+            "ko": "그레이스는 단어 하나에 줄을 긋고, 킥오프가 월요일 2시 근무 교대 사이에 투아스 구내식당에서 열린다는 메모를 보냈다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 456,
+      "paragraphs": [
+        {
+          "en": "Baek asked for five minutes, and they stood in the corridor beside a dying plant that seemed to have been placed there for the purpose. \"You've just volunteered to be the person they sue, and I'd like that noted somewhere,\" he said. \"We'd need to carve out your name.\" \"That's what I told eight hundred people to do, so I can't very well say I meant someone else,\" Jae-won said. On the phone, Helen listened to all of it without interrupting, which was never a good sign, and then said, \"It's your name and my firm, so get a second signature from their side, and I'll handle Kwon, who'll need to lie down.\"",
+          "ko": "백준호가 5분을 청했고, 그들은 바로 이런 용도로 놓인 듯한 시들어 가는 화분 옆 복도에 섰다. \"방금 소송당할 사람을 자원하셨고, 그 사실을 어딘가에 기록해 뒀으면 합니다.\" 그가 말했다. \"당신 이름은 예외로 빼야 합니다.\" \"800명에게 그렇게 하라고 했으니, 다른 사람 얘기였다고 할 수는 없죠.\" 재원이 말했다. 전화로 헬렌은 끼어들지 않고 모든 이야기를 들었는데, 그건 결코 좋은 신호가 아니었다. 그러더니 말했다. \"당신 이름에 내 회사예요. 그쪽에서 두 번째 서명을 받아요. 권 파트너는 내가 맡을게요. 좀 누워야 할 테지만.\""
+        },
+        {
+          "en": "Back in the room, he made one more change while Priscilla refilled the pot. \"Two signatures, mine and your head of operations, because the people on the floor will know before I do if it isn't ready,\" he said. Priscilla raised an eyebrow, which he gathered was the equivalent of someone else shouting, and asked if he realized that gave Wei Ling Tan a veto over Grace's project. \"She already has one,\" he said. \"This one's in writing.\" \"What we could accept is two names, then,\" Priscilla said.",
+          "ko": "방으로 돌아와 프리실라가 찻주전자를 채우는 동안 그는 한 가지를 더 바꿨다. \"서명은 둘, 저와 그쪽 운영 총괄입니다. 준비가 안 됐다면 현장 사람들이 저보다 먼저 알 테니까요.\" 그가 말했다. 프리실라가 눈썹을 치켜올렸는데, 다른 사람이 소리를 지르는 것에 해당하는 듯했다. 그녀는 그러면 웨이링 탄에게 그레이스의 프로젝트에 대한 거부권이 생기는 걸 아느냐고 물었다. \"이미 갖고 계십니다.\" 그가 말했다. \"이번 건 문서로 남는 거고요.\" \"그럼 저희가 받아들일 수 있는 것은 이름 둘이네요.\" 프리실라가 말했다."
+        },
+        {
+          "en": "Priscilla wrote for a while in small, even letters and then found one gap, the way a dentist finds one. \"Suppose the checks pass, you both sign, the vendor's system fails, and the vendor's own cap is too low to cover it, so who pays the difference?\" she asked. Jae-won thought of Corvane, Ethan Wolfe's company, on Grace's vendor list, and of three customers stopped at month-end, which he had promised over coffee to keep off the table. Nobody spoke for some time, until Baek said, with a certain weariness, \"The parties shall discuss in good faith.\" \"Which means nobody knows, and we'll all find out together, at considerable expense,\" she said, and she wrote it in.",
+          "ko": "프리실라는 작고 고른 글씨로 한동안 적더니, 치과 의사가 충치를 찾듯 빈틈을 하나 찾아냈다. \"점검을 통과하고 두 분이 서명했는데 공급업체 시스템이 실패하고, 공급업체의 상한이 너무 낮아 감당이 안 된다고 해 보죠. 차액은 누가 내나요?\" 그녀가 물었다. 재원은 그레이스의 공급업체 명단에 있는 이선 울프의 회사 코르베인을 떠올렸고, 커피를 마시며 테이블 밖으로 내지 않기로 약속한, 월말에 멈춘 고객 세 곳을 떠올렸다. 한동안 아무도 말이 없다가 백준호가 약간 지친 어조로 말했다. \"양측이 신의성실하게 협의한다.\" \"아무도 모르니 상당한 비용을 들여 다 같이 알아보자는 뜻이군요.\" 그녀는 그렇게 말하고 그 문장을 적어 넣었다."
+        },
+        {
+          "en": "The contract was signed on Friday, with the cap, the two signatures and the gap on page thirty-one, where nobody would ever read them until they had to. Grace crossed out one word and sent a note saying that kickoff was on Monday at two, in the Tuas canteen, between shifts, so that everyone could hear it at once. Nobody on either side had thought to ask who was telling Wei Ling. Each of them later assumed it had been someone else.",
+          "ko": "계약은 금요일에 서명되었고, 어쩔 수 없을 때까지 아무도 읽지 않을 31쪽에 상한과 두 서명과 그 빈틈이 들어갔다. 그레이스는 단어 하나에 줄을 긋고, 모두가 한꺼번에 들을 수 있도록 킥오프를 월요일 2시 근무 교대 사이에 투아스 구내식당에서 연다는 메모를 보냈다. 웨이링에게 누가 말하는지는 양쪽 누구도 묻지 않았고, 나중에 다들 다른 사람이 말한 줄 알았다고 했다."
+        },
+        {
+          "en": "That evening, as he was packing for the flight back to Singapore that he had already taken twice that month, a message came from a number he didn't know. \"I've read Schedule C,\" it said. \"You put my name on your machine without asking me. On Monday, in front of my people, you can explain why.\"",
+          "ko": "그날 저녁, 그달에 벌써 두 번이나 탄 싱가포르행 비행기를 또 타려고 짐을 싸는데 모르는 번호에서 메시지가 왔다. \"부속서 C를 읽었어요.\" 메시지였다. \"제게 묻지도 않고 당신 기계에 제 이름을 올렸더군요. 월요일에 우리 직원들 앞에서 이유를 설명하세요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "We'd need to carve out",
+        "What we could accept is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "volunteer",
+          "surface": "volunteered",
+          "meaningKo": "자원하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"You've just volunteered to be the person they sue, and I'd like that noted somewhere,\" he said.",
+            "ko": "\"방금 소송당할 사람을 자원하셨고, 그 사실을 어딘가에 기록해 뒀으면 합니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "veto",
+          "surface": "veto",
+          "meaningKo": "거부권",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Priscilla raised an eyebrow, which he gathered was the equivalent of someone else shouting, and asked if he realized that gave Wei Ling Tan a veto over Grace's project.",
+            "ko": "그녀는 그러면 웨이링 탄에게 그레이스의 프로젝트에 대한 거부권이 생기는 걸 아느냐고 물었다."
+          }
+        },
+        {
+          "term": "weariness",
+          "surface": "weariness",
+          "meaningKo": "지침, 피로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Nobody spoke for some time, until Baek said, with a certain weariness, \"The parties shall discuss in good faith.\"",
+            "ko": "한동안 아무도 말이 없다가 백준호가 약간 지친 어조로 말했다. \"양측이 신의성실하게 협의한다.\""
+          }
+        },
+        {
+          "term": "canteen",
+          "surface": "canteen",
+          "meaningKo": "구내식당",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace crossed out one word and sent a note saying that kickoff was on Monday at two, in the Tuas canteen, between shifts, so that everyone could hear it at once.",
+            "ko": "그레이스는 단어 하나에 줄을 긋고, 모두가 한꺼번에 들을 수 있도록 킥오프를 월요일 2시 근무 교대 사이에 투아스 구내식당에서 연다는 메모를 보냈다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Whose signatures are needed before a pilot goes live?",
+      "options": [
+        "Baek and Priscilla",
+        "Grace and Arjun",
+        "Helen and Kwon",
+        "Jae-won and the head of operations"
+      ],
+      "answerIndex": 3,
+      "evidence": "Two signatures, mine and your head of operations"
+    },
+    {
+      "question": "Why is Wei Ling's message angry?",
+      "options": [
+        "She dislikes the Tuas canteen",
+        "She wanted a higher cap",
+        "Her name became part of the contract before anyone spoke to her",
+        "She wasn't paid for the kickoff"
+      ],
+      "answerIndex": 2,
+      "evidence": "You put my name on your machine without asking me."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "We'd need to carve out your name.",
+      "What we could accept is two names, then.",
+      "She already has one, and this one's in writing."
+    ],
+    "summaryPromptKo": "백준호와 헬렌이 각각 무엇을 말했는지, 재원이 무엇을 더 바꿨는지, 무엇이 해결되지 않은 채 남았는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priscilla Goh",
+      "en": "A second signature gives Wei Ling Tan a veto over this project. Why would you want that?",
+      "ko": "두 번째 서명은 웨이링 탄에게 이 프로젝트에 대한 거부권을 줍니다. 왜 그걸 원하시죠?"
+    },
+    "modelAnswer": "She already has one, and this one's in writing. The people on the floor will know before I do if a system isn't ready, so I want two signatures, mine and your head of operations. My general counsel wanted to carve out my name altogether, but I told eight hundred people that someone has to sign. I'd rather have her say it to my face before a pilot goes live."
+  },
+  "nextTeaserKo": "월요일 2시, 투아스 구내식당. 교대 사이에 모인 직원들 앞에서 웨이링이 일어선다. 내 이름이 왜 거기 있나요. 우리 중 몇 명이 일자리를 잃나요. 재원이 약속할 수 있는 것은 많지 않다.",
+  "roleplay": {
+    "title": "두 번째 서명",
+    "situationKo": "복도에서 백준호와 헬렌의 말을 듣고 회의실로 돌아옵니다. 두 번째 서명을 제안하고, 프리실라가 찾아낸 빈틈 앞에서는 모르는 건 모른다고 말해도 괜찮아요. 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "You've just volunteered to be the person they sue. We'd need to carve out your name.",
+        "ko": "방금 소송당할 사람을 자원하셨습니다. 당신 이름은 예외로 빼야 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's what I told eight hundred people to do. I can't very well say I meant someone else.",
+        "ko": "800명에게 그렇게 하라고 했으니, 다른 사람 얘기였다고 할 수는 없죠.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "It's your name and my firm, so get a second signature, and I'll handle Kwon.",
+        "ko": "당신 이름에 내 회사예요. 두 번째 서명을 받아요. 권 파트너는 내가 맡을게요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. I'll ask for it now.",
+        "ko": "알겠습니다. 지금 요청하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "You're back. Anything to change?",
+        "ko": "돌아오셨네요. 바꿀 것이 있나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What we could accept is two signatures, mine and your head of operations. The floor will know before I do.",
+        "ko": "저희가 받아들일 수 있는 것은 서명 둘, 저와 그쪽 운영 총괄입니다. 현장이 저보다 먼저 알 테니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "That gives Wei Ling a veto, you realize.",
+        "ko": "그러면 웨이링에게 거부권이 생기는 거, 아시죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "She already has one. This one's in writing.",
+        "ko": "이미 갖고 계십니다. 이번 건 문서로 남는 거고요.",
+        "you": true
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "One gap remains. If the vendor's cap is too low, who pays the difference?",
+        "ko": "빈틈이 하나 남았어요. 공급업체의 상한이 너무 낮으면 차액은 누가 내나요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I don't know yet. Let's write that down honestly and not pretend we've solved it.",
+        "ko": "아직 모르겠습니다. 해결한 척하지 말고 솔직하게 적어 두죠.",
+        "you": true
+      },
+      {
+        "speaker": "Baek Joon-ho",
+        "voice": "male",
+        "en": "The parties shall discuss in good faith.",
+        "ko": "양측이 신의성실하게 협의한다."
+      },
+      {
+        "speaker": "Priscilla Goh",
+        "voice": "female",
+        "en": "Which means nobody knows, and we'll all find out together.",
+        "ko": "아무도 모르니 다 같이 알아보자는 뜻이군요."
+      }
+    ]
+  }
+}

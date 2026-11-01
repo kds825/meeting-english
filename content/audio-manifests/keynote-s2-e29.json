@@ -1,0 +1,66 @@
+{
+  "episodeId": "keynote-s2-e29",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "relaxed": "word-relaxed.mp3",
+    "praise": "word-praise.mp3",
+    "take over": "word-take-over.mp3",
+    "quote": "word-quote.mp3",
+    "look away": "word-look-away.mp3",
+    "alarm": "word-alarm.mp3",
+    "run to": "word-run-to.mp3",
+    "remark": "word-remark.mp3",
+    "install": "word-install.mp3",
+    "margin": "word-margin.mp3",
+    "unhurried": "word-unhurried.mp3",
+    "disagreeably": "word-disagreeably.mp3",
+    "curiosity": "word-curiosity.mp3",
+    "promising": "word-promising.mp3",
+    "meet someone's eye": "word-meet-someone-s-eye.mp3",
+    "discomfort": "word-discomfort.mp3"
+  },
+  "termClips": {
+    "relaxed": "term-relaxed.mp3",
+    "praise": "term-praise.mp3",
+    "take over": "term-take-over.mp3",
+    "quote": "term-quote.mp3",
+    "look away": "term-look-away.mp3",
+    "alarm": "term-alarm.mp3",
+    "run to": "term-run-to.mp3",
+    "remark": "term-remark.mp3",
+    "install": "term-install.mp3",
+    "margin": "term-margin.mp3",
+    "unhurried": "term-unhurried.mp3",
+    "disagreeably": "term-disagreeably.mp3",
+    "curiosity": "term-curiosity.mp3",
+    "promising": "term-promising.mp3",
+    "meet someone's eye": "term-meet-someone-s-eye.mp3",
+    "discomfort": "term-discomfort.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3"
+  ]
+}

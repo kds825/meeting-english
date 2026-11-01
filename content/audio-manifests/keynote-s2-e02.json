@@ -1,0 +1,64 @@
+{
+  "episodeId": "keynote-s2-e02",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "full-time": "word-full-time.mp3",
+    "accountable": "word-accountable.mp3",
+    "promotion": "word-promotion.mp3",
+    "proposal": "word-proposal.mp3",
+    "steel-toed boots": "word-steel-toed-boots.mp3",
+    "hub": "word-hub.mp3",
+    "knock": "word-knock.mp3",
+    "duplicate": "word-duplicate.mp3",
+    "hard hat": "word-hard-hat.mp3",
+    "objection": "word-objection.mp3",
+    "restraint": "word-restraint.mp3",
+    "pavement": "word-pavement.mp3",
+    "tick": "word-tick.mp3"
+  },
+  "termClips": {
+    "full-time": "term-full-time.mp3",
+    "accountable": "term-accountable.mp3",
+    "promotion": "term-promotion.mp3",
+    "proposal": "term-proposal.mp3",
+    "steel-toed boots": "term-steel-toed-boots.mp3",
+    "hub": "term-hub.mp3",
+    "knock": "term-knock.mp3",
+    "duplicate": "term-duplicate.mp3",
+    "hard hat": "term-hard-hat.mp3",
+    "objection": "term-objection.mp3",
+    "restraint": "term-restraint.mp3",
+    "pavement": "term-pavement.mp3",
+    "tick": "term-tick.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3",
+    "roleplay-16.mp3"
+  ]
+}

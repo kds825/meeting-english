@@ -1,0 +1,34 @@
+{
+  "name": "english-meeting-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "test": "vitest run",
+    "validate": "tsx scripts/validate-episodes.ts",
+    "audio": "tsx scripts/generate-audio.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/noto-sans-kr": "^5.3.1",
+    "@fontsource-variable/source-serif-4": "^5.3.1",
+    "idb": "^8.0.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "ffmpeg-static": "^5.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.5"
+  }
+}

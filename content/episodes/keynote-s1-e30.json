@@ -1,0 +1,429 @@
+{
+  "id": "keynote-s1-e30",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 30,
+  "title": "Three Seconds",
+  "recapKo": "2주 전 얼어붙었던 그 방에서 재원은 숫자 정정을 14초에 끝내고 발표를 19분 34초에 마쳤다. 유나의 옛 질문에는 2초 만에 영어로 아홉 곳이라 답했고, 이선 역의 대니얼이 몰아붙이자 \"제가 증거니까 저를 쓰시죠\"라고 받아쳤다.",
+  "keyExpressions": [
+    {
+      "phrase": "To recap, ~",
+      "meaningKo": "정리하자면, ~",
+      "usage": "To recap, we agreed on the budget, but the date is still open."
+    },
+    {
+      "phrase": "Let me pull that together.",
+      "meaningKo": "제가 그걸 한데 묶어 볼게요.",
+      "usage": "There were a lot of points there, so let me pull that together."
+    },
+    {
+      "phrase": "So where we've landed is ~",
+      "meaningKo": "그래서 우리가 내린 결론은 ~입니다",
+      "usage": "So where we've landed is a two-phase rollout, starting in May."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 205,
+      "paragraphs": [
+        {
+          "en": "Kwon asked one long question about cost, timing and ownership. \"Let me pull that together,\" Jae-won said. \"To recap, you're asking what it costs, when it starts and who owns it.\" He answered all three, and Kwon nodded for the first time.",
+          "ko": "권 파트너가 비용과 일정, 책임 소재에 관한 긴 질문 하나를 했다. \"제가 그걸 한데 묶어 볼게요.\" 재원이 말했다. \"정리하자면, 비용이 얼마인지, 언제 시작하는지, 누가 책임지는지를 물으시는 거죠.\" 그는 세 가지에 모두 답했고, 권 파트너가 처음으로 고개를 끄덕였다."
+        },
+        {
+          "en": "Helen asked the last question from the screen: what would he say to a buyer whose pilot had already failed? He took three seconds, and his first sentence was ugly, but he finished the answer in English.",
+          "ko": "헬렌이 화면에서 마지막 질문을 했다. 파일럿이 이미 실패한 구매자에게 뭐라고 하겠느냐는 것이었다. 그는 3초를 썼고 첫 문장은 볼품없었지만, 영어로 답을 끝냈다."
+        },
+        {
+          "en": "\"While you were silent, what were you afraid they'd find out?\" Priya asked. \"That I'm a substitute, and that I signed something I hadn't checked,\" he said. \"They know both now.\" She stopped her recording. \"See you in Singapore,\" she said.",
+          "ko": "\"침묵하는 동안 사람들이 뭘 알아낼까 봐 두려웠죠?\" 프리야가 물었다. \"제가 대타라는 것, 그리고 확인하지 않은 걸 서명했다는 것이요.\" 그가 말했다. \"이제 둘 다 알죠.\" 그녀가 녹음을 멈췄다. \"싱가포르에서 봐요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"So where we've landed is simple,\" Jae-won told the room. \"Daniel and I fly tomorrow at nine, Priya and Yuna come on Wednesday, and nothing goes back in.\" Helen said that her mother was awake and complaining about the food.",
+          "ko": "\"그래서 우리가 내린 결론은 간단합니다.\" 재원이 방 안 사람들에게 말했다. \"대니얼과 저는 내일 9시에 떠나고, 프리야와 유나는 수요일에 오고, 아무것도 다시 넣지 않습니다.\" 헬렌은 어머니가 깨어나 병원 밥 불평을 하고 있다고 했다."
+        },
+        {
+          "en": "At ten to eleven, he was packing when an email came from Marcus. \"Stage check is Wednesday at four. Ethan lands tomorrow too, and he has read the new title and asked for coffee with you. No agenda, he says. There is always an agenda.\"",
+          "ko": "11시 10분 전, 짐을 싸고 있는데 마커스의 메일이 왔다. \"무대 점검은 수요일 4시입니다. 이선도 내일 도착하는데, 새 제목을 읽고 당신과 커피를 마시자고 합니다. 안건은 없다고 하네요. 안건은 언제나 있습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "To recap",
+        "Let me pull that together",
+        "So where we've landed is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "ownership",
+          "surface": "ownership",
+          "meaningKo": "책임 소재, 주인 의식",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Kwon asked one long question about cost, timing and ownership.",
+            "ko": "권 파트너가 비용과 일정, 책임 소재에 관한 긴 질문 하나를 했다."
+          }
+        },
+        {
+          "term": "ugly",
+          "surface": "ugly",
+          "meaningKo": "볼품없는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He took three seconds, and his first sentence was ugly, but he finished the answer in English.",
+            "ko": "그는 3초를 썼고 첫 문장은 볼품없었지만, 영어로 답을 끝냈다."
+          }
+        },
+        {
+          "term": "substitute",
+          "surface": "substitute",
+          "meaningKo": "대타, 대리인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"That I'm a substitute, and that I signed something I hadn't checked,\" he said.",
+            "ko": "\"제가 대타라는 것, 그리고 확인하지 않은 걸 서명했다는 것이요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "complain about",
+          "surface": "complaining about",
+          "meaningKo": "~을 불평하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen said that her mother was awake and complaining about the food.",
+            "ko": "헬렌은 어머니가 깨어나 병원 밥 불평을 하고 있다고 했다."
+          }
+        },
+        {
+          "term": "agenda",
+          "surface": "agenda",
+          "meaningKo": "안건, 숨은 의도",
+          "paragraph": 4,
+          "sentence": {
+            "en": "No agenda, he says.",
+            "ko": "안건은 없다고 하네요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 347,
+      "paragraphs": [
+        {
+          "en": "Kwon, playing a CFO again, asked one long question about cost, timing and ownership that took forty seconds and wandered through two of his old clients. Three weeks ago, that would have finished Jae-won off. \"Let me pull that together,\" he said. \"To recap, you're asking what it costs, when it starts and who owns it.\" He answered all three in that order, and Kwon nodded for the first time in three weeks.",
+          "ko": "다시 CFO 역을 맡은 권 파트너가 비용과 일정, 책임 소재에 관해 긴 질문 하나를 했는데, 40초 동안 자기 옛 고객 두 곳을 거쳐 갔다. 3주 전이라면 재원은 거기서 끝장났을 것이다. \"제가 그걸 한데 묶어 볼게요.\" 그가 말했다. \"정리하자면, 비용이 얼마인지, 언제 시작하는지, 누가 책임지는지를 물으시는 거죠.\" 그는 세 가지를 그 순서대로 답했고, 권 파트너가 3주 만에 처음으로 고개를 끄덕였다."
+        },
+        {
+          "en": "Helen asked the last question from the screen, and it wasn't on anyone's list: what would he say to a buyer whose pilot had already failed? He had nothing prepared and nobody to look at. He took three seconds, his first sentence was ugly, and his second was better, but he kept going and finished the answer in English, with no rail to hold on to.",
+          "ko": "헬렌이 화면에서 마지막 질문을 했는데, 누구의 목록에도 없는 것이었다. 파일럿이 이미 실패한 구매자에게 뭐라고 하겠느냐는 것이었다. 준비한 답도 바라볼 사람도 없었다. 그는 3초를 썼고, 첫 문장은 볼품없었고 둘째는 나았지만, 멈추지 않고 붙잡을 난간도 없이 영어로 답을 끝냈다."
+        },
+        {
+          "en": "Priya came to the front and asked Daniel for the longest pause, which was three seconds. Then she looked at Jae-won and asked, in the same tone as her email two weeks ago, \"While you were silent, what were you afraid they'd find out?\" \"That I'm a substitute, and that I signed something I hadn't checked,\" he said. \"They know both now.\" She picked up her phone and stopped the recording. \"See you in Singapore,\" she said, which from her was practically a parade.",
+          "ko": "프리야가 앞으로 나와 대니얼에게 가장 긴 침묵을 물었고, 3초였다. 그러고는 재원을 바라봤다. \"침묵하는 동안 사람들이 뭘 알아낼까 봐 두려웠죠?\" 2주 전 메일과 같은 어조로 그녀가 물었다. \"제가 대타라는 것, 그리고 확인하지 않은 걸 서명했다는 것이요.\" 그가 말했다. \"이제 둘 다 알죠.\" 그녀가 휴대폰을 집어 녹음을 멈췄다. \"싱가포르에서 봐요.\" 그녀가 말했는데, 그녀에게서 나온 말로는 거의 축하 행진이나 다름없었다."
+        },
+        {
+          "en": "\"So where we've landed is simple,\" Jae-won told the room as people reached for their bags. \"Daniel and I fly tomorrow at nine, Priya and Yuna come on Wednesday, and nothing goes back in.\" On the screen, Helen said that her mother was awake and complaining about the food, which the doctors considered a good sign, and she told them all to go home.",
+          "ko": "\"그래서 우리가 내린 결론은 간단합니다.\" 사람들이 가방을 집는 사이 재원이 말했다. \"대니얼과 저는 내일 9시에 떠나고, 프리야와 유나는 수요일에 오고, 아무것도 다시 넣지 않습니다.\" 화면에서 헬렌은 어머니가 깨어나 병원 밥 불평을 하고 있는데 의사들은 좋은 신호로 본다며, 모두 집에 가라고 했다."
+        },
+        {
+          "en": "At ten to eleven, he was packing when his phone lit up with an email from Marcus, the same time of night as the last bad news. \"Stage check is Wednesday at four, as agreed. Ethan lands tomorrow too. He has read the new title and asked for coffee with you. No agenda, he says. There is always an agenda.\"",
+          "ko": "11시 10분 전, 짐을 싸고 있는데 휴대폰에 마커스의 메일이 떴다. 지난번 나쁜 소식이 왔던 그 시각이었다. \"무대 점검은 합의한 대로 수요일 4시입니다. 이선도 내일 도착합니다. 새 제목을 읽고 당신과 커피를 마시자고 하네요. 안건은 없다고 합니다. 안건은 언제나 있습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "To recap",
+        "Let me pull that together",
+        "So where we've landed is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "wander",
+          "surface": "wandered",
+          "meaningKo": "(말이) 이리저리 새다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Kwon, playing a CFO again, asked one long question about cost, timing and ownership that took forty seconds and wandered through two of his old clients.",
+            "ko": "다시 CFO 역을 맡은 권 파트너가 비용과 일정, 책임 소재에 관해 긴 질문 하나를 했는데, 40초 동안 자기 옛 고객 두 곳을 거쳐 갔다."
+          }
+        },
+        {
+          "term": "finish off",
+          "surface": "finished Jae-won off",
+          "meaningKo": "끝장내다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Three weeks ago, that would have finished Jae-won off.",
+            "ko": "3주 전이라면 재원은 거기서 끝장났을 것이다."
+          }
+        },
+        {
+          "term": "rail",
+          "surface": "rail",
+          "meaningKo": "난간, 의지할 것",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He took three seconds, his first sentence was ugly, and his second was better, but he kept going and finished the answer in English, with no rail to hold on to.",
+            "ko": "그는 3초를 썼고, 첫 문장은 볼품없었고 둘째는 나았지만, 멈추지 않고 붙잡을 난간도 없이 영어로 답을 끝냈다."
+          }
+        },
+        {
+          "term": "come to the front",
+          "surface": "came to the front",
+          "meaningKo": "앞으로 나오다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Priya came to the front and asked Daniel for the longest pause, which was three seconds.",
+            "ko": "프리야가 앞으로 나와 대니얼에게 가장 긴 침묵을 물었고, 3초였다."
+          }
+        },
+        {
+          "term": "practically",
+          "surface": "practically",
+          "meaningKo": "거의, 사실상",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"See you in Singapore,\" she said, which from her was practically a parade.",
+            "ko": "\"싱가포르에서 봐요.\" 그녀가 말했는데, 그녀에게서 나온 말로는 거의 축하 행진이나 다름없었다."
+          }
+        },
+        {
+          "term": "reach for",
+          "surface": "reached for",
+          "meaningKo": "(손을 뻗어) 집다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So where we've landed is simple,\" Jae-won told the room as people reached for their bags.",
+            "ko": "\"그래서 우리가 내린 결론은 간단합니다.\" 사람들이 가방을 집는 사이 재원이 말했다."
+          }
+        },
+        {
+          "term": "stage check",
+          "surface": "Stage check",
+          "meaningKo": "무대 점검",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Stage check is Wednesday at four, as agreed.",
+            "ko": "무대 점검은 합의한 대로 수요일 4시입니다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 473,
+      "paragraphs": [
+        {
+          "en": "Kwon, back in his CFO costume and clearly enjoying it, asked one long question about cost, timing and ownership that took forty seconds, wandered through two of his old clients and a remark about consultants in general. Three weeks ago, that would have finished Jae-won off, because he'd have tried to answer the first clause while still listening to the fourth. \"Let me pull that together, because there's a lot in there,\" he said. \"To recap, you're asking what it costs, when it starts and who owns it when it goes wrong.\" He took all three in that order, in under a minute, and Kwon nodded for the first time in three weeks.",
+          "ko": "다시 CFO 차림으로 돌아가 대놓고 즐기던 권 파트너가 비용과 일정, 책임 소재에 관해 긴 질문 하나를 했는데, 40초 동안 자기 옛 고객 두 곳과 컨설턴트 일반에 대한 한마디를 거쳐 갔다. 3주 전이라면 재원은 거기서 끝장났을 것이다. 넷째 절을 들으면서 첫 절에 답하려 했을 테니까. \"제가 그걸 한데 묶어 볼게요. 내용이 많으니까요.\" 그가 말했다. \"정리하자면, 비용이 얼마인지, 언제 시작하는지, 잘못되면 누가 책임지는지를 물으시는 거죠.\" 그는 세 가지를 그 순서대로 1분 안에 답했고, 권 파트너는 3주 만에 처음으로 고개를 끄덕였다."
+        },
+        {
+          "en": "Helen asked the last question from the screen, and it wasn't on anyone's list: what would he say to a buyer whose pilot had already failed, who was sitting in row twenty because she had been told to find out whose fault it was? He had nothing prepared and nobody to look at. He took three seconds, his first sentence was ugly and his second was barely better, but the third one found its feet, and he kept going and finished the answer in English, with no rail to hold on to and no Korean anywhere near it.",
+          "ko": "헬렌이 화면에서 마지막 질문을 했는데, 누구의 목록에도 없는 것이었다. 파일럿이 이미 실패했고, 누구 잘못인지 알아 오라는 지시를 받아 20번째 줄에 앉아 있는 구매자에게 뭐라고 하겠느냐는 것이었다. 준비한 답도 바라볼 사람도 없었다. 그는 3초를 썼고, 첫 문장은 볼품없었고 둘째도 간신히 나았지만 셋째에서 중심을 잡았으며, 멈추지 않고 붙잡을 난간도, 근처에 한국어도 없이 영어로 답을 끝냈다."
+        },
+        {
+          "en": "Priya came to the front without hurrying and asked Daniel for the longest pause, which was three seconds, and he read it out like a verdict. Then she looked at Jae-won. \"While you were silent, what were you afraid they'd find out?\" she asked, in the same flat tone as her email two weeks ago. \"That I'm a substitute, and that I signed something I hadn't checked,\" he said. \"They know both now, and I'm still standing here.\" She picked up her phone and stopped the recording. \"See you in Singapore,\" she said, which from her was practically a ticker-tape parade.",
+          "ko": "프리야가 서두르지 않고 앞으로 나와 대니얼에게 가장 긴 침묵을 물었고, 그는 판결문처럼 3초라고 읽었다. 그러고는 재원을 바라봤다. \"침묵하는 동안 사람들이 뭘 알아낼까 봐 두려웠죠?\" 2주 전 메일과 같은 건조한 어조로 그녀가 물었다. \"제가 대타라는 것, 그리고 확인하지 않은 걸 서명했다는 것이요.\" 그가 말했다. \"이제 둘 다 알고, 저는 그래도 여기 서 있네요.\" 그녀가 휴대폰을 집어 녹음을 멈췄다. \"싱가포르에서 봐요.\" 그녀가 말했는데, 그녀에게서 나온 말로는 거의 색종이 퍼레이드나 다름없었다."
+        },
+        {
+          "en": "\"So where we've landed is simple, and I'll say it once so that nobody can claim they missed it,\" Jae-won told the room as people reached for their bags. \"Daniel and I fly tomorrow at nine, Priya and Yuna come on Wednesday, and nothing goes back in, however good an idea it seems at midnight.\" On the screen, Helen said that her mother was awake and complaining about the food, which the doctors apparently regarded as a clinical milestone, and she told them all to go home.",
+          "ko": "\"그래서 우리가 내린 결론은 간단하고, 못 들었다는 사람이 없도록 한 번만 말하겠습니다.\" 사람들이 가방을 집는 사이 재원이 말했다. \"대니얼과 저는 내일 9시에 떠나고, 프리야와 유나는 수요일에 오고, 자정에 아무리 좋은 아이디어 같아 보여도 아무것도 다시 넣지 않습니다.\" 화면에서 헬렌은 어머니가 깨어나 병원 밥 불평을 하고 있는데 의사들은 그걸 임상적 이정표로 보는 모양이라며, 모두 집에 가라고 했다."
+        },
+        {
+          "en": "At ten to eleven, he was folding shirts when his phone lit up on the bed with an email from Marcus, at the same time of night as the last piece of bad news, which he didn't think was an accident. \"Stage check is Wednesday at four, as agreed. Ethan lands tomorrow too. He has read the new title and asked for coffee with you. No agenda, he says. There is always an agenda.\"",
+          "ko": "11시 10분 전, 셔츠를 개고 있는데 침대 위의 휴대폰에 마커스의 메일이 떴다. 지난번 나쁜 소식이 왔던 그 시각이었고, 우연은 아닌 것 같았다. \"무대 점검은 합의한 대로 수요일 4시입니다. 이선도 내일 도착합니다. 새 제목을 읽고 당신과 커피를 마시자고 하네요. 안건은 없다고 합니다. 안건은 언제나 있습니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "To recap",
+        "Let me pull that together",
+        "So where we've landed is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "clause",
+          "surface": "clause",
+          "meaningKo": "(문장의) 절",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Three weeks ago, that would have finished Jae-won off, because he'd have tried to answer the first clause while still listening to the fourth.",
+            "ko": "3주 전이라면 재원은 거기서 끝장났을 것이다. 넷째 절을 들으면서 첫 절에 답하려 했을 테니까."
+          }
+        },
+        {
+          "term": "find one's feet",
+          "surface": "found its feet",
+          "meaningKo": "자리를 잡다, 중심을 잡다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He took three seconds, his first sentence was ugly and his second was barely better, but the third one found its feet, and he kept going and finished the answer in English, with no rail to hold on to and no Korean anywhere near it.",
+            "ko": "그는 3초를 썼고, 첫 문장은 볼품없었고 둘째도 간신히 나았지만 셋째에서 중심을 잡았으며, 멈추지 않고 붙잡을 난간도, 근처에 한국어도 없이 영어로 답을 끝냈다."
+          }
+        },
+        {
+          "term": "verdict",
+          "surface": "verdict",
+          "meaningKo": "판결, 평결",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Priya came to the front without hurrying and asked Daniel for the longest pause, which was three seconds, and he read it out like a verdict.",
+            "ko": "프리야가 서두르지 않고 앞으로 나와 대니얼에게 가장 긴 침묵을 물었고, 그는 판결문처럼 3초라고 읽었다."
+          }
+        },
+        {
+          "term": "ticker-tape parade",
+          "surface": "ticker-tape parade",
+          "meaningKo": "색종이 퍼레이드 (대대적인 환영)",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"See you in Singapore,\" she said, which from her was practically a ticker-tape parade.",
+            "ko": "\"싱가포르에서 봐요.\" 그녀가 말했는데, 그녀에게서 나온 말로는 거의 색종이 퍼레이드나 다름없었다."
+          }
+        },
+        {
+          "term": "claim",
+          "surface": "claim they missed",
+          "meaningKo": "주장하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"So where we've landed is simple, and I'll say it once so that nobody can claim they missed it,\" Jae-won told the room as people reached for their bags.",
+            "ko": "\"그래서 우리가 내린 결론은 간단하고, 못 들었다는 사람이 없도록 한 번만 말하겠습니다.\" 사람들이 가방을 집는 사이 재원이 말했다."
+          }
+        },
+        {
+          "term": "milestone",
+          "surface": "milestone",
+          "meaningKo": "이정표, 중요한 단계",
+          "paragraph": 3,
+          "sentence": {
+            "en": "On the screen, Helen said that her mother was awake and complaining about the food, which the doctors apparently regarded as a clinical milestone, and she told them all to go home.",
+            "ko": "화면에서 헬렌은 어머니가 깨어나 병원 밥 불평을 하고 있는데 의사들은 그걸 임상적 이정표로 보는 모양이라며, 모두 집에 가라고 했다."
+          }
+        },
+        {
+          "term": "accident",
+          "surface": "an accident",
+          "meaningKo": "우연, 우연한 일",
+          "paragraph": 4,
+          "sentence": {
+            "en": "At ten to eleven, he was folding shirts when his phone lit up on the bed with an email from Marcus, at the same time of night as the last piece of bad news, which he didn't think was an accident.",
+            "ko": "11시 10분 전, 셔츠를 개고 있는데 침대 위의 휴대폰에 마커스의 메일이 떴다. 지난번 나쁜 소식이 왔던 그 시각이었고, 우연은 아닌 것 같았다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What was the longest pause in the questions?",
+      "options": [
+        "Two seconds",
+        "Three seconds",
+        "Fourteen seconds",
+        "Nineteen seconds"
+      ],
+      "answerIndex": 1,
+      "evidence": "Priya came to the front and asked Daniel for the longest pause, which was three seconds."
+    },
+    {
+      "question": "What does Marcus suggest with \"There is always an agenda\"?",
+      "options": [
+        "The summit has a fixed printed agenda for every meeting.",
+        "Marcus wants to attend the coffee himself.",
+        "Jae-won should send an agenda to Ethan in advance.",
+        "Ethan's friendly coffee is probably not as casual as he says."
+      ],
+      "answerIndex": 3,
+      "evidence": "There is always an agenda."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Let me pull that together.",
+      "To recap, you're asking what it costs, when it starts and who owns it.",
+      "So where we've landed is simple: nothing goes back in."
+    ],
+    "summaryPromptKo": "재원이 권 파트너와 헬렌의 질문을 어떻게 받았는지, 프리야의 질문에 뭐라고 답했는지, 끝에 어떤 소식이 왔는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priya Nair",
+      "en": "You answered every question tonight, and you finished every answer. Sum up for me what changed since the nineteen seconds.",
+      "ko": "오늘 밤 모든 질문에 답했고, 모두 끝까지 해냈어요. 그 19초 이후 무엇이 달라졌는지 정리해 보세요."
+    },
+    "modelAnswer": "Let me pull that together. To recap, two weeks ago I froze for nineteen seconds because I was afraid they would find out I was a substitute. Now they know, and they also know about the number, because I told them. So where we've landed is simple. I don't need the perfect first sentence. I just need to start within three seconds and keep going until I reach the end."
+  },
+  "nextTeaserKo": "싱가포르에 도착하자마자 무대 점검과 스몰토크가 기다린다. 그리고 \"안건 없는\" 이선 울프와의 커피. 안건은 언제나 있다.",
+  "roleplay": {
+    "title": "목록에 없는 질문까지",
+    "situationKo": "같은 방의 질의응답이 후반으로 넘어갑니다. 내가 재원이 되어 권 파트너의 긴 질문을 정리하고, 목록에 없는 헬렌의 질문과 프리야의 질문을 받아 봅니다. 천천히 해도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Kwon",
+        "voice": "male",
+        "en": "Look, I've seen this with two of my old clients, and what I keep coming back to is the cost, and then the timing, and honestly, who ends up owning the thing?",
+        "ko": "이봐요, 내 옛 고객 두 곳에서도 봤는데, 자꾸 생각나는 게 비용이고, 그다음은 일정이고, 솔직히 결국 이걸 누가 맡느냐 하는 거예요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me pull that together. To recap, you're asking what it costs, when it starts and who owns it.",
+        "ko": "제가 그걸 한데 묶어 볼게요. 정리하자면, 비용이 얼마이고 언제 시작하고 누가 맡느냐를 물으시는 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Good. Now one that isn't on anyone's list. What would you say to a buyer whose pilot has already failed?",
+        "ko": "좋아요. 이번엔 누구 목록에도 없는 질문이에요. 파일럿이 이미 실패한 구매자에게 뭐라고 하겠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Okay, this is ugly, but your pilot probably died at month-end. Go find the person who has to sign.",
+        "ko": "좋아요, 매끄럽진 않지만, 그 파일럿은 아마 월말에 죽었을 겁니다. 서명해야 하는 사람부터 찾아가세요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "And then?",
+        "ko": "그다음은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then build the audit trail first, not last.",
+        "ko": "그다음에 감사 추적을 나중이 아니라 먼저 만드세요.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Longest pause, Daniel? Three seconds. While you were silent, what were you afraid they'd find out?",
+        "ko": "가장 긴 침묵이요, 대니얼? 3초네요. 침묵하는 동안 사람들이 뭘 알아낼까 봐 두려웠어요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That I'm a substitute, and that I signed something I hadn't checked. They know both now.",
+        "ko": "제가 대타라는 것, 그리고 확인하지 않은 걸 서명했다는 것이요. 이제 둘 다 압니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "See you in Singapore.",
+        "ko": "싱가포르에서 봐요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So where we've landed is simple. Daniel and I fly tomorrow at nine, Priya and Yuna come on Wednesday.",
+        "ko": "그래서 우리가 내린 결론은 간단합니다. 대니얼과 저는 내일 9시에 출발하고, 프리야와 유나는 수요일에 옵니다.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "My mother is awake and complaining about the food, which the doctors consider a good sign. Go home, all of you.",
+        "ko": "어머니는 깨어나서 음식 불평을 하고 계세요. 의사들은 좋은 신호래요. 다들 집에 가요."
+      }
+    ]
+  }
+}

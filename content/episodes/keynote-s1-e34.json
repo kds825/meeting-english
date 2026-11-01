@@ -1,0 +1,367 @@
+{
+  "id": "keynote-s1-e34",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 34,
+  "title": "I Run at Six",
+  "recapKo": "수요일 무대 점검에서 7분 만에 화면이 까맣게 꺼졌고, 재원은 돌아서서 화면을 보고 말았다. 슬라이드는 90초 뒤 1번으로 돌아왔다. 재원이 대비책을 묻자 파라는 예비 장비로 전환하는 데 40초가 걸린다고 했고, 슬라이드 번호는 대니얼이 맡기로 했다.",
+  "keyExpressions": [
+    {
+      "phrase": "While that's being fixed, ~",
+      "meaningKo": "그게 고쳐지는 동안, ~",
+      "usage": "While that's being fixed, let me walk you through the main numbers."
+    },
+    {
+      "phrase": "Worst case, ~",
+      "meaningKo": "최악의 경우, ~",
+      "usage": "Worst case, we send the report on Monday instead."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "\"Worst case, you have no slides at all,\" Marcus said. \"I can work with that, as long as the clock is still there,\" Jae-won said. Priya came down to the stage. \"You looked at the screen,\" she said. \"Run it again, and this time Farah will kill the slides, and you won't know when.\"",
+          "ko": "\"최악의 경우 슬라이드가 아예 없습니다.\" 마커스가 말했다. \"시계만 있으면 그걸로도 할 수 있습니다.\" 재원이 말했다. 프리야가 무대로 내려왔다. \"화면을 봤어요.\" 그녀가 말했다. \"다시 해요. 이번엔 파라가 슬라이드를 끌 거고, 언제인지는 몰라요.\""
+        },
+        {
+          "en": "The screen went black on the person who signs, and this time he didn't turn around. \"We seem to have a technical issue,\" he said. \"While that's being fixed, let me tell you what's on this slide.\" Forty seconds later, Daniel called the number, and the slide came back. \"Let me pick up where I left off: the person who signs,\" he said.",
+          "ko": "서명하는 사람 대목에서 화면이 꺼졌고, 이번에는 돌아보지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그가 말했다. \"그게 고쳐지는 동안 이 슬라이드에 뭐가 있는지 말씀드리죠.\" 40초 뒤 대니얼이 번호를 불렀고 슬라이드가 돌아왔다. \"아까 하던 데서 이어 가겠습니다. 서명하는 사람입니다.\" 그가 말했다."
+        },
+        {
+          "en": "He finished with eleven seconds left. \"Grace Lim's office asked for your bio,\" Yuna said. \"What did you say to her?\" \"Nothing about us,\" he said.",
+          "ko": "그는 11초를 남기고 끝냈다. \"그레이스 림 사무실에서 약력을 달라고 했어요.\" 유나가 말했다. \"대체 뭐라고 하신 거예요?\" \"우리 얘기는 안 했어요.\" 그가 말했다."
+        },
+        {
+          "en": "At dinner, Priya asked what Wolfe had wanted. \"He wanted to know what they say at the kitchen table,\" Jae-won said. \"Then he's curious, and that makes him more dangerous,\" she said.",
+          "ko": "저녁 자리에서 프리야가 울프가 뭘 원했는지 물었다. \"식탁에서 그 사람들이 뭐라고 하는지 알고 싶어 했어요.\" 재원이 말했다. \"그럼 궁금한 거네요. 그럴수록 더 위험해요.\" 그녀가 말했다."
+        },
+        {
+          "en": "At 6:31 on Thursday morning, his phone rang. \"The spare machine ran all night, and the app opened at six,\" Marcus said. \"There are already a hundred and forty questions, and I won't tell you what they say.\" \"Then why did you call?\" Jae-won asked. \"I run at six,\" Marcus said, and he hung up.",
+          "ko": "목요일 아침 6시 31분, 전화가 울렸다. \"예비 장비는 밤새 돌았고, 앱은 6시에 열렸습니다.\" 마커스가 말했다. \"벌써 질문이 140개인데, 뭐라고 하는지는 말씀드리지 않을 겁니다.\" \"그럼 왜 전화하셨어요?\" 재원이 물었다. \"6시에 달리거든요.\" 마커스는 그렇게 말하고 전화를 끊었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "While that's being fixed",
+        "Worst case"
+      ],
+      "wordCandidates": [
+        {
+          "term": "kill",
+          "surface": "kill",
+          "meaningKo": "(기기·화면을) 끄다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Run it again, and this time Farah will kill the slides, and you won't know when.\"",
+            "ko": "\"다시 해요. 이번엔 파라가 슬라이드를 끌 거고, 언제인지는 몰라요.\""
+          }
+        },
+        {
+          "term": "bio",
+          "surface": "bio",
+          "meaningKo": "약력",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Grace Lim's office asked for your bio,\" Yuna said. \"What did you say to her?\"",
+            "ko": "\"그레이스 림 사무실에서 약력을 달라고 했어요.\" 유나가 말했다. \"대체 뭐라고 하신 거예요?\""
+          }
+        },
+        {
+          "term": "curious",
+          "surface": "curious",
+          "meaningKo": "궁금해하는, 호기심 있는",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Then he's curious, and that makes him more dangerous,\" she said.",
+            "ko": "\"그럼 궁금한 거네요. 그럴수록 더 위험해요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "dangerous",
+          "surface": "dangerous",
+          "meaningKo": "위험한",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Then he's curious, and that makes him more dangerous,\" she said.",
+            "ko": "\"그럼 궁금한 거네요. 그럴수록 더 위험해요.\" 그녀가 말했다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 328,
+      "paragraphs": [
+        {
+          "en": "\"Worst case, both machines die and you have no slides at all,\" Marcus said, in the voice he used for deadlines. \"I can work with that, as long as the clock's still there,\" Jae-won said. Priya came down the aisle. \"Two weeks without looking at the screen, and you looked,\" she said. \"Run the second half again, and this time Farah's going to kill the slides, and you won't know when.\"",
+          "ko": "\"최악의 경우 장비 두 대가 다 죽어서 슬라이드가 아예 없습니다.\" 마커스가 마감 얘기할 때의 목소리로 말했다. \"시계만 있으면 그걸로도 할 수 있습니다.\" 재원이 말했다. 프리야가 통로를 따라 내려왔다. \"2주 동안 안 보더니, 봤네요.\" 그녀가 말했다. \"후반부를 다시 해요. 이번엔 파라가 슬라이드를 끌 거고, 언제인지는 몰라요.\""
+        },
+        {
+          "en": "It happened halfway through the person who signs, and this time he didn't turn around. \"We seem to have a technical issue,\" he said, at the same pace. \"While that's being fixed, let me tell you what's on this slide, because it's only one line.\" Forty seconds later, Daniel jumped to slide six, and the screen lit up behind him. \"Let me pick up where I left off, which is the person who signs,\" he said.",
+          "ko": "서명하는 사람 대목 중간에 그 일이 벌어졌고, 이번에는 돌아보지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그는 같은 속도로 말했다. \"그게 고쳐지는 동안 이 슬라이드에 뭐가 있는지 말씀드리죠. 한 줄뿐이니까요.\" 40초 뒤 대니얼이 6번 슬라이드로 넘겼고 뒤에서 화면이 켜졌다. \"아까 하던 데서 이어 가겠습니다. 서명하는 사람입니다.\" 그가 말했다."
+        },
+        {
+          "en": "He finished with eleven seconds on the floor clock, and Marcus said only, \"The spare stays on overnight.\" Yuna caught him at the door, holding her phone like evidence. \"Grace Lim's office just asked for your bio, and I've been trying to get past them for a year,\" she said, \"so what did you say to her?\" \"Nothing about us,\" he said, and she stared at him.",
+          "ko": "그는 바닥 시계에 11초를 남기고 끝냈고, 마커스는 \"예비 장비는 밤새 켜 둡니다\"라고만 했다. 유나가 증거물처럼 휴대폰을 들고 문에서 그를 붙잡았다. \"그레이스 림 사무실에서 방금 약력을 달라고 했어요. 저는 1년째 그 사무실을 못 넘고 있었는데요.\" 그녀가 말했다. \"대체 뭐라고 하신 거예요?\" \"우리 얘기는 안 했어요.\" 그의 말에 그녀는 그를 빤히 쳐다보았다."
+        },
+        {
+          "en": "Over dinner, Priya asked him what Wolfe had wanted, and she didn't care what he'd said. \"He wanted to know what they say at the kitchen table,\" Jae-won said. \"Then he's curious, and that makes him more dangerous tomorrow, not less,\" she said, and she sent him to bed at nine.",
+          "ko": "저녁을 먹으며 프리야는 울프가 뭘 원했는지 물었다. 뭐라고 했는지는 상관없다고 했다. \"식탁에서 그 사람들이 뭐라고 하는지 알고 싶어 했어요.\" 재원이 말했다. \"그럼 궁금한 거네요. 그럴수록 내일 더 위험해져요.\" 그녀는 그렇게 말하고 9시에 그를 침대로 보냈다."
+        },
+        {
+          "en": "At 6:31 on Thursday morning, his phone rang on the hotel desk. \"The spare ran all night and the app opened at six,\" Marcus said, breathing hard. \"There are already a hundred and forty questions, and I'm not going to tell you what they say.\" \"Then why did you call?\" Jae-won asked. \"I run at six,\" Marcus said, and the line went dead.",
+          "ko": "목요일 아침 6시 31분, 호텔 책상 위에서 전화가 울렸다. \"예비 장비는 밤새 돌았고 앱은 6시에 열렸습니다.\" 마커스가 숨을 몰아쉬며 말했다. \"벌써 질문이 140개인데, 뭐라고 하는지는 말씀드리지 않을 겁니다.\" \"그럼 왜 전화하셨어요?\" 재원이 물었다. \"6시에 달리거든요.\" 마커스의 말과 함께 전화가 끊겼다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "While that's being fixed",
+        "Worst case"
+      ],
+      "wordCandidates": [
+        {
+          "term": "die",
+          "surface": "die",
+          "meaningKo": "(기계가) 멈추다, 죽다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Worst case, both machines die and you have no slides at all,\" Marcus said, in the voice he used for deadlines.",
+            "ko": "\"최악의 경우 장비 두 대가 다 죽어서 슬라이드가 아예 없습니다.\" 마커스가 마감 얘기할 때의 목소리로 말했다."
+          }
+        },
+        {
+          "term": "aisle",
+          "surface": "aisle",
+          "meaningKo": "통로",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Priya came down the aisle. \"Two weeks without looking at the screen, and you looked,\" she said.",
+            "ko": "프리야가 통로를 따라 내려왔다. \"2주 동안 안 보더니, 봤네요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "light up",
+          "surface": "lit up",
+          "meaningKo": "환해지다, 켜지다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Forty seconds later, Daniel jumped to slide six, and the screen lit up behind him.",
+            "ko": "40초 뒤 대니얼이 6번 슬라이드로 넘겼고 뒤에서 화면이 켜졌다."
+          }
+        },
+        {
+          "term": "go dead",
+          "surface": "went dead",
+          "meaningKo": "(전화가) 끊기다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I run at six,\" Marcus said, and the line went dead.",
+            "ko": "\"6시에 달리거든요.\" 마커스의 말과 함께 전화가 끊겼다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 466,
+      "paragraphs": [
+        {
+          "en": "\"Worst case, both machines die, and you're alone with the clock and no slides at all,\" Marcus said, in the voice he kept for deadlines. \"I can work with that, as long as the clock's still there, because twelve slides is what we cut it down to so I wouldn't need them,\" Jae-won said. Priya came down the aisle without hurrying. \"Two weeks without looking at the screen, and it took one blackout,\" she said. \"Run the second half again, and this time Farah's going to kill the slides on a signal from me, and you won't know when.\"",
+          "ko": "\"최악의 경우 장비 두 대가 다 죽어서, 슬라이드 없이 시계와 단둘이 남습니다.\" 마커스가 마감 얘기할 때 쓰는 목소리로 말했다. \"시계만 있으면 그걸로도 할 수 있습니다. 슬라이드가 없어도 되도록 12장까지 줄인 거니까요.\" 재원이 말했다. 프리야가 서두르지 않고 통로를 따라 내려왔다. \"2주 동안 안 보더니, 정전 한 번에 봤네요.\" 그녀가 말했다. \"후반부를 다시 해요. 이번엔 제 신호에 파라가 슬라이드를 끌 거고, 언제인지는 몰라요.\""
+        },
+        {
+          "en": "It happened halfway through the person who signs, in the middle of a clause, and this time he didn't so much as move his shoulders. \"We seem to have a technical issue,\" he said, at exactly the same pace. \"While that's being fixed, let me tell you what's on this slide, because it's only one line and you don't need me to read it to you anyway.\" Forty seconds later, Daniel jumped to slide six, and the screen lit up behind him without his having to check. \"Let me pick up where I left off, which is the person who signs,\" he said, and this time the sentence was a new one.",
+          "ko": "서명하는 사람 대목 중간, 문장 도중에 그 일이 벌어졌고, 이번에는 어깨조차 움직이지 않았다. \"기술적인 문제가 생긴 것 같습니다.\" 그는 정확히 같은 속도로 말했다. \"그게 고쳐지는 동안 이 슬라이드에 뭐가 있는지 말씀드리죠. 한 줄뿐이고, 어차피 제가 읽어 드릴 필요도 없으니까요.\" 40초 뒤 대니얼이 6번 슬라이드로 넘겼고, 재원이 확인할 필요도 없이 뒤에서 화면이 켜졌다. \"아까 하던 데서 이어 가겠습니다. 서명하는 사람입니다.\" 그가 말했고, 이번에는 새로운 문장이었다."
+        },
+        {
+          "en": "He finished with eleven seconds on the floor clock, and Marcus, who had by now looked up, said only, \"The spare stays on overnight.\" Yuna caught him at the door, holding her phone out in front of her like an exhibit in a trial. \"Grace Lim's office just asked for your bio, and I've spent a year trying to get past that office, so I'd really like to know what you said to her.\" \"Nothing about us,\" he said, and she stared at him as if he'd just explained a card trick badly.",
+          "ko": "그는 바닥 시계에 11초를 남기고 끝냈고, 어느새 고개를 든 마커스는 \"예비 장비는 밤새 켜 둡니다\"라고만 했다. 유나가 재판의 증거물처럼 휴대폰을 내밀며 문에서 그를 붙잡았다. \"그레이스 림 사무실에서 방금 약력을 달라고 했어요. 저는 1년을 그 사무실 넘으려고 애썼으니, 대체 뭐라고 하셨는지 정말 알고 싶네요.\" \"우리 얘기는 안 했어요.\" 그의 말에 그녀는 카드 마술을 어설프게 설명한 사람을 보듯 그를 빤히 쳐다보았다."
+        },
+        {
+          "en": "Over a dinner that she didn't let him linger at, Priya asked him what Wolfe had wanted, and she made it clear that she didn't care what he'd said. \"He wanted to know what they say at the kitchen table,\" Jae-won said. \"Then he's curious, and that makes him more dangerous tomorrow, not less, because people like that don't attack what they haven't thought about,\" she said, and she sent him to bed at nine like a child.",
+          "ko": "오래 앉아 있지도 못하게 한 저녁 자리에서 프리야는 울프가 뭘 원했는지 물었고, 뭐라고 했는지는 상관없다는 뜻을 분명히 했다. \"식탁에서 그 사람들이 뭐라고 하는지 알고 싶어 했어요.\" 재원이 말했다. \"그럼 궁금한 거네요. 그럴수록 내일 더 위험해져요. 그런 사람은 생각해 보지 않은 걸 공격하지 않거든요.\" 그녀는 그렇게 말하고 아이처럼 9시에 그를 침대로 보냈다."
+        },
+        {
+          "en": "At 6:31 on Thursday morning, his phone rang on the hotel desk, and he had it before the second ring, because he had been sitting there dressed since five. \"The spare ran all night and the app opened at six,\" Marcus said, breathing hard, with traffic behind him. \"There are already a hundred and forty questions, and I'm not going to tell you what they say.\" \"Then why did you call?\" Jae-won asked. \"I run at six,\" Marcus said, and the line went dead.",
+          "ko": "목요일 아침 6시 31분, 호텔 책상 위에서 전화가 울렸고, 그는 두 번째 벨이 울리기 전에 받았다. 5시부터 옷을 입고 앉아 있었기 때문이다. \"예비 장비는 밤새 돌았고 앱은 6시에 열렸습니다.\" 마커스가 숨을 몰아쉬며 말했고, 뒤로 차 소리가 들렸다. \"벌써 질문이 140개인데, 뭐라고 하는지는 말씀드리지 않을 겁니다.\" \"그럼 왜 전화하셨어요?\" 재원이 물었다. \"6시에 달리거든요.\" 마커스의 말과 함께 전화가 끊겼다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "While that's being fixed",
+        "Worst case"
+      ],
+      "wordCandidates": [
+        {
+          "term": "blackout",
+          "surface": "blackout",
+          "meaningKo": "정전, 화면 꺼짐",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Priya came down the aisle without hurrying. \"Two weeks without looking at the screen, and it took one blackout,\" she said.",
+            "ko": "프리야가 서두르지 않고 통로를 따라 내려왔다. \"2주 동안 안 보더니, 정전 한 번에 봤네요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "clause",
+          "surface": "clause",
+          "meaningKo": "절, 문장의 일부",
+          "paragraph": 1,
+          "sentence": {
+            "en": "It happened halfway through the person who signs, in the middle of a clause, and this time he didn't so much as move his shoulders.",
+            "ko": "서명하는 사람 대목 중간, 문장 도중에 그 일이 벌어졌고, 이번에는 어깨조차 움직이지 않았다."
+          }
+        },
+        {
+          "term": "exhibit",
+          "surface": "exhibit",
+          "meaningKo": "(재판의) 증거물",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Yuna caught him at the door, holding her phone out in front of her like an exhibit in a trial.",
+            "ko": "유나가 재판의 증거물처럼 휴대폰을 내밀며 문에서 그를 붙잡았다."
+          }
+        },
+        {
+          "term": "linger",
+          "surface": "linger",
+          "meaningKo": "오래 머무르다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Over a dinner that she didn't let him linger at, Priya asked him what Wolfe had wanted, and she made it clear that she didn't care what he'd said.",
+            "ko": "오래 앉아 있지도 못하게 한 저녁 자리에서 프리야는 울프가 뭘 원했는지 물었고, 뭐라고 했는지는 상관없다는 뜻을 분명히 했다."
+          }
+        },
+        {
+          "term": "go dead",
+          "surface": "went dead",
+          "meaningKo": "(전화가) 끊기다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I run at six,\" Marcus said, and the line went dead.",
+            "ko": "\"6시에 달리거든요.\" 마커스의 말과 함께 전화가 끊겼다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How much time is left on the floor clock when Jae-won finishes the second run?",
+      "options": [
+        "Eleven seconds",
+        "Forty seconds",
+        "Ninety seconds",
+        "Nineteen seconds"
+      ],
+      "answerIndex": 0,
+      "evidence": "He finished with eleven seconds on the floor clock"
+    },
+    {
+      "question": "Why does Priya ask Farah to kill the slides during the second run?",
+      "options": [
+        "She wants to test the spare machine for Farah.",
+        "She wants Marcus to cancel the slides.",
+        "She wants Jae-won to practice not turning around when it happens for real.",
+        "She thinks that his slides are too long."
+      ],
+      "answerIndex": 2,
+      "evidence": "Run the second half again, and this time Farah's going to kill the slides, and you won't know when."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Worst case, both machines die and you have no slides at all.",
+      "While that's being fixed, let me tell you what's on this slide.",
+      "Let me pick up where I left off, which is the person who signs."
+    ],
+    "summaryPromptKo": "두 번째 진행에서 재원이 첫 번째와 어떻게 달리 대응했는지, 유나와 프리야가 각각 무슨 말을 했는지, 목요일 아침 마커스가 왜 전화했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Farah Aziz",
+      "en": "If the screen goes black tomorrow in front of eight hundred people, what exactly are you going to do in those forty seconds?",
+      "ko": "내일 800명 앞에서 화면이 꺼지면, 그 40초 동안 정확히 뭘 하실 건가요?"
+    },
+    "modelAnswer": "First, I won't turn around, because the audience will look wherever I look. I'll say, \"We seem to have a technical issue,\" at the same pace. While that's being fixed, I'll tell them what's on the slide, because it's only one line. Worst case, I finish without slides, and that's fine, because the clock is still there. When the screen comes back, I'll say, \"Let me pick up where I left off.\""
+  },
+  "nextTeaserKo": "800명, 20분, 바닥의 시계. 재원은 식탁 이야기로 입을 뗀다. 3분 뒤에는 프로그램의 42가 틀렸다고 말해야 하고, 그다음엔 질문 앱이 기다린다.",
+  "roleplay": {
+    "title": "언제 꺼질지 모르는 두 번째",
+    "situationKo": "화면이 꺼지는 시점을 모른 채 후반부를 다시 합니다. 내가 재원이 되어 돌아보지 않고 말을 이어 가 봅니다. 말이 꼬여도 그냥 이어 가면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Worst case, both machines die. Then what?",
+        "ko": "최악의 경우 두 대 다 죽으면요? 그럼 어떡하죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Worst case, I finish without slides. I can work with that, as long as the clock's there.",
+        "ko": "최악의 경우 슬라이드 없이 끝내죠. 시계만 있으면 그걸로도 할 수 있습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Good. Run it again. You won't know when it goes off.",
+        "ko": "좋아요. 다시 해요. 언제 꺼질지는 몰라요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So the person who signs is the one who... Sorry, we seem to have a technical issue.",
+        "ko": "그러니까 서명하는 사람이 바로… 죄송합니다, 기술적인 문제가 생긴 것 같습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Don't say sorry. Keep going, and don't turn around.",
+        "ko": "죄송하다고 하지 말아요. 계속해요. 돌아보지 말고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "While that's being fixed, let me tell you what's on this slide. It's only one line.",
+        "ko": "그게 고쳐지는 동안 이 슬라이드에 뭐가 있는지 말씀드리죠. 한 줄뿐입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "Slide six is back. You're good.",
+        "ko": "6번 슬라이드 돌아왔어요. 됐습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let me pick up where I left off, which is the person who signs.",
+        "ko": "아까 하던 데서 이어 가겠습니다. 서명하는 사람입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Eleven seconds left. The spare stays on overnight.",
+        "ko": "11초 남았습니다. 예비 장비는 밤새 켜 둡니다."
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "Grace Lim's office just asked for your bio. What did you say to her?",
+        "ko": "그레이스 림 사무실에서 방금 약력을 달라고 했어요. 대체 뭐라고 하신 거예요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nothing about us. I just asked her about customs forms.",
+        "ko": "우리 얘기는 안 했어요. 통관 서류에 관해 묻기만 했죠.",
+        "you": true
+      },
+      {
+        "speaker": "Yuna Seo",
+        "voice": "female",
+        "en": "I've been trying to get past that office for a year.",
+        "ko": "저는 1년째 그 사무실을 못 넘고 있었는데요."
+      }
+    ]
+  }
+}

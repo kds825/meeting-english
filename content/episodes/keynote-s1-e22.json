@@ -1,0 +1,452 @@
+{
+  "id": "keynote-s1-e22",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 22,
+  "title": "Row Twenty-Seven",
+  "recapKo": "화요일 새벽, 마커스는 패널에 이선 울프가 들어온다고 알렸다. 재원은 90초 첫 발언과 내일 9시 사전 콜을 받아들이는 대신, 이선에게는 초록만 주기로 했다. 통화 끝에 마커스가 해 줄 말이 더 있느냐고 물었고, 재원은 아직 열려 있는 27번 행을 떠올렸다.",
+  "keyExpressions": [
+    {
+      "phrase": "That's a tight turnaround.",
+      "meaningKo": "일정이 꽤 빠듯하네요.",
+      "usage": "That's a tight turnaround, so I'll need the data by noon."
+    },
+    {
+      "phrase": "Let's lock that in.",
+      "meaningKo": "그걸로 확정합시다.",
+      "usage": "Tuesday at ten suits everyone, so let's lock that in."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 223,
+      "paragraphs": [
+        {
+          "en": "\"Possibly, and I'll know by midnight,\" Jae-won said. \"Then my phone stays on,\" Marcus said, and he hung up.",
+          "ko": "\"있을 수도 있어요. 자정까지는 알게 됩니다.\" 재원이 말했다. \"그럼 전화기를 켜 두죠.\" 마커스는 그렇게 말하고 끊었다."
+        },
+        {
+          "en": "Daniel had a file on Ethan. \"Let's park that until lunch, because I may have a different call to make tonight,\" Jae-won said. Helen, on her last day in the office, looked up from a box. \"He asks about your answer, and then he asks about that answer,\" she said.",
+          "ko": "대니얼은 이선에 관한 자료를 만들어 놓았다. \"그건 점심때까지 미뤄 둡시다. 오늘 밤 제가 다른 전화를 해야 할 수도 있거든요.\" 재원이 말했다. 사무실에서의 마지막 날, 헬렌이 상자에서 고개를 들었다. \"그 사람은 답을 하면 그 답을 묻고, 또 그 답을 물어요.\" 그녀가 말했다."
+        },
+        {
+          "en": "Row twenty-seven was Haneul Textiles, and its finance lead had left. After five days of chasing, Daniel got a name from the company's old auditor: Bae Ji-hye, who now worked in Daegu. He left a message at three. \"That's a tight turnaround,\" he told Jae-won.",
+          "ko": "27번 행은 하늘섬유였고, 그곳 재무 담당자는 회사를 떠난 뒤였다. 닷새를 쫓은 끝에 대니얼은 회사의 예전 감사인에게서 이름을 얻었다. 지금 대구에서 일하는 배지혜였다. 그는 3시에 메시지를 남겼다. \"일정이 꽤 빠듯하네요.\" 그가 재원에게 말했다."
+        },
+        {
+          "en": "By ten that night, she had not called. Jae-won wrote a new title, \"Thirty Out of Forty-Two,\" and what he would tell Marcus. Helen sent a text: \"Whatever happens, you make that call yourself.\"",
+          "ko": "밤 10시가 되도록 전화는 없었다. 재원은 새 제목 \"42곳 중 30곳\"을 쓰고, 마커스에게 할 말도 적었다. 헬렌이 문자를 보냈다. \"무슨 일이 있어도 그 전화는 직접 해요.\""
+        },
+        {
+          "en": "At 11:20, Daniel's phone rang. \"We stopped that pilot in month three because I wouldn't sign the numbers, and you can put my name on that,\" Bae said. \"Let's lock that in,\" Daniel said. All thirty-one were confirmed, with forty minutes to spare.",
+          "ko": "11시 20분, 대니얼의 휴대폰이 울렸다. \"제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 멈췄어요. 제 이름을 올려도 돼요.\" 배지혜가 말했다. \"그걸로 확정합시다.\" 대니얼이 말했다. 31건 모두 확인됐고, 40분이 남아 있었다."
+        },
+        {
+          "en": "Jae-won texted Marcus: \"Nothing to report. Title stands.\" The answer came at 11:52: \"Good. Ethan has read your abstract, and he has one question that he says you won't like. Nine o'clock.\"",
+          "ko": "재원은 마커스에게 문자를 보냈다. \"보고할 것 없습니다. 제목은 그대로입니다.\" 답은 11시 52분에 왔다. \"좋습니다. 이선이 당신 초록을 읽었는데, 마음에 안 들 거라는 질문이 하나 있답니다. 9시에 봅시다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's a tight turnaround",
+        "Let's lock that in"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hang up",
+          "surface": "hung up",
+          "meaningKo": "전화를 끊다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Then my phone stays on,\" Marcus said, and he hung up.",
+            "ko": "\"그럼 전화기를 켜 두죠.\" 마커스는 그렇게 말하고 끊었다."
+          }
+        },
+        {
+          "term": "have a file on",
+          "surface": "a file on",
+          "meaningKo": "~에 관한 자료를 갖고 있다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Daniel had a file on Ethan.",
+            "ko": "대니얼은 이선에 관한 자료를 만들어 놓았다."
+          }
+        },
+        {
+          "term": "chase",
+          "surface": "chasing",
+          "meaningKo": "(사람을) 계속 찾다, 쫓아다니다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "After five days of chasing, Daniel got a name from the company's old auditor: Bae Ji-hye, who now worked in Daegu.",
+            "ko": "닷새를 쫓은 끝에 대니얼은 회사의 예전 감사인에게서 이름을 얻었다. 지금 대구에서 일하는 배지혜였다."
+          }
+        },
+        {
+          "term": "auditor",
+          "surface": "auditor",
+          "meaningKo": "감사인",
+          "paragraph": 2,
+          "sentence": {
+            "en": "After five days of chasing, Daniel got a name from the company's old auditor: Bae Ji-hye, who now worked in Daegu.",
+            "ko": "닷새를 쫓은 끝에 대니얼은 회사의 예전 감사인에게서 이름을 얻었다. 지금 대구에서 일하는 배지혜였다."
+          }
+        },
+        {
+          "term": "pilot",
+          "surface": "pilot",
+          "meaningKo": "시범 사업, 파일럿",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"We stopped that pilot in month three because I wouldn't sign the numbers, and you can put my name on that,\" Bae said.",
+            "ko": "\"제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 멈췄어요. 제 이름을 올려도 돼요.\" 배지혜가 말했다."
+          }
+        },
+        {
+          "term": "to spare",
+          "surface": "to spare",
+          "meaningKo": "여유로, 남겨 두고",
+          "paragraph": 4,
+          "sentence": {
+            "en": "All thirty-one were confirmed, with forty minutes to spare.",
+            "ko": "31건 모두 확인됐고, 40분이 남아 있었다."
+          }
+        },
+        {
+          "term": "stand",
+          "surface": "Title stands",
+          "meaningKo": "(결정 등이) 그대로 유효하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Title stands.",
+            "ko": "제목은 그대로입니다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 371,
+      "paragraphs": [
+        {
+          "en": "Jae-won could have said no, and nobody would have known until tonight. \"Possibly, and I'll know by midnight,\" he said. For a moment there was nothing on the line. \"Then my phone stays on,\" Marcus said, and he hung up.",
+          "ko": "없다고 해도 오늘 밤까지는 아무도 몰랐을 것이다. \"있을 수도 있어요. 자정까지는 알게 됩니다.\" 재원이 말했다. 잠시 수화기 너머로 아무 소리도 들리지 않았다. \"그럼 전화기를 켜 두죠.\" 마커스는 그렇게 말하고 끊었다."
+        },
+        {
+          "en": "By nine, Daniel had pulled together a file on Ethan, with every interview he could find, and he was ready to walk them through it. \"Let's park that until lunch, because if row twenty-seven is still open tonight, I've got a very different call to make,\" Jae-won said. Helen, on her last day in the office, looked up from a half-packed box. \"I sat next to Ethan at a dinner once, and he isn't rude,\" she said. \"He just asks about your answer, and then he asks about the answer to that.\"",
+          "ko": "9시쯤 대니얼은 찾을 수 있는 인터뷰를 모두 모아 이선에 관한 자료를 만들어 놓고, 함께 훑어볼 준비를 하고 있었다. \"그건 점심때까지 미뤄 둡시다. 오늘 밤에도 27번 행이 열려 있으면 제가 전혀 다른 전화를 해야 하거든요.\" 재원이 말했다. 사무실에서의 마지막 날, 헬렌이 반쯤 싼 상자에서 고개를 들었다. \"만찬에서 이선 옆자리에 앉아 본 적이 있는데, 무례한 사람은 아니에요.\" 그녀가 말했다. \"답을 하면 그 답을 묻고, 또 그 답에 대한 답을 물을 뿐이죠.\""
+        },
+        {
+          "en": "Row twenty-seven was Haneul Textiles, whose finance lead had left without a forwarding address, and HR wouldn't give out a number. After five days of chasing, Daniel finally got a name out of the company's former auditor that afternoon, Bae Ji-hye, who was now at a hospital group in Daegu, and he left a message at three o'clock. \"That's a tight turnaround,\" he told Jae-won.",
+          "ko": "27번 행은 하늘섬유였는데, 재무 담당자는 연락처도 남기지 않고 떠났고 인사팀은 번호를 알려 주려 하지 않았다. 닷새를 쫓은 끝에 대니얼은 그날 오후 회사의 예전 감사인에게서 마침내 이름을 알아냈다. 지금 대구의 한 병원 그룹에 있는 배지혜였고, 그는 3시에 메시지를 남겼다. \"일정이 꽤 빠듯하네요.\" 그가 재원에게 말했다."
+        },
+        {
+          "en": "By ten that night she still hadn't called back, so Jae-won drafted the fallback, a new title reading \"Thirty Out of Forty-Two,\" and then wrote out what he would say to Marcus, line by line. Helen texted from home, where she was finishing her packing: \"Whatever happens tonight, you make that call yourself, and you don't soften it.\"",
+          "ko": "밤 10시가 되도록 회신이 없어서, 재원은 대안으로 새 제목 \"42곳 중 30곳\"을 쓰고, 마커스에게 할 말을 한 줄씩 적었다. 집에서 짐을 마저 싸던 헬렌이 문자를 보냈다. \"오늘 밤 무슨 일이 있어도 그 전화는 직접 하고, 돌려 말하지 마요.\""
+        },
+        {
+          "en": "At 11:20, Daniel's phone lit up, and he put it on speaker. \"Sorry, I've been stuck in a budget review all day,\" Bae said. \"Haneul? We stopped that pilot in month three because I wouldn't sign the numbers, and you can put my name on that.\" \"Let's lock that in,\" Daniel said as he typed, and he turned the laptop around, and all thirty-one were confirmed, with forty minutes to spare.",
+          "ko": "11시 20분, 대니얼의 휴대폰에 불이 들어왔고 그는 스피커로 돌렸다. \"죄송해요, 종일 예산 검토에 붙들려 있었어요.\" 배지혜가 말했다. \"하늘섬유요? 제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 멈췄어요. 제 이름을 올려도 돼요.\" \"그걸로 확정합시다.\" 대니얼이 타자를 치며 말하고 노트북을 돌려 보였고, 31건 모두 확인됐으며, 40분이 남아 있었다."
+        },
+        {
+          "en": "Jae-won deleted the fallback and texted Marcus: \"Nothing to report. Title stands.\" He was reaching for his coat when the reply came, at 11:52. \"Good. Ethan has read your abstract. He has one question for you, and he says you won't like it. Nine o'clock.\"",
+          "ko": "재원은 대안을 지우고 마커스에게 문자를 보냈다. \"보고할 것 없습니다. 제목은 그대로입니다.\" 코트를 집으려는데 11시 52분에 답이 왔다. \"좋습니다. 이선이 당신 초록을 읽었어요. 질문이 하나 있는데, 마음에 안 들 거라고 하네요. 9시에 봅시다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's a tight turnaround",
+        "Let's lock that in"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pull together",
+          "surface": "pulled together",
+          "meaningKo": "(자료를) 모아 정리하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "By nine, Daniel had pulled together a file on Ethan, with every interview he could find, and he was ready to walk them through it.",
+            "ko": "9시쯤 대니얼은 찾을 수 있는 인터뷰를 모두 모아 이선에 관한 자료를 만들어 놓고, 함께 훑어볼 준비를 하고 있었다."
+          }
+        },
+        {
+          "term": "walk someone through",
+          "surface": "walk them through",
+          "meaningKo": "차근차근 설명해 주다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "By nine, Daniel had pulled together a file on Ethan, with every interview he could find, and he was ready to walk them through it.",
+            "ko": "9시쯤 대니얼은 찾을 수 있는 인터뷰를 모두 모아 이선에 관한 자료를 만들어 놓고, 함께 훑어볼 준비를 하고 있었다."
+          }
+        },
+        {
+          "term": "forwarding address",
+          "surface": "forwarding address",
+          "meaningKo": "이전 후 연락처, 전달 주소",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Row twenty-seven was Haneul Textiles, whose finance lead had left without a forwarding address, and HR wouldn't give out a number.",
+            "ko": "27번 행은 하늘섬유였는데, 재무 담당자는 연락처도 남기지 않고 떠났고 인사팀은 번호를 알려 주려 하지 않았다."
+          }
+        },
+        {
+          "term": "fallback",
+          "surface": "fallback",
+          "meaningKo": "대안, 차선책",
+          "paragraph": 3,
+          "sentence": {
+            "en": "By ten that night she still hadn't called back, so Jae-won drafted the fallback, a new title reading \"Thirty Out of Forty-Two,\" and then wrote out what he would say to Marcus, line by line.",
+            "ko": "밤 10시가 되도록 회신이 없어서, 재원은 대안으로 새 제목 \"42곳 중 30곳\"을 쓰고, 마커스에게 할 말을 한 줄씩 적었다."
+          }
+        },
+        {
+          "term": "soften",
+          "surface": "soften",
+          "meaningKo": "(표현을) 누그러뜨리다, 돌려 말하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Helen texted from home, where she was finishing her packing: \"Whatever happens tonight, you make that call yourself, and you don't soften it.\"",
+            "ko": "집에서 짐을 마저 싸던 헬렌이 문자를 보냈다. \"오늘 밤 무슨 일이 있어도 그 전화는 직접 하고, 돌려 말하지 마요.\""
+          }
+        },
+        {
+          "term": "budget review",
+          "surface": "budget review",
+          "meaningKo": "예산 검토",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Sorry, I've been stuck in a budget review all day,\" Bae said.",
+            "ko": "\"죄송해요, 종일 예산 검토에 붙들려 있었어요.\" 배지혜가 말했다."
+          }
+        },
+        {
+          "term": "stand",
+          "surface": "Title stands",
+          "meaningKo": "(결정 등이) 그대로 유효하다",
+          "paragraph": 5,
+          "sentence": {
+            "en": "Title stands.",
+            "ko": "제목은 그대로입니다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 514,
+      "paragraphs": [
+        {
+          "en": "Jae-won could have said no, since nobody would have known any different for another seventeen hours. \"Possibly, and I'll know by midnight, one way or the other,\" he said. For a moment there was nothing on the line but the hum of an air conditioner. \"Then my phone stays on,\" Marcus said, and he hung up.",
+          "ko": "없다고 해도 앞으로 17시간은 아무도 달리 알 길이 없었을 것이다. \"있을 수도 있어요. 어느 쪽이든 자정까지는 알게 됩니다.\" 재원이 말했다. 잠시 수화기 너머로 에어컨 웅웅거리는 소리만 들렸다. \"그럼 전화기를 켜 두죠.\" 마커스는 그렇게 말하고 끊었다."
+        },
+        {
+          "en": "By nine, Daniel had pulled together a dossier on Ethan, with every interview and conference clip he could scrape, and he was itching to walk them through it. \"Let's park that until lunch, because if row twenty-seven is still open tonight, I've got a very different call to make and Wolfe becomes the second-worst part of my week,\" Jae-won said. Helen, on her last day in the office, looked up from a half-packed box. \"I sat next to Ethan at a dinner once, and for what it's worth, he isn't rude,\" she said. \"He just asks about your answer, and then he asks about the answer to that, until you find out what you actually think.\"",
+          "ko": "9시쯤 대니얼은 긁어모을 수 있는 인터뷰와 콘퍼런스 영상을 모두 모아 이선에 관한 자료집을 만들어 놓고, 함께 훑어보고 싶어 안달이었다. \"그건 점심때까지 미뤄 둡시다. 오늘 밤에도 27번 행이 열려 있으면 제가 전혀 다른 전화를 해야 하고, 그러면 울프는 이번 주에 두 번째로 나쁜 일이 되니까요.\" 재원이 말했다. 사무실에서의 마지막 날, 헬렌이 반쯤 싼 상자에서 고개를 들었다. \"만찬에서 이선 옆자리에 앉아 본 적이 있는데, 참고로 무례한 사람은 아니에요.\" 그녀가 말했다. \"답을 하면 그 답을 묻고, 또 그 답에 대한 답을 물을 뿐이죠. 내가 진짜 뭘 생각하는지 알게 될 때까지요.\""
+        },
+        {
+          "en": "Row twenty-seven was Haneul Textiles, whose finance lead had left without a forwarding address, and whose HR department treated every inquiry as a data breach in progress. Daniel had been chasing it for five days and had started referring to it as his other relationship. That afternoon he finally prised a name out of the company's former auditor, Bae Ji-hye, who was now running finance at a hospital group in Daegu, and he left a carefully neutral message at three o'clock. \"That's a tight turnaround,\" he told Jae-won.",
+          "ko": "27번 행은 하늘섬유였는데, 재무 담당자는 연락처도 남기지 않고 떠났고 인사팀은 모든 문의를 진행 중인 정보 유출 사고처럼 대했다. 대니얼은 닷새째 이 건을 쫓으며 '또 다른 연애 상대'라고 부르기 시작한 참이었다. 그날 오후 그는 회사의 예전 감사인에게서 마침내 이름을 캐냈다. 지금 대구의 한 병원 그룹에서 재무를 맡고 있는 배지혜였고, 그는 3시에 조심스럽게 중립적인 메시지를 남겼다. \"일정이 꽤 빠듯하네요.\" 그가 재원에게 말했다."
+        },
+        {
+          "en": "By ten that night she still hadn't called back, so Jae-won drafted the fallback, a new title reading \"Thirty Out of Forty-Two,\" and then wrote out what he would say to Marcus, line by line, the way he'd once have written a memo to avoid saying anything at all. Helen texted from home, where she was finishing her packing: \"Whatever happens tonight, you make that call yourself, you don't soften it, and you don't send it by email because it's late.\"",
+          "ko": "밤 10시가 되도록 회신이 없어서, 재원은 대안으로 새 제목 \"42곳 중 30곳\"을 쓰고, 마커스에게 할 말을 한 줄씩 적었다. 예전이라면 아무 말도 하지 않으려고 메모를 썼을 그 방식 그대로였다. 집에서 짐을 마저 싸던 헬렌이 문자를 보냈다. \"오늘 밤 무슨 일이 있어도 그 전화는 직접 하고, 돌려 말하지 말고, 늦었다고 메일로 보내지도 마요.\""
+        },
+        {
+          "en": "At 11:20, Daniel's phone lit up, and he nearly knocked it off the table getting it onto speaker. \"Sorry, I've been stuck in a budget review since this morning, so make it quick,\" Bae said. \"Haneul? We pulled the plug on that pilot in month three because I wouldn't sign the numbers, the CEO was furious, and yes, you can put my name on that, since I've been waiting four years for someone to ask.\" \"Let's lock that in,\" Daniel said. He typed for a moment and turned the laptop around, and all thirty-one were confirmed, with forty minutes to spare.",
+          "ko": "11시 20분, 대니얼의 휴대폰에 불이 들어왔고, 그는 스피커로 돌리다가 하마터면 탁자에서 떨어뜨릴 뻔했다. \"죄송해요, 아침부터 예산 검토에 붙들려 있었으니 짧게 해 주세요.\" 배지혜가 말했다. \"하늘섬유요? 제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 접었고, 대표가 노발대발했죠. 네, 제 이름을 올려도 돼요. 누가 물어봐 주기를 4년째 기다렸거든요.\" \"그걸로 확정합시다.\" 대니얼이 말했다. 그는 잠시 타자를 치더니 노트북을 돌려 보였고, 31건 모두 확인됐으며, 40분이 남아 있었다."
+        },
+        {
+          "en": "Jae-won deleted the fallback and texted Marcus at once: \"The item I mentioned is resolved. Nothing to report. Title stands.\" He felt, for roughly the length of an elevator ride, like a man who had got away with something. He was reaching for his coat when the reply came, at 11:52. \"Good. Ethan has read your abstract. He has one question for you, and he says you won't like it. Nine o'clock.\"",
+          "ko": "재원은 대안을 지우고, 곧바로 마커스에게 문자를 보냈다. \"말씀드린 건은 해결됐습니다. 보고할 것 없습니다. 제목은 그대로입니다.\" 대략 엘리베이터를 타는 시간만큼은 무언가를 무사히 넘긴 사람 같은 기분이 들었다. 코트를 집으려는데 11시 52분에 답이 왔다. \"좋습니다. 이선이 당신 초록을 읽었어요. 질문이 하나 있는데, 마음에 안 들 거라고 하네요. 9시에 봅시다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's a tight turnaround",
+        "Let's lock that in"
+      ],
+      "wordCandidates": [
+        {
+          "term": "dossier",
+          "surface": "dossier",
+          "meaningKo": "(사람·사안에 관한) 자료집",
+          "paragraph": 1,
+          "sentence": {
+            "en": "By nine, Daniel had pulled together a dossier on Ethan, with every interview and conference clip he could scrape, and he was itching to walk them through it.",
+            "ko": "9시쯤 대니얼은 긁어모을 수 있는 인터뷰와 콘퍼런스 영상을 모두 모아 이선에 관한 자료집을 만들어 놓고, 함께 훑어보고 싶어 안달이었다."
+          }
+        },
+        {
+          "term": "itching to",
+          "surface": "itching to",
+          "meaningKo": "~하고 싶어 안달이 난",
+          "paragraph": 1,
+          "sentence": {
+            "en": "By nine, Daniel had pulled together a dossier on Ethan, with every interview and conference clip he could scrape, and he was itching to walk them through it.",
+            "ko": "9시쯤 대니얼은 긁어모을 수 있는 인터뷰와 콘퍼런스 영상을 모두 모아 이선에 관한 자료집을 만들어 놓고, 함께 훑어보고 싶어 안달이었다."
+          }
+        },
+        {
+          "term": "data breach",
+          "surface": "data breach",
+          "meaningKo": "정보 유출 사고",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Row twenty-seven was Haneul Textiles, whose finance lead had left without a forwarding address, and whose HR department treated every inquiry as a data breach in progress.",
+            "ko": "27번 행은 하늘섬유였는데, 재무 담당자는 연락처도 남기지 않고 떠났고 인사팀은 모든 문의를 진행 중인 정보 유출 사고처럼 대했다."
+          }
+        },
+        {
+          "term": "prise out of",
+          "surface": "prised a name out of",
+          "meaningKo": "(정보를) 어렵게 캐내다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "That afternoon he finally prised a name out of the company's former auditor, Bae Ji-hye, who was now running finance at a hospital group in Daegu, and he left a carefully neutral message at three o'clock.",
+            "ko": "그날 오후 그는 회사의 예전 감사인에게서 마침내 이름을 캐냈다. 지금 대구의 한 병원 그룹에서 재무를 맡고 있는 배지혜였고, 그는 3시에 조심스럽게 중립적인 메시지를 남겼다."
+          }
+        },
+        {
+          "term": "pull the plug",
+          "surface": "pulled the plug",
+          "meaningKo": "(사업을) 중단하다, 접다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "We pulled the plug on that pilot in month three because I wouldn't sign the numbers, the CEO was furious, and yes, you can put my name on that, since I've been waiting four years for someone to ask.",
+            "ko": "제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 접었고, 대표가 노발대발했죠. 네, 제 이름을 올려도 돼요. 누가 물어봐 주기를 4년째 기다렸거든요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How was row twenty-seven finally confirmed?",
+      "options": [
+        "A former finance lead called and agreed to put her name on it.",
+        "Oh Sang-woo found his old notes.",
+        "Haneul Textiles sent a signed closing report.",
+        "Helen called the company's CEO."
+      ],
+      "answerIndex": 0,
+      "evidence": "\"Haneul? We stopped that pilot in month three because I wouldn't sign the numbers, and you can put my name on that.\""
+    },
+    {
+      "question": "Why does Jae-won say \"Possibly, and I'll know by midnight\" when Marcus asks if there is anything he should hear?",
+      "options": [
+        "He is trying to delay telling Marcus about Ethan.",
+        "He is not sure Marcus has the authority to change his title.",
+        "He wants Marcus to offer him more time on the slides.",
+        "He will not lie about the open row, even though he could say no and nobody would know yet."
+      ],
+      "answerIndex": 3,
+      "evidence": "Jae-won could have said no, and nobody would have known until tonight."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Possibly, and I'll know by midnight.",
+      "That's a tight turnaround.",
+      "Let's lock that in."
+    ],
+    "summaryPromptKo": "재원이 마커스에게 뭐라고 답했는지, 27번 행을 어떻게 쫓았는지, 자정 전에 무슨 일이 있었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "You told me \"possibly\" this morning. What was it, and why didn't you just say no?",
+      "ko": "오늘 아침에 \"있을 수도 있다\"고 하셨죠. 그게 뭐였고, 왜 그냥 없다고 하지 않았습니까?"
+    },
+    "modelAnswer": "There was one row left, row twenty-seven, and the deadline was midnight. I could have said no, and nobody would have known until tonight. But if it had stayed open, I'd have changed the title to Thirty Out of Forty-Two and called you myself. At 11:20, a former finance lead confirmed it, and she put her name on it. So all thirty-one are confirmed, and the title stands."
+  },
+  "nextTeaserKo": "수요일 아침 9시, 헬렌은 시애틀행 비행기에 있고 재원은 처음으로 이선 울프와 화면으로 마주한다. 이선이 벼르고 있는 질문은 하나. 그리고 그 콜에는 \"보고할 것 없다\"는 문자를 받은 마커스도 있다.",
+  "roleplay": {
+    "title": "자정까지 남은 시간",
+    "situationKo": "마커스의 물음에 답하는 순간부터 그날 밤까지입니다. 내가 재원이 되어 마지막 한 줄이 닫히기를 기다려 봅니다. 천천히 말해도 괜찮고, 막히면 힌트를 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Anything I should be hearing from you?",
+        "ko": "저한테 해 줄 말 있습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Possibly. I'll know by midnight.",
+        "ko": "있을 수도 있습니다. 자정까지는 알게 됩니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Then my phone stays on.",
+        "ko": "그럼 제 전화는 켜 두겠습니다."
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I've pulled together a file on Ethan. Shall we go through it?",
+        "ko": "이선에 관한 자료를 모아 놨어요. 같이 볼까요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Let's park that until lunch. If row twenty-seven is still open tonight, I've got a very different call to make.",
+        "ko": "그건 점심때까지 미뤄 둡시다. 오늘 밤에도 27번 행이 열려 있으면 제가 전혀 다른 전화를 해야 해요.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "I finally got a name, Bae Ji-hye. I left her a message at three.",
+        "ko": "드디어 이름을 알아냈어요. 배지혜 씨요. 3시에 메시지를 남겼습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "And the deadline is midnight. That's a tight turnaround.",
+        "ko": "마감은 자정이고요. 일정이 꽤 빠듯하네요.",
+        "you": true
+      },
+      {
+        "speaker": "Helen Park",
+        "voice": "female",
+        "en": "Whatever happens tonight, you make that call yourself, and you don't soften it.",
+        "ko": "오늘 밤 무슨 일이 있어도 그 전화는 직접 하고, 돌려 말하지 마요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I won't. If she doesn't call, the new title is Thirty Out of Forty-Two.",
+        "ko": "그러지 않을게요. 그분 전화가 안 오면 새 제목은 '42곳 중 30곳'입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Bae Ji-hye",
+        "voice": "female",
+        "en": "Haneul? We stopped that pilot in month three because I wouldn't sign the numbers, and you can put my name on that.",
+        "ko": "하늘섬유요? 제가 숫자에 서명을 안 해서 3개월 차에 그 파일럿을 멈췄어요. 제 이름을 올려도 돼요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. Let's lock that in.",
+        "ko": "감사합니다. 그걸로 확정합시다.",
+        "you": true
+      },
+      {
+        "speaker": "Daniel Cho",
+        "voice": "male",
+        "en": "All thirty-one confirmed, with forty minutes to spare.",
+        "ko": "31건 모두 확인됐고, 40분 남았어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I'll text Marcus. Nothing to report. Title stands.",
+        "ko": "그럼 마커스에게 문자할게요. 보고할 것 없음. 제목은 그대로.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Good. Ethan has read your abstract. He has one question for you, and he says you won't like it. Nine o'clock.",
+        "ko": "좋습니다. 이선이 당신 초록을 읽었어요. 질문이 하나 있는데, 마음에 안 들 거라고 하네요. 9시에 봅시다."
+      }
+    ]
+  }
+}

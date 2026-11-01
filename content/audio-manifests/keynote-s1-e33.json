@@ -1,0 +1,70 @@
+{
+  "episodeId": "keynote-s1-e33",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "stage manager": "word-stage-manager.mp3",
+    "playback machine": "word-playback-machine.mp3",
+    "go black": "word-go-black.mp3",
+    "repeat": "word-repeat.mp3",
+    "edge": "word-edge.mp3",
+    "go down": "word-go-down.mp3",
+    "spare": "word-spare.mp3",
+    "switch": "word-switch.mp3",
+    "hover": "word-hover.mp3",
+    "reboot": "word-reboot.mp3",
+    "swap": "word-swap.mp3",
+    "deck": "word-deck.mp3",
+    "deliver": "word-deliver.mp3",
+    "in parallel": "word-in-parallel.mp3",
+    "fail over": "word-fail-over.mp3",
+    "boot": "word-boot.mp3",
+    "coil": "word-coil.mp3",
+    "swear": "word-swear.mp3",
+    "protocol": "word-protocol.mp3",
+    "word for word": "word-word-for-word.mp3"
+  },
+  "termClips": {
+    "stage manager": "term-stage-manager.mp3",
+    "playback machine": "term-playback-machine.mp3",
+    "go black": "term-go-black.mp3",
+    "repeat": "term-repeat.mp3",
+    "edge": "term-edge.mp3",
+    "go down": "term-go-down.mp3",
+    "spare": "term-spare.mp3",
+    "switch": "term-switch.mp3",
+    "hover": "term-hover.mp3",
+    "reboot": "term-reboot.mp3",
+    "swap": "term-swap.mp3",
+    "deck": "term-deck.mp3",
+    "deliver": "term-deliver.mp3",
+    "in parallel": "term-in-parallel.mp3",
+    "fail over": "term-fail-over.mp3",
+    "boot": "term-boot.mp3",
+    "coil": "term-coil.mp3",
+    "swear": "term-swear.mp3",
+    "protocol": "term-protocol.mp3",
+    "word for word": "term-word-for-word.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3"
+  ]
+}

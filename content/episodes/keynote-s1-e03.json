@@ -1,0 +1,419 @@
+{
+  "id": "keynote-s1-e03",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 3,
+  "title": "Twenty Minutes",
+  "recapKo": "어머니 수술 때문에 싱가포르에 갈 수 없게 된 헬렌이 재원에게 기조연설 20분과 패널 토론을 대신 맡아 달라고 부탁했다. 실시간 질문만 받으면 머리가 하얘지는 재원은 하룻밤을 고민한 끝에 새벽 6시 30분에 수락 메일을 보냈다. 그 직후 +65로 시작하는 번호에서 전화가 걸려 왔다.",
+  "keyExpressions": [
+    {
+      "phrase": "Could you walk me through ~?",
+      "meaningKo": "~을 차근차근 설명해 주시겠어요?",
+      "usage": "Could you walk me through the approval process?"
+    },
+    {
+      "phrase": "Just to confirm, ~",
+      "meaningKo": "확인차 여쭙는데요, ~",
+      "usage": "Just to confirm, the deadline is Friday noon, Singapore time?"
+    },
+    {
+      "phrase": "When you say ~, do you mean ~?",
+      "meaningKo": "~라고 하신 건 ~라는 뜻인가요?",
+      "usage": "When you say final, do you mean no more changes at all?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 219,
+      "paragraphs": [
+        {
+          "en": "Jae-won answered the phone in his kitchen. \"This is Marcus Reid, program director of the summit, and Helen forwarded your email a minute ago with two words: call him.\" It was 6:31 in Seoul, so it was 5:31 in Singapore. \"I run at six, so we have fifteen minutes,\" Marcus said.",
+          "ko": "재원은 부엌에서 전화를 받았다. \"서밋 프로그램 디렉터 마커스 리드입니다. 헬렌이 1분 전에 당신 메일을 전달하면서 딱 두 단어를 적었더군요. 전화해 보라고요.\" 서울은 6시 31분이니 싱가포르는 5시 31분이었다. \"6시에 달리러 나가니까 우리에게 15분 있습니다.\" 마커스가 말했다."
+        },
+        {
+          "en": "He grabbed a pen and an old envelope, and since he had no script, he decided to keep asking questions. \"Could you walk me through the format?\"",
+          "ko": "그는 펜과 낡은 봉투를 집어 들었고, 준비한 말이 없으니 계속 질문을 하기로 했다. \"형식을 차근차근 설명해 주시겠어요?\""
+        },
+        {
+          "en": "\"Thursday, 9:40, in the main hall,\" Marcus said. \"You have twenty minutes alone on stage, a clock on the floor counts down, and at zero the music starts.\" \"Just to confirm, does that include time for questions?\"",
+          "ko": "\"목요일 9시 40분, 메인 홀입니다.\" 마커스가 말했다. \"무대에서 혼자 20분이고, 바닥에 있는 시계가 시간을 거꾸로 세며, 0이 되면 음악이 나옵니다.\" \"확인차 여쭙는데요, 거기에 질문 시간도 포함되나요?\""
+        },
+        {
+          "en": "\"No, you get twenty minutes, and then five minutes of questions that people send through the summit app.\" Jae-won's pen stopped. \"When you say through the app, do you mean I see them first?\" \"I mean you hear them when everyone else hears them.\"",
+          "ko": "\"아니요. 20분을 드리고, 그다음 사람들이 서밋 앱으로 보내는 질문을 5분 받습니다.\" 재원의 펜이 멈췄다. \"앱으로 한다고 하신 건 제가 먼저 볼 수 있다는 뜻인가요?\" \"다른 사람들이 들을 때 같이 듣는다는 뜻입니다.\""
+        },
+        {
+          "en": "He asked about the audience next. \"We have eight hundred people,\" Marcus said. \"About sixty percent are buyers like CIOs and CFOs, thirty percent are vendors, and the rest are investors and press. We allow no product slides and no prices, and the speaker who showed a price list last year was never invited back. My real problem comes later.\"",
+          "ko": "그는 다음으로 청중에 관해 물었다. \"800명입니다.\" 마커스가 말했다. \"약 60퍼센트는 CIO와 CFO 같은 구매자고, 30퍼센트는 공급업체, 나머지는 투자자와 언론입니다. 제품 슬라이드와 가격은 허용하지 않고, 작년에 가격표를 보여 준 연사는 다시 초대받지 못했어요. 제 진짜 문제는 이따 말하죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Could you walk me through",
+        "Just to confirm",
+        "When you say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "forward",
+          "surface": "forwarded",
+          "meaningKo": "(메일 등을) 전달하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"This is Marcus Reid, program director of the summit, and Helen forwarded your email a minute ago with two words: call him.\"",
+            "ko": "헬렌이 1분 전에 당신 메일을 전달하면서 딱 두 단어를 적었더군요. 전화해 보라고요."
+          }
+        },
+        {
+          "term": "script",
+          "surface": "script",
+          "meaningKo": "대본, 준비된 원고",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He grabbed a pen and an old envelope, and since he had no script, he decided to keep asking questions.",
+            "ko": "그는 펜과 낡은 봉투를 집어 들었고, 준비한 말이 없으니 계속 질문을 하기로 했다."
+          }
+        },
+        {
+          "term": "format",
+          "surface": "format",
+          "meaningKo": "형식, 진행 방식",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Could you walk me through the format?\"",
+            "ko": "형식을 차근차근 설명해 주시겠어요?"
+          }
+        },
+        {
+          "term": "count down",
+          "surface": "counts down",
+          "meaningKo": "시간을 거꾸로 세다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"You have twenty minutes alone on stage, a clock on the floor counts down, and at zero the music starts.\"",
+            "ko": "무대에서 혼자 20분이고, 바닥에 있는 시계가 시간을 거꾸로 세며, 0이 되면 음악이 나옵니다."
+          }
+        },
+        {
+          "term": "vendor",
+          "surface": "vendors",
+          "meaningKo": "공급업체, 판매업체",
+          "paragraph": 4,
+          "sentence": {
+            "en": "About sixty percent are buyers like CIOs and CFOs, thirty percent are vendors, and the rest are investors and press.",
+            "ko": "약 60퍼센트는 CIO와 CFO 같은 구매자고, 30퍼센트는 공급업체, 나머지는 투자자와 언론입니다."
+          }
+        },
+        {
+          "term": "investor",
+          "surface": "investors",
+          "meaningKo": "투자자",
+          "paragraph": 4,
+          "sentence": {
+            "en": "About sixty percent are buyers like CIOs and CFOs, thirty percent are vendors, and the rest are investors and press.",
+            "ko": "약 60퍼센트는 CIO와 CFO 같은 구매자고, 30퍼센트는 공급업체, 나머지는 투자자와 언론입니다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 373,
+      "paragraphs": [
+        {
+          "en": "He picked up on the second ring, standing in his kitchen with a cold cup of coffee. \"Marcus Reid, program director for the summit, and Helen forwarded your email about a minute ago with a two-word cover note: call him.\" It was 6:31 in Seoul, which made it 5:31 in Singapore. \"I run at six, so let's not waste each other's time,\" Marcus added.",
+          "ko": "그는 식은 커피를 든 채 부엌에 서서 두 번째 벨에 전화를 받았다. \"서밋 프로그램 디렉터 마커스 리드입니다. 헬렌이 1분쯤 전에 당신 메일을 전달했는데, 덧붙인 말은 딱 두 단어더군요. 전화해 보라고요.\" 서울은 6시 31분, 싱가포르는 5시 31분이었다. \"6시에 달리러 나가니까 서로 시간 낭비는 하지 맙시다.\" 마커스가 덧붙였다."
+        },
+        {
+          "en": "Jae-won grabbed a pen and the nearest thing to write on, which was the back of a utility bill. He had no script and no slides, but years of client interviews had taught him one useful trick: as long as he was the one asking questions, nobody could put him on the spot. \"Thanks for calling so quickly. Could you walk me through the format, starting with the keynote itself?\"",
+          "ko": "재원은 펜과 가장 가까이 있는 종이, 공과금 고지서 뒷면을 집어 들었다. 대본도 슬라이드도 없었지만, 수년간의 고객 인터뷰에서 쓸 만한 요령을 하나 배웠다. 자신이 질문하는 쪽에 있는 한 아무도 그를 곤란하게 몰아세울 수 없다는 것이다. \"빨리 연락 주셔서 감사합니다. 기조연설부터 시작해서 형식을 차근차근 설명해 주시겠어요?\""
+        },
+        {
+          "en": "\"Day one, Thursday, 9:40, main hall,\" Marcus said, in the tone of someone reading out a train timetable. \"You're on your own for twenty minutes, with a countdown clock on the stage floor. When it hits zero, the walk-on music for the next speaker starts, and I've never once faded it down for anybody.\" Jae-won took that down word for word. \"Just to confirm, does that twenty minutes include questions from the floor?\"",
+          "ko": "\"첫날 목요일, 9시 40분, 메인 홀입니다.\" 마커스가 기차 시간표를 읽는 듯한 말투로 말했다. \"20분 동안 혼자 서게 되고, 무대 바닥에 카운트다운 시계가 있어요. 0이 되면 다음 연사의 등장 음악이 나오는데, 저는 누구를 위해서도 그 음악을 줄여 준 적이 없습니다.\" 재원은 그 말을 그대로 받아 적었다. \"확인차 여쭙는데요, 그 20분에 청중 질문도 포함되나요?\""
+        },
+        {
+          "en": "\"It doesn't, because you get twenty, and then I come up for five minutes of audience Q&A through the summit app.\" The pen stopped moving. \"When you say through the app, do you mean the questions are screened and shared with me beforehand?\" \"I mean I screen them, live, and you hear them at the same moment as everyone else,\" Marcus said. Jae-won felt his stomach drop, and he wrote \"5 min Q&A, no preview\" in very small letters.",
+          "ko": "\"포함되지 않습니다. 20분을 쓰고 나면 제가 올라가서 서밋 앱으로 5분간 청중 질의응답을 합니다.\" 펜이 멈췄다. \"앱으로 한다고 하신 건 질문을 걸러서 제게 미리 공유해 주신다는 뜻인가요?\" \"제가 현장에서 실시간으로 거르고, 당신은 다른 사람들과 같은 순간에 듣는다는 뜻입니다.\" 마커스가 말했다. 재원은 속이 철렁 내려앉는 것을 느끼며 \"질의응답 5분, 사전 공유 없음\"이라고 아주 작게 적었다."
+        },
+        {
+          "en": "He forced himself to move on. \"Could you give me a sense of who's actually in the room?\" \"Eight hundred seats, sold out, and roughly sixty percent are buyers, meaning CIOs, CFOs and heads of operations, thirty percent are vendors, and the rest are investors and trade press. They have a very low tolerance for being pitched to, so the rule is no products, no logos and no pricing. Someone put up a rate card last year, and he's not coming back. My real problem comes later.\"",
+          "ko": "그는 억지로 넘어갔다. \"실제로 어떤 분들이 오시는지 감을 좀 주실 수 있을까요?\" \"800석 매진입니다. 대략 60퍼센트는 구매자, 그러니까 CIO, CFO, 운영 총괄이고, 30퍼센트는 공급업체, 나머지는 투자자와 업계 언론입니다. 영업당하는 걸 거의 참지 못하는 사람들이라, 규칙은 제품 금지, 로고 금지, 가격 금지입니다. 작년에 누가 요금표를 띄웠는데, 그 사람은 다시 못 옵니다. 제 진짜 문제는 이따 말하죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Could you walk me through",
+        "Just to confirm",
+        "When you say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "cover note",
+          "surface": "cover note",
+          "meaningKo": "(전달 문서에 덧붙이는) 짧은 메모",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Marcus Reid, program director for the summit, and Helen forwarded your email about a minute ago with a two-word cover note: call him.\"",
+            "ko": "서밋 프로그램 디렉터 마커스 리드입니다. 헬렌이 1분쯤 전에 당신 메일을 전달했는데, 덧붙인 말은 딱 두 단어더군요. 전화해 보라고요."
+          }
+        },
+        {
+          "term": "put someone on the spot",
+          "surface": "put him on the spot",
+          "meaningKo": "곤란한 질문으로 몰아세우다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He had no script and no slides, but years of client interviews had taught him one useful trick: as long as he was the one asking questions, nobody could put him on the spot.",
+            "ko": "대본도 슬라이드도 없었지만, 수년간의 고객 인터뷰에서 쓸 만한 요령을 하나 배웠다. 자신이 질문하는 쪽에 있는 한 아무도 그를 곤란하게 몰아세울 수 없다는 것이다."
+          }
+        },
+        {
+          "term": "walk-on music",
+          "surface": "walk-on music",
+          "meaningKo": "(연사의) 등장 음악",
+          "paragraph": 2,
+          "sentence": {
+            "en": "When it hits zero, the walk-on music for the next speaker starts, and I've never once faded it down for anybody.",
+            "ko": "0이 되면 다음 연사의 등장 음악이 나오는데, 저는 누구를 위해서도 그 음악을 줄여 준 적이 없습니다."
+          }
+        },
+        {
+          "term": "screen",
+          "surface": "screened",
+          "meaningKo": "(사전에) 걸러 내다, 심사하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"When you say through the app, do you mean the questions are screened and shared with me beforehand?\"",
+            "ko": "앱으로 한다고 하신 건 질문을 걸러서 제게 미리 공유해 주신다는 뜻인가요?"
+          }
+        },
+        {
+          "term": "tolerance",
+          "surface": "tolerance",
+          "meaningKo": "참을성, 허용 범위",
+          "paragraph": 4,
+          "sentence": {
+            "en": "They have a very low tolerance for being pitched to, so the rule is no products, no logos and no pricing.",
+            "ko": "영업당하는 걸 거의 참지 못하는 사람들이라, 규칙은 제품 금지, 로고 금지, 가격 금지입니다."
+          }
+        },
+        {
+          "term": "rate card",
+          "surface": "rate card",
+          "meaningKo": "요금표",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Someone put up a rate card last year, and he's not coming back.",
+            "ko": "작년에 누가 요금표를 띄웠는데, 그 사람은 다시 못 옵니다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 479,
+      "paragraphs": [
+        {
+          "en": "He caught it on the second ring, barefoot on the kitchen tiles. \"Jae-won Kang? Marcus Reid, I run the program for the summit, and Helen forwarded your email about sixty seconds ago with a cover note that read, in its entirety, 'Call him before he changes his mind.'\" It was 6:31 in Seoul, which put Singapore at 5:31, an hour at which, in Jae-won's experience, only surgeons and lunatics made business calls. \"I run at six, so you've got me for a quarter of an hour, and I suggest we skip the part where you tell me how honored you are.\"",
+          "ko": "그는 부엌 타일 위에 맨발로 선 채 두 번째 벨에 전화를 받았다. \"강재원 씨죠? 서밋 프로그램을 맡고 있는 마커스 리드입니다. 헬렌이 60초쯤 전에 당신 메일을 전달했는데, 덧붙인 메모는 이게 전부더군요. '마음 바뀌기 전에 전화해 봐요.'\" 서울은 6시 31분이니 싱가포르는 5시 31분이었다. 재원의 경험상 외과 의사와 미치광이만 업무 전화를 거는 시간이었다. \"6시에 달리러 나가니 15분 드리죠. 얼마나 영광인지 말하는 대목은 건너뛰었으면 합니다.\""
+        },
+        {
+          "en": "Jae-won snatched a pen and flipped over the nearest available surface, a utility bill. He had nothing prepared, but fifteen years of interviewing evasive controllers had taught him that the person asking the questions rarely gets caught out, and so he decided, on the spot, to keep asking them for as long as the man would tolerate it. \"Noted, and thanks for calling so promptly. Could you walk me through the format, starting with the keynote itself?\"",
+          "ko": "재원은 펜을 낚아채고 가장 가까이 있던 공과금 고지서를 뒤집었다. 준비한 것은 없었지만, 말을 빙빙 돌리는 재무 담당자들을 15년간 인터뷰하며 배운 것이 있었다. 질문하는 쪽은 좀처럼 약점을 잡히지 않는다는 것이다. 그래서 그는 그 자리에서, 상대가 참아 주는 한 계속 질문하기로 했다. \"알겠습니다. 빨리 연락 주셔서 감사합니다. 기조연설부터 시작해서 형식을 차근차근 설명해 주시겠어요?\""
+        },
+        {
+          "en": "\"Day one, Thursday, 9:40, main hall, and you're up there alone,\" Marcus said, in the voice of a man reading out a train timetable he had personally written. \"You get twenty minutes and a countdown clock set into the stage floor, and when it hits zero the next speaker's walk-on music starts, at a volume I've never once turned down for anybody, including a deputy minister.\" Jae-won took it down verbatim. \"Just to confirm, does that twenty include questions from the floor, or do those come out of a separate bucket?\"",
+          "ko": "\"첫날 목요일, 9시 40분, 메인 홀, 혼자 올라갑니다.\" 마커스가 자신이 직접 짠 기차 시간표를 읽는 사람 같은 목소리로 말했다. \"20분과 무대 바닥에 박힌 카운트다운 시계가 주어지고, 0이 되면 다음 연사의 등장 음악이 나옵니다. 그 볼륨은 차관이 와도 줄여 준 적이 없어요.\" 재원은 그대로 받아 적었다. \"확인차 여쭙는데요, 그 20분에 청중 질문이 포함되나요, 아니면 별도 항목인가요?\""
+        },
+        {
+          "en": "\"Separate bucket, if that's the idiom we're using. You get your twenty, and then I come up and we do five minutes of audience Q&A off the summit app.\" Jae-won's pen stopped dead in the middle of a word. \"When you say off the app, do you mean the questions get vetted and shared with the speaker ahead of time, or—\" \"I mean I vet them, in real time, on my phone, and you hear them at the same moment as the eight hundred other people who are wondering whether you can answer them.\"",
+          "ko": "\"그런 표현을 쓰자면 별도 항목입니다. 20분을 쓰고 나면 제가 올라가서 서밋 앱으로 5분간 청중 질의응답을 합니다.\" 재원의 펜이 단어 중간에서 뚝 멈췄다. \"앱으로 한다고 하신 건 질문을 사전에 검토해서 연사에게 미리 공유한다는 뜻인가요, 아니면—\" \"제가 제 휴대폰으로 실시간 검토하고, 당신은 당신이 답할 수 있을지 궁금해하는 800명과 같은 순간에 듣는다는 뜻입니다.\""
+        },
+        {
+          "en": "He wrote \"5 min Q&A, no preview\" in very small letters, as though that might shrink the problem, and pressed on. \"And who's really in the room, beyond the number on the brochure?\" \"Sixty percent buyers—CIOs, CFOs, the heads of operations who actually have to live with what the other two groups sell them. Thirty percent vendors, and the balance is investors and trade press, all of whom will have been pitched at since the hotel breakfast and are correspondingly short of patience. Hence no products, no logos, no pricing. Some bright spark put up a rate card last year, and I understand he's very happy with his other speaking engagements. My real problem comes later.\"",
+          "ko": "그는 그러면 문제가 줄어들기라도 할 듯 \"질의응답 5분, 사전 공유 없음\"이라고 아주 작게 적고 밀고 나갔다. \"브로슈어 숫자 말고, 실제로 그 방에 어떤 사람들이 있나요?\" \"60퍼센트가 구매자입니다. CIO, CFO, 그리고 나머지 두 집단이 파는 것을 실제로 감당하며 살아야 하는 운영 총괄들이죠. 30퍼센트는 공급업체, 나머지는 투자자와 업계 언론인데, 다들 호텔 조식 때부터 영업 공세를 당한 터라 그만큼 인내심이 바닥나 있습니다. 그래서 제품 금지, 로고 금지, 가격 금지예요. 작년에 어떤 재주꾼이 요금표를 띄웠는데, 듣자 하니 다른 강연 일정에 아주 만족하고 있다더군요. 제 진짜 문제는 이따 말하죠.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "Could you walk me through",
+        "Just to confirm",
+        "When you say"
+      ],
+      "wordCandidates": [
+        {
+          "term": "get caught out",
+          "surface": "caught out",
+          "meaningKo": "(약점·실수를) 들키다, 허를 찔리다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He had nothing prepared, but fifteen years of interviewing evasive controllers had taught him that the person asking the questions rarely gets caught out, and so he decided, on the spot, to keep asking them for as long as the man would tolerate it.",
+            "ko": "준비한 것은 없었지만, 말을 빙빙 돌리는 재무 담당자들을 15년간 인터뷰하며 배운 것이 있었다. 질문하는 쪽은 좀처럼 약점을 잡히지 않는다는 것이다. 그래서 그는 그 자리에서, 상대가 참아 주는 한 계속 질문하기로 했다."
+          }
+        },
+        {
+          "term": "evasive",
+          "surface": "evasive",
+          "meaningKo": "말을 얼버무리는, 회피하는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "He had nothing prepared, but fifteen years of interviewing evasive controllers had taught him that the person asking the questions rarely gets caught out, and so he decided, on the spot, to keep asking them for as long as the man would tolerate it.",
+            "ko": "준비한 것은 없었지만, 말을 빙빙 돌리는 재무 담당자들을 15년간 인터뷰하며 배운 것이 있었다. 질문하는 쪽은 좀처럼 약점을 잡히지 않는다는 것이다. 그래서 그는 그 자리에서, 상대가 참아 주는 한 계속 질문하기로 했다."
+          }
+        },
+        {
+          "term": "verbatim",
+          "surface": "verbatim",
+          "meaningKo": "말 그대로, 축어적으로",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Jae-won took it down verbatim.",
+            "ko": "재원은 그대로 받아 적었다."
+          }
+        },
+        {
+          "term": "vet",
+          "surface": "vetted",
+          "meaningKo": "(적합성을) 사전 검토하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"When you say off the app, do you mean the questions get vetted and shared with the speaker ahead of time, or—\" \"I mean I vet them, in real time, on my phone, and you hear them at the same moment as the eight hundred other people who are wondering whether you can answer them.\"",
+            "ko": "앱으로 한다고 하신 건 질문을 사전에 검토해서 연사에게 미리 공유한다는 뜻인가요, 아니면—"
+          }
+        },
+        {
+          "term": "correspondingly",
+          "surface": "correspondingly",
+          "meaningKo": "그에 상응하여, 그만큼",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Thirty percent vendors, and the balance is investors and trade press, all of whom will have been pitched at since the hotel breakfast and are correspondingly short of patience.",
+            "ko": "30퍼센트는 공급업체, 나머지는 투자자와 업계 언론인데, 다들 호텔 조식 때부터 영업 공세를 당한 터라 그만큼 인내심이 바닥나 있습니다."
+          }
+        },
+        {
+          "term": "bright spark",
+          "surface": "bright spark",
+          "meaningKo": "(비꼼) 똑똑하신 분, 재주꾼",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Some bright spark put up a rate card last year, and I understand he's very happy with his other speaking engagements.",
+            "ko": "작년에 어떤 재주꾼이 요금표를 띄웠는데, 듣자 하니 다른 강연 일정에 아주 만족하고 있다더군요."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "How will the audience questions reach Jae-won?",
+      "options": [
+        "He will get the written questions a week in advance.",
+        "Marcus screens them live on the app, and Jae-won hears them along with the audience.",
+        "People will walk up to a floor microphone.",
+        "Helen will collect the questions and send them to him."
+      ],
+      "answerIndex": 1,
+      "evidence": "I mean I screen them, live, and you hear them at the same moment as everyone else"
+    },
+    {
+      "question": "Why does Jae-won keep asking Marcus question after question at the start of the call?",
+      "options": [
+        "He has forgotten what Helen already told him.",
+        "He wants to show Marcus that the summit is badly organized.",
+        "He is hoping Marcus will run out of time and cancel.",
+        "While he is the one asking, he cannot be put on the spot and freeze."
+      ],
+      "answerIndex": 3,
+      "evidence": "as long as he was the one asking questions, nobody could put him on the spot"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "Could you walk me through the format, starting with the keynote itself?",
+      "Just to confirm, does that twenty minutes include questions from the floor?",
+      "When you say through the app, do you mean the questions are screened and shared with me beforehand?"
+    ],
+    "summaryPromptKo": "마커스가 알려 준 기조연설 형식, 질문이 재원에게 전달되는 방식, 청중과 금지 규칙을 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "So now you know. Twenty minutes alone, then five minutes of live questions with no preview. How do you plan to handle that?",
+      "ko": "이제 아시겠죠. 혼자 20분, 그다음 사전 공유 없는 실시간 질문 5분입니다. 어떻게 해 나갈 계획인가요?"
+    },
+    "modelAnswer": "Just to confirm, I have twenty minutes alone on stage, and then five minutes of live questions that I won't see in advance. To be honest, those five minutes worry me more than the talk itself. But I've spent years asking clients hard questions, so I know how a good question works. I'll prepare by learning who is really in the room, and I'll keep products and pricing off my slides."
+  },
+  "nextTeaserKo": "받아 적어야 할 마감은 아직 남았다. 재원은 슬라이드 마감을 밀어 보려 하고, 마커스는 이따 말하겠다던 '진짜 문제'를 꺼낸다.",
+  "roleplay": {
+    "title": "새벽 6시 31분의 전화",
+    "situationKo": "부엌에 서 있는데 Marcus에게서 전화가 옵니다. 내가 재원이 되어 형식과 청중을 하나씩 묻고 확인해 봅니다. Marcus는 말이 빠르지만, 다시 들어도 되고 틀려도 괜찮아요.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Marcus Reid, program director for the summit. Helen forwarded your email about a minute ago. I run at six, so let's not waste each other's time.",
+        "ko": "서밋 프로그램 디렉터 Marcus Reid입니다. Helen이 1분쯤 전에 메일을 전달해 줬어요. 저는 6시에 달리니까 서로 시간 낭비하지 맙시다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thanks for calling so quickly. Could you walk me through the format?",
+        "ko": "빨리 전화 주셔서 감사합니다. 형식을 차근차근 설명해 주시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Day one, Thursday, 9:40, main hall. You're on your own for twenty minutes, with a countdown clock on the stage floor.",
+        "ko": "첫날 목요일 9시 40분, 메인 홀입니다. 혼자서 20분이고, 무대 바닥에 카운트다운 시계가 있어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, does that twenty minutes include questions from the floor?",
+        "ko": "확인차 여쭙는데요, 그 20분에 청중 질문도 포함되나요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "It doesn't. You get twenty, and then I come up for five minutes of audience Q&A through the summit app.",
+        "ko": "아니요. 20분을 쓰고 나면 제가 올라가서 서밋 앱으로 5분간 청중 질의응답을 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "When you say through the app, do you mean the questions are shared with me beforehand?",
+        "ko": "앱으로 하신다는 건 질문을 저한테 미리 공유해 주신다는 뜻인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "I mean I screen them, live, and you hear them at the same moment as everyone else.",
+        "ko": "제가 실시간으로 골라서, 다른 사람들과 같은 순간에 듣게 된다는 뜻입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Okay, got it. Could you give me a sense of who's actually in the room?",
+        "ko": "네, 알겠습니다. 실제로 어떤 분들이 오시는지 대략 알려 주시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Eight hundred seats, sold out. Roughly sixty percent buyers, thirty percent vendors, and the rest investors and trade press. No products, no logos, no pricing.",
+        "ko": "800석 매진입니다. 대략 60퍼센트가 구매자, 30퍼센트가 공급업체, 나머지는 투자자와 업계 언론이에요. 제품도, 로고도, 가격도 안 됩니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No pricing, understood. That helps a lot, thank you.",
+        "ko": "가격은 안 된다, 알겠습니다. 큰 도움이 됐습니다, 감사합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Someone put up a rate card last year, and he's not coming back. My real problem comes later.",
+        "ko": "작년에 누가 요금표를 띄웠는데, 그 사람은 다시 못 옵니다. 제 진짜 문제는 이따 말하죠."
+      }
+    ]
+  }
+}

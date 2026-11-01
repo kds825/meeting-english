@@ -1,0 +1,417 @@
+{
+  "id": "keynote-s2-e40",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 40,
+  "title": "Nothing Short",
+  "recapKo": "재원은 두 숫자를 같은 분에 보냈다. 계약 기준 1,940건, 판독자까지 세면 2,070건. 아르준은 계약대로 15만 달러를 지급하되 두 번째 숫자를 쓰겠다고 했고, 웨이링은 \"야간조에 한함\"에 줄을 그었다. 라힘이 폴더를 열었고, 그레이스는 재원에게 포트 클랑을 맡으라며 월요일까지 답을 달라고 했다. 그날 밤 대니얼이 말했다. \"포트 클랑을 제가 하고 싶어요.\"",
+  "keyExpressions": [
+    {
+      "phrase": "I'd like to hand this over to ~",
+      "meaningKo": "이 일을 ~에게 넘기고 싶습니다",
+      "usage": "I'd like to hand this over to Mina, who has run it since June."
+    },
+    {
+      "phrase": "I couldn't have done this without ~",
+      "meaningKo": "~ 없이는 해내지 못했을 겁니다",
+      "usage": "I couldn't have done this without the night team."
+    },
+    {
+      "phrase": "The next step would be ~",
+      "meaningKo": "다음 단계는 ~가 될 겁니다",
+      "usage": "The next step would be a one-week trial in Busan."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 204,
+      "paragraphs": [
+        {
+          "en": "On Monday at eight, they met in the canteen for the last time. \"I'd like to hand this over to Wei Ling and Siti,\" Jae-won said. Ethan said that Corvane had reached ninety-one percent. \"What's that number measured on?\" Jae-won asked, and Ethan laughed.",
+          "ko": "월요일 8시, 그들은 마지막으로 구내식당에 모였다. \"이 일을 웨이링과 시티에게 넘기고 싶습니다.\" 재원이 말했다. 이선은 코르베인이 91퍼센트에 도달했다고 말했다. \"그 숫자는 무엇을 기준으로 잰 겁니까?\" 재원이 물었고, 이선은 웃었다."
+        },
+        {
+          "en": "At eleven, he sat down in Grace's office with no page. \"I won't run Port Klang, Daniel will, and I'll sign as his partner,\" he said. \"He's a third-year consultant, so whose word am I taking?\" she asked. \"His, and if he's wrong, you call me.\" \"The next step would be one night on the dock at Port Klang, with Rahim and Wei Ling, before anyone writes a page.\" \"One page, in Daniel's handwriting,\" she said.",
+          "ko": "11시에 그는 종이 없이 그레이스의 사무실에 앉았다. \"포트 클랑은 제가 맡지 않겠습니다. 대니얼이 맡고, 저는 그의 파트너로 서명하겠습니다.\" 그가 말했다. \"그는 3년 차 컨설턴트인데, 제가 누구의 말을 믿는 거죠?\" 그녀가 물었다. \"그의 말입니다. 그가 틀리면 저한테 전화하십시오.\" \"다음 단계는 누가 종이를 쓰기 전에 라힘, 웨이링과 함께 포트 클랑 도크에서 하룻밤을 보내는 것입니다.\" \"한 장으로요. 대니얼의 글씨로.\" 그녀가 말했다."
+        },
+        {
+          "en": "He wrote to Anders that he was tired, and that the answer was no.",
+          "ko": "그는 앤더스에게 피곤하지만 답은 '아니요'라고 적어 보냈다."
+        },
+        {
+          "en": "At ten that night, he went down to dock six. \"I couldn't have done this without you,\" he told Siti. She didn't look up, but she handed him a form. In the margin she had written a code, and he could read it without help. It meant nothing short, nothing damaged, and label correct. He put it in his empty pocket and walked out in boots that had never fit.",
+          "ko": "그날 밤 10시, 그는 6번 도크로 내려갔다. \"시티 씨 없이는 해내지 못했을 겁니다.\" 그가 시티에게 말했다. 그녀는 고개를 들지 않았지만 양식 한 장을 건넸다. 여백에 코드를 적어 두었고, 그는 도움 없이 그것을 읽을 수 있었다. 부족 없음, 파손 없음, 라벨 정확이라는 뜻이었다. 그는 그것을 빈 주머니에 넣고, 한 번도 맞지 않았던 안전화를 신고 걸어 나갔다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd like to hand this over to",
+        "I couldn't have done this without",
+        "The next step would be"
+      ],
+      "wordCandidates": [
+        {
+          "term": "third-year",
+          "surface": "third-year",
+          "meaningKo": "3년 차의",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"He's a third-year consultant, so whose word am I taking?\" she asked.",
+            "ko": "\"그는 3년 차 컨설턴트인데, 제가 누구의 말을 믿는 거죠?\" 그녀가 물었다."
+          }
+        },
+        {
+          "term": "handwriting",
+          "surface": "handwriting",
+          "meaningKo": "글씨, 손글씨",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"One page, in Daniel's handwriting,\" she said.",
+            "ko": "\"한 장으로요. 대니얼의 글씨로.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margin",
+          "meaningKo": "여백",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In the margin she had written a code, and he could read it without help.",
+            "ko": "여백에 코드를 적어 두었고, 그는 도움 없이 그것을 읽을 수 있었다."
+          }
+        },
+        {
+          "term": "damaged",
+          "surface": "damaged",
+          "meaningKo": "파손된",
+          "paragraph": 3,
+          "sentence": {
+            "en": "It meant nothing short, nothing damaged, and label correct.",
+            "ko": "부족 없음, 파손 없음, 라벨 정확이라는 뜻이었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 328,
+      "paragraphs": [
+        {
+          "en": "On Monday at eight, they met in the canteen for the last time, between shifts, as they had in week one. Siti had written the handbook by hand, and twelve readers had already corrected it. \"I'd like to hand this over to Wei Ling and Siti,\" Jae-won said. \"The red key stays, the readers stay, and Cole's release notes go to a second reader before anyone switches anything on.\" Ethan, who had just had his holdback released, announced that Corvane had reached ninety-one percent. \"What's that number measured on?\" Jae-won asked, and Ethan laughed so hard that Cole looked worried.",
+          "ko": "월요일 8시, 그들은 1주 차 때처럼 교대 사이에 마지막으로 구내식당에 모였다. 시티가 안내서를 손으로 썼고, 판독자 12명이 벌써 그것을 고쳐 놓았다. \"이 일을 웨이링과 시티에게 넘기고 싶습니다.\" 재원이 말했다. \"빨간 키도, 판독자도 남고, 콜의 출시 노트는 무엇이든 켜기 전에 두 번째 검토자에게 갑니다.\" 보류금을 막 돌려받은 이선은 코르베인이 91퍼센트에 도달했다고 알렸다. \"그 숫자는 무엇을 기준으로 잰 겁니까?\" 재원이 물었고, 이선이 너무 크게 웃어서 콜이 걱정스러운 표정을 지었다."
+        },
+        {
+          "en": "At eleven, he sat down in Grace's office with no page. \"I won't run Port Klang,\" he said. \"Daniel will, if you'll have him, and I'll sign as the partner you call when you're in trouble.\" \"He's a third-year consultant, so whose word am I taking?\" she asked. \"His, because he's read every form on that dock, and if he's wrong, it's my phone,\" Jae-won said. \"The next step would be one night on the dock at Port Klang, with Rahim and Wei Ling, before anyone writes a page.\" Grace picked up her pencil and looked at it for a while. \"One page, in Daniel's handwriting, and I'll read it,\" she said.",
+          "ko": "11시에 그는 종이 없이 그레이스의 사무실에 앉았다. \"포트 클랑은 제가 맡지 않겠습니다.\" 그가 말했다. \"받아 주신다면 대니얼이 맡고, 저는 곤란할 때 전화하실 파트너로 서명하겠습니다.\" \"그는 3년 차 컨설턴트인데, 제가 누구의 말을 믿는 거죠?\" 그녀가 물었다. \"그의 말입니다. 그 도크의 양식을 전부 읽은 사람이니까요. 그가 틀리면 제 전화로 오고요.\" 재원이 말했다. \"다음 단계는 누가 종이를 쓰기 전에 라힘, 웨이링과 함께 포트 클랑 도크에서 하룻밤을 보내는 것입니다.\" 그레이스가 연필을 집어 들고 한동안 바라봤다. \"한 장으로요. 대니얼의 글씨로. 읽어 보죠.\" 그녀가 말했다."
+        },
+        {
+          "en": "He wrote to Anders that he was tired, that the answer was no, and that the offer had been a real compliment.",
+          "ko": "그는 앤더스에게 피곤하지만 답은 '아니요'이고, 그 제안은 진심으로 칭찬이었다고 적어 보냈다."
+        },
+        {
+          "en": "Then, at ten that night, he went down to dock six for the last time. Wei Ling looked at his boots and said that they had never fit, and he agreed. \"I couldn't have done this without you,\" he told Siti. She didn't look up, but she handed him a form from the top of the pile. In the margin she had written one of her codes, and he could read it without asking anyone: nothing short, nothing damaged, label correct. He put it in his empty pocket and walked out past the containers.",
+          "ko": "그러고는 그날 밤 10시, 마지막으로 6번 도크에 내려갔다. 웨이링이 그의 안전화를 보고 한 번도 맞은 적이 없다고 했고, 그도 그렇다고 했다. \"시티 씨 없이는 해내지 못했을 겁니다.\" 그가 시티에게 말했다. 그녀는 고개를 들지 않았지만 맨 위의 양식 한 장을 건넸다. 여백에 그녀의 코드 하나가 적혀 있었고, 그는 아무에게도 묻지 않고 그것을 읽을 수 있었다. 부족 없음, 파손 없음, 라벨 정확. 그는 그것을 빈 주머니에 넣고 컨테이너들을 지나 걸어 나갔다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd like to hand this over to",
+        "I couldn't have done this without",
+        "The next step would be"
+      ],
+      "wordCandidates": [
+        {
+          "term": "handbook",
+          "surface": "handbook",
+          "meaningKo": "안내서",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Siti had written the handbook by hand, and twelve readers had already corrected it.",
+            "ko": "시티가 안내서를 손으로 썼고, 판독자 12명이 벌써 그것을 고쳐 놓았다."
+          }
+        },
+        {
+          "term": "holdback",
+          "surface": "holdback",
+          "meaningKo": "보류금",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ethan, who had just had his holdback released, announced that Corvane had reached ninety-one percent.",
+            "ko": "보류금을 막 돌려받은 이선은 코르베인이 91퍼센트에 도달했다고 알렸다."
+          }
+        },
+        {
+          "term": "third-year",
+          "surface": "third-year",
+          "meaningKo": "3년 차의",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"He's a third-year consultant, so whose word am I taking?\" she asked.",
+            "ko": "\"그는 3년 차 컨설턴트인데, 제가 누구의 말을 믿는 거죠?\" 그녀가 물었다."
+          }
+        },
+        {
+          "term": "compliment",
+          "surface": "compliment",
+          "meaningKo": "칭찬",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He wrote to Anders that he was tired, that the answer was no, and that the offer had been a real compliment.",
+            "ko": "그는 앤더스에게 피곤하지만 답은 '아니요'이고, 그 제안은 진심으로 칭찬이었다고 적어 보냈다."
+          }
+        },
+        {
+          "term": "pile",
+          "surface": "pile",
+          "meaningKo": "더미",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She didn't look up, but she handed him a form from the top of the pile.",
+            "ko": "그녀는 고개를 들지 않았지만 맨 위의 양식 한 장을 건넸다."
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margin",
+          "meaningKo": "여백",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In the margin she had written one of her codes, and he could read it without asking anyone: nothing short, nothing damaged, label correct.",
+            "ko": "여백에 그녀의 코드 하나가 적혀 있었고, 그는 아무에게도 묻지 않고 그것을 읽을 수 있었다. 부족 없음, 파손 없음, 라벨 정확."
+          }
+        },
+        {
+          "term": "damaged",
+          "surface": "damaged",
+          "meaningKo": "파손된",
+          "paragraph": 3,
+          "sentence": {
+            "en": "In the margin she had written one of her codes, and he could read it without asking anyone: nothing short, nothing damaged, label correct.",
+            "ko": "여백에 그녀의 코드 하나가 적혀 있었고, 그는 아무에게도 묻지 않고 그것을 읽을 수 있었다. 부족 없음, 파손 없음, 라벨 정확."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 445,
+      "paragraphs": [
+        {
+          "en": "On Monday at eight, they met in the canteen for the last time, between shifts, exactly as they had in week one, except that nobody was checking the exits. Siti had written the handbook by hand, and twelve readers had already corrected it in three colors, which she appeared to consider the only acceptable form of publication. \"I'd like to hand this over to Wei Ling and Siti,\" Jae-won said. \"The red key stays, the readers stay, and Cole's release notes go to a second reader before anyone switches anything on, whether or not I'm around to forget.\" Ethan, whose holdback had just been released, announced that Corvane had reached ninety-one percent, and that he intended to mention this to prospective customers. \"What's that number measured on?\" Jae-won asked, and Ethan laughed so hard that Cole looked worried.",
+          "ko": "월요일 8시, 그들은 1주 차와 똑같이 교대 사이에 마지막으로 구내식당에 모였다. 다만 이번에는 아무도 출구를 살피지 않았다. 시티가 안내서를 손으로 썼고, 판독자 12명이 벌써 세 가지 색으로 그것을 고쳐 놓았는데, 그녀는 그것을 유일하게 받아들일 만한 출판 형태로 여기는 듯했다. \"이 일을 웨이링과 시티에게 넘기고 싶습니다.\" 재원이 말했다. \"빨간 키도, 판독자도 남고, 콜의 출시 노트는 무엇이든 켜기 전에 두 번째 검토자에게 갑니다. 제가 곁에서 잊어버리든 말든요.\" 보류금을 막 돌려받은 이선은 코르베인이 91퍼센트에 도달했고, 이것을 잠재 고객들에게 말할 생각이라고 알렸다. \"그 숫자는 무엇을 기준으로 잰 겁니까?\" 재원이 물었고, 이선이 너무 크게 웃어서 콜이 걱정스러운 표정을 지었다."
+        },
+        {
+          "en": "At eleven, he sat down in Grace's office with no page, which she noticed and didn't mention. \"I won't run Port Klang,\" he said. \"Daniel will, if you'll have him, and I'll sign as the partner you call when you're in trouble, which is the arrangement I asked for in your office five months ago.\" \"He's a third-year consultant, and I was under the impression that you were what I was paying for,\" she said. \"Whose word am I taking?\" \"His, because he has read every form on that dock and he knows what he's giving up to do this, and if he's wrong, it's my phone,\" Jae-won said. \"The next step would be one night on the dock at Port Klang, with Rahim and Wei Ling, before anyone writes a page.\" Grace picked up her pencil and studied it, as though it had come with terms of its own. \"One page, in Daniel's handwriting, and I reserve the right to dislike it,\" she said.",
+          "ko": "11시에 그는 종이 없이 그레이스의 사무실에 앉았고, 그녀는 그것을 알아챘지만 말하지 않았다. \"포트 클랑은 제가 맡지 않겠습니다.\" 그가 말했다. \"받아 주신다면 대니얼이 맡고, 저는 곤란할 때 전화하실 파트너로 서명하겠습니다. 다섯 달 전 이 사무실에서 제가 요청한 바로 그 방식입니다.\" \"그는 3년 차 컨설턴트이고, 저는 당신에게 돈을 내는 줄 알았는데요.\" 그녀가 말했다. \"제가 누구의 말을 믿는 거죠?\" \"그의 말입니다. 그 도크의 양식을 전부 읽었고 이 일을 위해 뭘 내주는지 아는 사람이니까요. 그가 틀리면 제 전화로 오고요.\" 재원이 말했다. \"다음 단계는 누가 종이를 쓰기 전에 라힘, 웨이링과 함께 포트 클랑 도크에서 하룻밤을 보내는 것입니다.\" 그레이스가 연필을 집어 들고, 그것에도 조건이 달려 있기라도 한 듯 살폈다. \"한 장으로요. 대니얼의 글씨로. 마음에 안 들어 할 권리는 제게 있고요.\" 그녀가 말했다."
+        },
+        {
+          "en": "He wrote to Anders that he was tired, that the answer was no, and that it had been the most flattering sentence anyone had said to him in a steering committee.",
+          "ko": "그는 앤더스에게 피곤하지만 답은 '아니요'이고, 그 말은 운영위원회에서 들은 가장 기분 좋은 문장이었다고 적어 보냈다."
+        },
+        {
+          "en": "Then, at ten that night, he went down to dock six for the last time, and Wei Ling looked at his boots and remarked that they had never fit, a fact she had known since week one. \"I couldn't have done this without you,\" he told Siti. She didn't look up, but she handed him a form from the top of the pile, and in the margin she had written one of her codes, which he could now read without asking anyone. It meant nothing short, nothing damaged, and label correct. He put it in his empty pocket, and he walked out past the containers without writing any of it down.",
+          "ko": "그러고는 그날 밤 10시, 마지막으로 6번 도크에 내려갔고, 웨이링이 그의 안전화를 보고 한 번도 맞은 적이 없다고 했다. 1주 차부터 알고 있던 사실이었다. \"시티 씨 없이는 해내지 못했을 겁니다.\" 그가 시티에게 말했다. 그녀는 고개를 들지 않았지만 맨 위의 양식 한 장을 건넸고, 여백에는 그녀의 코드 하나가 적혀 있었다. 이제 그는 아무에게도 묻지 않고 그것을 읽을 수 있었다. 부족 없음, 파손 없음, 라벨 정확이라는 뜻이었다. 그는 그것을 빈 주머니에 넣고, 아무것도 받아 적지 않은 채 컨테이너들을 지나 걸어 나갔다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'd like to hand this over to",
+        "I couldn't have done this without",
+        "The next step would be"
+      ],
+      "wordCandidates": [
+        {
+          "term": "exit",
+          "surface": "exits",
+          "meaningKo": "출구",
+          "paragraph": 0,
+          "sentence": {
+            "en": "On Monday at eight, they met in the canteen for the last time, between shifts, exactly as they had in week one, except that nobody was checking the exits.",
+            "ko": "월요일 8시, 그들은 1주 차와 똑같이 교대 사이에 마지막으로 구내식당에 모였다. 다만 이번에는 아무도 출구를 살피지 않았다."
+          }
+        },
+        {
+          "term": "publication",
+          "surface": "publication",
+          "meaningKo": "출판",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Siti had written the handbook by hand, and twelve readers had already corrected it in three colors, which she appeared to consider the only acceptable form of publication.",
+            "ko": "시티가 안내서를 손으로 썼고, 판독자 12명이 벌써 세 가지 색으로 그것을 고쳐 놓았는데, 그녀는 그것을 유일하게 받아들일 만한 출판 형태로 여기는 듯했다."
+          }
+        },
+        {
+          "term": "prospective",
+          "surface": "prospective",
+          "meaningKo": "잠재적인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ethan, whose holdback had just been released, announced that Corvane had reached ninety-one percent, and that he intended to mention this to prospective customers.",
+            "ko": "보류금을 막 돌려받은 이선은 코르베인이 91퍼센트에 도달했고, 이것을 잠재 고객들에게 말할 생각이라고 알렸다."
+          }
+        },
+        {
+          "term": "arrangement",
+          "surface": "arrangement",
+          "meaningKo": "방식, 합의",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Daniel will, if you'll have him, and I'll sign as the partner you call when you're in trouble, which is the arrangement I asked for in your office five months ago.\"",
+            "ko": "\"받아 주신다면 대니얼이 맡고, 저는 곤란할 때 전화하실 파트너로 서명하겠습니다. 다섯 달 전 이 사무실에서 제가 요청한 바로 그 방식입니다.\""
+          }
+        },
+        {
+          "term": "under the impression",
+          "surface": "under the impression",
+          "meaningKo": "~라고 여기는",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"He's a third-year consultant, and I was under the impression that you were what I was paying for,\" she said.",
+            "ko": "\"그는 3년 차 컨설턴트이고, 저는 당신에게 돈을 내는 줄 알았는데요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "reserve the right",
+          "surface": "reserve the right",
+          "meaningKo": "권리를 갖다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"One page, in Daniel's handwriting, and I reserve the right to dislike it,\" she said.",
+            "ko": "\"한 장으로요. 대니얼의 글씨로. 마음에 안 들어 할 권리는 제게 있고요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "flattering",
+          "surface": "flattering",
+          "meaningKo": "기분 좋게 하는",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He wrote to Anders that he was tired, that the answer was no, and that it had been the most flattering sentence anyone had said to him in a steering committee.",
+            "ko": "그는 앤더스에게 피곤하지만 답은 '아니요'이고, 그 말은 운영위원회에서 들은 가장 기분 좋은 문장이었다고 적어 보냈다."
+          }
+        },
+        {
+          "term": "margin",
+          "surface": "margin",
+          "meaningKo": "여백",
+          "paragraph": 3,
+          "sentence": {
+            "en": "She didn't look up, but she handed him a form from the top of the pile, and in the margin she had written one of her codes, which he could now read without asking anyone.",
+            "ko": "그녀는 고개를 들지 않았지만 맨 위의 양식 한 장을 건넸고, 여백에는 그녀의 코드 하나가 적혀 있었다. 이제 그는 아무에게도 묻지 않고 그것을 읽을 수 있었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "Who does Jae-won say will run Port Klang?",
+      "options": [
+        "Anders",
+        "Wei Ling",
+        "Jae-won himself",
+        "Daniel"
+      ],
+      "answerIndex": 3,
+      "evidence": "Daniel will"
+    },
+    {
+      "question": "Why does the code in the margin matter so much at the end?",
+      "options": [
+        "It is a secret message about the fee",
+        "It shows that he has finally learned to read the floor's own language, and it is the floor's verdict on him",
+        "It means that he has failed",
+        "It is a new customs rule"
+      ],
+      "answerIndex": 1,
+      "evidence": "nothing short, nothing damaged"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I'd like to hand this over to Wei Ling and Siti.",
+      "The next step would be one night on the dock at Port Klang.",
+      "I couldn't have done this without you."
+    ],
+    "summaryPromptKo": "재원이 프로젝트를 누구에게 넘겼는지, 포트 클랑에 대해 어떤 결정을 내렸는지, 마지막 밤 도크에서 무슨 일이 있었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Grace Lim",
+      "en": "I hired you. Why should I accept someone else on my floor at Port Klang?",
+      "ko": "저는 당신을 고용했어요. 왜 포트 클랑에 다른 사람을 받아야 하죠?"
+    },
+    "modelAnswer": "Because Daniel has read every form on that dock, and I'd be hiding behind my title if I took this from him. I'd like to hand this over to someone who knows what he's giving up to do it. If he's wrong, you call me, and that's what my signature means. The next step would be one night on the dock with Rahim and Wei Ling, before anyone writes a page."
+  },
+  "nextTeaserKo": "The Keynote 시즌 2 The Engagement는 여기서 끝납니다. 재원의 20주를 끝까지 함께해 주셔서 고맙습니다.",
+  "roleplay": {
+    "title": "마지막 답",
+    "situationKo": "월요일 아침 그레이스의 사무실입니다. 재원은 큰일을 맡지 않기로 했어요. 고객의 기대를 거절하면서 자기가 지는 책임을 분명히 말해 보세요. 편한 속도로 하면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "It's Monday. Yes or no on Port Klang?",
+        "ko": "월요일이에요. 포트 클랑, 예스예요 노예요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I won't run Port Klang. Daniel will, if you'll have him, and I'll sign as his partner.",
+        "ko": "포트 클랑은 제가 맡지 않겠습니다. 받아 주신다면 대니얼이 맡고, 저는 그의 파트너로 서명하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "He's a third-year consultant. Whose word am I taking?",
+        "ko": "그는 3년 차 컨설턴트예요. 제가 누구의 말을 믿는 거죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "His, because he's read every form on that dock. If he's wrong, you call me.",
+        "ko": "그의 말입니다. 그 도크의 양식을 전부 읽은 사람이니까요. 그가 틀리면 저한테 전화하십시오.",
+        "you": true
+      },
+      {
+        "speaker": "Rahim Yusof",
+        "voice": "male",
+        "en": "And when do we start? I've been waiting for eight weeks.",
+        "ko": "그럼 언제 시작합니까? 8주를 기다렸습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The next step would be one night on your dock, with you and Wei Ling, before anyone writes a page.",
+        "ko": "다음 단계는 누가 종이를 쓰기 전에 라힘 씨, 웨이링과 함께 그 도크에서 하룻밤을 보내는 것입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "One page, in Daniel's handwriting. I'll read it.",
+        "ko": "한 장으로요. 대니얼의 글씨로. 읽어 보죠."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. I'd like to hand Tuas over to Wei Ling and Siti today.",
+        "ko": "고맙습니다. 오늘 투아스는 웨이링과 시티에게 넘기고 싶습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Wei Ling Tan",
+        "voice": "female",
+        "en": "You're on my dock at ten, then. Those boots never fit.",
+        "ko": "그럼 10시에 제 도크로 오세요. 그 안전화는 한 번도 맞은 적이 없어요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "No, they didn't. Siti, I couldn't have done this without you.",
+        "ko": "네, 안 맞았죠. 시티 씨, 시티 씨 없이는 해내지 못했을 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Siti",
+        "voice": "female",
+        "en": "Read the margin.",
+        "ko": "여백을 읽어 보세요."
+      }
+    ]
+  }
+}

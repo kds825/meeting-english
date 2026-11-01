@@ -1,0 +1,441 @@
+{
+  "id": "keynote-s2-e05",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 5,
+  "title": "The Fee",
+  "recapKo": "범위 회의에서 재원은 스물한 칸을 투아스의 세 종류로 좁혔다. 목표는 16주 차까지 7천 건을 2천 건으로, 포트 클랑과 자카르타는 12주 차에 결정한다. 웨이링은 \"동의하는 게 아니라 서류가 어디 있는지 말하는 것\"이라고 선을 그었다. 아르준은 수수료에도 같은 일이 일어나기를 기대한다며 목요일 2시로 불렀다.",
+  "keyExpressions": [
+    {
+      "phrase": "What are you comparing that to?",
+      "meaningKo": "그걸 무엇과 비교하고 계신가요?",
+      "usage": "You say our price is high. What are you comparing that to?"
+    },
+    {
+      "phrase": "We're not in a position to ~",
+      "meaningKo": "저희는 ~할 수 있는 입장이 아닙니다",
+      "usage": "We're not in a position to reduce the price further."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "In the hotel bar on Wednesday, the proposal said one point six million dollars. Kwon had written, \"Not below one point four.\" \"We're not in a position to go lower,\" Yuna said. Yuna said that Arjun only trusted what he didn't have to pay, and she drew a small box on a napkin.",
+          "ko": "수요일 호텔 바, 제안서에는 160만 달러라고 적혀 있었다. 권 파트너는 \"140만 아래는 안 됨\"이라고 써 보냈다. \"저희는 더 내려갈 수 있는 입장이 아니에요.\" 유나가 말했다. 유나는 아르준이 자기가 안 내도 되는 돈만 믿는다고 말하며 냅킨에 작은 네모를 그렸다."
+        },
+        {
+          "en": "At two on Thursday, Arjun's desk held only two sheets of paper. \"You cut the problem almost in half, but your number didn't move,\" he said. \"I also have a quote for one point one million, for all twenty-one boxes.\"",
+          "ko": "목요일 2시, 아르준의 책상에는 종이 두 장뿐이었다. \"문제를 절반 가까이 줄였는데 숫자는 움직이지 않았네요.\" 그가 말했다. \"스물한 칸 전부에 110만 달러라는 견적도 있습니다.\""
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked, and he read the quote. \"Two consultants, three site visits, and they assume your data is clean,\" he said. Arjun admitted that it wasn't clean.",
+          "ko": "\"그걸 무엇과 비교하고 계신가요?\" 재원이 묻고 견적서를 읽었다. \"컨설턴트 두 명, 현장 방문 세 번, 그리고 데이터가 깨끗하다고 가정했네요.\" 그가 말했다. 아르준은 깨끗하지 않다고 인정했다."
+        },
+        {
+          "en": "Each re-keyed document cost nine dollars, so removing five thousand a month saved five hundred and forty thousand a year. \"I don't approve anything that takes longer than two years to pay back,\" he said. \"That's why the other number is one point one.\"",
+          "ko": "재입력 서류 한 건에 9달러가 들고, 한 달에 5천 건을 없애면 1년에 54만 달러가 절약된다. \"회수에 2년 넘게 걸리는 건 승인하지 않습니다.\" 그가 말했다. \"그래서 다른 숫자가 110만인 거고요.\""
+        },
+        {
+          "en": "\"Does the nine dollars include customs fines?\" Jae-won asked. Arjun said no. Jae-won said that about a third of last year's fines came from these documents, which added a hundred and twenty thousand a year. That made two years worth about one point three million. \"Where does that figure come from?\" \"It's my estimate, so let's verify it,\" Jae-won said.",
+          "ko": "\"그 9달러에 통관 벌금이 포함되어 있나요?\" 재원이 물었다. 아르준은 아니라고 했다. 재원은 작년 벌금의 약 3분의 1이 이 서류에서 나왔고, 그러면 1년에 12만 달러가 더해진다고 말했다. 2년이면 약 130만 달러가 되는 셈이었다. \"그 수치는 어디서 나온 겁니까?\" \"제 추정이니 함께 검증해 보죠.\" 재원이 말했다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are you comparing that to",
+        "We're not in a position to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "napkin",
+          "surface": "napkin",
+          "meaningKo": "냅킨",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Yuna said that Arjun only trusted what he didn't have to pay, and she drew a small box on a napkin.",
+            "ko": "유나는 아르준이 자기가 안 내도 되는 돈만 믿는다고 말하며 냅킨에 작은 네모를 그렸다."
+          }
+        },
+        {
+          "term": "quote",
+          "surface": "quote",
+          "meaningKo": "견적",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"I also have a quote for one point one million, for all twenty-one boxes.\"",
+            "ko": "\"스물한 칸 전부에 110만 달러라는 견적도 있습니다.\""
+          }
+        },
+        {
+          "term": "consultant",
+          "surface": "consultants",
+          "meaningKo": "컨설턴트",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Two consultants, three site visits, and they assume your data is clean,\" he said.",
+            "ko": "\"컨설턴트 두 명, 현장 방문 세 번, 그리고 데이터가 깨끗하다고 가정했네요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "site visit",
+          "surface": "site visits",
+          "meaningKo": "현장 방문",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Two consultants, three site visits, and they assume your data is clean,\" he said.",
+            "ko": "\"컨설턴트 두 명, 현장 방문 세 번, 그리고 데이터가 깨끗하다고 가정했네요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "pay back",
+          "surface": "pay back",
+          "meaningKo": "(투자금을) 회수하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I don't approve anything that takes longer than two years to pay back,\" he said.",
+            "ko": "\"회수에 2년 넘게 걸리는 건 승인하지 않습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "fine",
+          "surface": "fines",
+          "meaningKo": "벌금",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Does the nine dollars include customs fines?\"",
+            "ko": "\"그 9달러에 통관 벌금이 포함되어 있나요?\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 372,
+      "paragraphs": [
+        {
+          "en": "On Wednesday night, in the hotel bar, Yuna and Jae-won stared at the proposal, which said one point six million dollars. Kwon had sent one line: \"Not below one point four.\" \"The team doesn't shrink just because the boxes did, so the number's defensible,\" Yuna said. \"We're not in a position to go lower, but Arjun doesn't trust promises, he trusts whatever he doesn't have to pay.\" She drew a small box on a napkin, and Jae-won started doing the arithmetic next to it.",
+          "ko": "수요일 밤 호텔 바에서 유나와 재원은 160만 달러라고 적힌 제안서를 들여다보았다. 권 파트너가 한 줄을 보냈다. \"140만 아래는 안 됨.\" \"칸이 줄었다고 팀이 줄어드는 건 아니니까 숫자는 방어할 수 있어요.\" 유나가 말했다. \"저희는 더 내려갈 수 있는 입장이 아니에요. 하지만 아르준은 약속을 안 믿어요. 자기가 안 내도 되는 돈만 믿죠.\" 그녀가 냅킨에 작은 네모를 그렸고, 재원은 그 옆에서 계산을 시작했다."
+        },
+        {
+          "en": "At two on Thursday, Arjun's desk had nothing on it except two sheets of paper. \"You've cut the problem almost in half, and your number hasn't moved,\" he said. \"I also have a quote here for one point one million, from a firm you'd know, covering all twenty-one boxes.\" He pushed it an inch toward them and left his hand on it.",
+          "ko": "목요일 2시, 아르준의 책상에는 종이 두 장 말고 아무것도 없었다. \"문제를 절반 가까이 줄였는데 숫자는 움직이지 않았네요.\" 그가 말했다. \"아실 만한 회사에서 스물한 칸 전부에 110만 달러라는 견적도 받았습니다.\" 그는 종이를 그들 쪽으로 조금 밀고 손을 그 위에 얹어 두었다."
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked, and he held out his hand until Arjun let him have it. He read it the way he used to read trial balances, which took about a minute. \"Two consultants, three site visits, and an assumption on page four that your data's clean,\" he said. \"Is it clean?\" \"No,\" Arjun said after a moment, \"but that isn't why I'm saying no to you.\"",
+          "ko": "\"그걸 무엇과 비교하고 계신가요?\" 재원이 물으며 아르준이 넘겨줄 때까지 손을 내밀고 있었다. 그는 예전에 시산표를 읽던 방식으로 그것을 읽었고, 1분쯤 걸렸다. \"컨설턴트 두 명, 현장 방문 세 번, 그리고 4쪽에 데이터가 깨끗하다는 가정이 있네요.\" 그가 말했다. \"깨끗한가요?\" \"아니요.\" 아르준이 잠시 뒤 말했다. \"하지만 그래서 당신에게 안 된다고 하는 건 아닙니다.\""
+        },
+        {
+          "en": "He turned the second sheet around. \"Each re-keyed document costs me about nine dollars in labor and rework, and you're offering to remove five thousand a month, so that's five hundred and forty thousand a year,\" he said. \"I don't approve anything that takes longer than two years to pay back, which is why the other number is one point one.\" \"Does the nine dollars include customs fines?\" Jae-won asked. \"It doesn't,\" Arjun said, and he stopped moving.",
+          "ko": "그가 두 번째 종이를 돌려놓았다. \"재입력 서류 한 건에 인건비와 재작업으로 약 9달러가 들고, 한 달에 5천 건을 없애 주겠다니 1년에 54만 달러입니다.\" 그가 말했다. \"회수에 2년 넘게 걸리는 건 승인하지 않습니다. 그래서 다른 숫자가 110만인 거고요.\" \"그 9달러에 통관 벌금이 포함되어 있나요?\" 재원이 물었다. \"아닙니다.\" 아르준은 말하고 움직임을 멈췄다."
+        },
+        {
+          "en": "\"Grace told me that you paid three hundred and sixty thousand in customs fines last year, and about a third came from these documents at Tuas,\" Jae-won said. \"That's another hundred and twenty thousand a year, which makes your two years worth about one point three million.\" \"Where does that figure come from?\" \"It's my estimate, so send me the fine records, and we can verify it line by line,\" he said, and Arjun looked almost happy.",
+          "ko": "\"작년에 통관 벌금으로 36만 달러를 내셨고, 약 3분의 1이 투아스의 이 서류에서 나왔다고 그레이스에게 들었습니다.\" 재원이 말했다. \"1년에 12만 달러가 더해지니, 2년이면 약 130만 달러입니다.\" \"그 수치는 어디서 나온 겁니까?\" \"제 추정입니다. 벌금 기록을 보내 주시면 한 줄씩 검증해 보죠.\" 그의 말에 아르준은 거의 행복해 보였다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are you comparing that to",
+        "We're not in a position to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "defensible",
+          "surface": "defensible",
+          "meaningKo": "방어할 수 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"The team doesn't shrink just because the boxes did, so the number's defensible,\" Yuna said.",
+            "ko": "\"칸이 줄었다고 팀이 줄어드는 건 아니니까 숫자는 방어할 수 있어요.\" 유나가 말했다."
+          }
+        },
+        {
+          "term": "napkin",
+          "surface": "napkin",
+          "meaningKo": "냅킨",
+          "paragraph": 0,
+          "sentence": {
+            "en": "She drew a small box on a napkin, and Jae-won started doing the arithmetic next to it.",
+            "ko": "그녀가 냅킨에 작은 네모를 그렸고, 재원은 그 옆에서 계산을 시작했다."
+          }
+        },
+        {
+          "term": "quote",
+          "surface": "quote",
+          "meaningKo": "견적",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"I also have a quote here for one point one million, from a firm you'd know, covering all twenty-one boxes.\"",
+            "ko": "\"아실 만한 회사에서 스물한 칸 전부에 110만 달러라는 견적도 받았습니다.\""
+          }
+        },
+        {
+          "term": "trial balance",
+          "surface": "trial balances",
+          "meaningKo": "시산표",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He read it the way he used to read trial balances, which took about a minute.",
+            "ko": "그는 예전에 시산표를 읽던 방식으로 그것을 읽었고, 1분쯤 걸렸다."
+          }
+        },
+        {
+          "term": "assumption",
+          "surface": "assumption",
+          "meaningKo": "가정",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Two consultants, three site visits, and an assumption on page four that your data's clean,\" he said.",
+            "ko": "\"컨설턴트 두 명, 현장 방문 세 번, 그리고 4쪽에 데이터가 깨끗하다는 가정이 있네요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "rework",
+          "surface": "rework",
+          "meaningKo": "재작업",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Each re-keyed document costs me about nine dollars in labor and rework, and you're offering to remove five thousand a month, so that's five hundred and forty thousand a year,\" he said.",
+            "ko": "\"재입력 서류 한 건에 인건비와 재작업으로 약 9달러가 들고, 한 달에 5천 건을 없애 주겠다니 1년에 54만 달러입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "pay back",
+          "surface": "pay back",
+          "meaningKo": "(투자금을) 회수하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I don't approve anything that takes longer than two years to pay back, which is why the other number is one point one.\"",
+            "ko": "\"회수에 2년 넘게 걸리는 건 승인하지 않습니다. 그래서 다른 숫자가 110만인 거고요.\""
+          }
+        },
+        {
+          "term": "verify",
+          "surface": "verify",
+          "meaningKo": "검증하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"It's my estimate, so send me the fine records, and we can verify it line by line,\" he said, and Arjun looked almost happy.",
+            "ko": "\"제 추정입니다. 벌금 기록을 보내 주시면 한 줄씩 검증해 보죠.\" 그의 말에 아르준은 거의 행복해 보였다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 517,
+      "paragraphs": [
+        {
+          "en": "On Wednesday night, in the hotel bar, Yuna and Jae-won stared at the proposal, which said one point six million dollars and had been priced for all twenty-one boxes. Kwon had sent one line from Seoul, in the tone of a man who'd already told people at dinner: \"Not below one point four.\" \"The team doesn't shrink just because the boxes did, so the number's defensible, but only to someone who wants to be convinced,\" Yuna said. \"We're not in a position to go lower, and Arjun doesn't trust promises, he trusts whatever he doesn't have to pay.\" She drew a small box on a napkin, and Jae-won, who had not done this much arithmetic for pleasure in years, started working next to it.",
+          "ko": "수요일 밤 호텔 바에서 유나와 재원은 160만 달러라고 적힌 제안서를 들여다보았다. 스물한 칸 전부를 기준으로 값을 매긴 것이었다. 권 파트너는 저녁 자리에서 이미 사람들에게 말해 버린 사람의 어조로 서울에서 한 줄을 보냈다. \"140만 아래는 안 됨.\" \"칸이 줄었다고 팀이 줄어드는 건 아니니까 숫자는 방어할 수 있어요. 다만 납득하고 싶은 사람한테만요.\" 유나가 말했다. \"저희는 더 내려갈 수 있는 입장이 아니에요. 그런데 아르준은 약속을 안 믿어요. 자기가 안 내도 되는 돈만 믿죠.\" 그녀가 냅킨에 작은 네모를 그렸고, 몇 년 만에 이렇게 즐겁게 계산해 보는 재원은 그 옆에서 작업을 시작했다."
+        },
+        {
+          "en": "At two on Thursday, Arjun's desk had nothing on it except two sheets of paper, squared to the edge, and there were no chairs that looked comfortable. \"You've cut the problem almost in half, very eloquently, and your number hasn't moved at all, which I found interesting,\" he said. \"I also have a quote here for one point one million, from a firm you'd know and wouldn't enjoy being compared with, covering all twenty-one boxes.\" He pushed it an inch toward them and left his hand on it, in case anyone got ideas.",
+          "ko": "목요일 2시, 아르준의 책상에는 모서리에 맞춰 놓은 종이 두 장 말고 아무것도 없었고, 편해 보이는 의자도 없었다. \"문제를 절반 가까이, 아주 유창하게 줄이셨는데 숫자는 전혀 움직이지 않았더군요. 흥미로웠습니다.\" 그가 말했다. \"아실 만한, 그리고 비교당하고 싶지 않을 회사에서 스물한 칸 전부에 110만 달러라는 견적도 받았습니다.\" 그는 종이를 그들 쪽으로 조금 밀고는, 누가 딴생각을 할까 봐 손을 그 위에 얹어 두었다."
+        },
+        {
+          "en": "\"What are you comparing that to?\" Jae-won asked, and he held out his hand and kept it there until Arjun, somewhat entertained, let him have it. He read it the way he used to read trial balances at year-end, from the back, which took about a minute and felt like longer. \"Two consultants, three site visits, and an assumption on page four that your data's clean and available in week one,\" he said. \"Is it clean?\" \"No,\" Arjun said after a moment, \"but that isn't why I'm saying no to you, so don't look so pleased.\"",
+          "ko": "\"그걸 무엇과 비교하고 계신가요?\" 재원이 물으며 손을 내밀었고, 아르준이 조금 재미있어하며 넘겨줄 때까지 그대로 있었다. 그는 예전에 연말 시산표를 읽던 방식으로 뒤에서부터 그것을 읽었고, 1분쯤 걸렸지만 더 길게 느껴졌다. \"컨설턴트 두 명, 현장 방문 세 번, 그리고 4쪽에 데이터가 깨끗하고 1주 차에 준비된다는 가정이 있네요.\" 그가 말했다. \"깨끗한가요?\" \"아니요.\" 아르준이 잠시 뒤 말했다. \"하지만 그래서 당신에게 안 된다고 하는 건 아니니까, 그렇게 좋아하지 마세요.\""
+        },
+        {
+          "en": "He turned the second sheet around with one finger. \"Each re-keyed document costs me about nine dollars in labor and rework, and you're offering to remove five thousand a month, so that's five hundred and forty thousand a year, if you deliver, which everyone says they will,\" he said. \"I don't approve anything that takes longer than two years to pay back, which is why the other number is one point one, and why yours looks like a typing error.\" \"Does the nine dollars include customs fines?\" Jae-won asked. \"It doesn't,\" Arjun said, and for the first time that afternoon, he stopped moving.",
+          "ko": "그가 손가락 하나로 두 번째 종이를 돌려놓았다. \"재입력 서류 한 건에 인건비와 재작업으로 약 9달러가 들고, 한 달에 5천 건을 없애 주겠다니 1년에 54만 달러입니다. 해낸다면요. 다들 해낸다고 하지만요.\" 그가 말했다. \"회수에 2년 넘게 걸리는 건 승인하지 않습니다. 그래서 다른 숫자가 110만이고, 그쪽 숫자는 오타처럼 보이는 겁니다.\" \"그 9달러에 통관 벌금이 포함되어 있나요?\" 재원이 물었다. \"아닙니다.\" 아르준이 말했고, 그날 오후 처음으로 움직임을 멈췄다."
+        },
+        {
+          "en": "\"Grace told me that you paid three hundred and sixty thousand in customs fines last year, and about a third came from these documents at Tuas,\" Jae-won said. \"That's another hundred and twenty thousand a year, which makes your two years worth about one point three million, on your own rule.\" \"Where does that figure come from, and please don't say experience?\" \"It's my estimate, and it may well be wrong, so send me the fine records, and we can verify it line by line,\" he said, and Arjun looked as close to happy as he had any intention of looking.",
+          "ko": "\"작년에 통관 벌금으로 36만 달러를 내셨고, 약 3분의 1이 투아스의 이 서류에서 나왔다고 그레이스에게 들었습니다.\" 재원이 말했다. \"1년에 12만 달러가 더해지니, 그쪽 규칙대로 해도 2년이면 약 130만 달러입니다.\" \"그 수치는 어디서 나온 겁니까? 경험이라고는 하지 마시고요.\" \"제 추정이고 틀릴 수도 있습니다. 벌금 기록을 보내 주시면 한 줄씩 검증해 보죠.\" 그의 말에 아르준은 그가 내보일 작정인 표정 가운데 행복에 가장 가까운 표정을 지었다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What are you comparing that to",
+        "We're not in a position to"
+      ],
+      "wordCandidates": [
+        {
+          "term": "defensible",
+          "surface": "defensible",
+          "meaningKo": "방어할 수 있는",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"The team doesn't shrink just because the boxes did, so the number's defensible, but only to someone who wants to be convinced,\" Yuna said.",
+            "ko": "\"칸이 줄었다고 팀이 줄어드는 건 아니니까 숫자는 방어할 수 있어요. 다만 납득하고 싶은 사람한테만요.\" 유나가 말했다."
+          }
+        },
+        {
+          "term": "squared to the edge",
+          "surface": "squared to the edge",
+          "meaningKo": "모서리에 딱 맞춘",
+          "paragraph": 1,
+          "sentence": {
+            "en": "At two on Thursday, Arjun's desk had nothing on it except two sheets of paper, squared to the edge, and there were no chairs that looked comfortable.",
+            "ko": "목요일 2시, 아르준의 책상에는 모서리에 맞춰 놓은 종이 두 장 말고 아무것도 없었고, 편해 보이는 의자도 없었다."
+          }
+        },
+        {
+          "term": "eloquently",
+          "surface": "eloquently",
+          "meaningKo": "유창하게, 설득력 있게",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"You've cut the problem almost in half, very eloquently, and your number hasn't moved at all, which I found interesting,\" he said.",
+            "ko": "\"문제를 절반 가까이, 아주 유창하게 줄이셨는데 숫자는 전혀 움직이지 않았더군요. 흥미로웠습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "trial balance",
+          "surface": "trial balances",
+          "meaningKo": "시산표",
+          "paragraph": 2,
+          "sentence": {
+            "en": "He read it the way he used to read trial balances at year-end, from the back, which took about a minute and felt like longer.",
+            "ko": "그는 예전에 연말 시산표를 읽던 방식으로 뒤에서부터 그것을 읽었고, 1분쯤 걸렸지만 더 길게 느껴졌다."
+          }
+        },
+        {
+          "term": "rework",
+          "surface": "rework",
+          "meaningKo": "재작업",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Each re-keyed document costs me about nine dollars in labor and rework, and you're offering to remove five thousand a month, so that's five hundred and forty thousand a year, if you deliver, which everyone says they will,\" he said.",
+            "ko": "\"재입력 서류 한 건에 인건비와 재작업으로 약 9달러가 들고, 한 달에 5천 건을 없애 주겠다니 1년에 54만 달러입니다. 해낸다면요. 다들 해낸다고 하지만요.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "typing error",
+          "surface": "typing error",
+          "meaningKo": "오타",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"I don't approve anything that takes longer than two years to pay back, which is why the other number is one point one, and why yours looks like a typing error.\"",
+            "ko": "\"회수에 2년 넘게 걸리는 건 승인하지 않습니다. 그래서 다른 숫자가 110만이고, 그쪽 숫자는 오타처럼 보이는 겁니다.\""
+          }
+        },
+        {
+          "term": "verify",
+          "surface": "verify",
+          "meaningKo": "검증하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"It's my estimate, and it may well be wrong, so send me the fine records, and we can verify it line by line,\" he said, and Arjun looked as close to happy as he had any intention of looking.",
+            "ko": "\"제 추정이고 틀릴 수도 있습니다. 벌금 기록을 보내 주시면 한 줄씩 검증해 보죠.\" 그의 말에 아르준은 그가 내보일 작정인 표정 가운데 행복에 가장 가까운 표정을 지었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What does the other firm's quote assume?",
+      "options": [
+        "Daniel Cho stays on site",
+        "The client's data is clean",
+        "Only three document types are in scope",
+        "The fee is paid in thirty days"
+      ],
+      "answerIndex": 1,
+      "evidence": "Two consultants, three site visits, and an assumption on page four that your data's clean"
+    },
+    {
+      "question": "Why does Jae-won ask whether the nine dollars includes customs fines?",
+      "options": [
+        "He thinks Arjun got the labor cost wrong",
+        "He wants Arjun to stop paying customs fines",
+        "He hasn't read Arjun's second sheet",
+        "He wants to show the project may be worth more than Arjun has counted"
+      ],
+      "answerIndex": 3,
+      "evidence": "Does the nine dollars include customs fines?"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "We're not in a position to go lower.",
+      "What are you comparing that to?",
+      "Does the nine dollars include customs fines?"
+    ],
+    "summaryPromptKo": "권 파트너와 유나가 수요일 밤에 무엇을 걱정했는지, 아르준이 어떤 근거로 수수료를 공격했는지, 재원이 어떤 질문과 계산으로 답했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Arjun Menon",
+      "en": "You say my two years are worth about one point three million. Where does that figure come from?",
+      "ko": "제 2년의 가치가 약 130만 달러라고 하셨죠. 그 수치는 어디서 나온 겁니까?"
+    },
+    "modelAnswer": "It's my estimate, so let's verify it together. Grace told me that you paid three hundred and sixty thousand in customs fines last year, and about a third came from these documents at Tuas. That's another hundred and twenty thousand a year on top of your five hundred and forty thousand. Over two years, that makes about one point three million. Send me the fine records, and we can check it line by line."
+  },
+  "nextTeaserKo": "아르준은 거의 즐거워 보이지만, 그에게는 숫자를 깎을 다음 수가 남아 있다. 옆에서 유나가 굳는 그 제안 앞에서 재원은 무엇을 지키고 무엇을 내줄까. 냅킨 위의 작은 네모는 아직 꺼내지도 않았다.",
+  "roleplay": {
+    "title": "아르준의 책상",
+    "situationKo": "목요일 2시, 아르준의 사무실입니다. 그는 다른 회사의 견적을 내밀며 수수료를 깎으려 해요. 견적의 내용을 묻고, 그의 계산에 빠진 것을 짚어 보세요. 유나가 옆에 있으니 혼자가 아닙니다.",
+    "lines": [
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "You've cut the problem almost in half, and your number hasn't moved. I have a quote here for one point one million.",
+        "ko": "문제를 절반 가까이 줄였는데 숫자는 그대로네요. 여기 110만 달러 견적이 있습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What are you comparing that to? Could I see what's in it?",
+        "ko": "그걸 무엇과 비교하고 계신가요? 내용을 볼 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "All twenty-one boxes. Go ahead, read it.",
+        "ko": "스물한 칸 전부입니다. 읽어 보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Two consultants, three site visits, and it assumes your data's clean. Is it clean?",
+        "ko": "컨설턴트 두 명, 현장 방문 세 번, 그리고 데이터가 깨끗하다는 가정이네요. 깨끗한가요?",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "No. But nine dollars a document, five thousand a month, that's five hundred and forty thousand a year. Two years is my limit.",
+        "ko": "아니요. 하지만 건당 9달러, 월 5천 건이면 1년에 54만 달러입니다. 제 한도는 2년이고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Does the nine dollars include customs fines?",
+        "ko": "그 9달러에 통관 벌금이 포함되어 있나요?",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "It doesn't.",
+        "ko": "아닙니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "About a third of last year's fines came from these documents. That's another hundred and twenty thousand a year.",
+        "ko": "작년 벌금의 약 3분의 1이 이 서류에서 나왔습니다. 1년에 12만 달러가 더해지는 셈이죠.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Where does that figure come from?",
+        "ko": "그 수치는 어디서 나온 겁니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "It's my estimate, so send me the fine records, and we can verify it line by line.",
+        "ko": "제 추정입니다. 벌금 기록을 보내 주시면 한 줄씩 검증해 보죠.",
+        "you": true
+      },
+      {
+        "speaker": "Arjun Menon",
+        "voice": "male",
+        "en": "Line by line. Now that's a sentence I like.",
+        "ko": "한 줄씩이라. 그건 마음에 드는 말이네요."
+      }
+    ]
+  }
+}

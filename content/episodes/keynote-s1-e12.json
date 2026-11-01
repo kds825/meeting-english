@@ -1,0 +1,369 @@
+{
+  "id": "keynote-s1-e12",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 12,
+  "title": "The Fastest Answer",
+  "recapKo": "화요일 아침 빵집 위층에서 재원은 코치 프리야 네어를 처음 만났다. 영어가 문제라는 준비된 답은 통하지 않았고, 재원은 처음 몇 초에 머릿속으로 답 전체를 쓰는 버릇을 털어놓았다. 프리야는 그가 답에 대가가 따를 때 얼어붙는다고 짚은 뒤, 진짜 두려움이 뭐냐고 물었다.",
+  "keyExpressions": [
+    {
+      "phrase": "What I need help with is ~",
+      "meaningKo": "제가 도움이 필요한 부분은 ~입니다",
+      "usage": "What I need help with is the opening, because the rest is in good shape."
+    },
+    {
+      "phrase": "Could I get your advice on ~?",
+      "meaningKo": "~에 관해 조언을 좀 구할 수 있을까요?",
+      "usage": "Could I get your advice on how to raise this with the CFO?"
+    },
+    {
+      "phrase": "What would you do in my position?",
+      "meaningKo": "제 입장이라면 어떻게 하시겠어요?",
+      "usage": "We're two weeks behind and the client doesn't know yet. What would you do in my position?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 217,
+      "paragraphs": [
+        {
+          "en": "\"And the fear?\" she asked again. \"The committee approved me by three votes to two, so I'm afraid they'll find out I'm only the replacement.\" \"They already know that, so what else?\" she said. He had no answer.",
+          "ko": "\"그 두려움 말이에요?\" 그녀가 다시 물었다. \"위원회가 3대 2로 저를 승인했으니, 제가 대타일 뿐이라는 걸 사람들이 알아낼까 봐 두렵습니다.\" \"그건 다들 이미 알아요. 그러니 또 뭐가 있죠?\" 그녀가 말했다. 그는 답하지 못했다."
+        },
+        {
+          "en": "\"What I need help with is those first few seconds,\" he said. \"Could I get your advice on how to start?\" \"Stop writing and start talking, because your first sentence can be ugly,\" she said.",
+          "ko": "\"제가 도움이 필요한 부분은 그 처음 몇 초입니다.\" 그가 말했다. \"어떻게 시작하면 좋을지 조언을 좀 구할 수 있을까요?\" \"쓰는 걸 멈추고 말을 시작해요. 첫 문장은 못나도 되니까요.\" 그녀가 말했다."
+        },
+        {
+          "en": "\"What would you do in my position, with sixteen days left?\" he asked. \"I would practice being asked,\" she said, and she began with ten fast questions, and he had three seconds to start each answer. The first took eleven seconds, but by the seventh, using \"The short answer is,\" he was down to four.",
+          "ko": "\"16일 남은 제 입장이라면 어떻게 하시겠어요?\" 그가 물었다. \"질문받는 연습을 하겠죠.\" 그녀는 그렇게 말하고 바로 빠른 질문 열 개로 시작했고, 그는 3초 안에 답을 시작해야 했다. 첫 답은 11초가 걸렸지만, 일곱 번째에는 \"짧게 답하면\"을 써서 4초까지 줄였다."
+        },
+        {
+          "en": "He also said \"Let me think about that for a second\" four times, so she stopped him. \"Use that line once, then move on,\" she said. She told him to come back tomorrow with the whole talk in his head.",
+          "ko": "그가 \"잠깐 생각해 볼게요\"도 네 번이나 말하자 그녀가 그를 멈춰 세웠다. \"그 말은 한 번 쓰고 넘어가요.\" 그녀가 말했다. 그녀는 내일 발표 전체를 머릿속에 넣어 다시 오라고 했다."
+        },
+        {
+          "en": "She reached for her phone, then stopped. \"One last question: which number in your talk would you least like me to check?\" \"None of them,\" he said at once. \"That's your fastest answer all morning,\" she said. On the stairs, he remembered Daniel at the door, saying \"Probably not.\"",
+          "ko": "그녀는 휴대폰으로 손을 뻗다가 멈췄다. \"마지막 질문이에요. 발표에 나오는 숫자 중에 제가 확인하지 않았으면 하는 건 어느 거죠?\" \"하나도 없습니다.\" 그가 곧바로 말했다. \"오늘 아침 가장 빠른 답이네요.\" 그녀가 말했다. 계단에서 그는 문가에 서서 \"아마 없을 거예요\"라고 말하던 대니얼을 떠올렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I need help with is",
+        "Could I get your advice on",
+        "What would you do in my position"
+      ],
+      "wordCandidates": [
+        {
+          "term": "replacement",
+          "surface": "replacement",
+          "meaningKo": "대타, 대체 인력",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"The committee approved me by three votes to two, so I'm afraid they'll find out I'm only the replacement.\"",
+            "ko": "\"위원회가 3대 2로 저를 승인했으니, 제가 대타일 뿐이라는 걸 사람들이 알아낼까 봐 두렵습니다.\""
+          }
+        },
+        {
+          "term": "move on",
+          "surface": "move on",
+          "meaningKo": "넘어가다, 다음으로 가다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Use that line once, then move on,\" she said.",
+            "ko": "\"그 말은 한 번 쓰고 넘어가요.\" 그녀가 말했다."
+          }
+        },
+        {
+          "term": "at once",
+          "surface": "at once",
+          "meaningKo": "곧바로, 즉시",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"None of them,\" he said at once.",
+            "ko": "\"하나도 없습니다.\" 그가 곧바로 말했다."
+          }
+        },
+        {
+          "term": "ugly",
+          "surface": "ugly",
+          "meaningKo": "못난, 보기 흉한",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Stop writing and start talking, because your first sentence can be ugly",
+            "ko": "쓰는 걸 멈추고 말을 시작해요. 첫 문장은 못나도 되니까요."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 333,
+      "paragraphs": [
+        {
+          "en": "He didn't enjoy how well that fit. \"And the fear?\" she asked again. He looked at the table. \"The committee passed me three votes to two, so I suppose I'm afraid they'll find out I'm only standing in for Helen,\" he said. \"They know, because your name is replacing hers on the program,\" Priya said. \"What else?\" He didn't have anything else, or at least nothing he wanted to say out loud.",
+          "ko": "너무 딱 맞아서 듣기 불편했다. \"그 두려움 말이에요?\" 그녀가 다시 물었다. 그는 테이블을 내려다봤다. \"위원회가 3대 2로 저를 통과시켰으니, 제가 헬렌의 대타일 뿐이라는 걸 사람들이 알아낼까 봐 두려운 것 같습니다.\" 그가 말했다. \"다들 알아요. 프로그램에서 당신 이름이 헬렌 자리에 들어가니까요.\" 프리야가 말했다. \"또 뭐가 있죠?\" 더 있는 건 없었다. 적어도 소리 내어 말하고 싶은 건 없었다."
+        },
+        {
+          "en": "\"What I need help with is those first few seconds,\" he said. \"Could I get your advice on how to start when nothing's ready?\" It was the first thing he'd asked for all morning. \"Stop drafting and start talking,\" she said. \"Your first sentence is allowed to be ugly, because that's what the second one is for.\"",
+          "ko": "\"제가 도움이 필요한 부분은 그 처음 몇 초입니다.\" 그가 말했다. \"아무것도 준비되지 않았을 때 어떻게 시작하면 좋을지 조언을 좀 구할 수 있을까요?\" 그날 아침 그가 처음으로 무언가를 청한 것이었다. \"초안 쓰기를 멈추고 말을 시작해요.\" 그녀가 말했다. \"첫 문장은 못나도 돼요. 두 번째 문장이 있는 이유가 그거니까요.\""
+        },
+        {
+          "en": "\"What would you do in my position, with sixteen days left?\" he asked. \"I'd get asked a lot of questions,\" she said, and she started without any warning. She fired off ten of them in her old newsroom voice, about cost, about failure, about whether he'd ever been wrong, and he had three seconds to start each answer. The first took him eleven. By the seventh he was down to four, leaning hard on \"The short answer is.\"",
+          "ko": "\"16일 남은 제 입장이라면 어떻게 하시겠어요?\" 그가 물었다. \"질문을 많이 받겠죠.\" 그녀는 그렇게 말하고 예고 없이 시작했다. 그녀는 예전 보도국 시절 목소리로 비용, 실패, 틀린 적이 있는지에 관해 질문 열 개를 쏟아 냈고, 그는 3초 안에 답을 시작해야 했다. 첫 답은 11초가 걸렸다. 일곱 번째에는 \"짧게 답하면\"에 크게 기대어 4초까지 줄였다."
+        },
+        {
+          "en": "He also said \"Let me think about that for a second\" four times, and on the fourth she held up a hand. \"That line's a handrail, so you can hold it once on the way down, but you can't live on it,\" she said. At eight she told him to come back tomorrow at the same time, with the whole talk in his head.",
+          "ko": "그는 \"잠깐 생각해 볼게요\"도 네 번 말했고, 네 번째에 그녀가 손을 들었다. \"그 말은 난간이에요. 내려가는 길에 한 번 잡는 건 괜찮지만 거기서 살 수는 없어요.\" 그녀가 말했다. 8시에 그녀는 내일 같은 시간에 발표 전체를 머릿속에 넣어 다시 오라고 했다."
+        },
+        {
+          "en": "She reached for her phone, then stopped. \"One more before you go: which number in your talk would you least like me to check?\" \"None of them, they're all sourced,\" he said immediately. Priya pressed stop. \"That's the fastest you've answered all morning,\" she said. Halfway down the stairs, he remembered Daniel in a doorway, saying \"Probably not\" a little too quickly.",
+          "ko": "그녀는 휴대폰으로 손을 뻗다가 멈췄다. \"가기 전에 하나만 더요. 발표에 나오는 숫자 중에 제가 확인하지 않았으면 하는 건 어느 거죠?\" \"하나도 없습니다. 전부 출처가 있어요.\" 그가 즉시 말했다. 프리야가 정지 버튼을 눌렀다. \"오늘 아침 가장 빠른 답이네요.\" 그녀가 말했다. 계단을 반쯤 내려왔을 때, 그는 문간에 서서 조금 너무 빨리 \"아마 없을 거예요\"라고 말하던 대니얼을 떠올렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I need help with is",
+        "Could I get your advice on",
+        "What would you do in my position"
+      ],
+      "wordCandidates": [
+        {
+          "term": "stand in for",
+          "surface": "standing in for",
+          "meaningKo": "~의 대타로 나서다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"The committee passed me three votes to two, so I suppose I'm afraid they'll find out I'm only standing in for Helen,\" he said.",
+            "ko": "\"위원회가 3대 2로 저를 통과시켰으니, 제가 헬렌의 대타일 뿐이라는 걸 사람들이 알아낼까 봐 두려운 것 같습니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "fire off",
+          "surface": "fired off",
+          "meaningKo": "(질문을) 연달아 던지다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "She fired off ten of them in her old newsroom voice, about cost, about failure, about whether he'd ever been wrong, and he had three seconds to start each answer.",
+            "ko": "그녀는 예전 보도국 시절 목소리로 비용, 실패, 틀린 적이 있는지에 관해 질문 열 개를 쏟아 냈고, 그는 3초 안에 답을 시작해야 했다."
+          }
+        },
+        {
+          "term": "lean on",
+          "surface": "leaning hard on",
+          "meaningKo": "~에 크게 기대다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "By the seventh he was down to four, leaning hard on \"The short answer is.\"",
+            "ko": "일곱 번째에는 \"짧게 답하면\"에 크게 기대어 4초까지 줄였다."
+          }
+        },
+        {
+          "term": "sourced",
+          "surface": "sourced",
+          "meaningKo": "출처가 있는",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"None of them, they're all sourced,\" he said immediately.",
+            "ko": "\"하나도 없습니다. 전부 출처가 있어요.\" 그가 즉시 말했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 473,
+      "paragraphs": [
+        {
+          "en": "Nobody had ever framed it for him that way, and he didn't care for how well it fit. \"That's the mechanism, so now give me the fear,\" she said. He looked at the table. \"The committee passed me three votes to two,\" he said. \"I suppose I'm afraid they'll find out I'm a stand-in.\" \"They know that already, because your name is going where hers was on the printed program,\" Priya said. \"What else?\" He had nothing else, or at least nothing he was prepared to say into a recorder.",
+          "ko": "누구도 그에게 그런 틀로 설명해 준 적이 없었고, 너무 잘 맞아서 달갑지 않았다. \"그건 작동 원리고요, 이제 두려움을 말해 봐요.\" 그녀가 말했다. 그는 테이블을 내려다봤다. \"위원회가 3대 2로 저를 통과시켰어요.\" 그가 말했다. \"제가 대타라는 걸 사람들이 알아낼까 봐 두려운 것 같습니다.\" \"그건 다들 이미 알아요. 인쇄된 프로그램에서 헬렌 이름이 있던 자리에 당신 이름이 들어가니까요.\" 프리야가 말했다. \"또 뭐가 있죠?\" 더 있는 건 없었다. 적어도 녹음기에 대고 말할 각오가 된 건 없었다."
+        },
+        {
+          "en": "\"What I need help with is those first few seconds,\" he said, and it surprised him how little that one cost. \"Could I get your advice on how to get started when nothing's ready, because that's most of the job?\" It was the first thing he had asked for all morning, and she looked up as if he'd finally arrived. \"Stop drafting and start talking, and I mean that literally,\" she said. \"Your first sentence is allowed to be ugly, because that's what the second one is for, and nobody in a live room has ever asked to see your redlines.\"",
+          "ko": "\"제가 도움이 필요한 부분은 그 처음 몇 초입니다.\" 그가 말했고, 그 말에 대가가 거의 들지 않아 스스로 놀랐다. \"아무것도 준비되지 않았을 때 어떻게 시작하면 좋을지 조언을 좀 구할 수 있을까요? 일의 대부분이 그거니까요.\" 그날 아침 그가 처음으로 무언가를 청한 것이었고, 그녀는 이제야 그가 도착했다는 듯 고개를 들었다. \"초안 쓰기를 멈추고 말을 시작해요. 말 그대로요.\" 그녀가 말했다. \"첫 문장은 못나도 돼요. 두 번째 문장이 있는 이유가 그거고, 실시간 회의에서 수정 이력을 보여 달라는 사람은 아무도 없어요.\""
+        },
+        {
+          "en": "\"What would you do in my position, with sixteen days on the clock?\" he asked. \"I'd get asked a great many questions,\" she said, and she was off with no warning at all, ten of them in her old newsroom voice, on cost, on failure, on whether he had ever personally been wrong about anything that mattered, with three seconds to start each answer before she moved on. The first took him eleven seconds and a false start. By the seventh he was down to four and leaning hard on \"The short answer is,\" which she allowed.",
+          "ko": "\"시계가 16일 남은 제 입장이라면 어떻게 하시겠어요?\" 그가 물었다. \"질문을 아주 많이 받겠죠.\" 그녀는 그렇게 말하고 아무 예고 없이 시작했다. 예전 보도국 시절 목소리로 비용, 실패, 그가 중요한 일에서 직접 틀린 적이 있는지에 관해 질문 열 개를 던졌고, 답을 시작할 시간은 3초뿐이었으며 그 뒤엔 다음 질문으로 넘어갔다. 첫 답은 11초와 한 번의 말 더듬기가 들었다. 일곱 번째에는 \"짧게 답하면\"에 크게 기대어 4초까지 줄였는데, 그건 그녀도 눈감아 주었다."
+        },
+        {
+          "en": "He also said \"Let me think about that for a second\" four times, and on the fourth she held up a hand. \"That line's a handrail, so by all means grab it once on the way down, but you've just moved in and started receiving mail there,\" she said. At eight on the dot she called time and told him he'd be back tomorrow, same room, same hour, and that he should bring the entire talk with him, in his head and not on paper.",
+          "ko": "그는 \"잠깐 생각해 볼게요\"도 네 번 말했고, 네 번째에 그녀가 손을 들었다. \"그 말은 난간이에요. 내려가는 길에 한 번 잡는 건 얼마든지 좋은데, 지금은 아예 이사 와서 우편물까지 받고 있네요.\" 그녀가 말했다. 8시 정각에 그녀는 끝났다고 알리고, 내일 같은 방 같은 시간에 다시 오되 발표 전체를 종이가 아니라 머릿속에 넣어 오라고 했다."
+        },
+        {
+          "en": "She reached for her phone, then stopped with her hand hovering over it. \"One more for the record, and then you can go to work: which number in your talk would you least like me to check?\" \"None of them,\" he said immediately, \"because every one of them is sourced.\" Priya pressed stop and looked at the screen. \"Interesting, because that's the fastest you've answered all morning,\" she said. Halfway down the stairs, it came back to him: Daniel in a doorway with a laptop under his arm, saying \"Probably not\" a little too quickly, and nobody ever following up.",
+          "ko": "그녀는 휴대폰으로 손을 뻗다가 그 위에서 멈췄다. \"기록용으로 하나만 더 하고 출근하세요. 발표에 나오는 숫자 중에 제가 확인하지 않았으면 하는 건 어느 거죠?\" \"하나도 없습니다.\" 그가 즉시 말했다. \"전부 출처가 있으니까요.\" 프리야는 정지 버튼을 누르고 화면을 봤다. \"흥미롭네요. 오늘 아침 가장 빠른 답이에요.\" 그녀가 말했다. 계단을 반쯤 내려왔을 때 그 장면이 떠올랐다. 노트북을 옆구리에 끼고 문간에 서서 조금 너무 빨리 \"아마 없을 거예요\"라고 말하던 대니얼, 그리고 그 뒤로 아무도 확인하지 않았다는 사실이."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What I need help with is",
+        "Could I get your advice on",
+        "What would you do in my position"
+      ],
+      "wordCandidates": [
+        {
+          "term": "frame",
+          "surface": "framed it",
+          "meaningKo": "(문제를) 어떤 틀로 설명하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Nobody had ever framed it for him that way, and he didn't care for how well it fit.",
+            "ko": "누구도 그에게 그런 틀로 설명해 준 적이 없었고, 너무 잘 맞아서 달갑지 않았다."
+          }
+        },
+        {
+          "term": "stand-in",
+          "surface": "stand-in",
+          "meaningKo": "대타, 대리인",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"I suppose I'm afraid they'll find out I'm a stand-in.\"",
+            "ko": "제가 대타라는 걸 사람들이 알아낼까 봐 두려운 것 같습니다."
+          }
+        },
+        {
+          "term": "redline",
+          "surface": "redlines",
+          "meaningKo": "수정 이력, 교정 표시",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Your first sentence is allowed to be ugly, because that's what the second one is for, and nobody in a live room has ever asked to see your redlines.\"",
+            "ko": "첫 문장은 못나도 돼요. 두 번째 문장이 있는 이유가 그거고, 실시간 회의에서 수정 이력을 보여 달라는 사람은 아무도 없어요."
+          }
+        },
+        {
+          "term": "false start",
+          "surface": "false start",
+          "meaningKo": "말을 꺼냈다가 다시 시작하기",
+          "paragraph": 2,
+          "sentence": {
+            "en": "The first took him eleven seconds and a false start.",
+            "ko": "첫 답은 11초와 한 번의 말 더듬기가 들었다."
+          }
+        },
+        {
+          "term": "follow up",
+          "surface": "following up",
+          "meaningKo": "후속 확인을 하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Halfway down the stairs, it came back to him: Daniel in a doorway with a laptop under his arm, saying \"Probably not\" a little too quickly, and nobody ever following up.",
+            "ko": "계단을 반쯤 내려왔을 때 그 장면이 떠올랐다. 노트북을 옆구리에 끼고 문간에 서서 조금 너무 빨리 \"아마 없을 거예요\"라고 말하던 대니얼, 그리고 그 뒤로 아무도 확인하지 않았다는 사실이."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What rule did Priya set for her ten rapid questions?",
+      "options": [
+        "He had to answer each one in under ten words.",
+        "He had three seconds to start each answer.",
+        "He could read from his notebook once.",
+        "He had to answer in Korean first, then English."
+      ],
+      "answerIndex": 1,
+      "evidence": "he had three seconds to start each answer"
+    },
+    {
+      "question": "Why does Priya point out that \"None of them\" was his fastest answer of the morning?",
+      "options": [
+        "She is praising him for finally meeting the three-second rule.",
+        "She wants him to speak more quickly on stage.",
+        "She knows the numbers are wrong and is accusing him of lying.",
+        "She suspects that such a quick, defensive answer may be hiding a doubt he hasn't faced."
+      ],
+      "answerIndex": 3,
+      "evidence": "That's the fastest you've answered all morning"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What I need help with is those first few seconds.",
+      "Could I get your advice on how to start when nothing's ready?",
+      "What would you do in my position, with sixteen days left?"
+    ],
+    "summaryPromptKo": "재원이 어떤 도움을 청했는지, 어떤 훈련을 했는지, 프리야의 마지막 질문에 어떻게 답했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Priya Nair",
+      "en": "Forget the English for a moment. Describe your real weakness in a live Q&A, and tell me what you want from me.",
+      "ko": "영어는 잠깐 잊어요. 실시간 질의응답에서 당신의 진짜 약점이 뭔지 설명하고, 저에게 무엇을 원하는지 말해 봐요."
+    },
+    "modelAnswer": "Where I struggle is the first few seconds of an answer. I tend to draft the whole thing in my head and check it like an audit, so the room ends up waiting while I fix a sentence nobody has heard. It isn't that I don't know the answer. What I need help with is starting before I'm ready. Could I get your advice on how to make that a habit in sixteen days?"
+  },
+  "nextTeaserKo": "다음 날 아침 7시, 프리야는 발표 전체를 30초 안에 말해 보라고 한다. 재원은 2분 40초 동안 요점 열한 개를 쏟아 낸다. 800명이 택시 안에서 기억할 말은 그중 몇 개일까.",
+  "roleplay": {
+    "title": "처음 몇 초를 위한 부탁",
+    "situationKo": "Priya가 진짜 두려움을 묻습니다. 내가 재원이 되어 솔직하게 답하고 도움을 청해 봅니다. 첫 문장은 못나도 된다는 게 이 장면의 규칙이니, 그대로 따라도 좋아요.",
+    "lines": [
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Every sentence feels like a signature, and you audit it before you let it out. So what's the real fear?",
+        "ko": "모든 문장이 서명처럼 느껴져서, 내보내기 전에 감사를 하는 거예요. 그래서 진짜 두려움이 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The committee passed me three votes to two. I'm afraid they'll find out I'm only standing in for Helen.",
+        "ko": "위원회는 3대 2로 저를 통과시켰어요. 제가 Helen 대신일 뿐이라는 게 드러날까 봐 두렵습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "They know, because your name is replacing hers on the program. What else?",
+        "ko": "다들 알아요. 프로그램에서 재원 씨 이름이 Helen 이름을 대신하니까요. 또 뭐가 있죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Nothing I can say right now. What I need help with is those first few seconds.",
+        "ko": "지금 말할 수 있는 건 없습니다. 제가 도움이 필요한 부분은 그 처음 몇 초예요.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "So ask me.",
+        "ko": "그럼 물어보세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Could I get your advice on how to start when nothing's ready?",
+        "ko": "아무것도 준비되지 않았을 때 어떻게 시작할지 조언을 좀 구할 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "Stop drafting and start talking. Your first sentence is allowed to be ugly, because that's what the second one is for.",
+        "ko": "초안은 그만 쓰고 말을 시작하세요. 첫 문장은 못나도 돼요. 두 번째 문장이 그러라고 있는 거니까요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What would you do in my position, with sixteen days left?",
+        "ko": "16일 남은 제 입장이라면 어떻게 하시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "I'd get asked a lot of questions. So come back tomorrow, same time. One more before you go: which number in your talk would you least like me to check?",
+        "ko": "질문을 잔뜩 받겠죠. 그러니 내일 같은 시간에 오세요. 가기 전에 하나만 더요. 발표의 숫자 중 제가 가장 확인하지 않았으면 하는 건 뭐죠?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "None of them, they're all sourced.",
+        "ko": "없습니다, 전부 출처가 있어요.",
+        "you": true
+      },
+      {
+        "speaker": "Priya Nair",
+        "voice": "female",
+        "en": "That's the fastest you've answered all morning.",
+        "ko": "오늘 아침 답 중에 제일 빠르네요."
+      }
+    ]
+  }
+}

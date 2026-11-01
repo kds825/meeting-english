@@ -1,0 +1,448 @@
+{
+  "id": "keynote-s1-e21",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 21,
+  "title": "A New Name",
+  "recapKo": "슬라이드 30장이 12장으로 줄었고, 재원은 처음으로 19분 20초에 발표를 끝내며 벽을 한 번도 돌아보지 않았다. 합병된 회사가 확인되어 30건 확인, 27번 행 1건만 남았다. 그날 밤 마커스의 메일이 왔다. \"패널 명단이 확정됐습니다. 새 이름이 하나 있습니다. 내일 6시 31분.\"",
+  "keyExpressions": [
+    {
+      "phrase": "How does that affect ~?",
+      "meaningKo": "그게 ~에 어떤 영향을 주나요?",
+      "usage": "How does that affect the delivery date?"
+    },
+    {
+      "phrase": "Would it be possible to move ~?",
+      "meaningKo": "~를 옮길 수 있을까요?",
+      "usage": "Would it be possible to move the review to Friday?"
+    },
+    {
+      "phrase": "I can work with that, as long as ~",
+      "meaningKo": "~라는 조건이면 그렇게 하겠습니다.",
+      "usage": "I can work with that, as long as we get the final numbers on Monday."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 229,
+      "paragraphs": [
+        {
+          "en": "At 6:31 on Tuesday morning, Jae-won's phone rang, and Marcus did not say hello. \"The new name is Ethan Wolfe, the CTO of Corvane, an American AI company,\" he said. \"He's replacing the professor who dropped out.\"",
+          "ko": "화요일 아침 6시 31분, 재원의 휴대폰이 울렸고 마커스는 인사도 하지 않았다. \"새 이름은 이선 울프, 미국 AI 기업 코르베인의 CTO입니다.\" 그가 말했다. \"빠진 교수 자리에 들어옵니다.\""
+        },
+        {
+          "en": "Jae-won knew the name, because Ethan had told a room of CFOs that finance sign-off was a bottleneck, the opposite of Jae-won's second message. \"He asked for your panel after he read your title,\" Marcus said. \"Last year, four people just agreed for forty-five minutes, so I said yes.\"",
+          "ko": "재원은 그 이름을 알고 있었다. 이선이 CFO들이 모인 자리에서 재무 승인은 병목이라고 말한 적이 있는데, 재원의 두 번째 메시지와 정반대였다. \"당신 제목을 읽고 그 패널을 요청했어요.\" 마커스가 말했다. \"작년엔 네 사람이 45분 내내 맞장구만 쳤거든요. 그래서 수락했습니다.\""
+        },
+        {
+          "en": "Jae-won asked, \"How does that affect the format?\" \"It doesn't, because it's still three o'clock and forty-five minutes, and I moderate,\" Marcus said. \"But everyone gets a ninety-second opening, with Ethan first, and there's a pre-call tomorrow at nine, your time.\"",
+          "ko": "재원이 물었다. \"그게 형식에 어떤 영향을 주나요?\" \"주지 않습니다. 여전히 3시, 45분이고 사회는 제가 봅니다.\" 마커스가 말했다. \"다만 모두 90초씩 첫 발언을 하는데 이선이 먼저 하고, 내일 그쪽 시간 9시에 사전 콜이 있습니다.\""
+        },
+        {
+          "en": "Jae-won said, \"That's a tight turnaround, because my slides lock on Thursday. Would it be possible to move the call to Friday?\" Marcus said that Ethan was flying tomorrow night. Jae-won asked, \"Is there any flexibility on the time?\" The answer was no.",
+          "ko": "재원이 말했다. \"일정이 꽤 빠듯하네요. 제 슬라이드 확정이 목요일이거든요. 콜을 금요일로 옮길 수 있을까요?\" 마커스는 이선이 내일 밤 비행기를 탄다고 했다. 재원이 물었다. \"시간은 조정할 여지가 있나요?\" 답은 '없다'였다."
+        },
+        {
+          "en": "\"He also asked to see your slides,\" Marcus said. Jae-won asked, \"Just to confirm, do I have to share them?\" Marcus said it was his call. \"Then I can work with that, as long as he gets only the abstract.\" \"Let's lock that in. Anything I should hear from you?\" Jae-won thought about row twenty-seven, which was still open.",
+          "ko": "\"그가 당신 슬라이드도 보고 싶어 합니다.\" 마커스가 말했다. 재원이 물었다. \"확인차 여쭙는데, 꼭 공유해야 하나요?\" 마커스는 그건 재원이 정할 일이라고 했다. \"그럼 그에게 초록만 가는 조건으로 그렇게 하겠습니다.\" \"그걸로 확정합시다. 저한테 해 줄 말 더 있습니까?\" 재원은 아직 열려 있는 27번 행을 떠올렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "How does that affect",
+        "Would it be possible to move",
+        "I can work with that, as long as"
+      ],
+      "wordCandidates": [
+        {
+          "term": "drop out",
+          "surface": "dropped out",
+          "meaningKo": "빠지다, 중도에 그만두다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"He's replacing the professor who dropped out.\"",
+            "ko": "\"빠진 교수 자리에 들어옵니다.\""
+          }
+        },
+        {
+          "term": "bottleneck",
+          "surface": "bottleneck",
+          "meaningKo": "병목, 일의 진행을 막는 지점",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Jae-won knew the name, because Ethan had told a room of CFOs that finance sign-off was a bottleneck, the opposite of Jae-won's second message.",
+            "ko": "재원은 그 이름을 알고 있었다. 이선이 CFO들이 모인 자리에서 재무 승인은 병목이라고 말한 적이 있는데, 재원의 두 번째 메시지와 정반대였다."
+          }
+        },
+        {
+          "term": "moderate",
+          "surface": "moderate",
+          "meaningKo": "(토론의) 사회를 보다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It doesn't, because it's still three o'clock and forty-five minutes, and I moderate,\" Marcus said.",
+            "ko": "\"주지 않습니다. 여전히 3시, 45분이고 사회는 제가 봅니다.\" 마커스가 말했다."
+          }
+        },
+        {
+          "term": "pre-call",
+          "surface": "pre-call",
+          "meaningKo": "사전 통화, 사전 콜",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"But everyone gets a ninety-second opening, with Ethan first, and there's a pre-call tomorrow at nine, your time.\"",
+            "ko": "\"다만 모두 90초씩 첫 발언을 하는데 이선이 먼저 하고, 내일 그쪽 시간 9시에 사전 콜이 있습니다.\""
+          }
+        },
+        {
+          "term": "abstract",
+          "surface": "abstract",
+          "meaningKo": "(발표) 초록",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Then I can work with that, as long as he gets only the abstract.\"",
+            "ko": "\"그럼 그에게 초록만 가는 조건으로 그렇게 하겠습니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 355,
+      "paragraphs": [
+        {
+          "en": "At 6:31 on Tuesday morning, Jae-won's phone rang on the kitchen counter, and Marcus started talking before he could say hello, with twenty-nine minutes until his run. \"The new name is Ethan Wolfe, the CTO of Corvane, the American AI company,\" he said. \"He's replacing the professor who pulled out last week, and I signed off on it last night.\"",
+          "ko": "화요일 아침 6시 31분, 부엌 조리대 위의 휴대폰이 울렸고, 달리기까지 29분이 남은 마커스는 재원이 인사할 틈도 없이 말을 시작했다. \"새 이름은 이선 울프입니다. 미국 AI 기업 코르베인의 CTO예요.\" 그가 말했다. \"지난주에 빠진 교수 자리에 들어오고, 어젯밤에 제가 승인했습니다.\""
+        },
+        {
+          "en": "Jae-won knew the name, because everyone in his field had seen the clip. Ethan had told a room full of CFOs that finance sign-off was a legacy bottleneck, which happened to be the exact opposite of Jae-won's second message. \"He asked for your panel after he read your title,\" Marcus said. \"Last year we had four people agreeing with each other for forty-five minutes, and it was our lowest-rated session, so I said yes.\"",
+          "ko": "재원은 그 이름을 알고 있었다. 이 분야 사람이라면 다들 그 영상을 봤기 때문이다. 이선은 CFO들로 가득한 자리에서 재무 승인은 낡은 병목이라고 말했는데, 공교롭게도 재원의 두 번째 메시지와 정반대였다. \"당신 제목을 읽고 그 패널을 요청했어요.\" 마커스가 말했다. \"작년엔 네 사람이 45분 내내 서로 맞장구만 쳤고, 평점이 가장 낮은 세션이었죠. 그래서 수락했습니다.\""
+        },
+        {
+          "en": "\"How does that affect the format?\" Jae-won asked, and he noticed that he had started inside three seconds. \"It doesn't, because it's still three o'clock and forty-five minutes, and I moderate,\" Marcus said. \"What's new is a ninety-second opening from each panelist, with Ethan going first, and a thirty-minute pre-call tomorrow at nine, your time.\"",
+          "ko": "\"그게 형식에 어떤 영향을 주나요?\" 재원은 묻고 나서, 3초 안에 말을 시작했다는 걸 알아차렸다. \"주지 않습니다. 여전히 3시, 45분이고 사회는 제가 봅니다.\" 마커스가 말했다. \"새로운 건 패널마다 90초 첫 발언을 하는데 이선이 먼저 한다는 것, 그리고 내일 그쪽 시간 9시에 30분짜리 사전 콜이 있다는 겁니다.\""
+        },
+        {
+          "en": "\"That's a tight turnaround, because my slides lock on Thursday and my partner leaves tomorrow morning,\" Jae-won said. \"Would it be possible to move the call to Friday?\" Marcus said that Ethan was getting on a plane tomorrow night, so Friday was out. \"Is there any flexibility on the time, then?\" Jae-won asked. \"None, and you can stop asking, because you're good at this and it won't help,\" Marcus said.",
+          "ko": "\"일정이 꽤 빠듯하네요. 제 슬라이드 확정이 목요일이고 제 파트너가 내일 아침 떠나거든요.\" 재원이 말했다. \"콜을 금요일로 옮길 수 있을까요?\" 마커스는 이선이 내일 밤 비행기를 타니 금요일은 안 된다고 했다. \"그럼 시간은 조정할 여지가 있나요?\" 재원이 물었다. \"없습니다. 그만 물어보셔도 돼요. 잘하시긴 하는데 소용없습니다.\" 마커스가 말했다."
+        },
+        {
+          "en": "\"One more thing, which is that he's asked to see your slides,\" Marcus said. \"Just to confirm, am I required to share them with another panelist?\" Jae-won asked. \"No, that's entirely your call.\" \"Then I can work with that, as long as he gets the abstract and nothing else, and the slides stay with you until I'm off the stage.\" \"Let's lock that in,\" Marcus said, and then, in the same tone, \"Anything I should be hearing from you?\" Jae-won looked at the fridge and thought about row twenty-seven, which had been open since last Thursday.",
+          "ko": "\"하나 더 있습니다. 그가 당신 슬라이드를 보고 싶어 해요.\" 마커스가 말했다. \"확인차 여쭙는데, 다른 패널에게 꼭 공유해야 하나요?\" 재원이 물었다. \"아니요, 전적으로 당신이 정할 일입니다.\" \"그럼 그에게 초록 외에는 아무것도 가지 않고, 제가 무대에서 내려올 때까지 슬라이드는 디렉터님만 갖고 계신다는 조건으로 그렇게 하겠습니다.\" \"그걸로 확정합시다.\" 마커스는 그렇게 말하더니 같은 어조로 덧붙였다. \"저한테 해 줄 말 더 있습니까?\" 재원은 냉장고를 바라보며 지난 목요일부터 열려 있는 27번 행을 떠올렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "How does that affect",
+        "Would it be possible to move",
+        "I can work with that, as long as"
+      ],
+      "wordCandidates": [
+        {
+          "term": "pull out",
+          "surface": "pulled out",
+          "meaningKo": "(행사·계약에서) 빠지다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"He's replacing the professor who pulled out last week, and I signed off on it last night.\"",
+            "ko": "\"지난주에 빠진 교수 자리에 들어오고, 어젯밤에 제가 승인했습니다.\""
+          }
+        },
+        {
+          "term": "legacy",
+          "surface": "legacy bottleneck",
+          "meaningKo": "낡은 병목 (legacy: 구시대의, 낡은)",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Ethan had told a room full of CFOs that finance sign-off was a legacy bottleneck, which happened to be the exact opposite of Jae-won's second message.",
+            "ko": "이선은 CFO들로 가득한 자리에서 재무 승인은 낡은 병목이라고 말했는데, 공교롭게도 재원의 두 번째 메시지와 정반대였다."
+          }
+        },
+        {
+          "term": "lowest-rated",
+          "surface": "lowest-rated",
+          "meaningKo": "평점이 가장 낮은",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Last year we had four people agreeing with each other for forty-five minutes, and it was our lowest-rated session, so I said yes.\"",
+            "ko": "\"작년엔 네 사람이 45분 내내 서로 맞장구만 쳤고, 평점이 가장 낮은 세션이었죠. 그래서 수락했습니다.\""
+          }
+        },
+        {
+          "term": "panelist",
+          "surface": "panelist",
+          "meaningKo": "패널, 토론 참석자",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"What's new is a ninety-second opening from each panelist, with Ethan going first, and a thirty-minute pre-call tomorrow at nine, your time.\"",
+            "ko": "\"새로운 건 패널마다 90초 첫 발언을 하는데 이선이 먼저 한다는 것, 그리고 내일 그쪽 시간 9시에 30분짜리 사전 콜이 있다는 겁니다.\""
+          }
+        },
+        {
+          "term": "be out",
+          "surface": "Friday was out",
+          "meaningKo": "(선택지에서) 제외되다, 안 되다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Marcus said that Ethan was getting on a plane tomorrow night, so Friday was out.",
+            "ko": "마커스는 이선이 내일 밤 비행기를 타니 금요일은 안 된다고 했다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 481,
+      "paragraphs": [
+        {
+          "en": "At 6:31 on Tuesday morning, Jae-won's phone rang on the kitchen counter, and Marcus was talking before he could get a hello out, with the brisk impatience of a man who had twenty-nine minutes until his run. \"The new name is Ethan Wolfe, CTO of Corvane, the American AI outfit,\" he said. \"He's taking the seat of the professor who pulled out last week, I signed off on it last night, and I'd rather you got it from me than from his communications people.\"",
+          "ko": "화요일 아침 6시 31분, 부엌 조리대 위의 휴대폰이 울렸고, 마커스는 재원이 인사를 꺼내기도 전에 달리기까지 29분 남은 사람답게 조급하고 빠르게 말하고 있었다. \"새 이름은 이선 울프, 미국 AI 회사 코르베인의 CTO입니다.\" 그가 말했다. \"지난주에 빠진 교수 자리에 앉고, 어젯밤 제가 승인했으며, 그쪽 홍보팀보다는 저한테서 듣는 게 낫겠다 싶었습니다.\""
+        },
+        {
+          "en": "Jae-won knew the name, because anyone in his line of work had been forwarded the clip at least twice. Ethan had stood in front of a room full of CFOs and called finance sign-off a legacy bottleneck that nobody would be paying for in three years, which happened to be a flat contradiction of Jae-won's second message. \"He asked for your panel after he read your title,\" Marcus said. \"Last year I had four people violently agreeing with each other for forty-five minutes, it was our lowest-rated session by a distance, and so I said yes.\"",
+          "ko": "재원은 그 이름을 알고 있었다. 이 일을 하는 사람이라면 그 영상을 적어도 두 번은 전달받았기 때문이다. 이선은 CFO들로 가득한 방에서 재무 승인을 3년 뒤면 아무도 돈을 내지 않을 낡은 병목이라고 불렀는데, 공교롭게도 재원의 두 번째 메시지를 정면으로 부정하는 말이었다. \"당신 제목을 읽고 그 패널을 요청했어요.\" 마커스가 말했다. \"작년엔 네 사람이 45분 동안 격렬하게 서로 동의만 했고, 단연 평점이 가장 낮은 세션이었죠. 그래서 수락했습니다.\""
+        },
+        {
+          "en": "\"How does that affect the format?\" Jae-won asked, and it registered somewhere that he had started inside three seconds without being told to. \"It doesn't, because it's still three o'clock, still forty-five minutes, and I'm still in the chair,\" Marcus said. \"What's new is a ninety-second opening from each panelist, with Ethan going first because he asked and nobody else cared, plus a thirty-minute pre-call tomorrow at nine, your time, so that nobody meets for the first time in front of an audience.\"",
+          "ko": "\"그게 형식에 어떤 영향을 주나요?\" 재원은 그렇게 물었고, 누가 시키지 않았는데도 3초 안에 말을 시작했다는 게 어렴풋이 느껴졌다. \"주지 않습니다. 여전히 3시, 여전히 45분, 사회도 여전히 저예요.\" 마커스가 말했다. \"새로운 건 패널마다 90초 첫 발언을 하는데 이선이 먼저 합니다. 그가 요청했고 아무도 개의치 않았으니까요. 그리고 청중 앞에서 처음 만나는 일이 없도록 내일 그쪽 시간 9시에 30분짜리 사전 콜을 합니다.\""
+        },
+        {
+          "en": "\"That's a tight turnaround, given that my slides lock on Thursday and my partner's on a plane tomorrow morning,\" Jae-won said. \"Would it be possible to move the call to Friday, when I'd actually have some headspace for it?\" Marcus said that Ethan was flying out tomorrow night and was booked solid after that, so Friday was a non-starter. \"Is there any flexibility on the time, then, even an hour either way?\" Jae-won asked. \"None, and you can stop probing, because you've got good at this and it still won't help,\" Marcus said.",
+          "ko": "\"일정이 꽤 빠듯하네요. 제 슬라이드 확정이 목요일이고 제 파트너가 내일 아침 비행기를 타거든요.\" 재원이 말했다. \"콜을 금요일로 옮길 수 있을까요? 그때면 제가 정말 머리를 쓸 여유가 있을 텐데요.\" 마커스는 이선이 내일 밤 떠나고 그 뒤로는 일정이 꽉 차 있어서 금요일은 아예 불가능하다고 했다. \"그럼 시간은 조정할 여지가 있나요? 앞뒤로 한 시간이라도요.\" 재원이 물었다. \"없습니다. 그만 떠보셔도 돼요. 실력이 늘긴 했는데 그래도 소용없습니다.\" 마커스가 말했다."
+        },
+        {
+          "en": "\"One more thing, and I'm only passing it along, which is that he's asked for a look at your slides,\" Marcus said. \"Just to confirm, is there any requirement for me to share them with another panelist?\" Jae-won asked. \"No, that's entirely your call, and I have no view on it.\" \"Then I can work with that, as long as he gets the abstract and nothing else, and the deck stays with you until I'm off the stage.\" \"Let's lock that in,\" Marcus said, and then, in exactly the same tone, \"Anything I should be hearing from you?\" Jae-won looked at the fridge and thought about row twenty-seven, which had been sitting open since last Thursday and had a deadline of tonight attached to it.",
+          "ko": "\"하나 더 있는데, 전달만 하는 겁니다. 그가 당신 슬라이드를 한번 보고 싶어 해요.\" 마커스가 말했다. \"확인차 여쭙는데, 다른 패널에게 공유해야 한다는 규정이 있나요?\" 재원이 물었다. \"없습니다. 전적으로 당신이 정할 일이고, 저는 의견 없습니다.\" \"그럼 그에게 초록 외에는 아무것도 가지 않고, 제가 무대에서 내려올 때까지 자료는 디렉터님만 갖고 계신다는 조건으로 그렇게 하겠습니다.\" \"그걸로 확정합시다.\" 마커스는 그렇게 말하더니 어조 하나 바꾸지 않고 덧붙였다. \"저한테 해 줄 말 더 있습니까?\" 재원은 냉장고를 바라보며 지난 목요일부터 열려 있고 오늘 밤이 마감인 27번 행을 떠올렸다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "How does that affect",
+        "Would it be possible to move",
+        "I can work with that, as long as"
+      ],
+      "wordCandidates": [
+        {
+          "term": "outfit",
+          "surface": "outfit",
+          "meaningKo": "(구어) 회사, 조직",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"The new name is Ethan Wolfe, CTO of Corvane, the American AI outfit,\" he said.",
+            "ko": "\"새 이름은 이선 울프, 미국 AI 회사 코르베인의 CTO입니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "flat contradiction",
+          "surface": "flat contradiction",
+          "meaningKo": "정면 부정, 명백한 모순",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Ethan had stood in front of a room full of CFOs and called finance sign-off a legacy bottleneck that nobody would be paying for in three years, which happened to be a flat contradiction of Jae-won's second message.",
+            "ko": "이선은 CFO들로 가득한 방에서 재무 승인을 3년 뒤면 아무도 돈을 내지 않을 낡은 병목이라고 불렀는데, 공교롭게도 재원의 두 번째 메시지를 정면으로 부정하는 말이었다."
+          }
+        },
+        {
+          "term": "by a distance",
+          "surface": "by a distance",
+          "meaningKo": "단연, 큰 차이로",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"Last year I had four people violently agreeing with each other for forty-five minutes, it was our lowest-rated session by a distance, and so I said yes.\"",
+            "ko": "\"작년엔 네 사람이 45분 동안 격렬하게 서로 동의만 했고, 단연 평점이 가장 낮은 세션이었죠. 그래서 수락했습니다.\""
+          }
+        },
+        {
+          "term": "in the chair",
+          "surface": "in the chair",
+          "meaningKo": "사회를 맡아, 의장 자리에",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It doesn't, because it's still three o'clock, still forty-five minutes, and I'm still in the chair,\" Marcus said.",
+            "ko": "\"주지 않습니다. 여전히 3시, 여전히 45분, 사회도 여전히 저예요.\" 마커스가 말했다."
+          }
+        },
+        {
+          "term": "headspace",
+          "surface": "headspace",
+          "meaningKo": "(생각할) 머리의 여유",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Would it be possible to move the call to Friday, when I'd actually have some headspace for it?\"",
+            "ko": "\"콜을 금요일로 옮길 수 있을까요? 그때면 제가 정말 머리를 쓸 여유가 있을 텐데요.\""
+          }
+        },
+        {
+          "term": "non-starter",
+          "surface": "non-starter",
+          "meaningKo": "애초에 불가능한 안",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Marcus said that Ethan was flying out tomorrow night and was booked solid after that, so Friday was a non-starter.",
+            "ko": "마커스는 이선이 내일 밤 떠나고 그 뒤로는 일정이 꽉 차 있어서 금요일은 아예 불가능하다고 했다."
+          }
+        },
+        {
+          "term": "deck",
+          "surface": "the deck",
+          "meaningKo": "발표 자료",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"Then I can work with that, as long as he gets the abstract and nothing else, and the deck stays with you until I'm off the stage.\"",
+            "ko": "\"그럼 그에게 초록 외에는 아무것도 가지 않고, 제가 무대에서 내려올 때까지 자료는 디렉터님만 갖고 계신다는 조건으로 그렇게 하겠습니다.\""
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What changes in the panel format because of Ethan?",
+      "options": [
+        "The panel moves to the morning and gets shorter.",
+        "Each panelist gets a ninety-second opening, and there is a pre-call tomorrow.",
+        "Jae-won must share his slides with all panelists.",
+        "Marcus will no longer moderate the panel."
+      ],
+      "answerIndex": 1,
+      "evidence": "What's new is a ninety-second opening from each panelist, with Ethan going first, and a thirty-minute pre-call tomorrow at nine, your time."
+    },
+    {
+      "question": "Why does Jae-won want Ethan to get only the abstract?",
+      "options": [
+        "The slides are not finished, and he is embarrassed by them.",
+        "Marcus has told him the rules forbid sharing slides.",
+        "He doesn't want an opponent on the panel preparing against his slides before the keynote.",
+        "He thinks Ethan will not have time to read twelve slides."
+      ],
+      "answerIndex": 2,
+      "evidence": "\"Then I can work with that, as long as he gets the abstract and nothing else, and the slides stay with you until I'm off the stage.\""
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "How does that affect the format?",
+      "Would it be possible to move the call to Friday?",
+      "I can work with that, as long as he gets the abstract and nothing else."
+    ],
+    "summaryPromptKo": "마커스가 어떤 변경 사항을 알렸는지, 재원이 무엇을 협상했는지, 통화 끝에 무엇이 마음에 걸렸는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "I just added a panelist who disagrees with you, a new opening statement and a call tomorrow. Tell me what you can accept and what you can't.",
+      "ko": "방금 당신과 생각이 다른 패널 한 명, 새로운 첫 발언, 내일 콜까지 추가했습니다. 무엇은 받아들일 수 있고 무엇은 안 되는지 말해 주세요."
+    },
+    "modelAnswer": "That's a tight turnaround, but I understand why Ethan is on the panel, and I think it will make for a better session. Just to confirm, the time and the length stay the same. I can work with the opening and the call tomorrow, as long as he gets the abstract and nothing else. My slides stay with you until I'm off the stage. If that's acceptable, let's lock that in."
+  },
+  "nextTeaserKo": "재원은 마커스에게 뭐라고 답할까. 아직 열린 27번 행의 마감은 오늘 밤이다. 이 한 줄이 끝내 닫히지 않으면, 재원은 전혀 다른 전화를 걸어야 한다.",
+  "roleplay": {
+    "title": "6시 31분의 전화",
+    "situationKo": "화요일 새벽, 마커스가 패널의 새 이름을 알려 오는 전화입니다. 내가 재원이 되어 형식과 일정을 하나씩 확인해 봅니다. 마커스의 말이 빨라도 괜찮아요. 천천히 답하면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "The new name is Ethan Wolfe, the CTO of Corvane. He's replacing the professor who pulled out.",
+        "ko": "새 이름은 이선 울프, 코르베인의 CTO입니다. 빠진 교수 자리에 들어옵니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Ethan Wolfe. The one who called finance sign-off a legacy bottleneck?",
+        "ko": "이선 울프요. 재무 승인이 낡은 병목이라고 했던 그분이요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "That one. He asked for your panel after he read your title. Last year, four people agreed for forty-five minutes. Lowest-rated session. So I said yes.",
+        "ko": "그 사람입니다. 당신 제목을 읽고 그 패널을 요청했어요. 작년엔 네 명이 45분 동안 서로 동의만 했죠. 평점 최하였어요. 그래서 수락했습니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "How does that affect the format?",
+        "ko": "그게 형식에 어떤 영향을 주나요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "It doesn't. Three o'clock, forty-five minutes, I moderate. What's new is a ninety-second opening from each panelist, Ethan first, and a thirty-minute pre-call tomorrow at nine, your time.",
+        "ko": "영향 없습니다. 3시, 45분, 사회는 제가 봅니다. 새로운 건 패널별 90초 첫 발언, 이선이 먼저, 그리고 내일 그쪽 시간 9시에 30분 사전 콜입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's a tight turnaround. My slides lock on Thursday, and my partner leaves tomorrow morning.",
+        "ko": "일정이 꽤 빠듯하네요. 슬라이드는 목요일에 확정되고, 제 파트너는 내일 아침 떠납니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "And?",
+        "ko": "그래서요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Would it be possible to move the call to Friday?",
+        "ko": "콜을 금요일로 옮길 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Ethan gets on a plane tomorrow night. Friday is out.",
+        "ko": "이선이 내일 밤 비행기를 탑니다. 금요일은 안 됩니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Is there any flexibility on the time, then?",
+        "ko": "그럼 시간은 조정할 여지가 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "None, and you can stop asking. You're good at this, and it won't help. One more thing: he's asked to see your slides.",
+        "ko": "없습니다. 그만 물어도 돼요. 잘하시지만 소용없습니다. 하나 더요. 그가 당신 슬라이드를 보고 싶다고 합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Just to confirm, am I required to share them with another panelist?",
+        "ko": "확인차 여쭙니다. 다른 패널에게 공유해야 하는 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "No. That's entirely your call.",
+        "ko": "아니요. 전적으로 당신 판단입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Then I can work with that, as long as he gets the abstract and nothing else.",
+        "ko": "그럼 그가 초록만 받고 다른 건 받지 않는다는 조건이면 그렇게 하겠습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "And the slides?",
+        "ko": "슬라이드는요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "They stay with you until I'm off the stage.",
+        "ko": "제가 무대에서 내려올 때까지 마커스 씨만 가지고 계세요.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Let's lock that in. Anything I should be hearing from you?",
+        "ko": "그걸로 확정합시다. 저한테 해 줄 말 있습니까?"
+      }
+    ]
+  }
+}

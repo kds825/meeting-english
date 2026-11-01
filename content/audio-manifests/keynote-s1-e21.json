@@ -1,0 +1,72 @@
+{
+  "episodeId": "keynote-s1-e21",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "drop out": "word-drop-out.mp3",
+    "bottleneck": "word-bottleneck.mp3",
+    "moderate": "word-moderate.mp3",
+    "pre-call": "word-pre-call.mp3",
+    "abstract": "word-abstract.mp3",
+    "pull out": "word-pull-out.mp3",
+    "legacy": "word-legacy.mp3",
+    "lowest-rated": "word-lowest-rated.mp3",
+    "panelist": "word-panelist.mp3",
+    "be out": "word-be-out.mp3",
+    "outfit": "word-outfit.mp3",
+    "flat contradiction": "word-flat-contradiction.mp3",
+    "by a distance": "word-by-a-distance.mp3",
+    "in the chair": "word-in-the-chair.mp3",
+    "headspace": "word-headspace.mp3",
+    "non-starter": "word-non-starter.mp3",
+    "deck": "word-deck.mp3"
+  },
+  "termClips": {
+    "drop out": "term-drop-out.mp3",
+    "bottleneck": "term-bottleneck.mp3",
+    "moderate": "term-moderate.mp3",
+    "pre-call": "term-pre-call.mp3",
+    "abstract": "term-abstract.mp3",
+    "pull out": "term-pull-out.mp3",
+    "legacy": "term-legacy.mp3",
+    "lowest-rated": "term-lowest-rated.mp3",
+    "panelist": "term-panelist.mp3",
+    "be out": "term-be-out.mp3",
+    "outfit": "term-outfit.mp3",
+    "flat contradiction": "term-flat-contradiction.mp3",
+    "by a distance": "term-by-a-distance.mp3",
+    "in the chair": "term-in-the-chair.mp3",
+    "headspace": "term-headspace.mp3",
+    "non-starter": "term-non-starter.mp3",
+    "deck": "term-deck.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3",
+    "roleplay-12.mp3",
+    "roleplay-13.mp3",
+    "roleplay-14.mp3",
+    "roleplay-15.mp3",
+    "roleplay-16.mp3"
+  ]
+}

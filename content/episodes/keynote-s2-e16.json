@@ -1,0 +1,391 @@
+{
+  "id": "keynote-s2-e16",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 16,
+  "title": "The Answer Key",
+  "recapKo": "실제 서류 1,000건에서 코르베인은 서류 단위 61퍼센트, 야간 확인서는 400건 중 152건에 그쳤다. 시티는 자기가 쓴 147이 화면에서 174로 나온 것을 찾아냈고, 그 174는 조앤의 데이터 묶음에 있는 오타였다. 재원이 콜에게 데모 때 대조 기능이 켜져 있었느냐고 묻자, 이선이 통화에 들어와 물었다. \"이걸 또 누가 봤습니까?\"",
+  "keyExpressions": [
+    {
+      "phrase": "I'm not accusing anyone, but ~",
+      "meaningKo": "누구를 탓하려는 건 아니지만 ~",
+      "usage": "I'm not accusing anyone, but these two reports can't both be right."
+    },
+    {
+      "phrase": "Can you show us the evidence for ~?",
+      "meaningKo": "~의 근거를 보여 주시겠어요?",
+      "usage": "Can you show us the evidence for that savings figure?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 217,
+      "paragraphs": [
+        {
+          "en": "\"My team, Siti and Joanne,\" Jae-won said, \"and Grace will see it by noon.\" \"Then I'll come to you,\" Ethan said. At two, he sat in the Straits Meridian boardroom beside Cole, facing Grace and her pencil.",
+          "ko": "\"저희 팀과 시티, 조앤입니다.\" 재원이 말했다. \"그레이스는 정오까지 보게 됩니다.\" \"그럼 제가 가죠.\" 이선이 말했다. 2시, 그는 스트레이츠 메리디안 회의실에 콜과 나란히 앉아 그레이스와 그녀의 연필을 마주했다."
+        },
+        {
+          "en": "\"I'm not accusing anyone, but your system had seen that form's data before we handed it to you,\" Jae-won said. Cole said that he had loaded the data pack the night before, as he always did. Ethan turned to him and asked if the matching had been on. \"It's always on in demos,\" Cole said.",
+          "ko": "\"누구를 탓하려는 건 아니지만, 저희가 건네기 전에 귀사 시스템은 그 양식의 데이터를 이미 봤습니다.\" 재원이 말했다. 콜은 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었다고 말했다. 이선이 그를 돌아보며 대조 기능이 켜져 있었느냐고 물었다. \"데모에서는 늘 켜 둡니다.\" 콜이 말했다."
+        },
+        {
+          "en": "Ethan was quiet for four seconds. \"It's a bad habit, and it's mine,\" he said. Jae-won asked, \"Can you show us the evidence for ninety-eight on documents it hasn't seen?\" \"No,\" Ethan said, \"because the honest number is sixty-one, and with three weeks on your floor I'd expect eighty-five.\"",
+          "ko": "이선은 4초 동안 말이 없었다. \"나쁜 버릇이고, 제 책임입니다.\" 그가 말했다. 재원이 물었다. \"처음 보는 서류에서 98이 나온다는 근거를 보여 주시겠어요?\" \"아니요.\" 이선이 말했다. \"정직한 숫자는 61이고, 귀사 현장에서 3주를 보내면 85를 예상합니다.\""
+        },
+        {
+          "en": "When they had gone, Grace said, \"Drop them.\" \"The risk we see is that Ostrel ends in week fifteen,\" Arjun said. Grace put down her pencil. \"You have until Friday,\" she told Jae-won. \"Get me terms that Arjun can read, or I take Ostrel and tell my board myself.\"",
+          "ko": "그들이 나가자 그레이스가 말했다. \"코르베인은 빼죠.\" \"저희가 보는 위험은 오스트렐이 15주 차에야 끝난다는 점입니다.\" 아르준이 말했다. 그레이스가 연필을 내려놓았다. \"금요일까지 드리죠.\" 그녀가 재원에게 말했다. \"아르준이 읽을 수 있는 조건을 받아 오세요. 아니면 오스트렐로 가고 이사회에는 제가 직접 말합니다.\""
+        },
+        {
+          "en": "That night, a message came from Ethan. \"Friday at eight, with my lawyer and your terms,\" it said. \"I have one condition, and you won't like it.\"",
+          "ko": "그날 밤, 이선에게서 메시지가 왔다. \"금요일 8시, 제 변호사와 귀사 조건으로 합시다.\" 메시지는 그렇게 시작했다. \"제 조건이 하나 있는데, 마음에 안 드실 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm not accusing anyone, but",
+        "Can you show us the evidence for"
+      ],
+      "wordCandidates": [
+        {
+          "term": "load",
+          "surface": "loaded",
+          "meaningKo": "(데이터를) 올리다, 탑재하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Cole said that he had loaded the data pack the night before, as he always did.",
+            "ko": "콜은 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었다고 말했다."
+          }
+        },
+        {
+          "term": "bad habit",
+          "surface": "bad habit",
+          "meaningKo": "나쁜 버릇",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It's a bad habit, and it's mine,\" he said.",
+            "ko": "\"나쁜 버릇이고, 제 책임입니다.\""
+          }
+        },
+        {
+          "term": "honest",
+          "surface": "honest",
+          "meaningKo": "정직한",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"No,\" Ethan said, \"because the honest number is sixty-one, and with three weeks on your floor I'd expect eighty-five.\"",
+            "ko": "\"아니요.\" 이선이 말했다. \"정직한 숫자는 61이고, 귀사 현장에서 3주를 보내면 85를 예상합니다.\""
+          }
+        },
+        {
+          "term": "terms",
+          "surface": "terms",
+          "meaningKo": "(계약) 조건",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Get me terms that Arjun can read, or I take Ostrel and tell my board myself.\"",
+            "ko": "\"아르준이 읽을 수 있는 조건을 받아 오세요. 아니면 오스트렐로 가고 이사회에는 제가 직접 말합니다.\""
+          }
+        },
+        {
+          "term": "condition",
+          "surface": "condition",
+          "meaningKo": "조건",
+          "paragraph": 4,
+          "sentence": {
+            "en": "\"I have one condition, and you won't like it.\"",
+            "ko": "\"제 조건이 하나 있는데, 마음에 안 드실 겁니다.\""
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 317,
+      "paragraphs": [
+        {
+          "en": "\"My team, Siti and Joanne,\" Jae-won said, \"and Grace will see it by noon, whatever you tell me now.\" \"Then I'll come to you,\" Ethan said, and he hung up. At two, he sat in the Straits Meridian boardroom beside Cole, facing Grace and her pencil, with Joanne and Daniel along the side of the table and the photo of Siti's form lying between them.",
+          "ko": "\"저희 팀과 시티, 조앤입니다.\" 재원이 말했다. \"그리고 지금 뭐라고 하시든 그레이스는 정오까지 보게 됩니다.\" \"그럼 제가 가죠.\" 이선이 말하고 전화를 끊었다. 2시, 그는 스트레이츠 메리디안 회의실에 콜과 나란히 앉아 그레이스와 그녀의 연필을 마주했다. 조앤과 대니얼은 테이블 옆쪽에 앉았고, 시티의 양식 사진이 그들 사이에 놓여 있었다."
+        },
+        {
+          "en": "\"I'm not accusing anyone, but your system had seen that form's data before we handed it to you,\" Jae-won said. Cole said that he had loaded the data pack the night before, as he always did, so that the system would have the customer's carrier names. Ethan turned to him and asked if the matching had been on. \"It's always on in demos,\" Cole said, \"and everyone knows that.\"",
+          "ko": "\"누구를 탓하려는 건 아니지만, 저희가 건네기 전에 귀사 시스템은 그 양식의 데이터를 이미 봤습니다.\" 재원이 말했다. 콜은 시스템이 고객의 운송사 이름을 알도록 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었다고 말했다. 이선이 그를 돌아보며 대조 기능이 켜져 있었느냐고 물었다. \"데모에서는 늘 켜 둡니다.\" 콜이 말했다. \"다들 아는 일이고요.\""
+        },
+        {
+          "en": "Ethan was quiet for four seconds, and Jae-won had seen him do that only once before. \"It's a bad habit, and it's mine,\" he said, \"because I never asked.\" Jae-won asked, \"Can you show us the evidence for ninety-eight on documents it hasn't seen?\" \"No,\" Ethan said, \"because the honest number is sixty-one, and with three weeks on your floor I'd expect eighty-five.\" Arjun asked, without looking up, \"What's that number measured on?\" \"Two customers and my judgment,\" Ethan said, which was at least a new kind of answer.",
+          "ko": "이선은 4초 동안 말이 없었는데, 재원이 그런 모습을 본 것은 전에 한 번뿐이었다. \"나쁜 버릇이고, 제 책임입니다. 제가 물어보지 않았으니까요.\" 그가 말했다. 재원이 물었다. \"처음 보는 서류에서 98이 나온다는 근거를 보여 주시겠어요?\" \"아니요.\" 이선이 말했다. \"정직한 숫자는 61이고, 귀사 현장에서 3주를 보내면 85를 예상합니다.\" 아르준이 고개를 들지 않고 물었다. \"그 숫자는 무엇을 기준으로 잰 겁니까?\" \"고객 두 곳과 제 판단입니다.\" 이선이 말했고, 그건 적어도 새로운 종류의 대답이었다."
+        },
+        {
+          "en": "When they had gone, Grace said, \"Drop them.\" \"The risk we see is that Ostrel ends in week fifteen,\" Arjun said, \"which leaves one week to find your two thousand.\" Grace put down her pencil. \"You found this, so you have until Friday,\" she told Jae-won. \"Get me terms that Arjun can read, or I take Ostrel and tell my board myself.\"",
+          "ko": "그들이 나가자 그레이스가 말했다. \"코르베인은 빼죠.\" \"저희가 보는 위험은 오스트렐이 15주 차에야 끝난다는 점입니다.\" 아르준이 말했다. \"2,000건을 찾을 시간이 한 주밖에 안 남죠.\" 그레이스가 연필을 내려놓았다. \"찾아낸 사람이 당신이니 금요일까지 드리죠.\" 그녀가 재원에게 말했다. \"아르준이 읽을 수 있는 조건을 받아 오세요. 아니면 오스트렐로 가고 이사회에는 제가 직접 말합니다.\""
+        },
+        {
+          "en": "That night, on the bus to Tuas, a message came from Ethan. \"Friday at eight, with my lawyer and your terms,\" it said. \"I have one condition, and you won't like it.\"",
+          "ko": "그날 밤 투아스로 가는 버스에서 이선의 메시지가 왔다. \"금요일 8시, 제 변호사와 귀사 조건으로 합시다.\" 메시지는 그렇게 시작했다. \"제 조건이 하나 있는데, 마음에 안 드실 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm not accusing anyone, but",
+        "Can you show us the evidence for"
+      ],
+      "wordCandidates": [
+        {
+          "term": "hang up",
+          "surface": "hung up",
+          "meaningKo": "전화를 끊다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Then I'll come to you,\" Ethan said, and he hung up.",
+            "ko": "\"그럼 제가 가죠.\" 이선이 말하고 전화를 끊었다."
+          }
+        },
+        {
+          "term": "carrier name",
+          "surface": "carrier names",
+          "meaningKo": "운송사 이름",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Cole said that he had loaded the data pack the night before, as he always did, so that the system would have the customer's carrier names.",
+            "ko": "콜은 시스템이 고객의 운송사 이름을 알도록 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었다고 말했다."
+          }
+        },
+        {
+          "term": "judgment",
+          "surface": "judgment",
+          "meaningKo": "판단",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"Two customers and my judgment,\" Ethan said, which was at least a new kind of answer.",
+            "ko": "\"고객 두 곳과 제 판단입니다.\" 이선이 말했고, 그건 적어도 새로운 종류의 대답이었다."
+          }
+        },
+        {
+          "term": "drop",
+          "surface": "Drop them",
+          "meaningKo": "(후보에서) 빼다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "When they had gone, Grace said, \"Drop them.\"",
+            "ko": "그들이 나가자 그레이스가 말했다. \"코르베인은 빼죠.\""
+          }
+        },
+        {
+          "term": "terms",
+          "surface": "terms",
+          "meaningKo": "(계약) 조건",
+          "paragraph": 3,
+          "sentence": {
+            "en": "\"Get me terms that Arjun can read, or I take Ostrel and tell my board myself.\"",
+            "ko": "\"아르준이 읽을 수 있는 조건을 받아 오세요. 아니면 오스트렐로 가고 이사회에는 제가 직접 말합니다.\""
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 429,
+      "paragraphs": [
+        {
+          "en": "\"My team, Siti and Joanne,\" Jae-won said, \"and Grace will see it by noon, whatever you tell me now.\" \"Then I'll come to you,\" Ethan said, and he hung up with the abruptness of a man reordering his week. At two, he sat in the Straits Meridian boardroom beside Cole, facing Grace and her pencil, with Joanne and Daniel along the side of the table and the photo of Siti's form lying between them like something the cat had brought in.",
+          "ko": "\"저희 팀과 시티, 조앤입니다.\" 재원이 말했다. \"그리고 지금 뭐라고 하시든 그레이스는 정오까지 보게 됩니다.\" \"그럼 제가 가죠.\" 이선이 한 주 일정을 다시 짜는 사람처럼 불쑥 말하고 전화를 끊었다. 2시, 그는 스트레이츠 메리디안 회의실에 콜과 나란히 앉아 그레이스와 그녀의 연필을 마주했다. 조앤과 대니얼은 테이블 옆쪽에 앉았고, 시티의 양식 사진이 고양이가 물어 온 무언가처럼 그들 사이에 놓여 있었다."
+        },
+        {
+          "en": "\"I'm not accusing anyone, but your system had seen that form's data before we handed it to you,\" Jae-won said, and he had practiced that sentence on the bus until the word \"accusing\" stopped sounding like an accusation. Cole said that he had loaded the data pack the night before, as he always did, so that the system would have the customer's carrier names, and that this was hardly a secret in the industry. Ethan turned to him and asked if the matching had been on. \"It's always on in demos,\" Cole said, \"and everyone knows that,\" and he appeared to realize, halfway through, who had just been informed.",
+          "ko": "\"누구를 탓하려는 건 아니지만, 저희가 건네기 전에 귀사 시스템은 그 양식의 데이터를 이미 봤습니다.\" 재원이 말했다. \"탓하다\"가 탓처럼 들리지 않을 때까지 버스에서 연습한 문장이었다. 콜은 시스템이 고객의 운송사 이름을 알도록 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었고, 업계에서 비밀도 아니라고 말했다. 이선이 그를 돌아보며 대조 기능이 켜져 있었느냐고 물었다. \"데모에서는 늘 켜 둡니다.\" 콜이 말했다. \"다들 아는 일이고요.\" 그러다 말하는 도중에, 방금 누가 그 사실을 알게 됐는지 깨달은 것 같았다."
+        },
+        {
+          "en": "Ethan was quiet for four seconds, and Jae-won had seen him do that only once before, on a stage, for a different reason. \"It's a bad habit, and it's mine,\" he said, \"because I never asked, and I've made a career of asking.\" Jae-won asked, \"Can you show us the evidence for ninety-eight on documents it hasn't seen?\" \"No,\" Ethan said, \"because the honest number is sixty-one, and with three weeks on your floor I'd expect eighty-five.\" Arjun asked, without looking up, \"What's that number measured on?\" \"Two customers and my judgment,\" Ethan said, which was at least a new kind of answer in that room.",
+          "ko": "이선은 4초 동안 말이 없었는데, 재원이 그런 모습을 본 것은 전에 무대에서, 다른 이유로 한 번뿐이었다. \"나쁜 버릇이고, 제 책임입니다. 묻는 걸로 먹고살아 온 제가 물어보지 않았으니까요.\" 그가 말했다. 재원이 물었다. \"처음 보는 서류에서 98이 나온다는 근거를 보여 주시겠어요?\" \"아니요.\" 이선이 말했다. \"정직한 숫자는 61이고, 귀사 현장에서 3주를 보내면 85를 예상합니다.\" 아르준이 고개를 들지 않고 물었다. \"그 숫자는 무엇을 기준으로 잰 겁니까?\" \"고객 두 곳과 제 판단입니다.\" 이선이 말했고, 그 방에서 그건 적어도 새로운 종류의 대답이었다."
+        },
+        {
+          "en": "When they had gone, Grace said, \"Drop them,\" and she said it without heat, as she might have cancelled a lunch. \"The risk we see is that Ostrel ends in week fifteen,\" Arjun said, \"which leaves one week to find your two thousand, and I would enjoy watching you explain that to the board.\" Grace put down her pencil, which Jae-won had learned to dread. \"You found this, so you have until Friday,\" she told him. \"Get me terms that Arjun can read, or I take Ostrel and tell my board myself.\"",
+          "ko": "그들이 나가자 그레이스가 말했다. \"코르베인은 빼죠.\" 점심 약속을 취소하듯 열기 없는 말투였다. \"저희가 보는 위험은 오스트렐이 15주 차에야 끝난다는 점입니다.\" 아르준이 말했다. \"2,000건을 찾을 시간이 한 주밖에 안 남는데, 그걸 이사회에 설명하시는 모습은 꽤 볼만하겠군요.\" 그레이스가 연필을 내려놓았다. 재원이 두려워하게 된 동작이었다. \"찾아낸 사람이 당신이니 금요일까지 드리죠.\" 그녀가 그에게 말했다. \"아르준이 읽을 수 있는 조건을 받아 오세요. 아니면 오스트렐로 가고 이사회에는 제가 직접 말합니다.\""
+        },
+        {
+          "en": "That night, on the bus to Tuas, a message came from Ethan, typed with evident care for someone who usually dictated. \"Friday at eight, with my lawyer and your terms,\" it said. \"I have one condition, and you won't like it.\"",
+          "ko": "그날 밤 투아스로 가는 버스에서 이선의 메시지가 왔다. 평소 받아쓰게 하는 사람치고는 공들여 친 티가 났다. \"금요일 8시, 제 변호사와 귀사 조건으로 합시다.\" 메시지는 그렇게 시작했다. \"제 조건이 하나 있는데, 마음에 안 드실 겁니다.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "I'm not accusing anyone, but",
+        "Can you show us the evidence for"
+      ],
+      "wordCandidates": [
+        {
+          "term": "abruptness",
+          "surface": "abruptness",
+          "meaningKo": "갑작스러움, 퉁명함",
+          "paragraph": 0,
+          "sentence": {
+            "en": "\"Then I'll come to you,\" Ethan said, and he hung up with the abruptness of a man reordering his week.",
+            "ko": "\"그럼 제가 가죠.\" 이선이 한 주 일정을 다시 짜는 사람처럼 불쑥 말하고 전화를 끊었다."
+          }
+        },
+        {
+          "term": "hardly",
+          "surface": "hardly",
+          "meaningKo": "거의 ~아닌",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Cole said that he had loaded the data pack the night before, as he always did, so that the system would have the customer's carrier names, and that this was hardly a secret in the industry.",
+            "ko": "콜은 시스템이 고객의 운송사 이름을 알도록 늘 하던 대로 전날 밤 데이터 묶음을 올려 두었고, 업계에서 비밀도 아니라고 말했다."
+          }
+        },
+        {
+          "term": "make a career of",
+          "surface": "made a career of",
+          "meaningKo": "~을 업으로 삼다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It's a bad habit, and it's mine,\" he said, \"because I never asked, and I've made a career of asking.\"",
+            "ko": "\"나쁜 버릇이고, 제 책임입니다. 묻는 걸로 먹고살아 온 제가 물어보지 않았으니까요.\""
+          }
+        },
+        {
+          "term": "without heat",
+          "surface": "without heat",
+          "meaningKo": "열기 없이, 감정 없이",
+          "paragraph": 3,
+          "sentence": {
+            "en": "When they had gone, Grace said, \"Drop them,\" and she said it without heat, as she might have cancelled a lunch.",
+            "ko": "그들이 나가자 그레이스가 말했다. \"코르베인은 빼죠.\" 점심 약속을 취소하듯 열기 없는 말투였다."
+          }
+        },
+        {
+          "term": "dread",
+          "surface": "dread",
+          "meaningKo": "두려워하다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Grace put down her pencil, which Jae-won had learned to dread.",
+            "ko": "그레이스가 연필을 내려놓았다. 재원이 두려워하게 된 동작이었다."
+          }
+        },
+        {
+          "term": "dictate",
+          "surface": "dictated",
+          "meaningKo": "받아쓰게 하다, 음성으로 입력하다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "That night, on the bus to Tuas, a message came from Ethan, typed with evident care for someone who usually dictated.",
+            "ko": "그날 밤 투아스로 가는 버스에서 이선의 메시지가 왔다. 평소 받아쓰게 하는 사람치고는 공들여 친 티가 났다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Cole do the night before the demo?",
+      "options": [
+        "He rewrote the night-shift form",
+        "He called Grace to explain the system",
+        "He loaded the data pack into the system",
+        "He tested the thousand documents"
+      ],
+      "answerIndex": 2,
+      "evidence": "he had loaded the data pack the night before"
+    },
+    {
+      "question": "What does Ethan's reply \"It's a bad habit, and it's mine\" suggest?",
+      "options": [
+        "He denies that anything happened",
+        "He blames Cole in front of the client",
+        "He wants to withdraw from the project",
+        "He accepts responsibility and doesn't hide behind his engineer"
+      ],
+      "answerIndex": 3,
+      "evidence": "It's a bad habit, and it's mine"
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "I'm not accusing anyone, but your system had seen that form's data before we handed it to you.",
+      "Can you show us the evidence for ninety-eight on documents it hasn't seen?",
+      "What's that number measured on?"
+    ],
+    "summaryPromptKo": "데모의 시스템이 왜 양식을 읽은 것처럼 보였는지, 이선이 어떻게 반응했는지, 그레이스가 재원에게 어떤 기한과 조건을 주었는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "Every vendor tunes a demo, and you know it. You've embarrassed my engineer in front of your client. Do you still want this deal?",
+      "ko": "공급업체는 다들 데모를 손봅니다. 아시잖아요. 고객 앞에서 제 엔지니어를 망신 줬는데, 그래도 이 계약을 원합니까?"
+    },
+    "modelAnswer": "I'm not accusing anyone of anything your whole industry doesn't do. But my client was shown ninety-eight and got sixty-one, and a person on the night shift found that out with a pen. So yes, I still want a deal, if the numbers in it are measured on documents your system hasn't seen. What I can't do is sell Grace a demo. Can you show us the evidence for eighty-five?"
+  },
+  "nextTeaserKo": "금요일 8시. 이선은 변호사를 데려오고, 재원은 아르준이 읽을 수 있는 조건을 들고 앉는다. 성능 보장, 보류금, 책임 상한. 그리고 재원이 아직 아무에게도 설명할 수 없는 조건 하나가 있다. 이선의 조건은 무엇일까.",
+  "roleplay": {
+    "title": "정직한 숫자",
+    "situationKo": "수요일 2시, 스트레이츠 메리디안 회의실입니다. 그레이스 앞에서 이선과 콜에게 묻습니다. 탓하는 것이 아니라 근거를 묻는 자리예요. 정답은 없습니다.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "I came as soon as I could. Say what you need to say.",
+        "ko": "최대한 빨리 왔습니다. 하실 말씀 하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I'm not accusing anyone, but your system had seen that form's data before we handed it to you.",
+        "ko": "누구를 탓하려는 건 아니지만, 저희가 건네기 전에 귀사 시스템은 그 양식의 데이터를 이미 봤습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Cole Reyes",
+        "voice": "male",
+        "en": "I loaded the data pack the night before, as I always do. It's always on in demos.",
+        "ko": "늘 하던 대로 전날 밤 데이터 묶음을 올려 뒀습니다. 데모에서는 늘 켜 둡니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So the screen wasn't reading the form. It was reading the container number and looking up the rest.",
+        "ko": "그러면 화면은 양식을 읽은 게 아니었군요. 컨테이너 번호를 읽고 나머지를 찾아본 거죠.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Yes. It's a bad habit, and it's mine.",
+        "ko": "그렇습니다. 나쁜 버릇이고, 제 책임입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Thank you. Can you show us the evidence for ninety-eight on documents it hasn't seen?",
+        "ko": "감사합니다. 처음 보는 서류에서 98이 나온다는 근거를 보여 주시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "No. The honest number is sixty-one. With three weeks on your floor, I'd expect eighty-five.",
+        "ko": "아니요. 정직한 숫자는 61입니다. 귀사 현장에서 3주를 보내면 85를 예상합니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Eighty-five per document, on forms you haven't seen? What's that number measured on?",
+        "ko": "처음 보는 양식에서 서류 단위로 85요? 그 숫자는 무엇을 기준으로 잰 겁니까?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Two customers and my judgment.",
+        "ko": "고객 두 곳과 제 판단입니다."
+      },
+      {
+        "speaker": "Grace Lim",
+        "voice": "female",
+        "en": "You found this, so you have until Friday. Get me terms that Arjun can read.",
+        "ko": "찾아낸 사람이 당신이니 금요일까지 드리죠. 아르준이 읽을 수 있는 조건을 받아 오세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Understood. You'll have them on Friday, on one page.",
+        "ko": "알겠습니다. 금요일에 한 장으로 드리겠습니다.",
+        "you": true
+      }
+    ]
+  }
+}

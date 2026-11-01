@@ -1,0 +1,405 @@
+{
+  "id": "keynote-s1-e26",
+  "series": "the-keynote",
+  "season": 1,
+  "number": 26,
+  "title": "Two Hours",
+  "recapKo": "38번 행과 6번 행은 이름만 다른 같은 회사였고, 숫자는 41곳 중 31곳이 됐다. 검토란의 이니셜은 3년 전 재원이 남긴 것이었다. 유나는 조용히 고치자고 했지만, 재원은 종이 한 장에 항목 네 개를 적어 1시에 싱가포르로 전화했다.",
+  "keyExpressions": [
+    {
+      "phrase": "That's on me.",
+      "meaningKo": "그건 제 책임입니다.",
+      "usage": "The invoice went out late, and that's on me."
+    },
+    {
+      "phrase": "The impact is limited to ~",
+      "meaningKo": "영향은 ~에 한정됩니다",
+      "usage": "The impact is limited to the March report, and nothing else has changed."
+    },
+    {
+      "phrase": "What I'm proposing is ~",
+      "meaningKo": "제가 제안하는 건 ~입니다",
+      "usage": "What I'm proposing is a corrected file today and a short call tomorrow."
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 230,
+      "paragraphs": [
+        {
+          "en": "\"I need to flag something,\" he said. \"Here's what happened: two rows in my data are the same company, so the real number is thirty-one out of forty-one. That's on me, because my initials are on the review.\" Marcus asked how long he had known. \"Two hours.\"",
+          "ko": "\"말씀드려야 할 문제가 하나 있습니다.\" 그가 말했다. \"경위는 이렇습니다. 제 데이터의 두 행이 같은 회사여서, 실제 숫자는 41곳 중 31곳입니다. 그건 제 책임입니다. 검토란에 제 이니셜이 있거든요.\" 마커스가 언제부터 알았느냐고 물었다. \"두 시간 됐습니다.\""
+        },
+        {
+          "en": "\"The impact is limited to the total, so the thirty-one stands, but the title and two slides must change,\" he said. \"What I'm proposing is a new title today, a check of every row tonight, and a signed note by ten tomorrow.\"",
+          "ko": "\"영향은 전체 숫자에 한정됩니다. 그래서 31은 그대로지만 제목과 슬라이드 두 장은 바꿔야 합니다.\" 그가 말했다. \"제가 제안하는 건 오늘 새 제목, 오늘 밤 모든 행 점검, 내일 10시까지 서명한 메모입니다.\""
+        },
+        {
+          "en": "\"The printed program went out on Monday, so eight hundred copies say forty-two,\" Marcus said. \"I can change the app by five, and Ethan gets the new abstract like everyone else. You called before I had to call you, and that's why this call is short.\"",
+          "ko": "\"인쇄본 프로그램은 월요일에 나갔으니 800부에 42라고 적혀 있습니다.\" 마커스가 말했다. \"앱은 5시까지 바꿀 수 있고, 이선도 다른 사람들처럼 새 초록을 받습니다. 제가 전화하기 전에 전화했으니, 그래서 이 통화가 짧은 겁니다.\""
+        },
+        {
+          "en": "That night, they checked all forty-one rows, and by 1:40 they had found no other duplicates. Helen had landed and sent one line: \"You called him before you asked me. Good.\" Jae-won read the note line by line, and this time he knew what he was signing.",
+          "ko": "그날 밤 둘은 41개 행을 모두 점검했고, 1시 40분까지 다른 중복은 찾지 못했다. 착륙한 헬렌이 한 줄을 보냈다. \"제게 묻기 전에 전화했네요. 잘했어요.\" 재원은 메모를 한 줄씩 읽었고, 이번에는 무엇에 서명하는지 알고 있었다."
+        },
+        {
+          "en": "Thinking about those eight hundred programs, he opened his speaker notes. \"The program in your hands says forty-two,\" he typed. \"That number is wrong, and I signed it.\" He sent it to Helen, and her answer came in minutes: \"Not that opening. Call me at seven, your time.\"",
+          "ko": "그 800부의 프로그램을 생각하며 그는 발표자 노트를 열었다. \"여러분 손에 있는 프로그램에는 42라고 적혀 있습니다.\" 그는 그렇게 쳤다. \"그 숫자는 틀렸고, 제가 서명했습니다.\" 헬렌에게 보내자 몇 분 만에 답이 왔다. \"그 도입부는 안 돼요. 그쪽 시간 7시에 전화해요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's on me",
+        "The impact is limited to",
+        "What I'm proposing is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "total",
+          "surface": "the total",
+          "meaningKo": "전체 숫자, 합계",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The impact is limited to the total, so the thirty-one stands, but the title and two slides must change,\" he said.",
+            "ko": "\"영향은 전체 숫자에 한정됩니다. 그래서 31은 그대로지만 제목과 슬라이드 두 장은 바꿔야 합니다.\" 그가 말했다."
+          }
+        },
+        {
+          "term": "signed note",
+          "surface": "signed note",
+          "meaningKo": "서명한 메모",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"What I'm proposing is a new title today, a check of every row tonight, and a signed note by ten tomorrow.\"",
+            "ko": "\"제가 제안하는 건 오늘 새 제목, 오늘 밤 모든 행 점검, 내일 10시까지 서명한 메모입니다.\""
+          }
+        },
+        {
+          "term": "printed",
+          "surface": "printed program",
+          "meaningKo": "인쇄본 프로그램",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The printed program went out on Monday, so eight hundred copies say forty-two,\" Marcus said.",
+            "ko": "\"인쇄본 프로그램은 월요일에 나갔으니 800부에 42라고 적혀 있습니다.\" 마커스가 말했다."
+          }
+        },
+        {
+          "term": "duplicate",
+          "surface": "duplicates",
+          "meaningKo": "중복 (건)",
+          "paragraph": 3,
+          "sentence": {
+            "en": "That night, they checked all forty-one rows, and by 1:40 they had found no other duplicates.",
+            "ko": "그날 밤 둘은 41개 행을 모두 점검했고, 1시 40분까지 다른 중복은 찾지 못했다."
+          }
+        },
+        {
+          "term": "speaker notes",
+          "surface": "speaker notes",
+          "meaningKo": "발표자 노트",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Thinking about those eight hundred programs, he opened his speaker notes.",
+            "ko": "그 800부의 프로그램을 생각하며 그는 발표자 노트를 열었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 353,
+      "paragraphs": [
+        {
+          "en": "\"I need to flag something, and you should have it before you hear it anywhere else,\" he said. \"Here's what happened: two rows in my data are the same company under different names, so the real number is thirty-one out of forty-one, not forty-two. That's on me, because my initials are on the review from three years ago.\" Marcus asked how long he had known, and Jae-won told him that it had been two hours.",
+          "ko": "\"말씀드려야 할 문제가 하나 있습니다. 다른 데서 듣기 전에 아셔야 할 일입니다.\" 그가 말했다. \"경위는 이렇습니다. 제 데이터의 두 행이 이름만 다른 같은 회사여서, 실제 숫자는 42곳이 아니라 41곳 중 31곳입니다. 그건 제 책임입니다. 3년 전 검토란에 제 이니셜이 있거든요.\" 마커스가 언제부터 알았느냐고 물었고, 재원은 두 시간 됐다고 답했다."
+        },
+        {
+          "en": "\"The impact is limited to the total, which means the thirty-one stands, with a document or a named person behind every one, but the title and two slides have to change,\" Jae-won said. \"What I'm proposing is a new title today, a check of every remaining row against registration numbers tonight, and a signed note on your desk by ten tomorrow. The slides still come in on time.\"",
+          "ko": "\"영향은 전체 숫자에 한정됩니다. 그래서 31은 그대로이고 한 건 한 건 문서나 실명 확인이 있지만, 제목과 슬라이드 두 장은 바꿔야 합니다.\" 재원이 말했다. \"제가 제안하는 건 오늘 새 제목, 오늘 밤 남은 모든 행을 등록 번호와 대조, 그리고 내일 10시까지 서명한 메모를 책상에 올리는 겁니다. 슬라이드는 그래도 제시간에 들어갑니다.\""
+        },
+        {
+          "en": "For a while there was only the sound of an office in Singapore. \"The printed program went to press on Monday, so eight hundred copies are going to say forty-two,\" Marcus said. \"I can change the app by five, but I can't change paper, and Ethan gets the new abstract along with everyone else. You called before I had to call you, and that's the only reason this is a short conversation.\"",
+          "ko": "한동안 싱가포르 사무실의 소리만 들렸다. \"인쇄본 프로그램은 월요일에 인쇄에 들어갔으니, 800부에 42라고 적혀 있을 겁니다.\" 마커스가 말했다. \"앱은 5시까지 바꿀 수 있지만 종이는 못 바꿉니다. 이선도 다른 사람들과 함께 새 초록을 받고요. 제가 전화하기 전에 전화했으니, 그게 이 대화가 짧은 유일한 이유입니다.\""
+        },
+        {
+          "en": "That night Jae-won and Daniel ran all forty-one rows against the business registry, and by 1:40 they were done, with no other duplicates. Helen had landed at seven and sent a single line: \"You called him before you asked me. Good.\" Jae-won read Daniel's note line by line, checked each reference himself, and this time he knew exactly what he was signing.",
+          "ko": "그날 밤 재원과 대니얼은 41개 행을 모두 사업자 등록 정보와 대조했고, 1시 40분에 끝냈으며 다른 중복은 없었다. 7시에 착륙한 헬렌은 한 줄만 보냈다. \"제게 묻기 전에 전화했네요. 잘했어요.\" 재원은 대니얼의 메모를 한 줄씩 읽고 근거를 하나하나 직접 확인했으며, 이번에는 무엇에 서명하는지 정확히 알고 있었다."
+        },
+        {
+          "en": "He should have gone home, but he kept thinking about those eight hundred programs. He opened the speaker notes for the first slide and typed a new opening: \"The program in your hands says forty-two. That number is wrong, and I signed it.\" He sent it to Helen and asked what she thought. The answer took less than four minutes: \"Not that opening. Call me at seven, your time. We need to have a real conversation.\"",
+          "ko": "집에 갔어야 했지만, 그 800부의 프로그램이 계속 떠올랐다. 그는 첫 슬라이드의 발표자 노트를 열고 새 도입부를 쳤다. \"여러분 손에 있는 프로그램에는 42라고 적혀 있습니다. 그 숫자는 틀렸고, 제가 서명했습니다.\" 헬렌에게 보내 의견을 묻자 4분도 안 돼 답이 왔다. \"그 도입부는 안 돼요. 그쪽 시간 7시에 전화해요. 제대로 얘기를 좀 해야겠어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's on me",
+        "The impact is limited to",
+        "What I'm proposing is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "remaining",
+          "surface": "remaining",
+          "meaningKo": "남은",
+          "paragraph": 1,
+          "sentence": {
+            "en": "What I'm proposing is a new title today, a check of every remaining row against registration numbers tonight, and a signed note on your desk by ten tomorrow.",
+            "ko": "제가 제안하는 건 오늘 새 제목, 오늘 밤 남은 모든 행을 등록 번호와 대조, 그리고 내일 10시까지 서명한 메모를 책상에 올리는 겁니다."
+          }
+        },
+        {
+          "term": "go to press",
+          "surface": "went to press",
+          "meaningKo": "인쇄에 들어가다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The printed program went to press on Monday, so eight hundred copies are going to say forty-two,\" Marcus said.",
+            "ko": "\"인쇄본 프로그램은 월요일에 인쇄에 들어갔으니, 800부에 42라고 적혀 있을 겁니다.\" 마커스가 말했다."
+          }
+        },
+        {
+          "term": "registry",
+          "surface": "registry",
+          "meaningKo": "등록 정보, 등기부",
+          "paragraph": 3,
+          "sentence": {
+            "en": "That night Jae-won and Daniel ran all forty-one rows against the business registry, and by 1:40 they were done, with no other duplicates.",
+            "ko": "그날 밤 재원과 대니얼은 41개 행을 모두 사업자 등록 정보와 대조했고, 1시 40분에 끝냈으며 다른 중복은 없었다."
+          }
+        },
+        {
+          "term": "reference",
+          "surface": "reference",
+          "meaningKo": "근거 자료, 참조",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Jae-won read Daniel's note line by line, checked each reference himself, and this time he knew exactly what he was signing.",
+            "ko": "재원은 대니얼의 메모를 한 줄씩 읽고 근거를 하나하나 직접 확인했으며, 이번에는 무엇에 서명하는지 정확히 알고 있었다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 471,
+      "paragraphs": [
+        {
+          "en": "\"I need to flag something, and you should have it from me before you hear it anywhere else, including from your new panelist,\" he said. \"Here's what happened: two rows in my data are the same company under different names, so the real number is thirty-one out of forty-one, not forty-two. It has been wrong in every version you've seen. That's on me, not on my analyst, because my initials are on the review from three years ago.\" Marcus asked how long he had known, in the voice of a man asking for a flight number, and Jae-won told him that it had been two hours.",
+          "ko": "\"말씀드려야 할 문제가 하나 있습니다. 새 패널을 포함해 다른 데서 듣기 전에 제게서 들으셔야 합니다.\" 그가 말했다. \"경위는 이렇습니다. 제 데이터의 두 행이 이름만 다른 같은 회사여서, 실제 숫자는 42곳이 아니라 41곳 중 31곳이고, 디렉터님이 보신 모든 버전이 틀렸습니다. 그건 제 애널리스트가 아니라 제 책임입니다. 3년 전 검토란에 제 이니셜이 있거든요.\" 마커스는 항공편 번호를 묻는 듯한 목소리로 언제부터 알았느냐고 물었고, 재원은 두 시간 됐다고 답했다."
+        },
+        {
+          "en": "\"The impact is limited to the denominator, which means the thirty-one stands, with a document or a named person behind every one, but the title and two slides have to change,\" Jae-won said. \"What I'm proposing is a new title today, a check of every remaining row against registration numbers tonight so that I'm not making this call twice, and a signed note on your desk by ten tomorrow. The slides still come in on time, and you won't need to chase me for any of it.\"",
+          "ko": "\"영향은 분모에 한정됩니다. 그래서 31은 그대로이고 한 건 한 건 문서나 실명 확인이 있지만, 제목과 슬라이드 두 장은 바꿔야 합니다.\" 재원이 말했다. \"제가 제안하는 건 오늘 새 제목, 이 전화를 두 번 하지 않도록 오늘 밤 남은 모든 행을 등록 번호와 대조, 그리고 내일 10시까지 서명한 메모를 책상에 올리는 겁니다. 슬라이드는 그래도 제시간에 들어가고, 어느 것도 저를 재촉하실 일은 없을 겁니다.\""
+        },
+        {
+          "en": "For a while there was only the hum of an office in Singapore and someone else's keyboard. \"The printed program went to press on Monday, so eight hundred copies are going to say forty-two, and that ship has sailed,\" Marcus said. \"I can change the app by five, but I can't change paper, and Ethan gets the new abstract along with everyone else, without commentary from me. You called before I had to call you, and that's the only reason this is a short conversation, so I'd stop talking now.\"",
+          "ko": "한동안 싱가포르 사무실의 웅웅거림과 누군가의 키보드 소리만 들렸다. \"인쇄본 프로그램은 월요일에 인쇄에 들어갔으니, 800부에 42라고 적혀 있을 거고 이미 늦었습니다.\" 마커스가 말했다. \"앱은 5시까지 바꿀 수 있지만 종이는 못 바꿉니다. 이선도 제 설명 없이 다른 사람들과 함께 새 초록을 받고요. 제가 전화하기 전에 전화했으니, 그게 이 대화가 짧은 유일한 이유입니다. 그러니 이제 그만 말씀하시죠.\""
+        },
+        {
+          "en": "That night Jae-won and Daniel ran all forty-one rows against the business registry, fueled by convenience-store noodles and mutual embarrassment, and by 1:40 they were done, with no other duplicates. Helen had landed at seven and sent a single line: \"You called him before you asked me. Good.\" Jae-won read Daniel's note line by line, checked each reference himself, and for the first time in his career he felt the full weight of what a signature was for, knowing exactly what he was putting his name to.",
+          "ko": "그날 밤 재원과 대니얼은 편의점 라면과 서로의 민망함을 연료 삼아 41개 행을 모두 사업자 등록 정보와 대조했고, 1시 40분에 끝냈으며 다른 중복은 없었다. 7시에 착륙한 헬렌은 한 줄만 보냈다. \"제게 묻기 전에 전화했네요. 잘했어요.\" 재원은 대니얼의 메모를 한 줄씩 읽고 근거를 하나하나 직접 확인했으며, 자신이 무엇에 이름을 올리는지 정확히 아는 채로, 경력을 통틀어 처음으로 서명이 왜 있는지를 온전히 실감했다."
+        },
+        {
+          "en": "He should have gone home, but he kept thinking about those eight hundred programs sitting on eight hundred laps at 9:40 next Thursday. He opened the speaker notes for the first slide and typed a new opening, ahead of the kitchen table: \"The program in your hands says forty-two. That number is wrong, and I signed it.\" He sent it to Helen and asked what she thought. The answer took less than four minutes, which in Seattle meant she had stopped whatever she was doing: \"Not that opening. Call me at seven, your time. We need to have a real conversation.\"",
+          "ko": "집에 갔어야 했지만, 다음 주 목요일 9시 40분 800명의 무릎 위에 놓여 있을 그 800부의 프로그램이 계속 떠올랐다. 그는 첫 슬라이드의 발표자 노트를 열고 식탁 이야기 앞에 새 도입부를 쳤다. \"여러분 손에 있는 프로그램에는 42라고 적혀 있습니다. 그 숫자는 틀렸고, 제가 서명했습니다.\" 헬렌에게 보내 의견을 묻자 4분도 안 돼 답이 왔다. 시애틀에서 하던 일을 멈췄다는 뜻이었다. \"그 도입부는 안 돼요. 그쪽 시간 7시에 전화해요. 제대로 얘기를 좀 해야겠어요.\""
+        }
+      ],
+      "keyExpressionMarks": [
+        "That's on me",
+        "The impact is limited to",
+        "What I'm proposing is"
+      ],
+      "wordCandidates": [
+        {
+          "term": "denominator",
+          "surface": "denominator",
+          "meaningKo": "분모",
+          "paragraph": 1,
+          "sentence": {
+            "en": "\"The impact is limited to the denominator, which means the thirty-one stands, with a document or a named person behind every one, but the title and two slides have to change,\" Jae-won said.",
+            "ko": "\"영향은 분모에 한정됩니다. 그래서 31은 그대로이고 한 건 한 건 문서나 실명 확인이 있지만, 제목과 슬라이드 두 장은 바꿔야 합니다.\" 재원이 말했다."
+          }
+        },
+        {
+          "term": "chase",
+          "surface": "chase me",
+          "meaningKo": "독촉하다, 재촉하다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "The slides still come in on time, and you won't need to chase me for any of it.",
+            "ko": "슬라이드는 그래도 제시간에 들어가고, 어느 것도 저를 재촉하실 일은 없을 겁니다."
+          }
+        },
+        {
+          "term": "that ship has sailed",
+          "surface": "that ship has sailed",
+          "meaningKo": "이미 늦었다, 기회가 지나갔다",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"The printed program went to press on Monday, so eight hundred copies are going to say forty-two, and that ship has sailed,\" Marcus said.",
+            "ko": "\"인쇄본 프로그램은 월요일에 인쇄에 들어갔으니, 800부에 42라고 적혀 있을 거고 이미 늦었습니다.\" 마커스가 말했다."
+          }
+        },
+        {
+          "term": "commentary",
+          "surface": "commentary",
+          "meaningKo": "논평, 설명",
+          "paragraph": 2,
+          "sentence": {
+            "en": "I can change the app by five, but I can't change paper, and Ethan gets the new abstract along with everyone else, without commentary from me.",
+            "ko": "앱은 5시까지 바꿀 수 있지만 종이는 못 바꿉니다. 이선도 제 설명 없이 다른 사람들과 함께 새 초록을 받고요."
+          }
+        },
+        {
+          "term": "fuel",
+          "surface": "fueled by",
+          "meaningKo": "~을 연료 삼아",
+          "paragraph": 3,
+          "sentence": {
+            "en": "That night Jae-won and Daniel ran all forty-one rows against the business registry, fueled by convenience-store noodles and mutual embarrassment, and by 1:40 they were done, with no other duplicates.",
+            "ko": "그날 밤 재원과 대니얼은 편의점 라면과 서로의 민망함을 연료 삼아 41개 행을 모두 사업자 등록 정보와 대조했고, 1시 40분에 끝냈으며 다른 중복은 없었다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What can Marcus change, and what can he not change?",
+      "options": [
+        "He can change the printed program but not the app.",
+        "He can change the app by five, but not the printed program.",
+        "He can change the date of the panel, but not the title.",
+        "He can change nothing until the committee votes."
+      ],
+      "answerIndex": 1,
+      "evidence": "\"I can change the app by five, but I can't change paper, and Ethan gets the new abstract along with everyone else."
+    },
+    {
+      "question": "What does Marcus mean by \"that's the only reason this is a short conversation\"?",
+      "options": [
+        "He has another meeting and needs to hang up.",
+        "He does not consider the error important.",
+        "Reporting the error before being caught saved Jae-won from a much harder conversation.",
+        "He wants Jae-won to send the rest by email."
+      ],
+      "answerIndex": 2,
+      "evidence": "You called before I had to call you, and that's the only reason this is a short conversation."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "That's on me, because my initials are on the review.",
+      "The impact is limited to the total, which means the thirty-one stands.",
+      "What I'm proposing is a new title today and a signed note by ten tomorrow."
+    ],
+    "summaryPromptKo": "재원이 마커스에게 무엇을 보고했는지, 마커스가 어떻게 답했는지, 그날 밤 재원이 무엇을 했는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Marcus Reid",
+      "en": "You told me there was nothing to report, and now your title is wrong. What happened, and what are you going to do about it?",
+      "ko": "보고할 게 없다더니 이제 제목이 틀렸다고요. 무슨 일이 있었고, 어떻게 하실 겁니까?"
+    },
+    "modelAnswer": "I need to flag something, and I'd rather you heard it from me. Here's what happened: two rows are the same company under different names, so the number is thirty-one out of forty-one. That's on me, because I signed the review. The impact is limited to the total. What I'm proposing is a new title today, a check of every row tonight and a signed note tomorrow morning."
+  },
+  "nextTeaserKo": "목요일 아침 7시, 시애틀 병원 복도의 헬렌과 화면으로 마주 앉는다. 재원은 800명 앞에서 오류부터 고백하려 하고, 헬렌은 절대 안 된다고 한다. 슬라이드 확정까지 남은 시간은 열두 시간.",
+  "roleplay": {
+    "title": "두 시간 만의 보고",
+    "situationKo": "재원이 직접 마커스에게 전화합니다. 내가 재원이 되어 경위와 영향, 해결책을 순서대로 말해 봅니다. 말이 꼬여도 괜찮아요. 편하게 한 줄씩 해 보면 됩니다.",
+    "lines": [
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Marcus here. Go ahead.",
+        "ko": "마커스입니다. 말씀하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I need to flag something, and you should have it before you hear it anywhere else.",
+        "ko": "말씀드려야 할 문제가 하나 있습니다. 다른 데서 듣기 전에 아셔야 해요.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Go on.",
+        "ko": "계속하세요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Here's what happened. Two rows are the same company under different names, so it's thirty-one out of forty-one.",
+        "ko": "경위는 이렇습니다. 두 행이 이름만 다른 같은 회사여서, 숫자는 41곳 중 31곳입니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "Not forty-two.",
+        "ko": "42가 아니라고요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Not forty-two. That's on me, because my initials are on the review from three years ago.",
+        "ko": "42가 아닙니다. 그건 제 책임입니다. 3년 전 검토에 제 이니셜이 있으니까요.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "How long have you known?",
+        "ko": "안 지 얼마나 됐습니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Two hours.",
+        "ko": "두 시간 됐습니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "What's the damage?",
+        "ko": "피해는 어느 정도입니까?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "The impact is limited to the total. The thirty-one stands, but the title and two slides have to change.",
+        "ko": "영향은 전체 수에 한정됩니다. 31은 그대로지만 제목과 슬라이드 두 장은 바뀌어야 합니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "And what do you want to do about it?",
+        "ko": "그래서 어떻게 하려고요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "What I'm proposing is a new title today, and every remaining row checked against registration numbers tonight.",
+        "ko": "제가 제안하는 건 오늘 새 제목, 그리고 오늘 밤 남은 모든 행을 등록 번호와 대조하는 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "And then?",
+        "ko": "그다음은요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "A signed note on your desk by ten tomorrow. The slides still come in on time.",
+        "ko": "내일 10시까지 서명한 메모를 책상에 올리겠습니다. 슬라이드는 그대로 제시간에 들어갑니다.",
+        "you": true
+      },
+      {
+        "speaker": "Marcus Reid",
+        "voice": "male",
+        "en": "The printed program went to press on Monday, so eight hundred copies say forty-two. I can change the app by five, but I can't change paper. You called before I had to call you, and that's the only reason this is a short conversation.",
+        "ko": "인쇄 프로그램은 월요일에 들어가서 800부가 42라고 나옵니다. 앱은 5시까지 고칠 수 있지만 종이는 못 고칩니다. 제가 전화하기 전에 먼저 전화했으니, 그래서 이 통화가 짧은 겁니다."
+      }
+    ]
+  }
+}

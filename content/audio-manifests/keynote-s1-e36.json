@@ -1,0 +1,57 @@
+{
+  "episodeId": "keynote-s1-e36",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "month-end close": "word-month-end-close.mp3",
+    "business registry": "word-business-registry.mp3",
+    "lineup": "word-lineup.mp3",
+    "substitute": "word-substitute.mp3",
+    "backstage": "word-backstage.mp3",
+    "walk through": "word-walk-through.mp3",
+    "rebuild": "word-rebuild.mp3",
+    "homework": "word-homework.mp3",
+    "run against": "word-run-against.mp3",
+    "in the wings": "word-in-the-wings.mp3",
+    "whatsoever": "word-whatsoever.mp3",
+    "on purpose": "word-on-purpose.mp3",
+    "strike a deal": "word-strike-a-deal.mp3"
+  },
+  "termClips": {
+    "month-end close": "term-month-end-close.mp3",
+    "business registry": "term-business-registry.mp3",
+    "lineup": "term-lineup.mp3",
+    "substitute": "term-substitute.mp3",
+    "backstage": "term-backstage.mp3",
+    "walk through": "term-walk-through.mp3",
+    "rebuild": "term-rebuild.mp3",
+    "homework": "term-homework.mp3",
+    "run against": "term-run-against.mp3",
+    "in the wings": "term-in-the-wings.mp3",
+    "whatsoever": "term-whatsoever.mp3",
+    "on purpose": "term-on-purpose.mp3",
+    "strike a deal": "term-strike-a-deal.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3"
+  ]
+}

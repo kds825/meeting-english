@@ -1,0 +1,381 @@
+{
+  "id": "keynote-s2-e13",
+  "series": "the-keynote",
+  "season": 2,
+  "number": 13,
+  "title": "Vendor Day",
+  "recapKo": "닷새를 센 결과 진짜 기준치는 7천 건이 아니라 9,400건이었다. 재원은 같은 분에 그레이스와 웨이링에게 알렸고, 아르준은 목표 2,000건과 걸어 둔 15만 달러는 그대로라고 했다. 공급업체에 나간 데이터 묶음은 정리된 것이어서, 재원은 최종 후보를 실제 서류 1,000건으로 시험하자고 요청했다. 그때 이선 울프가 메시지를 보냈다.",
+  "keyExpressions": [
+    {
+      "phrase": "What's that number measured on?",
+      "meaningKo": "그 숫자는 무엇을 기준으로 잰 건가요?",
+      "usage": "Ninety percent sounds good. What's that number measured on?"
+    },
+    {
+      "phrase": "Can you show us one it got wrong?",
+      "meaningKo": "틀린 사례를 하나 보여 주시겠어요?",
+      "usage": "The results look strong. Can you show us one it got wrong?"
+    }
+  ],
+  "levels": {
+    "lv1": {
+      "wordCount": 208,
+      "paragraphs": [
+        {
+          "en": "Vendor Day was held in the Straits Meridian boardroom, with forty-five minutes for each finalist. Verrow came first with a low price, and Arjun asked, \"What are you comparing that to?\" Ostrel said honestly that it needed twelve weeks to install. Wei Ling wrote nothing down.",
+          "ko": "공급업체 설명회는 스트레이츠 메리디안 회의실에서 열렸고, 최종 후보마다 45분이 주어졌다. 버로우가 낮은 가격을 들고 먼저 나오자 아르준이 물었다. \"그걸 무엇과 비교하시는 겁니까?\" 오스트렐은 설치에 12주가 필요하다고 솔직하게 말했다. 웨이링은 아무것도 적지 않았다."
+        },
+        {
+          "en": "Corvane came last, and Ethan Wolfe ran the demo himself. His engineer, Cole Reyes, put a goods receipt under a camera, and every field appeared on the screen in two seconds. \"That's ninety-eight point six percent accurate,\" Ethan said. Grace looked up from her notes.",
+          "ko": "코르베인이 마지막이었고, 이선 울프가 직접 데모를 진행했다. 그의 엔지니어 콜 레예스가 입고 확인서를 카메라 아래 놓자, 2초 만에 모든 항목이 화면에 나타났다. \"정확도 98.6퍼센트입니다.\" 이선이 말했다. 그레이스가 메모에서 눈을 들었다."
+        },
+        {
+          "en": "Jae-won asked, \"What's that number measured on?\" \"Your data pack, per field,\" Ethan said. Jae-won wrote down the word \"field\" and asked, \"Can you show us one it got wrong?\" Ethan smiled and showed a form with a coffee stain, and the room laughed.",
+          "ko": "재원이 물었다. \"그 숫자는 무엇을 기준으로 잰 건가요?\" \"귀사의 데이터 묶음이고, 항목 단위입니다.\" 이선이 말했다. 재원은 \"항목\"이라는 단어를 적고 물었다. \"틀린 사례를 하나 보여 주시겠어요?\" 이선은 웃으며 커피 얼룩이 있는 양식을 보여 주었고, 사람들이 웃었다."
+        },
+        {
+          "en": "Then Jae-won took a form from his folder and slid it across the table. It was one of Siti's, from last month's box at Tuas, with her sevens and her code in the margin. \"Could we try this one?\" he asked.",
+          "ko": "그러고 나서 재원이 폴더에서 양식을 한 장 꺼내 테이블 너머로 밀었다. 지난달 투아스 상자에서 꺼낸 시티의 양식으로, 그녀의 7자와 여백의 코드가 그대로 있었다. \"이걸로 해 볼 수 있을까요?\" 그가 물었다."
+        },
+        {
+          "en": "Cole looked at Ethan, and Ethan nodded. \"Of course,\" he said. Cole put the form under the camera. Wei Ling set down her tea, and for four seconds the screen showed nothing.",
+          "ko": "콜이 이선을 보았고, 이선이 고개를 끄덕였다. \"물론이죠.\" 그가 말했다. 콜이 양식을 카메라 아래 놓았다. 웨이링이 찻잔을 내려놓았고, 4초 동안 화면에는 아무것도 나오지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's that number measured on?",
+        "Can you show us one it got wrong?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "install",
+          "surface": "install",
+          "meaningKo": "설치하다",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ostrel said honestly that it needed twelve weeks to install.",
+            "ko": "오스트렐은 설치에 12주가 필요하다고 솔직하게 말했다."
+          }
+        },
+        {
+          "term": "demo",
+          "surface": "demo",
+          "meaningKo": "시연, 데모",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Corvane came last, and Ethan Wolfe ran the demo himself.",
+            "ko": "코르베인이 마지막이었고, 이선 울프가 직접 데모를 진행했다."
+          }
+        },
+        {
+          "term": "field",
+          "surface": "every field",
+          "meaningKo": "(서류의) 입력 항목",
+          "paragraph": 1,
+          "sentence": {
+            "en": "His engineer, Cole Reyes, put a goods receipt under a camera, and every field appeared on the screen in two seconds.",
+            "ko": "그의 엔지니어 콜 레예스가 입고 확인서를 카메라 아래 놓자, 2초 만에 모든 항목이 화면에 나타났다."
+          }
+        },
+        {
+          "term": "stain",
+          "surface": "stain",
+          "meaningKo": "얼룩",
+          "paragraph": 2,
+          "sentence": {
+            "en": "Ethan smiled and showed a form with a coffee stain, and the room laughed.",
+            "ko": "이선은 웃으며 커피 얼룩이 있는 양식을 보여 주었고, 사람들이 웃었다."
+          }
+        },
+        {
+          "term": "slide across",
+          "surface": "slid it across",
+          "meaningKo": "(물건을) 밀어 건네다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Then Jae-won took a form from his folder and slid it across the table.",
+            "ko": "그러고 나서 재원이 폴더에서 양식을 한 장 꺼내 테이블 너머로 밀었다."
+          }
+        }
+      ]
+    },
+    "lv2": {
+      "wordCount": 318,
+      "paragraphs": [
+        {
+          "en": "Vendor Day was held in the Straits Meridian boardroom, with forty-five minutes for each finalist and a score sheet for each of the six people at the table. Verrow came first with a low price and thirty slides, and Arjun asked, \"What are you comparing that to?\" Ostrel said honestly that its results on messy paper were modest and that it needed twelve weeks to install. Wei Ling wrote nothing down on either sheet.",
+          "ko": "공급업체 설명회는 스트레이츠 메리디안 회의실에서 열렸고, 최종 후보마다 45분이, 테이블의 여섯 명에게는 각자 채점표가 주어졌다. 버로우가 낮은 가격과 슬라이드 30장을 들고 먼저 나오자 아르준이 물었다. \"그걸 무엇과 비교하시는 겁니까?\" 오스트렐은 지저분한 서류에서는 결과가 그저 그렇고 설치에 12주가 필요하다고 솔직하게 말했다. 웨이링은 어느 채점표에도 아무것도 적지 않았다."
+        },
+        {
+          "en": "Corvane came last, and Ethan Wolfe ran the demo himself. His engineer, Cole Reyes, put a goods receipt under a camera, and every field appeared on the screen in two seconds, with the carrier spelled correctly. \"That's ninety-eight point six percent accurate, and it learns as you go,\" Ethan said. Grace looked up from her notes, which she hadn't done for either of the others.",
+          "ko": "코르베인이 마지막이었고, 이선 울프가 직접 데모를 진행했다. 그의 엔지니어 콜 레예스가 입고 확인서를 카메라 아래 놓자, 2초 만에 모든 항목이 운송사 철자까지 정확하게 화면에 나타났다. \"정확도 98.6퍼센트이고, 쓸수록 배웁니다.\" 이선이 말했다. 그레이스가 메모에서 눈을 들었다. 앞의 두 곳에서는 하지 않은 일이었다."
+        },
+        {
+          "en": "Jae-won asked, \"What's that number measured on?\" \"Your data pack, per field,\" Ethan said. Jae-won asked whether a document with ten fields and one mistake still scored ninety percent. \"It does, and you've read the footnote,\" Ethan said pleasantly. Jae-won wrote down the word \"field\" and asked, \"Can you show us one it got wrong?\" Ethan smiled and showed a form with a coffee stain across the total, and the room laughed, which was the idea.",
+          "ko": "재원이 물었다. \"그 숫자는 무엇을 기준으로 잰 건가요?\" \"귀사의 데이터 묶음이고, 항목 단위입니다.\" 이선이 말했다. 재원은 항목 열 개 중 하나가 틀린 서류도 90퍼센트로 치느냐고 물었다. \"그렇습니다. 각주를 읽으셨군요.\" 이선이 상냥하게 말했다. 재원은 \"항목\"이라는 단어를 적고 물었다. \"틀린 사례를 하나 보여 주시겠어요?\" 이선은 웃으며 합계란에 커피 얼룩이 있는 양식을 보여 주었고, 사람들이 웃었다. 그게 노림수였다."
+        },
+        {
+          "en": "Then Jae-won took a form from his folder and slid it across the table. It was one of Siti's, from last month's box at Tuas, with her sevens and her code in the margin. He had asked her permission, and she had told him not to crease it. He asked, \"Could we try this one?\"",
+          "ko": "그러고 나서 재원이 폴더에서 양식을 한 장 꺼내 테이블 너머로 밀었다. 지난달 투아스 상자에서 꺼낸 시티의 양식으로, 그녀의 7자와 여백의 코드가 그대로 있었다. 허락을 구하자 그녀는 구기지만 말라고 했다. 그가 물었다. \"이걸로 해 볼 수 있을까요?\""
+        },
+        {
+          "en": "Cole looked at Ethan, and Ethan nodded without any hurry at all. \"Of course,\" he said, \"because that's why I came.\" Cole put the form under the camera and squared it with two fingers. Wei Ling set down her tea, and for four seconds the screen showed nothing.",
+          "ko": "콜이 이선을 보았고, 이선이 전혀 서두르지 않고 고개를 끄덕였다. \"물론이죠. 그러려고 왔으니까요.\" 그가 말했다. 콜이 양식을 카메라 아래 놓고 두 손가락으로 반듯하게 맞췄다. 웨이링이 찻잔을 내려놓았고, 4초 동안 화면에는 아무것도 나오지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's that number measured on?",
+        "Can you show us one it got wrong?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "score sheet",
+          "surface": "score sheet",
+          "meaningKo": "채점표",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Vendor Day was held in the Straits Meridian boardroom, with forty-five minutes for each finalist and a score sheet for each of the six people at the table.",
+            "ko": "공급업체 설명회는 스트레이츠 메리디안 회의실에서 열렸고, 최종 후보마다 45분이, 테이블의 여섯 명에게는 각자 채점표가 주어졌다."
+          }
+        },
+        {
+          "term": "modest",
+          "surface": "modest",
+          "meaningKo": "그저 그런, 대단치 않은",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ostrel said honestly that its results on messy paper were modest and that it needed twelve weeks to install.",
+            "ko": "오스트렐은 지저분한 서류에서는 결과가 그저 그렇고 설치에 12주가 필요하다고 솔직하게 말했다."
+          }
+        },
+        {
+          "term": "footnote",
+          "surface": "footnote",
+          "meaningKo": "각주",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It does, and you've read the footnote,\" Ethan said pleasantly.",
+            "ko": "\"그렇습니다. 각주를 읽으셨군요.\" 이선이 상냥하게 말했다."
+          }
+        },
+        {
+          "term": "crease",
+          "surface": "crease",
+          "meaningKo": "구기다, 접힌 자국을 내다",
+          "paragraph": 3,
+          "sentence": {
+            "en": "He had asked her permission, and she had told him not to crease it.",
+            "ko": "허락을 구하자 그녀는 구기지만 말라고 했다."
+          }
+        },
+        {
+          "term": "square",
+          "surface": "squared",
+          "meaningKo": "반듯하게 맞추다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Cole put the form under the camera and squared it with two fingers.",
+            "ko": "콜이 양식을 카메라 아래 놓고 두 손가락으로 반듯하게 맞췄다."
+          }
+        }
+      ]
+    },
+    "lv3": {
+      "wordCount": 453,
+      "paragraphs": [
+        {
+          "en": "Vendor Day was held in the Straits Meridian boardroom, with forty-five minutes for each finalist and a score sheet for each of the six people at the table. Verrow came first with a low price and thirty slides, and Arjun asked, \"What are you comparing that to?\" in a voice that ended the pitch some twenty minutes before it finished. Ostrel said honestly that its results on messy paper were modest and that it needed twelve weeks to install, a candor the room admired and did not appear to want. Wei Ling wrote nothing down on either sheet.",
+          "ko": "공급업체 설명회는 스트레이츠 메리디안 회의실에서 열렸고, 최종 후보마다 45분이, 테이블의 여섯 명에게는 각자 채점표가 주어졌다. 버로우가 낮은 가격과 슬라이드 30장을 들고 먼저 나오자 아르준이 물었다. \"그걸 무엇과 비교하시는 겁니까?\" 그 목소리에 발표는 끝나기 20분쯤 전에 이미 끝나 버렸다. 오스트렐은 지저분한 서류에서는 결과가 그저 그렇고 설치에 12주가 필요하다고 솔직하게 말했다. 방 안 사람들은 그 솔직함에 감탄했지만 원하는 것 같지는 않았다. 웨이링은 어느 채점표에도 아무것도 적지 않았다."
+        },
+        {
+          "en": "Corvane came last, and Ethan Wolfe ran the demo himself, with the ease of a man who had never in his life been asked to wait outside a boardroom. His engineer, Cole Reyes, put a goods receipt under a camera, and every field appeared on the screen in two seconds, with the carrier spelled correctly. \"That's ninety-eight point six percent accurate, and it learns as you go,\" Ethan said. Grace looked up from her notes, which she hadn't done for either of the others, and Jae-won felt the score sheets tilt.",
+          "ko": "코르베인이 마지막이었고, 이선 울프가 직접 데모를 진행했다. 평생 회의실 밖에서 기다려 달라는 말을 들어 본 적 없는 사람처럼 여유로웠다. 그의 엔지니어 콜 레예스가 입고 확인서를 카메라 아래 놓자, 2초 만에 모든 항목이 운송사 철자까지 정확하게 화면에 나타났다. \"정확도 98.6퍼센트이고, 쓸수록 배웁니다.\" 이선이 말했다. 그레이스가 메모에서 눈을 들었다. 앞의 두 곳에서는 하지 않은 일이었고, 재원은 채점표가 기우는 것을 느꼈다."
+        },
+        {
+          "en": "Jae-won asked, \"What's that number measured on?\" \"Your data pack, per field,\" Ethan said, as if he had been looking forward to it. Jae-won asked whether a document with ten fields and one mistake still scored ninety percent, even though someone would have to key that document all over again. \"It does, and you've read the footnote,\" Ethan said pleasantly. Jae-won wrote down the word \"field\" and asked, \"Can you show us one it got wrong?\" Ethan smiled and showed a form with a coffee stain across the total, and the room laughed, which was the idea, because a vendor who jokes about his failures rarely gets asked about the other ones.",
+          "ko": "재원이 물었다. \"그 숫자는 무엇을 기준으로 잰 건가요?\" \"귀사의 데이터 묶음이고, 항목 단위입니다.\" 이선이 기다렸다는 듯 말했다. 재원은 항목 열 개 중 하나가 틀린 서류도, 누군가 처음부터 다시 입력해야 하는데도 90퍼센트로 치느냐고 물었다. \"그렇습니다. 각주를 읽으셨군요.\" 이선이 상냥하게 말했다. 재원은 \"항목\"이라는 단어를 적고 물었다. \"틀린 사례를 하나 보여 주시겠어요?\" 이선은 웃으며 합계란에 커피 얼룩이 있는 양식을 보여 주었고, 사람들이 웃었다. 그게 노림수였다. 자기 실패를 농담으로 삼는 공급업체에게 다른 실패를 묻는 사람은 드무니까."
+        },
+        {
+          "en": "Then Jae-won took a form from his folder and slid it across the table, past Joanne Seah, who watched it go by as one might watch a stray dog cross a clean floor. It was one of Siti's, from last month's box at Tuas, with her sevens and her code in the margin. He had asked her permission, and she had told him not to crease it and not to expect anything. \"Could we try this one?\" he asked.",
+          "ko": "그러고 나서 재원이 폴더에서 양식을 한 장 꺼내 테이블 너머로 밀었다. 양식은 조앤 시아 앞을 지나갔고, 그녀는 깨끗한 바닥을 가로지르는 떠돌이 개를 보듯 그것을 바라보았다. 지난달 투아스 상자에서 꺼낸 시티의 양식으로, 그녀의 7자와 여백의 코드가 그대로 있었다. 허락을 구하자 그녀는 구기지 말고 아무것도 기대하지 말라고 했다. \"이걸로 해 볼 수 있을까요?\" 그가 물었다."
+        },
+        {
+          "en": "Cole looked at Ethan, and it occurred to Jae-won afterward that this was the only time all morning he had needed to. Ethan nodded without any hurry at all. \"Of course,\" he said, \"because that's why I came.\" Cole put the form under the camera and squared it with two fingers, more carefully than he had squared his own. Wei Ling set down her tea, and for four seconds the screen showed nothing.",
+          "ko": "콜이 이선을 보았고, 나중에 재원은 그가 오전 내내 그래야 했던 유일한 순간이 그때였다는 생각을 했다. 이선이 전혀 서두르지 않고 고개를 끄덕였다. \"물론이죠. 그러려고 왔으니까요.\" 그가 말했다. 콜이 양식을 카메라 아래 놓고 자기 양식 때보다 더 조심스럽게 두 손가락으로 반듯하게 맞췄다. 웨이링이 찻잔을 내려놓았고, 4초 동안 화면에는 아무것도 나오지 않았다."
+        }
+      ],
+      "keyExpressionMarks": [
+        "What's that number measured on?",
+        "Can you show us one it got wrong?"
+      ],
+      "wordCandidates": [
+        {
+          "term": "candor",
+          "surface": "candor",
+          "meaningKo": "솔직함",
+          "paragraph": 0,
+          "sentence": {
+            "en": "Ostrel said honestly that its results on messy paper were modest and that it needed twelve weeks to install, a candor the room admired and did not appear to want.",
+            "ko": "오스트렐은 지저분한 서류에서는 결과가 그저 그렇고 설치에 12주가 필요하다고 솔직하게 말했다. 방 안 사람들은 그 솔직함에 감탄했지만 원하는 것 같지는 않았다."
+          }
+        },
+        {
+          "term": "tilt",
+          "surface": "tilt",
+          "meaningKo": "기울다",
+          "paragraph": 1,
+          "sentence": {
+            "en": "Grace looked up from her notes, which she hadn't done for either of the others, and Jae-won felt the score sheets tilt.",
+            "ko": "그레이스가 메모에서 눈을 들었다. 앞의 두 곳에서는 하지 않은 일이었고, 재원은 채점표가 기우는 것을 느꼈다."
+          }
+        },
+        {
+          "term": "pleasantly",
+          "surface": "pleasantly",
+          "meaningKo": "상냥하게",
+          "paragraph": 2,
+          "sentence": {
+            "en": "\"It does, and you've read the footnote,\" Ethan said pleasantly.",
+            "ko": "\"그렇습니다. 각주를 읽으셨군요.\" 이선이 상냥하게 말했다."
+          }
+        },
+        {
+          "term": "stray",
+          "surface": "stray",
+          "meaningKo": "떠돌이의, 길 잃은",
+          "paragraph": 3,
+          "sentence": {
+            "en": "Then Jae-won took a form from his folder and slid it across the table, past Joanne Seah, who watched it go by as one might watch a stray dog cross a clean floor.",
+            "ko": "그러고 나서 재원이 폴더에서 양식을 한 장 꺼내 테이블 너머로 밀었다. 양식은 조앤 시아 앞을 지나갔고, 그녀는 깨끗한 바닥을 가로지르는 떠돌이 개를 보듯 그것을 바라보았다."
+          }
+        },
+        {
+          "term": "it occurs to",
+          "surface": "it occurred to",
+          "meaningKo": "~에게 생각이 떠오르다",
+          "paragraph": 4,
+          "sentence": {
+            "en": "Cole looked at Ethan, and it occurred to Jae-won afterward that this was the only time all morning he had needed to.",
+            "ko": "콜이 이선을 보았고, 나중에 재원은 그가 오전 내내 그래야 했던 유일한 순간이 그때였다는 생각을 했다."
+          }
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "question": "What did Ethan say the ninety-eight point six percent was measured on?",
+      "options": [
+        "Night-shift forms from Tuas",
+        "The data pack, per field",
+        "Three customers' month-end files",
+        "Whole documents from Port Klang"
+      ],
+      "answerIndex": 1,
+      "evidence": "Your data pack, per field"
+    },
+    {
+      "question": "Why does Jae-won bring out one of Siti's forms?",
+      "options": [
+        "To embarrass Joanne in front of Grace",
+        "To give Corvane a sample to take home",
+        "To see how the system handles a real floor document, not the cleaned pack",
+        "To prove that Siti's code is wrong"
+      ],
+      "answerIndex": 2,
+      "evidence": "It was one of Siti's, from last month's box at Tuas, with her sevens and her code in the margin."
+    }
+  ],
+  "speaking": {
+    "readAloud": [
+      "What's that number measured on?",
+      "Can you show us one it got wrong?",
+      "Could we try this one?"
+    ],
+    "summaryPromptKo": "세 공급업체가 각각 어떤 인상을 남겼는지, 재원이 이선에게 어떤 질문을 했는지, 마지막에 무엇을 꺼냈는지를 영어 3문장으로 말해 보세요.",
+    "question": {
+      "speaker": "Ethan Wolfe",
+      "en": "Most buyers ask me how fast it runs. You ask what it gets wrong. Why does that matter more to you than speed?",
+      "ko": "대부분의 구매자는 얼마나 빠르냐고 묻는데, 당신은 뭘 틀리느냐고 묻네요. 왜 속도보다 그게 더 중요합니까?"
+    },
+    "modelAnswer": "Speed doesn't help me if someone has to key the document again. A form with ten fields and one mistake scores ninety percent on your slide, but on the floor it's a full rework. So I need to know what that number is measured on, and what failure looks like. If you can show us one it got wrong, the night shift can decide whether they'd catch it. That's what they'll be signing for."
+  },
+  "nextTeaserKo": "4초 뒤 화면에 무엇이 나타날까. 시티의 7자를 읽어 낸다면 방 안의 채점표는 한쪽으로 기운다. 재원은 아무도 묻지 않은 질문 하나를 꺼내야 한다. 월말에 대한 질문이다.",
+  "roleplay": {
+    "title": "각주를 읽은 사람",
+    "situationKo": "공급업체 설명회의 마지막 순서입니다. 멋진 데모 앞에서 재원은 숫자의 근거를 묻고, 준비해 온 양식을 꺼냅니다. 공격이 아니라 궁금해서 묻는 어조면 충분해요.",
+    "lines": [
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "That's ninety-eight point six percent accurate, and it learns as you go.",
+        "ko": "정확도 98.6퍼센트이고, 쓸수록 배웁니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "That's impressive. What's that number measured on?",
+        "ko": "대단하네요. 그 숫자는 무엇을 기준으로 잰 건가요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Your data pack, per field.",
+        "ko": "귀사의 데이터 묶음이고, 항목 단위입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "So a document with ten fields and one mistake still scores ninety percent?",
+        "ko": "그럼 항목 열 개 중 하나가 틀린 서류도 90퍼센트인가요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "It does, and you've read the footnote.",
+        "ko": "그렇습니다. 각주를 읽으셨군요."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "I have. Can you show us one it got wrong?",
+        "ko": "읽었습니다. 틀린 사례를 하나 보여 주시겠어요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Gladly. Here's a form with a coffee stain across the total.",
+        "ko": "기꺼이요. 합계란에 커피 얼룩이 있는 양식입니다."
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "Fair enough. I brought one too, from last month's box at Tuas.",
+        "ko": "그렇군요. 저도 하나 가져왔습니다. 지난달 투아스 상자에서 꺼낸 겁니다.",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Handwritten?",
+        "ko": "손글씨인가요?"
+      },
+      {
+        "speaker": "강재원",
+        "voice": "male",
+        "en": "By the night shift, with a code in the margin. Could we try this one?",
+        "ko": "야간조가 썼고, 여백에 코드가 있습니다. 이걸로 해 볼 수 있을까요?",
+        "you": true
+      },
+      {
+        "speaker": "Ethan Wolfe",
+        "voice": "male",
+        "en": "Of course. That's why I came.",
+        "ko": "물론이죠. 그러려고 왔으니까요."
+      }
+    ]
+  }
+}

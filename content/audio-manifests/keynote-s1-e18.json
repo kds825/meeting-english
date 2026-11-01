@@ -1,0 +1,59 @@
+{
+  "episodeId": "keynote-s1-e18",
+  "provider": "sapi",
+  "narration": {
+    "lv1": "narration-lv1.mp3",
+    "lv2": "narration-lv2.mp3",
+    "lv3": "narration-lv3.mp3"
+  },
+  "words": {
+    "lv1": "words-lv1.mp3",
+    "lv2": "words-lv2.mp3",
+    "lv3": "words-lv3.mp3"
+  },
+  "recall": "recall.mp3",
+  "wordClips": {
+    "tracker": "word-tracker.mp3",
+    "admit": "word-admit.mp3",
+    "pause": "word-pause.mp3",
+    "almost": "word-almost.mp3",
+    "line by line": "word-line-by-line.mp3",
+    "buy": "word-buy.mp3",
+    "come at": "word-come-at.mp3",
+    "sheepishly": "word-sheepishly.mp3",
+    "documentation": "word-documentation.mp3",
+    "hold up": "word-hold-up.mp3",
+    "thin": "word-thin.mp3",
+    "with ceremony": "word-with-ceremony.mp3",
+    "take in": "word-take-in.mp3"
+  },
+  "termClips": {
+    "tracker": "term-tracker.mp3",
+    "admit": "term-admit.mp3",
+    "pause": "term-pause.mp3",
+    "almost": "term-almost.mp3",
+    "line by line": "term-line-by-line.mp3",
+    "buy": "term-buy.mp3",
+    "come at": "term-come-at.mp3",
+    "sheepishly": "term-sheepishly.mp3",
+    "documentation": "term-documentation.mp3",
+    "hold up": "term-hold-up.mp3",
+    "thin": "term-thin.mp3",
+    "with ceremony": "term-with-ceremony.mp3",
+    "take in": "term-take-in.mp3"
+  },
+  "roleplay": [
+    "roleplay-00.mp3",
+    "roleplay-01.mp3",
+    "roleplay-02.mp3",
+    "roleplay-03.mp3",
+    "roleplay-04.mp3",
+    "roleplay-05.mp3",
+    "roleplay-06.mp3",
+    "roleplay-07.mp3",
+    "roleplay-08.mp3",
+    "roleplay-09.mp3",
+    "roleplay-10.mp3",
+    "roleplay-11.mp3"
+  ]
+}
